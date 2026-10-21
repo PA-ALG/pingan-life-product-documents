@@ -1,0 +1,40 @@
+{
+  "planCode": "989",
+  "actualPlanCode": "989",
+  "versionNo": "989-2",
+  "clauseName": "平安附加安盈人生意外伤害保险",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "银行代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "existResvAttachment": "1",
+  "startDate": "2012-09-01",
+  "endDate": "2017-04-01",
+  "reportPreparedFileCode": "平保寿发[2012]217号",
+  "versionCount": "2",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加安盈人生意外伤害保险（989-989-2）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加安盈人生意外伤害保险（989-989-2）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安附加安盈人生意外伤害保险（989-989-2）\\产品说明书.pdf"
+    }
+  ]
+}
