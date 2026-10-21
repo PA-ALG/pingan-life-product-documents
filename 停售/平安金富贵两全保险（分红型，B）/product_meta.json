@@ -1,0 +1,42 @@
+{
+  "planCode": "962",
+  "actualPlanCode": "962",
+  "versionNo": "962-1",
+  "clauseName": "平安金富贵两全保险（分红型，B）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "银行代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2011-01-28",
+  "endDate": "2014-04-01",
+  "reportPreparedFileCode": "平保寿发[2010]169号",
+  "versionCount": "1",
+  "sccode": " ",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安金富贵两全保险（分红型，B）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安金富贵两全保险（分红型，B）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安金富贵两全保险（分红型，B）\\产品说明书.pdf"
+    }
+  ]
+}

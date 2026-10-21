@@ -1,0 +1,41 @@
+{
+  "planCode": "825",
+  "actualPlanCode": "825",
+  "versionNo": "825-1",
+  "clauseName": "平安逸享人生养老年金保险(万能型)",
+  "planSalesStatus": "停售",
+  "planPlanType": "万能型",
+  "planSalesChannel": "个人代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "productInstruction": "1",
+  "startDate": "2010-10-15",
+  "endDate": "2012-11-16",
+  "reportPreparedFileCode": "平保寿发[2010]184号",
+  "versionCount": "1",
+  "sccode": "平安人寿[2010]年金保险026号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安逸享人生养老年金保险(万能型)\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安逸享人生养老年金保险(万能型)\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安逸享人生养老年金保险(万能型)\\产品说明书.pdf"
+    }
+  ]
+}

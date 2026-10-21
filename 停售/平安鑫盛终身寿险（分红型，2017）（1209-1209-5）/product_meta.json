@@ -1,0 +1,44 @@
+{
+  "planCode": "1209",
+  "actualPlanCode": "1209",
+  "versionNo": "1209-5",
+  "clauseName": "平安鑫盛终身寿险（分红型，2017）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "个人代理、银行代理、电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "startDate": "2019-08-10",
+  "endDate": "2020-06-20",
+  "reportPreparedFileCode": "平保寿发[2019]352号",
+  "versionCount": "4",
+  "sccode": "平安人寿[2019]终身寿险079号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:59+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安鑫盛终身寿险（分红型，2017）（1209-1209-5）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安鑫盛终身寿险（分红型，2017）（1209-1209-5）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安鑫盛终身寿险（分红型，2017）（1209-1209-5）\\产品说明书.pdf"
+    }
+  ]
+}
