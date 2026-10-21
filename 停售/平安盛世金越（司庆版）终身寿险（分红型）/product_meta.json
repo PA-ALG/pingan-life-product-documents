@@ -1,0 +1,45 @@
+{
+  "planCode": "1808",
+  "actualPlanCode": "1808",
+  "versionNo": "1808-1",
+  "clauseName": "平安盛世金越（司庆版）终身寿险（分红型）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "个人代理、电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2025-04-08",
+  "endDate": "2025-05-11",
+  "reportPreparedFileCode": "平保寿发〔2025〕144号",
+  "versionCount": "1",
+  "sccode": "平安人寿〔2025〕终身寿险110号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安盛世金越（司庆版）终身寿险（分红型）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安盛世金越（司庆版）终身寿险（分红型）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安盛世金越（司庆版）终身寿险（分红型）\\产品说明书.pdf"
+    }
+  ]
+}

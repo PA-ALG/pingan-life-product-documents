@@ -1,0 +1,42 @@
+{
+  "planCode": "3005",
+  "actualPlanCode": "3005",
+  "versionNo": "3005-1",
+  "clauseName": "平安祥瑞年年养老年金保险（分红型）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2013-07-01",
+  "endDate": "2018-07-01",
+  "reportPreparedFileCode": "平保寿发[2013]208号",
+  "versionCount": "1",
+  "sccode": "平安人寿[2013]年金保险013号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:59+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安祥瑞年年养老年金保险（分红型）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安祥瑞年年养老年金保险（分红型）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安祥瑞年年养老年金保险（分红型）\\产品说明书.pdf"
+    }
+  ]
+}

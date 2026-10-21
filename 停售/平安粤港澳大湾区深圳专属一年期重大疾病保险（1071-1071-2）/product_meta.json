@@ -1,0 +1,44 @@
+{
+  "planCode": "1071",
+  "actualPlanCode": "1071",
+  "versionNo": "1071-2",
+  "clauseName": "平安粤港澳大湾区深圳专属一年期重大疾病保险",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理、银行代理、电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "05",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "startDate": "2021-04-30",
+  "endDate": "2025-09-01",
+  "reportPreparedFileCode": "平保寿发〔2021〕170号",
+  "versionCount": "2",
+  "sccode": "平安人寿〔2021〕疾病保险044号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安粤港澳大湾区深圳专属一年期重大疾病保险（1071-1071-2）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安粤港澳大湾区深圳专属一年期重大疾病保险（1071-1071-2）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安粤港澳大湾区深圳专属一年期重大疾病保险（1071-1071-2）\\产品说明书.pdf"
+    }
+  ]
+}

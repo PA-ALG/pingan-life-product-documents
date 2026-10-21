@@ -1,0 +1,45 @@
+{
+  "planCode": "3177",
+  "actualPlanCode": "3177",
+  "versionNo": "3177-1",
+  "clauseName": "平安盛世逸生（2024）终身寿险（分红型）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "个人代理、电话销售、保险经纪、专业代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2023-12-18",
+  "endDate": "2024-10-01",
+  "reportPreparedFileCode": "平保寿发〔2023〕105号",
+  "versionCount": "1",
+  "sccode": "平安人寿〔2023〕终身寿险129号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安盛世逸生（2024）终身寿险（分红型）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安盛世逸生（2024）终身寿险（分红型）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安盛世逸生（2024）终身寿险（分红型）\\产品说明书.pdf"
+    }
+  ]
+}
