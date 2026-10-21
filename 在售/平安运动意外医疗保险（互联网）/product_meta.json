@@ -1,0 +1,40 @@
+{
+  "planCode": "L0004",
+  "actualPlanCode": "L0004",
+  "versionNo": "L0004-1",
+  "clauseName": "平安运动意外医疗保险（互联网）",
+  "planSalesStatus": "在售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "网络销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "productInstruction": "1",
+  "startDate": "2026-09-04",
+  "reportPreparedFileCode": "平保寿发〔2026〕452号",
+  "versionCount": "1",
+  "sccode": "平安人寿〔2026〕医疗保险065号",
+  "productLevel": "P1",
+  "crawlStatus": "在售",
+  "crawlTime": "2026-10-20T09:01:38+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安运动意外医疗保险（互联网）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安运动意外医疗保险（互联网）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安运动意外医疗保险（互联网）\\产品说明书.pdf"
+    }
+  ]
+}

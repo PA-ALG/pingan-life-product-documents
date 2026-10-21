@@ -1,0 +1,44 @@
+{
+  "planCode": "1856",
+  "actualPlanCode": "1856",
+  "versionNo": "1856-1",
+  "clauseName": "平安倍佑福终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "个人代理、电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2026-08-01",
+  "reportPreparedFileCode": "平保寿发〔2026〕298号",
+  "versionCount": "1",
+  "sccode": "平安人寿〔2026〕终身寿险053号",
+  "productLevel": "P3",
+  "crawlStatus": "在售",
+  "crawlTime": "2026-10-20T09:01:38+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安倍佑福终身寿险（分红型）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安倍佑福终身寿险（分红型）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安倍佑福终身寿险（分红型）\\产品说明书.pdf"
+    }
+  ]
+}

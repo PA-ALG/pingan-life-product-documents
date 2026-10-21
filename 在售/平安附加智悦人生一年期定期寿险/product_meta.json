@@ -1,0 +1,42 @@
+{
+  "planCode": "856",
+  "actualPlanCode": "856",
+  "versionNo": "856-3",
+  "clauseName": "平安附加智悦人生一年期定期寿险",
+  "planSalesStatus": "在售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理、银行代理、电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "startDate": "2020-04-01",
+  "reportPreparedFileCode": "平保寿发[2020]75号",
+  "versionCount": "3",
+  "sccode": "平安人寿[2020]定期寿险109号",
+  "productLevel": "P1",
+  "crawlStatus": "在售",
+  "crawlTime": "2026-10-20T09:01:38+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安附加智悦人生一年期定期寿险\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\在售\\平安附加智悦人生一年期定期寿险\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\在售\\平安附加智悦人生一年期定期寿险\\产品说明书.pdf"
+    }
+  ]
+}
