@@ -1,0 +1,39 @@
+{
+  "planCode": "917",
+  "actualPlanCode": "917",
+  "versionNo": "917-2",
+  "clauseName": "平安附加钟爱一生提前给付重大疾病保险（2007）",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "startDate": "2009-10-01",
+  "endDate": "2012-11-16",
+  "reportPreparedFileCode": "平保寿发[2009]150号",
+  "versionCount": "1",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加钟爱一生提前给付重大疾病保险（2007）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加钟爱一生提前给付重大疾病保险（2007）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安附加钟爱一生提前给付重大疾病保险（2007）\\产品说明书.pdf"
+    }
+  ]
+}
