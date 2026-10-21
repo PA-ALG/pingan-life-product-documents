@@ -1,0 +1,45 @@
+{
+  "planCode": "1769",
+  "actualPlanCode": "1769",
+  "versionNo": "1769-1",
+  "clauseName": "平安平安如意全能（2025）两全保险",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理、电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2024-08-31",
+  "endDate": "2025-08-01",
+  "reportPreparedFileCode": "平保寿发〔2024〕375号",
+  "versionCount": "1",
+  "sccode": "平安人寿〔2024〕两全保险085号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安平安如意全能（2025）两全保险\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安平安如意全能（2025）两全保险\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安平安如意全能（2025）两全保险\\产品说明书.pdf"
+    }
+  ]
+}

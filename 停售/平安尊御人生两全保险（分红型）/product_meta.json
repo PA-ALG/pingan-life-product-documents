@@ -1,0 +1,42 @@
+{
+  "planCode": "1140",
+  "actualPlanCode": "1140",
+  "versionNo": "1140-1",
+  "clauseName": "平安尊御人生两全保险（分红型）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "个人代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2014-10-01",
+  "endDate": "2015-10-15",
+  "reportPreparedFileCode": "平保寿发[2014]500号",
+  "versionCount": "1",
+  "sccode": "平安人寿[2014]两全保险060号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊御人生两全保险（分红型）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊御人生两全保险（分红型）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊御人生两全保险（分红型）\\产品说明书.pdf"
+    }
+  ]
+}

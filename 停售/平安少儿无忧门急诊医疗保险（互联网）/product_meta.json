@@ -1,0 +1,44 @@
+{
+  "planCode": "4013",
+  "actualPlanCode": "4013",
+  "versionNo": "4013-1",
+  "clauseName": "平安少儿无忧门急诊医疗保险（互联网）",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "网络销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "startDate": "2022-05-28",
+  "endDate": "2026-10-10",
+  "reportPreparedFileCode": "平保寿发〔2022〕192号",
+  "versionCount": "1",
+  "sccode": "平安人寿〔2022〕医疗保险025号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安少儿无忧门急诊医疗保险（互联网）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安少儿无忧门急诊医疗保险（互联网）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安少儿无忧门急诊医疗保险（互联网）\\产品说明书.pdf"
+    }
+  ]
+}

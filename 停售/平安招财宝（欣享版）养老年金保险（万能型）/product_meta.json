@@ -1,0 +1,43 @@
+{
+  "planCode": "2104/2104D",
+  "actualPlanCode": "2104",
+  "versionNo": "2104-1",
+  "clauseName": "平安招财宝（欣享版）养老年金保险（万能型）",
+  "planSalesStatus": "停售",
+  "planPlanType": "万能型",
+  "planSalesChannel": "银行代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "startDate": "2024-10-30",
+  "endDate": "2025-09-01",
+  "reportPreparedFileCode": "平保寿发〔2024〕452号",
+  "versionCount": "1",
+  "sccode": "平安人寿〔2024〕年金保险131号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安招财宝（欣享版）养老年金保险（万能型）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安招财宝（欣享版）养老年金保险（万能型）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安招财宝（欣享版）养老年金保险（万能型）\\产品说明书.pdf"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "planCode": "74401",
+  "actualPlanCode": "74401",
+  "versionNo": "74401-4",
+  "clauseName": "平安幸福定期寿险（A，2004）",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "startDate": "2017-04-01",
+  "endDate": "2021-07-01",
+  "reportPreparedFileCode": "平保寿发[2017]84号",
+  "versionCount": "2",
+  "sccode": "平安人寿[2017]定期寿险026号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:59+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安幸福定期寿险（A，2004）（74401-74401-4）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安幸福定期寿险（A，2004）（74401-74401-4）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安幸福定期寿险（A，2004）（74401-74401-4）\\产品说明书.pdf"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "planCode": "3019",
+  "actualPlanCode": "3019",
+  "versionNo": "3019-1",
+  "clauseName": "平安尊享畅行两全保险",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "existResvAttachment": "1",
+  "startDate": "2014-01-06",
+  "endDate": "2014-04-14",
+  "reportPreparedFileCode": "平保寿发[2013]577号",
+  "versionCount": "1",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊享畅行两全保险\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊享畅行两全保险\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安尊享畅行两全保险\\产品说明书.pdf"
+    }
+  ]
+}

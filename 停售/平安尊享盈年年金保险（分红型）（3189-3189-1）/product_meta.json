@@ -1,0 +1,45 @@
+{
+  "planCode": "3189",
+  "actualPlanCode": "3189",
+  "versionNo": "3189-1",
+  "clauseName": "平安尊享盈年年金保险（分红型）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "电话销售",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "existResvAttachment": "1",
+  "startDate": "2025-08-22",
+  "endDate": "2025-12-29",
+  "reportPreparedFileCode": "平保寿发〔2025〕384号",
+  "versionCount": "2",
+  "sccode": "平安人寿〔2025〕年金保险164号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊享盈年年金保险（分红型）（3189-3189-1）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊享盈年年金保险（分红型）（3189-3189-1）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安尊享盈年年金保险（分红型）（3189-3189-1）\\产品说明书.pdf"
+    }
+  ]
+}
