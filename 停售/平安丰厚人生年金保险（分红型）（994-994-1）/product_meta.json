@@ -1,0 +1,41 @@
+{
+  "planCode": "994",
+  "actualPlanCode": "994",
+  "versionNo": "994-1",
+  "clauseName": "平安丰厚人生年金保险（分红型）",
+  "planSalesStatus": "停售",
+  "planPlanType": "分红型",
+  "planSalesChannel": "银行代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "productInstruction": "1",
+  "startDate": "2012-06-01",
+  "endDate": "2014-09-05",
+  "reportPreparedFileCode": "平保寿发[2012]103号",
+  "versionCount": "2",
+  "sccode": " ",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安丰厚人生年金保险（分红型）（994-994-1）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安丰厚人生年金保险（分红型）（994-994-1）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安丰厚人生年金保险（分红型）（994-994-1）\\产品说明书.pdf"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "planCode": "560",
+  "actualPlanCode": "560",
+  "versionNo": "560-1",
+  "clauseName": "平安安康住院费用医疗保险（B）",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "regionCode": "00",
+  "startDate": "2014-06-15",
+  "endDate": "2017-03-15",
+  "reportPreparedFileCode": "平保寿发[2014]437号",
+  "versionCount": "4",
+  "sccode": "平安人寿[2014]医疗保险051号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安安康住院费用医疗保险（B）（560-560-1）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安安康住院费用医疗保险（B）（560-560-1）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安安康住院费用医疗保险（B）（560-560-1）\\产品说明书.pdf"
+    }
+  ]
+}

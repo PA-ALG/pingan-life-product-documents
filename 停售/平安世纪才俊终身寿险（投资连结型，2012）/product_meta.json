@@ -1,0 +1,41 @@
+{
+  "planCode": "838",
+  "actualPlanCode": "838",
+  "versionNo": "838-1",
+  "clauseName": "平安世纪才俊终身寿险（投资连结型，2012）",
+  "planSalesStatus": "停售",
+  "planPlanType": "投资连结型",
+  "planSalesChannel": "个人代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "productInstruction": "1",
+  "startDate": "2012-12-01",
+  "endDate": "2017-04-01",
+  "reportPreparedFileCode": "平保寿发[2012]301号",
+  "versionCount": "1",
+  "sccode": " 无",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:24:00+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安世纪才俊终身寿险（投资连结型，2012）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安世纪才俊终身寿险（投资连结型，2012）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安世纪才俊终身寿险（投资连结型，2012）\\产品说明书.pdf"
+    }
+  ]
+}
