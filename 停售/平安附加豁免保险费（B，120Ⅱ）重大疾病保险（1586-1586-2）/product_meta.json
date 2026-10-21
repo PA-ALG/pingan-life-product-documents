@@ -1,0 +1,44 @@
+{
+  "planCode": "1586",
+  "actualPlanCode": "1586",
+  "versionNo": "1586-2",
+  "clauseName": "平安附加豁免保险费（B，120Ⅱ）重大疾病保险",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理、银行代理、电话销售、保险经纪",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "productInstruction": "1",
+  "startDate": "2022-03-01",
+  "endDate": "2023-09-25",
+  "reportPreparedFileCode": "平保寿发〔2022〕43号",
+  "versionCount": "3",
+  "sccode": "平安人寿〔2022〕疾病保险009号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:58+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加豁免保险费（B，120Ⅱ）重大疾病保险（1586-1586-2）\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加豁免保险费（B，120Ⅱ）重大疾病保险（1586-1586-2）\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加豁免保险费（B，120Ⅱ）重大疾病保险（1586-1586-2）\\产品说明书.pdf"
+    }
+  ]
+}

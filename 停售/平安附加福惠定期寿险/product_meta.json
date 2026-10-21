@@ -1,0 +1,44 @@
+{
+  "planCode": "2042",
+  "actualPlanCode": "2042",
+  "versionNo": "2042-1",
+  "clauseName": "平安附加福惠定期寿险",
+  "planSalesStatus": "停售",
+  "planPlanType": "普通型",
+  "planSalesChannel": "个人代理、银行代理",
+  "seq": "1",
+  "clauseContent": "1",
+  "premAttachment": "1",
+  "regionCode": "00",
+  "recordList": "1",
+  "actuaryInstruction": "1",
+  "legalPerson": "1",
+  "existResvAttachment": "1",
+  "startDate": "2017-09-28",
+  "endDate": "2018-12-31",
+  "reportPreparedFileCode": "平保寿发[2017]322号",
+  "versionCount": "1",
+  "sccode": "平安人寿[2017]定期寿险073号",
+  "productLevel": "-",
+  "crawlStatus": "停售",
+  "crawlTime": "2026-10-21T06:23:59+00:00",
+  "sourceListUrl": "https://life.pingan.com/ilife-home/product/getProductList",
+  "sourcePdfUrl": "https://life.pingan.com/ilife-home/product/getPlanClausePdf",
+  "downloadResults": [
+    {
+      "name": "保险条款",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加福惠定期寿险\\保险条款.pdf"
+    },
+    {
+      "name": "费率表",
+      "status": "已存在",
+      "path": "E:\\平安产品\\停售\\平安附加福惠定期寿险\\费率表.pdf"
+    },
+    {
+      "name": "产品说明书",
+      "status": "官网未标注附件",
+      "path": "E:\\平安产品\\停售\\平安附加福惠定期寿险\\产品说明书.pdf"
+    }
+  ]
+}
