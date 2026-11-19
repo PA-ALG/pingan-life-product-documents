@@ -11,3 +11,8 @@
 
 - 产品目录：https://life.pingan.com/ilife-home/product/getProductList
 - 产品文件：https://life.pingan.com/ilife-home/product/getPlanClausePdf
+
+## 其他寿险公司资料
+
+- [七家寿险公司产品目录及数量明细](%E5%85%B6%E4%BB%96%E5%AF%BF%E9%99%A9%E5%85%AC%E5%8F%B8/2026-11-19/README.md)
+- [产品文件下载](https://github.com/PA-ALG/pingan-life-product-documents/releases/tag/life-products-2026-11-19)
