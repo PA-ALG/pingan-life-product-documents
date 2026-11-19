@@ -23,16 +23,41 @@
 
 [全部下载文件](https://github.com/PA-ALG/pingan-life-product-documents/releases/tag/life-products-2026-11-19)。压缩包按公司划分，分包为独立 ZIP，可直接解压到同一目录。
 
-- [china-life-2026-11-19.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/china-life-2026-11-19.zip)（1460份PDF）
-- [new-china-life-2026-11-19-part01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-part01.zip)（761份PDF）
-- [new-china-life-2026-11-19-part02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-part02.zip)（20份PDF）
-- [taikang-life-2026-11-19.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/taikang-life-2026-11-19.zip)（798份PDF）
-- [picc-life-2026-11-19-part01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-part01.zip)（611份PDF）
-- [picc-life-2026-11-19-part02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-part02.zip)（321份PDF）
-- [cpic-life-2026-11-19-part01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-part01.zip)（509份PDF）
-- [cpic-life-2026-11-19-part02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-part02.zip)（571份PDF）
-- [taiping-life-2026-11-19.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/taiping-life-2026-11-19.zip)（784份PDF）
-- [aia-life-2026-11-19.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/aia-life-2026-11-19.zip)（666份PDF）
+- [china-life-2026-11-19-p01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/china-life-2026-11-19-p01.zip)（597份PDF）
+- [china-life-2026-11-19-p02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/china-life-2026-11-19-p02.zip)（367份PDF）
+- [china-life-2026-11-19-p03.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/china-life-2026-11-19-p03.zip)（496份PDF）
+- [new-china-life-2026-11-19-p01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-p01.zip)（183份PDF）
+- [new-china-life-2026-11-19-p02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-p02.zip)（130份PDF）
+- [new-china-life-2026-11-19-p03.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-p03.zip)（106份PDF）
+- [new-china-life-2026-11-19-p04.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-p04.zip)（76份PDF）
+- [new-china-life-2026-11-19-p05.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-p05.zip)（266份PDF）
+- [new-china-life-2026-11-19-p06.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/new-china-life-2026-11-19-p06.zip)（20份PDF）
+- [taikang-life-2026-11-19-p01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/taikang-life-2026-11-19-p01.zip)（369份PDF）
+- [taikang-life-2026-11-19-p02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/taikang-life-2026-11-19-p02.zip)（264份PDF）
+- [taikang-life-2026-11-19-p03.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/taikang-life-2026-11-19-p03.zip)（165份PDF）
+- [picc-life-2026-11-19-p01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-p01.zip)（166份PDF）
+- [picc-life-2026-11-19-p02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-p02.zip)（93份PDF）
+- [picc-life-2026-11-19-p03.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-p03.zip)（137份PDF）
+- [picc-life-2026-11-19-p04.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-p04.zip)（159份PDF）
+- [picc-life-2026-11-19-p05.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-p05.zip)（56份PDF）
+- [picc-life-2026-11-19-p06.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-p06.zip)（180份PDF）
+- [picc-life-2026-11-19-p07.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/picc-life-2026-11-19-p07.zip)（141份PDF）
+- [cpic-life-2026-11-19-p01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p01.zip)（354份PDF）
+- [cpic-life-2026-11-19-p02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p02.zip)（24份PDF）
+- [cpic-life-2026-11-19-p03.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p03.zip)（30份PDF）
+- [cpic-life-2026-11-19-p04.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p04.zip)（61份PDF）
+- [cpic-life-2026-11-19-p05.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p05.zip)（1份PDF）
+- [cpic-life-2026-11-19-p06.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p06.zip)（47份PDF）
+- [cpic-life-2026-11-19-p07.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p07.zip)（67份PDF）
+- [cpic-life-2026-11-19-p08.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p08.zip)（84份PDF）
+- [cpic-life-2026-11-19-p09.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p09.zip)（224份PDF）
+- [cpic-life-2026-11-19-p10.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/cpic-life-2026-11-19-p10.zip)（188份PDF）
+- [taiping-life-2026-11-19-p01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/taiping-life-2026-11-19-p01.zip)（502份PDF）
+- [taiping-life-2026-11-19-p02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/taiping-life-2026-11-19-p02.zip)（282份PDF）
+- [aia-life-2026-11-19-p01.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/aia-life-2026-11-19-p01.zip)（101份PDF）
+- [aia-life-2026-11-19-p02.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/aia-life-2026-11-19-p02.zip)（79份PDF）
+- [aia-life-2026-11-19-p03.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/aia-life-2026-11-19-p03.zip)（373份PDF）
+- [aia-life-2026-11-19-p04.zip](https://github.com/PA-ALG/pingan-life-product-documents/releases/download/life-products-2026-11-19/aia-life-2026-11-19-p04.zip)（113份PDF）
 
 ## 目录
 
