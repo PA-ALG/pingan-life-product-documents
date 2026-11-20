@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:8cce366ecb91c9c3",
+  "actualPlanCode": "8cce366ecb91c9c3",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险综合交通工具意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "查看",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:8cce366ecb91c9c3",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/03-12/19-49-1908171117423591.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 322749,
+      "sha256": "3c13e622887ff3ae60718981b0903270e045bc2699eec4c86a6f7a5c5dce4acd"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-55-0705281057974412.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 545194,
+      "sha256": "0fe8607bd8675aa6dbc64c5f13673e54eda2537b62bf97f47dbb78047af19c1a"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/16-09-280744-1960349980.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 112976,
+      "sha256": "310dc43634cad335a1814cbc1d72eacae020b7f6f44a7d0dfaefe6f493f87968"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
