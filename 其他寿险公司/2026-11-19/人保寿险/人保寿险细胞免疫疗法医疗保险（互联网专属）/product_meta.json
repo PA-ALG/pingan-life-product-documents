@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:cd39741b502cc28d",
+  "actualPlanCode": "cd39741b502cc28d",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险细胞免疫疗法医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:cd39741b502cc28d",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2022/12-20/09-55-570579835680569.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1012015,
+      "sha256": "45ed8e2a240b7a460299f9e9d8d6fee1498de52590aba2a744bd21e78f78b76e"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-23/16-32-440549-1403322650.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 639036,
+      "sha256": "c10aed1b87ceba123f6f5d42aec6839d4f2d26fe84127765bc0f6e9263a214c5"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/16-48-200911-1119837700.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 72350,
+      "sha256": "d50de87d4895968e3d91882ecee12f382ce9942db6232f052d3058535089b208"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

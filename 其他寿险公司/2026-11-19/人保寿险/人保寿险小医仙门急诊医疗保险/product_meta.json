@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:b6b61af27f971de7",
+  "actualPlanCode": "b6b61af27f971de7",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险小医仙门急诊医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:b6b61af27f971de7",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/05-22/17-18-1605851296099669.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 792742,
+      "sha256": "abe51bf1c4bf2ed799999632124a139bfb0e4f619d95404b61c09a07e48c16b7"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-23/16-36-0502331617879694.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 550773,
+      "sha256": "73aed6a7d4f6518fbb3265a74527b7c7f68581658a18b1256a34e247aad63dc3"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/16-58-4501451192593984.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_24.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 63511,
+      "sha256": "5d11b12f4a1b273a7de77f65e14f0c8b3bfdd44d1034dbefe1e85fc6345a5567"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
