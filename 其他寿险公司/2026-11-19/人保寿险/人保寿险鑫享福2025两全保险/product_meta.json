@@ -1,0 +1,53 @@
+{
+  "planCode": "人保寿险:2ceaba978e7df4ac",
+  "actualPlanCode": "2ceaba978e7df4ac",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险鑫享福2025两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "两全险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:2ceaba978e7df4ac",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/19-23-300800-1896909503.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 975986,
+      "sha256": "d4985b5a386c4741342bbf928dd61c246d7e68bd9d40528f01db2b1425997b75"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/19-23-2602372055116782.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 512773,
+      "sha256": "0c558b098322b97c1eab9d9b34edaaa0cdda597f0f300d82daaea8497c708110"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/19-23-3506271454159481.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 69871,
+      "sha256": "22c6f92f92777836da05253e5f970d03032734dc0f129d30bb36a81794603225"
+    },
+    {
+      "label": "现金价值全表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/19-23-4001971653455314.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 6765687,
+      "sha256": "4127517aa22d824d8ff95d4aeb17b751439a55009497dd595f849a4f26f79960"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

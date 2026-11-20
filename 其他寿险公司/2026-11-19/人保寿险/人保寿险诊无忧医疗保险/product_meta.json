@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:f0b72f09a13286ef",
+  "actualPlanCode": "f0b72f09a13286ef",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险诊无忧医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_11.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:f0b72f09a13286ef",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/12-08/10-31-150214768680005.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_11.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 593378,
+      "sha256": "57e8ebe9b6bae65307d77f0ffebfe5439c9e9309686324f97e05387063be638a"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/12-08/10-31-320166706476429.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_11.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 505346,
+      "sha256": "e6811f9b28fdc4f5145d6dbaef90a4cda3df8c9a713f741fcade556868aea599"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/12-08/10-31-240161-2067568715.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_11.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 77704,
+      "sha256": "d5e966e4d9d537165cab850355ccc948ff5dbd965ef71fc7db7a4c40f5fe8d94"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

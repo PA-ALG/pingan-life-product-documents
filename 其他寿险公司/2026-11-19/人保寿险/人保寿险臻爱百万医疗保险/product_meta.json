@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:c08f2314400a4fb6",
+  "actualPlanCode": "c08f2314400a4fb6",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险臻爱百万医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_20.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:c08f2314400a4fb6",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/08-01/10-28-5900101295835459.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_20.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1390165,
+      "sha256": "bd72ed0effa767a92100e941e49587dac9b2b398af68ab3dbae87f34f9287b9a"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/08-01/10-28-5100991489379432.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_20.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 597534,
+      "sha256": "ec4fbfb3846522df725ff59fd63b543306cdc22d3224f983bfa614816aab3dde"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/08-01/10-48-5702942040029317.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_20.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 105095,
+      "sha256": "b3822a098ccbf0e80be3e3164f1f4c318fa346e12e72630af1e302bd8bda5749"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

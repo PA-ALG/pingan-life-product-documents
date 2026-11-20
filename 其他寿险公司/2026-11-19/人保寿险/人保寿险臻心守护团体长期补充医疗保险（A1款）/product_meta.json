@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:975903b36759c82c",
+  "actualPlanCode": "975903b36759c82c",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险臻心守护团体长期补充医疗保险（A1款）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:975903b36759c82c",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/20-31-530884831977920.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 2588641,
+      "sha256": "6ce155eb2e4993b9badf88e545f77090f54b8f2493d5ba41ede9917fa6a0d54f"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/20-32-000584132834210.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_15.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 441154,
+      "sha256": "8450a850e5fd6f6ac2c19436d3a929ae477937c74c936ddfce30ee4bb5bc0724"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
