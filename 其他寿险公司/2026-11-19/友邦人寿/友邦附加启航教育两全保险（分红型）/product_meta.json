@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:30fcf042605af7b4",
+  "actualPlanCode": "30fcf042605af7b4",
+  "clauseName": "友邦附加启航教育两全保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3240-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3240-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 374039,
+      "sha256": "cf89adea3eb1e9e67abe63294abd39f3350c12912032f1bbeb01dc811680d75d",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3240-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3240-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 230461,
+      "sha256": "545453d59a105b6f2ae5454894c44be96cde3d11e58e43afb39ace72aca620d7",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 3497163,
+      "sha256": "68120643f5925c505c2a13d96a98b2c096499ae7c478ebf34d052a7f1336e3bb",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%90%AF%E8%88%AA%E6%95%99%E8%82%B2%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 202586,
+      "sha256": "b48ab43c7a85c5bfb07f374d6630a93ba018f9a28308a6f3ae3245acb66e707a",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加启航教育两全保险（分红型）",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "两全",
+    "互联网专属": "否",
+    "产品分级": "P3",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

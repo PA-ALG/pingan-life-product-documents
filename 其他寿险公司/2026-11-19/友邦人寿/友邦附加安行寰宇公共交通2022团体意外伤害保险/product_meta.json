@@ -1,0 +1,50 @@
+{
+  "planCode": "友邦人寿:21b7fbb7af290bf7",
+  "actualPlanCode": "21b7fbb7af290bf7",
+  "clauseName": "友邦附加安行寰宇公共交通2022团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B11162brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B11162brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 197374,
+      "sha256": "b3033f75d19d5f28b034f029807ef35bced371f0429f891953181408a05a6d83",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1116-2_GTRPPCA%2820220720%29_IAC9100013928_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1116-2_GTRPPCA%2820220720%29_IAC9100013928_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 360255,
+      "sha256": "ae74aba790ddbd2484a8c408dcf8aba219750f694d89f249b5ada16770520468",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加安行寰宇公共交通2022团体意外伤害保险",
+    "渠道": "团体",
+    "主附": "附加险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

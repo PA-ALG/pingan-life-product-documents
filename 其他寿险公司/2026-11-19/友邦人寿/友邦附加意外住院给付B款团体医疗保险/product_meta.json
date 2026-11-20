@@ -1,0 +1,50 @@
+{
+  "planCode": "友邦人寿:75bee5452ab3d95c",
+  "actualPlanCode": "75bee5452ab3d95c",
+  "clauseName": "友邦附加意外住院给付B款团体医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B05802brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B05802brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 177162,
+      "sha256": "68509db06d5363d0852a71ec15203a16ba648b6b56b7ba1234a31175c54a9987",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0580-2_GAHIR%28B%29%2820180627%29_IAC0000037474_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0580-2_GAHIR%28B%29%2820180627%29_IAC0000037474_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 869315,
+      "sha256": "c7749ac2e3cf09d00999754f3a97466c4cbe35b8bf0eadd8e43dc7d3948802ea",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加意外住院给付B款团体医疗保险",
+    "渠道": "团体",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:5c62055b3537afb2",
+  "actualPlanCode": "5c62055b3537afb2",
+  "clauseName": "友邦附加添益（2023）少儿住院医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B11261brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B11261brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 206719,
+      "sha256": "a6a9ead1035b4b62ec1e06a5e2ff07c5eb546c344c960ec7e059cef4ab5f326c",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1126-1_6YJHSR2023%2820220929%29_9100014277_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1126-1_6YJHSR2023%2820220929%29_9100014277_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 373084,
+      "sha256": "5465e06deeb472b93b4771f678ea256ab5a78c09ea3384d60dd941c66601e443",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%282023%29%E5%B0%91%E5%84%BF%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%282023%29%E5%B0%91%E5%84%BF%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 63989,
+      "sha256": "5b2ef100207da81e8af1afe9b500cf448e6486d73c7365b34746e831c63c3f5f",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加添益（2023）少儿住院医疗保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

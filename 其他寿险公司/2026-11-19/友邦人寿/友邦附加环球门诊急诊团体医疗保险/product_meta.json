@@ -1,0 +1,50 @@
+{
+  "planCode": "友邦人寿:36229670df543516",
+  "actualPlanCode": "36229670df543516",
+  "clauseName": "友邦附加环球门诊急诊团体医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B05333brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B05333brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 200955,
+      "sha256": "683d795f39ba8f5ca870ea8200ef8286396c3db12fb3519a01fd3e3b8a3be86e",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0533-3_GGCBR%2820180627%29_IAC0000037479_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0533-3_GGCBR%2820180627%29_IAC0000037479_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1046237,
+      "sha256": "6a00eb87c8b3983de0e44d4d18a126d6df6b84f0df58c07da385eee324c9122f",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加环球门诊急诊团体医疗保险",
+    "渠道": "团体",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

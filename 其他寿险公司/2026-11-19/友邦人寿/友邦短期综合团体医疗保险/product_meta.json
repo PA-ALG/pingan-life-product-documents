@@ -1,0 +1,50 @@
+{
+  "planCode": "友邦人寿:d8b1107491ec3f9b",
+  "actualPlanCode": "d8b1107491ec3f9b",
+  "clauseName": "友邦短期综合团体医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B12361brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B12361brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 271013,
+      "sha256": "840667e6b28dd16b4e72dc999e0f1b7ee3c53027ddc1de04d5a7ee5ba70e24b0",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1236-1_GSTCMED%2820250513%29_IAC9100026688_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1236-1_GSTCMED%2820250513%29_IAC9100026688_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 435480,
+      "sha256": "1246771aa70745c6ab32179a232f5c0f414171dbe89b9b4e64c6547087b3915f",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦短期综合团体医疗保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:637f05a9043bc4dc",
+  "actualPlanCode": "637f05a9043bc4dc",
+  "clauseName": "友邦附加四海无忧医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%9B%9B%E6%B5%B7%E6%97%A0%E5%BF%A7%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%9B%9B%E6%B5%B7%E6%97%A0%E5%BF%A7%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 237134,
+      "sha256": "ce048228c76510f6091cb58d21be48328ba61258e1c2ef98f86398b97e8d6ffc",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1156-1_WD%20OTAR%2820230519%29_IAC9100015936_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1156-1_WD%20OTAR%2820230519%29_IAC9100015936_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 527705,
+      "sha256": "73bed26041ea4ff27c5e116151db3fdff0cdce1720b7eb679867ec32b10e6943",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%9B%9B%E6%B5%B7%E6%97%A0%E5%BF%A7%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%9B%9B%E6%B5%B7%E6%97%A0%E5%BF%A7%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 90747,
+      "sha256": "ff0b17ce3330073a283da30fff384fa16f0da362ef79b8d52160c135df09a921",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加四海无忧医疗保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

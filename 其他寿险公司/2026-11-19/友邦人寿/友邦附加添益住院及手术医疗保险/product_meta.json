@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:43b10a68f07d5ba9",
+  "actualPlanCode": "43b10a68f07d5ba9",
+  "clauseName": "友邦附加添益住院及手术医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B10082brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B10082brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 187362,
+      "sha256": "a73dd65f6f683e093d875fb6e082ca427bda80967762aa560b225fa1b18904f5",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1008-1_3YHIS%2820201009%29_IAC9100005845_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1008-1_3YHIS%2820201009%29_IAC9100005845_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 352595,
+      "sha256": "3e9cd5252a018ff4df3cba6bb19dfe5c4761fcae00306f4c423226c424dfc837",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%E4%BD%8F%E9%99%A2%E5%8F%8A%E6%89%8B%E6%9C%AF%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%E4%BD%8F%E9%99%A2%E5%8F%8A%E6%89%8B%E6%9C%AF%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 65685,
+      "sha256": "9749764765a4b541041707eb51f10043e50aa9eb8721caefa2ddbc80b47eba27",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加添益住院及手术医疗保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

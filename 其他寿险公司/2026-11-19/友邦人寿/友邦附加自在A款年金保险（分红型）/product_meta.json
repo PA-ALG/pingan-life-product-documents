@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:40d0d5f496325cca",
+  "actualPlanCode": "40d0d5f496325cca",
+  "clauseName": "友邦附加自在A款年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3219-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3219-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 615355,
+      "sha256": "b980d16d307dfb102b1db5f21138611dab821a88308926bed620c22fc84dd27e",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3219-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3219-1%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 239898,
+      "sha256": "c35a7c775620a9077c0ce694c31ff7063e07e00a086e6a837afd9666a4eed8f5",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 29874317,
+      "sha256": "822115307e86732faa9a99a20edb311f57063c29d8eca96419298d9b3488b051",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E8%87%AA%E5%9C%A8A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 349742,
+      "sha256": "2f48c9a4e01f4fe08028ad2eb48917a2b2f34c895f863c6b58a72e356fa31d02",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加自在A款年金保险（分红型）",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "P3",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:c03757f6c772171d",
+  "actualPlanCode": "c03757f6c772171d",
+  "clauseName": "友邦附加添益（2025）意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B30931brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B30931brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 304805,
+      "sha256": "c58d4b8a297fba9162f7d6e88a4d22941b32cd699bc4575ec18899d30ab1a0ae",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3093-1_LAPAADD2025%2820250609%29_IAC9100026857_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3093-1_LAPAADD2025%2820250609%29_IAC9100026857_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 376319,
+      "sha256": "68eb09cc46188d58017bba467d5a2d850fd3aa37c7b00b2aa76c2ed577bf17d3",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%EF%BC%882025%EF%BC%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%EF%BC%882025%EF%BC%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 565398,
+      "sha256": "8a35b62d4f1a7ba92a8df6dc7c6555b4cb8b612674b2083a760f0e7e0b9e887b",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%EF%BC%882025%EF%BC%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E6%B7%BB%E7%9B%8A%EF%BC%882025%EF%BC%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 224758,
+      "sha256": "b154181c1fe5a0eabe2ca94b46aad9cc99ee1c15fdd7ff6eca1ed897056913c4",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加添益（2025）意外伤害保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "P2",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

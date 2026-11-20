@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:b9d81b35e4d79242",
+  "actualPlanCode": "b9d81b35e4d79242",
+  "clauseName": "友邦附加守护希望特药器械医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%AE%88%E6%8A%A4%E5%B8%8C%E6%9C%9B%E7%89%B9%E8%8D%AF%E5%99%A8%E6%A2%B0%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%AE%88%E6%8A%A4%E5%B8%8C%E6%9C%9B%E7%89%B9%E8%8D%AF%E5%99%A8%E6%A2%B0%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 164713,
+      "sha256": "66e42797f0861d22cc164c1ef810853c0f1f6503571bb086ecefb2cd119d7bee",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1080-1_TDMTRider%2820220216%29_IAC9100011722_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1080-1_TDMTRider%2820220216%29_IAC9100011722_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 345058,
+      "sha256": "f87da8b0c02f2ef370deebc73a85a61b781e21aef53249facd528f55ff269dae",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%AE%88%E6%8A%A4%E5%B8%8C%E6%9C%9B%E7%89%B9%E8%8D%AF%E5%99%A8%E6%A2%B0%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E5%AE%88%E6%8A%A4%E5%B8%8C%E6%9C%9B%E7%89%B9%E8%8D%AF%E5%99%A8%E6%A2%B0%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 125602,
+      "sha256": "5da6c5ea85c294cd2001d1e9eab6f52d7a8cea0c0c1e74c1eb6acff377ad88a3",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加守护希望特药器械医疗保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

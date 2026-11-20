@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:cf95aa09b5d10521",
+  "actualPlanCode": "cf95aa09b5d10521",
+  "clauseName": "友邦附加百倍安欣（精英版）定期寿险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B30921brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B30921brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 253945,
+      "sha256": "80a989da285c86faa6806d8a2f1b5257d8216a356567957f35b13848a76fcfff",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3092-1_ATermLR%2820250902%29_IAC9100026759_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3092-1_ATermLR%2820250902%29_IAC9100026759_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 253318,
+      "sha256": "00a156fb534979ad46cd8fe173c2be21d4cee3357499b7f5c4a249e68941caee",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%99%BE%E5%80%8D%E5%AE%89%E6%AC%A3%EF%BC%88%E7%B2%BE%E8%8B%B1%E7%89%88%EF%BC%89%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%99%BE%E5%80%8D%E5%AE%89%E6%AC%A3%EF%BC%88%E7%B2%BE%E8%8B%B1%E7%89%88%EF%BC%89%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 309711,
+      "sha256": "4517749789f61233ab9dc537f9da9abe6a6b91a5da2dbfb40cd41dde4b37f1a5",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%99%BE%E5%80%8D%E5%AE%89%E6%AC%A3%EF%BC%88%E7%B2%BE%E8%8B%B1%E7%89%88%EF%BC%89%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%99%BE%E5%80%8D%E5%AE%89%E6%AC%A3%EF%BC%88%E7%B2%BE%E8%8B%B1%E7%89%88%EF%BC%89%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 145985,
+      "sha256": "0803387ee0eeff7904b2b9ac4223fd43bfb2b6a2253743676b50d76b0153ae3b",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加百倍安欣（精英版）定期寿险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "寿险",
+    "互联网专属": "否",
+    "产品分级": "P2",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

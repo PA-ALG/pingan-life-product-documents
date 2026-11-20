@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:4095f72d1e1a1d41",
+  "actualPlanCode": "4095f72d1e1a1d41",
+  "clauseName": "友邦附加添益（2023B）意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B11981brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B11981brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 257346,
+      "sha256": "4501694d39dc6994e30685f94250c21bdf693fc4489a4455752f9a49414ae77c",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1198-1_3YADDrider2023B%2820230919%29_IAC9100017794_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1198-1_3YADDrider2023B%2820230919%29_IAC9100017794_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 495198,
+      "sha256": "5df022a6cd28eed1ea239013e969550aab6a5d5e63d3eb975e284b19c7784dce",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/B1198-1_3YADDrider2023B%2820230919%29_prem.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/B1198-1_3YADDrider2023B%2820230919%29_prem.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 86584,
+      "sha256": "04b0127d482efdf1bd5e6a5dfaf82c9d3b12efa55b1346357b829e18112f77f8",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加添益（2023B）意外伤害保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

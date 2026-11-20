@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:59dca8c5b5b71b22",
+  "actualPlanCode": "59dca8c5b5b71b22",
+  "clauseName": "友邦附加网络超值意外医药补偿医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%BD%91%E7%BB%9C%E8%B6%85%E5%80%BC%E6%84%8F%E5%A4%96%E5%8C%BB%E8%8D%AF%E8%A1%A5%E5%81%BF%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%BD%91%E7%BB%9C%E8%B6%85%E5%80%BC%E6%84%8F%E5%A4%96%E5%8C%BB%E8%8D%AF%E8%A1%A5%E5%81%BF%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 132892,
+      "sha256": "2e4d87037dd7b5824865ed13e069a41420eb75b61e4db6235fda86fe68b030d2",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0696-1_SESTA_AMR%2820130227%29_IAC0000016639_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0696-1_SESTA_AMR%2820130227%29_IAC0000016639_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 193746,
+      "sha256": "a31e742e8eda77eeac794e900499ed374c80b523e23156a59039f9aa92edb40f",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%BD%91%E7%BB%9C%E8%B6%85%E5%80%BC%E6%84%8F%E5%A4%96%E5%8C%BB%E8%8D%AF%E8%A1%A5%E5%81%BF%E5%8C%BB%E7%96%97%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E9%99%84%E5%8A%A0%E7%BD%91%E7%BB%9C%E8%B6%85%E5%80%BC%E6%84%8F%E5%A4%96%E5%8C%BB%E8%8D%AF%E8%A1%A5%E5%81%BF%E5%8C%BB%E7%96%97%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 178270,
+      "sha256": "b7ee54dc53cc852adf73d4dc600439f784182f9d8c3f93413a23e184d6219979",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦附加网络超值意外医药补偿医疗保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}
