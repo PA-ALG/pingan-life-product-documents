@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:ee92ac1e4f4e4469",
+  "actualPlanCode": "ee92ac1e4f4e4469",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加学生儿童平安疾病住院医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_27.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:ee92ac1e4f4e4469",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2022/02-08/09-43-3603831588178989.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_27.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 562593,
+      "sha256": "bafa1a0ed18407bc3d65e0faf5eb3e2f6e9db5f8ad2b5da3a108c68d0ae107a3"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-34-180700-1579926958.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_27.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 489634,
+      "sha256": "caa00e125a5c958588ef81f8cfa58de2fa406f0e29707adc4362108e8d18c2e8"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/15-47-100707-150218114.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_27.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 171984,
+      "sha256": "8f18e3d92a946a3e78ba32295bc27d0e94d709d393273f51a7cba1ee033edbb6"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:59914ed98cb79ccd",
+  "actualPlanCode": "59914ed98cb79ccd",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加灵活就业人员重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:59914ed98cb79ccd",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2022/06-10/17-34-530368-2132759576.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 389393,
+      "sha256": "8e7f68885851b5f1077095a4333e11a7352bac01f0a2ad92544f26b64a90d44e"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-52-430124223183155.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 455164,
+      "sha256": "ab682ee72e56934b6ebb7114c46c70e0fb9d0505f9085de74a3f6054811af73b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/15-56-530258331343816.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_26.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 181639,
+      "sha256": "e199154e9ca9bd7e1c67953069d911b994cfd159ca852216e9ca083d37e32398"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

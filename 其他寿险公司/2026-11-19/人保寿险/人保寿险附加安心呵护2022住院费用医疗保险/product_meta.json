@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:1100a6bba174650a",
+  "actualPlanCode": "1100a6bba174650a",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加安心呵护2022住院费用医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_28.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:1100a6bba174650a",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2021/12-21/16-42-550636-856453703.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_28.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 843761,
+      "sha256": "3d40b4ed312f0ba8e628a05ff40512907fb62f61df797705e503bb286cf4860b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/15-29-080070617964864.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_28.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 574642,
+      "sha256": "2791adef165bf449f9289b0203b9d94b902c2f961d7cc9f1403adfd0a844a4c7"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/15-29-010945-955321863.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_28.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 220449,
+      "sha256": "fe095b7a176655a38565f5406d1c30ccb94b849f36e5cb62a1873c42d0b98958"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

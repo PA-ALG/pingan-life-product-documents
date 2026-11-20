@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:b64bc4abc01e6782",
+  "actualPlanCode": "b64bc4abc01e6782",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险惠享人生团体养老年金保险（万能型）（D1款）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_17.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:b64bc4abc01e6782",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/19-06-350198-969096054.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_17.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 796340,
+      "sha256": "07b323e3b73bddc0a98e4b6943c11e28080eb371dce12faf861ce2fe562db0aa"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-12/19-06-2504291471846387.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_17.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 738321,
+      "sha256": "ae3bfdedbeb6259180bbce3bcc5a401f1705f01b615752540acc0d3d708ddc70"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

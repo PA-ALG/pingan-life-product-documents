@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:2cd878f15c742802",
+  "actualPlanCode": "2cd878f15c742802",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加门急诊团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_37.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:2cd878f15c742802",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2020/04-01/18-09-2308571601861133.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_37.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 240350,
+      "sha256": "6345056ca39d7352ca8ed488e295eac8b5ab4b8d9a9625aa08d0cbb4bf64787d"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-23/16-47-060939-1119188115.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_37.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 470291,
+      "sha256": "cd49f264eebab4e03df5c0780483790bae0d34dbce02470dce14c1890e4697b9"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:72e724bb4bcf8985",
+  "actualPlanCode": "72e724bb4bcf8985",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加关爱宝长期医疗保险（费率可调）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:72e724bb4bcf8985",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/09-30/09-34-000166-1390575362.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 791917,
+      "sha256": "f78630643f6d612ea9ab6c679420eba7d4ea7fed421e8b838dd4409bc6695cb4"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/09-30/09-33-5407101739168754.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 725515,
+      "sha256": "74c5e40309da0a36ece4c2f12cc5723b629ea7e2deb7a76eef519571539b4cee"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/09-30/09-34-040661196068928.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 83969,
+      "sha256": "0ab6605733faa825315c699eb139042617990fdd321bc71279e483524e2b5890"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

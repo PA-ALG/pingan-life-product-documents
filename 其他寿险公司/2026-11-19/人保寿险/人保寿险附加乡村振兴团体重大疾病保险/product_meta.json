@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:92a71aa6cdec60cc",
+  "actualPlanCode": "92a71aa6cdec60cc",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加乡村振兴团体重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_25.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:92a71aa6cdec60cc",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2022/07-28/13-24-570914478006831.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_25.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 760081,
+      "sha256": "b71ce6be8dc49ad8fd5a2c3768380c0f8135e583b871ad56044bdb8a65b70a19"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-58-0607481880505137.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_25.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 470133,
+      "sha256": "431cb2846e1159147e3c16e3fe48c483fc338026f3ef1f59375c10193f22778e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

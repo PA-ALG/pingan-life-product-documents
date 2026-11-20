@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:b2585be0faa0cffc",
+  "actualPlanCode": "b2585be0faa0cffc",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险关爱e生2.0少儿长期医疗保险（费率可调）（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:b2585be0faa0cffc",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/05-16/15-50-590557-1727479659.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 2714270,
+      "sha256": "d301a19471f3ec6523c9ec9eeb441b3c7977e4298e7f4cd5549bb01383164c85"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/05-16/15-50-510093735214075.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 638659,
+      "sha256": "aa5be8c41850b37ceac32a3fdf25ce2d49e64bd7a05a82b547904c9d746398ef"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/05-16/15-51-080873125418409.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 50281,
+      "sha256": "aa764343b4c2f065e581e549b94cacf19f8430d1ce96a25da5c18de23214bff0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:05ee5a4dc571b2c0",
+  "actualPlanCode": "05ee5a4dc571b2c0",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险飞行员团体失能收入损失保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_38.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:05ee5a4dc571b2c0",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2021/05-21/09-32-0905681183242463.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_38.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 409169,
+      "sha256": "f63c068a25e92f3653ae10174b3fb979b140526f0109fc19bc68865ac250d279"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-23/16-46-0300201417194199.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_38.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 479802,
+      "sha256": "cd0b6ef9ec50979bc4655c15c60fdde5e92b8447e64a7db66a9df51dc183c170"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

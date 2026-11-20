@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:ab5fceb7917f61d7",
+  "actualPlanCode": "ab5fceb7917f61d7",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加学生儿童平安意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_5.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:ab5fceb7917f61d7",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/07-16/14-11-080964-325115325.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_5.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1027070,
+      "sha256": "889787d837d62ebc725de3d09ad68d2528c7959b8e63890898617980ecac77a4"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/07-16/14-11-22073575050745.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_5.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 406528,
+      "sha256": "5053504512513d5c7a15a9f7f2aa359a32d99573cffc18c4304b1bcc4a0017d8"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/07-16/14-11-1509541130051620.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_5.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 172833,
+      "sha256": "8a5744819baf97b2093b8b88be23df7f5b306e7a68453f1de5d35234034522de"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

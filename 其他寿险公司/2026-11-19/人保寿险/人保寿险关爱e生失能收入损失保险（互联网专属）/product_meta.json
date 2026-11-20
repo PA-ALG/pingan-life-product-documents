@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:edca1ab710fe6510",
+  "actualPlanCode": "edca1ab710fe6510",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险关爱e生失能收入损失保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_23.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:edca1ab710fe6510",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/09-12/16-08-2007891495195020.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_23.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1426029,
+      "sha256": "f2943363358cffa5d8f42054cc33bcc586ce348abe8ae6bc80306071cc25b7f8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/09-12/16-08-5305421967341882.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_23.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 590228,
+      "sha256": "7429400a9cd1849d5874e354bc4fe52c92d6ee9c8980febead763532ec181f75"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/09-12/16-09-010828-652037890.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_23.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 61723,
+      "sha256": "1b59faff06609f185f5298c29c4721e2b4aea676fdc3d3820a2628a557ba571d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

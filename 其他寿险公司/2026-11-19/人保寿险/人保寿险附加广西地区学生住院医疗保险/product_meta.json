@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:10ffb71e3e9f243f",
+  "actualPlanCode": "10ffb71e3e9f243f",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加广西地区学生住院医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_34.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:10ffb71e3e9f243f",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2022/07-12/09-36-080967-447690343.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_34.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 543122,
+      "sha256": "65cfdb2fb8b9f64f6d24b027ccf37c21e4adc141dd0de2086a6e2980cd374332"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-27-360746-1912089473.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_34.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 487160,
+      "sha256": "815030f1020caddc7915497a0f3dfcc55dcc324b2c1c81db7b5ab58584e7a7d9"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-26/09-27-160652-1168872994.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_34.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 77146,
+      "sha256": "4f887272b8d0e0c921c1263fe82fb333cab48d52506eb974dc21a31ca62e5770"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

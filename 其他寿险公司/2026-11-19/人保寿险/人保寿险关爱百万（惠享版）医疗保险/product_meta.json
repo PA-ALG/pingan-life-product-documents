@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:bbe92bd6b8b7dd39",
+  "actualPlanCode": "bbe92bd6b8b7dd39",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险关爱百万（惠享版）医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:bbe92bd6b8b7dd39",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/10-16/16-19-130118-1818425867.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1971703,
+      "sha256": "9c13d95788e98af7b22c155602a8fb6251e3d9870949b6c084c7c44aaa1643f6"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/10-16/16-19-050460-437767131.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 681980,
+      "sha256": "200fde0eb58e228390ed1b61705eccc1e6f1e4cd86b30ef09b44a18162da5451"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/10-16/16-19-210017714937647.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 269741,
+      "sha256": "cd821826adce44ab9d0f8efe6c01de8620d4519dd14e5f0e3b7a0f9b4ac27791"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

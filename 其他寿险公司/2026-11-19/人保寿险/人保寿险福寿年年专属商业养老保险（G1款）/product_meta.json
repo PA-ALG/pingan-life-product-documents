@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:a67fbbfe3aa52adf",
+  "actualPlanCode": "a67fbbfe3aa52adf",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险福寿年年专属商业养老保险（G1款）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:a67fbbfe3aa52adf",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-23/13-53-060083-1342977535.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 777856,
+      "sha256": "18498add1ba068b2388e8359816c9084c186f56f1c3254c46ee9a649f8dea697"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-23/13-53-120344-588822347.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 896233,
+      "sha256": "4603fafc5defbf179dd43e4aefa7afd15dfd09b1eb3bea4c3d0cad37eab3dad7"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/09-23/13-53-480463-1245017170.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_14.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 685129,
+      "sha256": "e4773615ae73b0b7ab9ffcafe87a2dc0d2a53d0082cc8ca89f086b4bf26fd6bf"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

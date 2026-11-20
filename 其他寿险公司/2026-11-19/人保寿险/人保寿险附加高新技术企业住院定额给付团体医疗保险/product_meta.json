@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:6ec56d3e072317be",
+  "actualPlanCode": "6ec56d3e072317be",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加高新技术企业住院定额给付团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_32.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:6ec56d3e072317be",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2020/04-01/18-50-480883-1690169699.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_32.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 248313,
+      "sha256": "569a250aaea8da47eb8401b5f15272e6f10057074f87d64e98061626f1c1a13c"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-33-030299-1892093189.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_32.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 476062,
+      "sha256": "b12378e3fd9ea9062d919975342beb098d4592c3b2a4b30157906db62ed2c6fe"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

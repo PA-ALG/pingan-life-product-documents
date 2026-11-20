@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:3f0c74566102cbf0",
+  "actualPlanCode": "3f0c74566102cbf0",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险关爱e生长期癌症医疗保险（费率可调）（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_25.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:3f0c74566102cbf0",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/09-27/14-53-190993696494004.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_25.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1302071,
+      "sha256": "5809472c8e329269fe90b3680caaaba4c4c4086cf031939a8227f3f0c33f3753"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/08-09/09-29-4109711190818955.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_25.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 411178,
+      "sha256": "af7862171f7997800d0e7eb733d8844dc03e4d1f782eaff094af7d9e83e447bd"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-27/16-44-240408-1127318940.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_25.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 96875,
+      "sha256": "132c3776515d5b0695c598d31a36aa8860a4039b66197feeb754f4b125540cfc"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

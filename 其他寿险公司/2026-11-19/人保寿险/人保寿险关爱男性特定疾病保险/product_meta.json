@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:d38a01374764ab56",
+  "actualPlanCode": "d38a01374764ab56",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险关爱男性特定疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_32.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:d38a01374764ab56",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2022/03-25/17-07-290091-1759246315.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_32.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 953175,
+      "sha256": "a6a529d2d35388d58c3e168b0c80b28e14b1a17660d3d61127f232363b65fc71"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-23/16-20-010744-1626834077.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_32.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 495730,
+      "sha256": "5ad60a6f3dee7839eb2633c1df7c038118007c32ef720759e572b46305b2ebd7"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2023/06-26/10-34-050862485325236.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_32.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 75364,
+      "sha256": "ee76759c9149a94ae3de7678d42d0664b44fe4031bfdd6062915073317d1599f"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:9984a1e656f0cde4",
+  "actualPlanCode": "9984a1e656f0cde4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险恒牙无忧齿科医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:9984a1e656f0cde4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/04-15/16-06-150725523187910.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 787909,
+      "sha256": "83f5b67c43b07924714b51d12a767e76eb80ad29ff1beeae100b131840ff27ce"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/04-15/16-06-250805-1338637069.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 523461,
+      "sha256": "343204a50d1384878495bf355d9d8b0ca7ce35533cafc4758c95cc8d6775e3a8"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/04-15/16-06-330437874300952.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 46866,
+      "sha256": "8133e21f294b93bc9d2e0d5ffe0f87ef8ce8d23b903c07d982d57295c1b04a58"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

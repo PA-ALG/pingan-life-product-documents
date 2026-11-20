@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:a717339dad9a7c0e",
+  "actualPlanCode": "a717339dad9a7c0e",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险附加高新技术企业意外伤害团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_35.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:a717339dad9a7c0e",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2021/05-21/09-45-160104-1414241037.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_35.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 267755,
+      "sha256": "03b94b55cdc340bbeffd518ec71c22f7811402b7e17cb604bd1980535459af28"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-22-460981-1769847279.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_35.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 472199,
+      "sha256": "5fedcff852b572aee72c87a3551687b4ff3881c3d497bf1d4055b5427ab17edc"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
