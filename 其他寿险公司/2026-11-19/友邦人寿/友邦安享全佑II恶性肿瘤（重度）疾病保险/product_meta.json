@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:29ca76f6ba510e64",
+  "actualPlanCode": "29ca76f6ba510e64",
+  "clauseName": "友邦安享全佑II恶性肿瘤（重度）疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3215-1%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3215-1%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 296631,
+      "sha256": "c6d3516e3f6f174afb4262d321eee363edb0c37fbbc8b8e9d2dffb1d87ffffe6",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3215-1%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3215-1%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 338894,
+      "sha256": "a1fb3e69b9f982e46d857c3b1ce1282539468d8fd0947d20f66cde4942b602ae",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 97404,
+      "sha256": "a60c2f1905d1358d8b273db1c1c1c097ad99f067223c2a67c2a550d3e1fadfa3",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%AE%89%E4%BA%AB%E5%85%A8%E4%BD%91II%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88%E9%87%8D%E5%BA%A6%EF%BC%89%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 57344,
+      "sha256": "31c1f820279ade77094e614a4935a7f4d4d3ae04880882a586938598a616d25f",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦安享全佑II恶性肿瘤（重度）疾病保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "P2",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

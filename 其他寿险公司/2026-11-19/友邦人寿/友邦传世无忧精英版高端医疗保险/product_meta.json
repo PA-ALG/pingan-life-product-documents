@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:20b70b13e6d7eb9c",
+  "actualPlanCode": "20b70b13e6d7eb9c",
+  "clauseName": "友邦传世无忧精英版高端医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B12241brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B12241brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 413224,
+      "sha256": "6f2ed0b8abe3930983e5d8a04800c77b56231f35e5e982b9a0f9b044cc674144",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1224-1_HEM2024b%2820250418%29_IAC9100022236_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1224-1_HEM2024b%2820250418%29_IAC9100022236_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 650745,
+      "sha256": "5c605b7280cc6fd00a3dde272c8eb45f84402d229b9745fe01133123e528e8bb",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/B1224%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E6%97%A0%E5%BF%A7%E7%B2%BE%E8%8B%B1%E7%89%88%E9%AB%98%E7%AB%AF%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/B1224%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E6%97%A0%E5%BF%A7%E7%B2%BE%E8%8B%B1%E7%89%88%E9%AB%98%E7%AB%AF%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 402316,
+      "sha256": "243b3e9eb7514e6ef13799c60aafb407936d74214da3bc01e5731afd4fe0516f",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦传世无忧精英版高端医疗保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

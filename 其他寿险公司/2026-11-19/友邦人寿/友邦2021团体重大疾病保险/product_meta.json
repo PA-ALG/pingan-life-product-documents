@@ -1,0 +1,50 @@
+{
+  "planCode": "友邦人寿:4df2b0a3e5bf4d71",
+  "actualPlanCode": "4df2b0a3e5bf4d71",
+  "clauseName": "友邦2021团体重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B10331brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B10331brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 183157,
+      "sha256": "c7a85156b918d06eda3ef8adbc5b55e8b19d1839fc1e3aed6d64ea61a90173a6",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1033-1_GCI2021%2820210128%29_IAC9100007223_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1033-1_GCI2021%2820210128%29_IAC9100007223_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 698286,
+      "sha256": "028ecc1821fb9e75f4fd24826cad73f3de6e8ff63f115847e33776c3fb36fcbb",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦2021团体重大疾病保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}
