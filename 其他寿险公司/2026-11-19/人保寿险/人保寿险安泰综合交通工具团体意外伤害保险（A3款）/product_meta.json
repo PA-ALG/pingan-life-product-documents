@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:dd9b40e3bdbf2526",
+  "actualPlanCode": "dd9b40e3bdbf2526",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险安泰综合交通工具团体意外伤害保险（A3款）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_22.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:dd9b40e3bdbf2526",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/04-11/14-45-420914-449011552.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_22.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 785208,
+      "sha256": "8a29f43f17f349287527dde4d8f4dfc65880ce01bea4d0d86be1fe64e058dc23"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/04-11/16-16-240243-378024959.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_22.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 286445,
+      "sha256": "5a0467ffc38ae06c59d79d888bd64deb55e1b5a88d1d3570e679662dda43f15c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
