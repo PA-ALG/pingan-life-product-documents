@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:fc3e0f298c394b32",
+  "actualPlanCode": "fc3e0f298c394b32",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险团体重大疾病保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "查看",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_29.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:fc3e0f298c394b32",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/06-17/16-36-570840-1918834981.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_29.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1404804,
+      "sha256": "f9a711c56897e10c65ad85928232b3fd35b7474e15e17e8f836d6f2dee9230f1"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/06-17/16-37-060466-797490865.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_29.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 488744,
+      "sha256": "5187237d4369a9d8f3024aeaa67eae8d06b0ed91a5aa46ba38a892755196f742"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

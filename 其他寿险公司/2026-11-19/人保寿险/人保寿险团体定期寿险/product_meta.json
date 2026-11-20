@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:f0a533ef8298e164",
+  "actualPlanCode": "f0a533ef8298e164",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险团体定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_38.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:f0a533ef8298e164",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2021/04-07/09-52-140288-1342631268.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_38.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 435554,
+      "sha256": "50fd603009b06199a787b35d81ea511a69d17498ade0435d90fc5525a7da16a4"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-23/16-43-220619751683224.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_38.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 444486,
+      "sha256": "f1bd5802c38597eaa589e0676693621c98879ca757d83cbb9e61b9c542d08bb6"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

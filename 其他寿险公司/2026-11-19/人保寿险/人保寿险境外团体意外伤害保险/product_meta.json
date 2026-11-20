@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:d8f1f648e63722ff",
+  "actualPlanCode": "d8f1f648e63722ff",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险境外团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_34.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:d8f1f648e63722ff",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2022/07-12/09-15-210986-797117671.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_34.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 453014,
+      "sha256": "5c3d05ddc5d03730050f7593ad52ad06f1626c285cb2868c4acaca3628350ffa"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2024/02-26/13-23-580814-879777743.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_34.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 512143,
+      "sha256": "d557d727def98485e2cf2923b0764ebd3d2c830a8695449242b01e7e0b01104a"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

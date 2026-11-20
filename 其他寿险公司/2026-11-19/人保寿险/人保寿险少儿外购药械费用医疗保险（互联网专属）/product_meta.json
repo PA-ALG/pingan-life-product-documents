@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:de36945013065e01",
+  "actualPlanCode": "de36945013065e01",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险少儿外购药械费用医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:de36945013065e01",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/05-16/16-11-360858397110174.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1252972,
+      "sha256": "1e1be3559ee7740e8f79586811782cea1926f1df9e8a6b532cb222c4365805f4"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/05-16/16-11-530977-1391239791.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 690624,
+      "sha256": "5b7829b4501a62c9d7c315072c2f0d8aeb220a4a6b3321fd7aac23038fd3a5ae"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2025/05-16/16-11-4605501632770700.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_21.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 42153,
+      "sha256": "fa20dca072fa3485d93dd5238cdca0b4a24541f0a6e5bd7f1566886d6bab3246"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

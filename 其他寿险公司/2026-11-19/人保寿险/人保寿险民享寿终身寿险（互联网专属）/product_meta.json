@@ -1,0 +1,53 @@
+{
+  "planCode": "人保寿险:4212f4e54769ecff",
+  "actualPlanCode": "4212f4e54769ecff",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险民享寿终身寿险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_8.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:4212f4e54769ecff",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/04-15/16-00-570194849009222.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_8.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 762400,
+      "sha256": "a8218ca1fc98eef7485f5d9d0943c2f2d9aaa43c6af0c0ba3a48a2813228e6ff"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/04-15/16-00-480919-992200654.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_8.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 530841,
+      "sha256": "db5937f0a5b9447fd009d4c0576ea3dcf0405c1badf32ca3dc03fc9cbf03ac98"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/04-15/16-01-040827227638745.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_8.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 91244,
+      "sha256": "3b8bcc7b05f6cfc2cace0faa0852025735ccb62e22f02bf32dfd3a63054dfa8d"
+    },
+    {
+      "label": "现金价值全表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/04-15/16-01-1203221037328497.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_8.html",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2307364,
+      "sha256": "57eaef02a6a848e33d1b012bab62587d9e4ee10f01aff38cfbc6bfcdf259624e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

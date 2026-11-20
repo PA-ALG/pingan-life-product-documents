@@ -1,0 +1,44 @@
+{
+  "planCode": "人保寿险:99218edf2b74c2e5",
+  "actualPlanCode": "99218edf2b74c2e5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险童安护重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:99218edf2b74c2e5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/06-01/17-12-44043495942826.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 2406781,
+      "sha256": "fc3d4546b2f08171f6ac014dd62ba0137e55f8ed21ce7bff4d251e0b28c58242"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/06-01/17-12-29011853851497.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 366484,
+      "sha256": "5ea1c2cc0cc76a349b0b7d0eb92a60033beeb3efc65f069238e5c0593ff53bdb"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/06-01/17-12-540614-1873858244.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index_7.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 40964,
+      "sha256": "66e1c91efa538e159b9728ca45c6d2d6fa9c98163002e8d8b385963024eecb49"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

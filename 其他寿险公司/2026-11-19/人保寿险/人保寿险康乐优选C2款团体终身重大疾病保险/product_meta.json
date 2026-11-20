@@ -1,0 +1,35 @@
+{
+  "planCode": "人保寿险:7b81a42efca803e3",
+  "actualPlanCode": "7b81a42efca803e3",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "人保寿险康乐优选C2款团体终身重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "人保寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "-",
+  "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "人保寿险:7b81a42efca803e3",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/11-09/15-41-300851-108296873.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 2688964,
+      "sha256": "9813442dfcbc162fa98a7df921228b2b7566bf86c925362a32a6c0b2a52260b6"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://www.picclife.com/picclifewebsite/webfile/upload/2026/11-09/15-41-4405142020200994.pdf",
+      "sourcePageUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 714657,
+      "sha256": "09ce869f1e47730c7c29968977ce7e55e16b963862e0ae45ff72cbddd1062a5d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
