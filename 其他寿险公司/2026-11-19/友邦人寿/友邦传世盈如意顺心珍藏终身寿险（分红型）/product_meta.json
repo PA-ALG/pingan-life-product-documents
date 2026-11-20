@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:888222485191b2fb",
+  "actualPlanCode": "888222485191b2fb",
+  "clauseName": "友邦传世盈如意顺心珍藏终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3226-1%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3226-1%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 630984,
+      "sha256": "81387dce739e16176bc2f01bc6479d4901ee231230b1713a7b9c3bb70c579bbe",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3226-1%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3226-1%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 242811,
+      "sha256": "bec2a0768f5c846ea34482d1d24d8e182a618bd457c696223ed9331e128cd2b6",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1687532,
+      "sha256": "6f83efe6edc834a2584743bf683e190b6c00aaf26b2b83dfe68308a6f10f2be6",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E4%BC%A0%E4%B8%96%E7%9B%88%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%8F%8D%E8%97%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 218405,
+      "sha256": "50df09df6ef48f3f4d2f0ca78461eb503db0ad4f4ff3d5c486b662cda76f7df9",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦传世盈如意顺心珍藏终身寿险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "寿险",
+    "互联网专属": "否",
+    "产品分级": "P3",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}
