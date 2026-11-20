@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:76fcf97d-073f-4129-8174-8815c76a27de",
+  "actualPlanCode": "76fcf97d-073f-4129-8174-8815c76a27de",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿新业态综合意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:76fcf97d-073f-4129-8174-8815c76a27de",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8853a0ac93f64c9c9bff0b8ca63c1053/100_国寿新业态综合意外伤害保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 359207,
+      "sha256": "d993dc0f31fc9cb25dc1b073dea5c088c94e78818dcc22f88ed591a81c6e82dc"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8853a0ac93f64c9c9bff0b8ca63c1053/110_国寿新业态综合意外伤害保险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 105573,
+      "sha256": "790a3d8254d815ebfb42a0e1503846ef4d65d2b9f626484515d875b886cbfa4c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8853a0ac93f64c9c9bff0b8ca63c1053/300_国寿新业态综合意外伤害保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 423956,
+      "sha256": "13a308229e1e4242b40206c9a13abc45361934ad94b40b0a721fd2ab5a4366d0"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/8853a0ac93f64c9c9bff0b8ca63c1053/100_国寿新业态综合意外伤害保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/8853a0ac93f64c9c9bff0b8ca63c1053/300_国寿新业态综合意外伤害保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-05-28 09:28:32+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-03-06 13:47:42",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/8853a0ac93f64c9c9bff0b8ca63c1053/110_国寿新业态综合意外伤害保险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿新业态综合意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "76fcf97d-073f-4129-8174-8815c76a27de",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

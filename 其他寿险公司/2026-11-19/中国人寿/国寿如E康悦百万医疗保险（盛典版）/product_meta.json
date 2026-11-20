@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76d83e0-14c3-11ee-9f84-bc97e1225d40",
+  "actualPlanCode": "a76d83e0-14c3-11ee-9f84-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿如E康悦百万医疗保险（盛典版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76d83e0-14c3-11ee-9f84-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76d8408-14c3-11ee-9f85-bc97e1225d40/100_国寿如E康悦百万医疗保险（盛典版）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 783857,
+      "sha256": "f093135c64dd0cf5a191f8876553ece825405d286e3557d6becd4dfdf4d8e9aa"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76d8408-14c3-11ee-9f85-bc97e1225d40/110_国寿如E康悦百万医疗保险（盛典版）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 102798,
+      "sha256": "8622418efff0c6168533384e74a6c04945e36a56dd5f5072975ba5487a48da87"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76d8408-14c3-11ee-9f85-bc97e1225d40/300_国寿如E康悦百万医疗保险(盛典版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 391225,
+      "sha256": "aff1be84e18445c95d0339588fa6a3bc34b0d601b22063c8e1010a0bba57ec4e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76d8408-14c3-11ee-9f85-bc97e1225d40/100_国寿如E康悦百万医疗保险（盛典版）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76d8408-14c3-11ee-9f85-bc97e1225d40/300_国寿如E康悦百万医疗保险(盛典版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "155",
+    "datemodified": "2026-10-10 15:07:18",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76d8408-14c3-11ee-9f85-bc97e1225d40/110_国寿如E康悦百万医疗保险（盛典版）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿如E康悦百万医疗保险（盛典版）",
+    "othermessage": "",
+    "id": "a76d83e0-14c3-11ee-9f84-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

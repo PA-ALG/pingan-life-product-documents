@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a770d0b8-14c3-11ee-a076-bc97e1225d40",
+  "actualPlanCode": "a770d0b8-14c3-11ee-a076-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿全家福团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a770d0b8-14c3-11ee-a076-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770d0d6-14c3-11ee-a077-bc97e1225d40/100_国寿全家福团体医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 248063,
+      "sha256": "440468b326103c71da0aed6b7bfd81f64e195393704bb43183a3332b3b93ef36"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770d0d6-14c3-11ee-a077-bc97e1225d40/300_国寿全家福团体医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 324398,
+      "sha256": "8bce99e1819c948e3a77a167ccb4ed1caffbe1b784d6b296eba97cfced4cd3b8"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a770d0d6-14c3-11ee-a077-bc97e1225d40/100_国寿全家福团体医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a770d0d6-14c3-11ee-a077-bc97e1225d40/300_国寿全家福团体医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "276",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿全家福团体医疗保险",
+    "othermessage": "",
+    "id": "a770d0b8-14c3-11ee-a076-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

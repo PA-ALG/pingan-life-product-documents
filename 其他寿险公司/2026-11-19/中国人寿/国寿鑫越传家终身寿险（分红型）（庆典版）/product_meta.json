@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:98e7df55-fd60-444c-a9d9-0238b5298674",
+  "actualPlanCode": "98e7df55-fd60-444c-a9d9-0238b5298674",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫越传家终身寿险（分红型）（庆典版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:98e7df55-fd60-444c-a9d9-0238b5298674",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/100_国寿鑫越传家终身寿险(分红型)(庆典版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 100590,
+      "sha256": "c113c67691d3de46ef3523d2b388af1cbdf9faec025c2cfbb64473d2c34b1ca0"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/110_国寿鑫越传家终身寿险(分红型)(庆典版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 49727,
+      "sha256": "bcbd5b28a9d1515880bed6339a397f903e75c8a49f51f696b8fe391d3d62114b"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/121_国寿鑫越传家终身寿险(分红型)(庆典版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 113188,
+      "sha256": "119669d97cbc1ffe3716bfd36d6976c34cc4f0a2f6bfd4e75de034208d3e8b0d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/300_国寿鑫越传家终身寿险(分红型)(庆典版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 414763,
+      "sha256": "381f8a924e508df73c7583c49fcacf436ab75fcb04fbdcc1560c2d35ed21ee20"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/100_国寿鑫越传家终身寿险(分红型)(庆典版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/121_国寿鑫越传家终身寿险(分红型)(庆典版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/300_国寿鑫越传家终身寿险(分红型)(庆典版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-04 15:07:19+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-04 15:07:19",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/79504f1ec01242f79d113b553902a7b2/110_国寿鑫越传家终身寿险(分红型)(庆典版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫越传家终身寿险（分红型）（庆典版）",
+    "othermessage": "",
+    "id": "98e7df55-fd60-444c-a9d9-0238b5298674",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

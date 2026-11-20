@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:05733700-0c93-4ace-8c9f-64aae8649865",
+  "actualPlanCode": "05733700-0c93-4ace-8c9f-64aae8649865",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿首安康特定疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:05733700-0c93-4ace-8c9f-64aae8649865",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e53857f3426042c4ab9bb7d069f49f65/国寿首安康特定疾病保险合并条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 410566,
+      "sha256": "14ec7fc8079aa059ca10b94f274003d0321189ebb4f959f4db9e15e81486913d"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e53857f3426042c4ab9bb7d069f49f65/110_国寿首安康特定疾病保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 91612,
+      "sha256": "1947f6ce5881cc12e33ee3b5f41369ac6cc630d7b88e6af4bc2ef7ee6f874b69"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e53857f3426042c4ab9bb7d069f49f65/300_国寿首安康特定疾病保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 194145,
+      "sha256": "ba87f896a409212f0819f2d827c39f3d8ceb9ff6fe51464b12f97bbe83a26a5e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/e53857f3426042c4ab9bb7d069f49f65/国寿首安康特定疾病保险合并条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/e53857f3426042c4ab9bb7d069f49f65/300_国寿首安康特定疾病保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-03-19 10:45:39+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-03-19 10:45:39",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/e53857f3426042c4ab9bb7d069f49f65/110_国寿首安康特定疾病保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿首安康特定疾病保险",
+    "othermessage": "",
+    "id": "05733700-0c93-4ace-8c9f-64aae8649865",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:f9f092ee-8adf-4412-b8ae-531cc485654b",
+  "actualPlanCode": "f9f092ee-8adf-4412-b8ae-531cc485654b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿安享贷借款人团体意外伤害保险(A款)(银代版)",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:f9f092ee-8adf-4412-b8ae-531cc485654b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/01070686e7284e4ebe4345f4dd73e65f/100_国寿安享贷借款人团体意外伤害保险(A款)(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 244001,
+      "sha256": "6abb76e463576a82788d048d51f2c93136da8f456345282ca4cd308baeaa4428"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/01070686e7284e4ebe4345f4dd73e65f/300_国寿安享贷借款人团体意外伤害保险（A款）（银代版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 373449,
+      "sha256": "bc8cbbe4585866761bc0269e57e6a14e373d341ca43cfe8dbe4fe05e5e189d8e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/01070686e7284e4ebe4345f4dd73e65f/100_国寿安享贷借款人团体意外伤害保险(A款)(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/01070686e7284e4ebe4345f4dd73e65f/300_国寿安享贷借款人团体意外伤害保险（A款）（银代版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-10 15:06:05+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-01-31 21:58:48",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿安享贷借款人团体意外伤害保险(A款)(银代版)",
+    "othermessage": "",
+    "id": "f9f092ee-8adf-4412-b8ae-531cc485654b",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

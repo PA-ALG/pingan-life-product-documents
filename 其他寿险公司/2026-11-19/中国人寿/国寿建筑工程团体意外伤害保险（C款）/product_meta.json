@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76c2086-14c3-11ee-9efe-bc97e1225d40",
+  "actualPlanCode": "a76c2086-14c3-11ee-9efe-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿建筑工程团体意外伤害保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76c2086-14c3-11ee-9efe-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c20b8-14c3-11ee-9eff-bc97e1225d40/100_国寿建筑工程团体意外伤害保险（C款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 232118,
+      "sha256": "b7f3201ef1d4e35818db37133349fec0029aa39dea72efe003a010ad72ef31f5"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c20b8-14c3-11ee-9eff-bc97e1225d40/300_国寿建筑工程团体意外伤害保险（C款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 386698,
+      "sha256": "de540491a5d3783c06ff8dccde4a17cf9c063458f02c7ed327033c16979d50b1"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76c20b8-14c3-11ee-9eff-bc97e1225d40/100_国寿建筑工程团体意外伤害保险（C款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76c20b8-14c3-11ee-9eff-bc97e1225d40/300_国寿建筑工程团体意外伤害保险（C款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "88",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿建筑工程团体意外伤害保险（C款）",
+    "othermessage": "",
+    "id": "a76c2086-14c3-11ee-9efe-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

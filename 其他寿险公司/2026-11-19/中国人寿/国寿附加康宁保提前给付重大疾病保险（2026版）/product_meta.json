@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:3adaf683-cd92-47e5-80c9-1708c1230ddd",
+  "actualPlanCode": "3adaf683-cd92-47e5-80c9-1708c1230ddd",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加康宁保提前给付重大疾病保险（2026版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:3adaf683-cd92-47e5-80c9-1708c1230ddd",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/100_国寿附加康宁保提前给付重大疾病保险(2026版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 680108,
+      "sha256": "4b0d2ecc7308e591f7b25dd94e12ec44d5d1fea9de4257e21017d975b3014846"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/110_国寿附加康宁保提前给付重大疾病保险(2026版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 224620,
+      "sha256": "ee7b888f5277f3b814cb6411e8e3f6f87006e313f9523d85050548fad7abc73f"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/121_国寿附加康宁保提前给付重大疾病保险(2026版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 294140,
+      "sha256": "95245caecedbc83b7cfb062c85c4538ccf40d472103924183afd75e7cd086155"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/300_国寿附加康宁保提前给付重大疾病保险(2026版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 281214,
+      "sha256": "a64eec2ee15482b035edabfc03dbc0dfd4a60eafbef2927364b425229333b216"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/100_国寿附加康宁保提前给付重大疾病保险(2026版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/121_国寿附加康宁保提前给付重大疾病保险(2026版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/300_国寿附加康宁保提前给付重大疾病保险(2026版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-04-28 15:53:40+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-04-28 15:53:40",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/bc7f56e1c0cc4169a68f0bca3578fd57/110_国寿附加康宁保提前给付重大疾病保险(2026版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加康宁保提前给付重大疾病保险（2026版）",
+    "othermessage": "",
+    "id": "3adaf683-cd92-47e5-80c9-1708c1230ddd",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

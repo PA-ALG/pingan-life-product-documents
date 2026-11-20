@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:bb609079-a21a-4002-a768-759950fd4490",
+  "actualPlanCode": "bb609079-a21a-4002-a768-759950fd4490",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫颐延年养老年金保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:bb609079-a21a-4002-a768-759950fd4490",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/100_国寿鑫颐延年养老年金保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 300721,
+      "sha256": "151e1700dd8ebe0807f67a75a13497b8db6a078ccf09cc0460210154249512d2"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/110_国寿鑫颐延年养老年金保险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 503032,
+      "sha256": "3635096d9064e85aa3282f2e4947ccbe993f753999c9386c0ec0cbb897b24378"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/121_国寿鑫颐延年养老年金保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 604324,
+      "sha256": "6eb3a9b9063661ec9e8e811734beaffdc9618669f02230b45fa50c39f57cf76b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/300_国寿鑫颐延年养老年金保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 481932,
+      "sha256": "f08178ad9890c23dd0b521704f9a8702a1a47497504b48b25cac552ce97ab7b5"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/100_国寿鑫颐延年养老年金保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": "Y",
+    "cashvalue": "/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/121_国寿鑫颐延年养老年金保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/300_国寿鑫颐延年养老年金保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-28 10:04:51+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-07-31 17:42:55",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/ee3596d1761744bc87c72a4fc17f3a39/110_国寿鑫颐延年养老年金保险基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫颐延年养老年金保险",
+    "othermessage": "",
+    "id": "bb609079-a21a-4002-a768-759950fd4490",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

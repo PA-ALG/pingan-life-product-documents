@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76e3ba0-14c3-11ee-9fa6-bc97e1225d40",
+  "actualPlanCode": "a76e3ba0-14c3-11ee-9fa6-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乐学无忧重大疾病保险（D款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76e3ba0-14c3-11ee-9fa6-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e3bc8-14c3-11ee-9fa7-bc97e1225d40/100_国寿附加乐学无忧重大疾病保险（D款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 496411,
+      "sha256": "da9577ee8285654cbbba4d1cf2b64fd4ec3e115e955b259fb1d5c7c1c8764f04"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e3bc8-14c3-11ee-9fa7-bc97e1225d40/110_国寿附加乐学无忧重大疾病保险（D款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 105010,
+      "sha256": "8664e3942397c315e02044453140ed4ca146f2398ddcf035a58840897ecb413c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e3bc8-14c3-11ee-9fa7-bc97e1225d40/300_国寿附加乐学无忧重大疾病保险（D款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 238900,
+      "sha256": "9b547f75d2138a8a96cd83b3d29b24418ec5c3c1895024bb23f89a6506697f7c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76e3bc8-14c3-11ee-9fa7-bc97e1225d40/100_国寿附加乐学无忧重大疾病保险（D款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76e3bc8-14c3-11ee-9fa7-bc97e1225d40/300_国寿附加乐学无忧重大疾病保险（D款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "172",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76e3bc8-14c3-11ee-9fa7-bc97e1225d40/110_国寿附加乐学无忧重大疾病保险（D款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加乐学无忧重大疾病保险（D款）",
+    "othermessage": "",
+    "id": "a76e3ba0-14c3-11ee-9fa6-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

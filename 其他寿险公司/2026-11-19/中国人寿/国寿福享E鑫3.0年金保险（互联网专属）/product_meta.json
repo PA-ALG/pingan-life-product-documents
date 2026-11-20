@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:c62094ab-8747-4b3a-a5b7-2575e04c484a",
+  "actualPlanCode": "c62094ab-8747-4b3a-a5b7-2575e04c484a",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿福享E鑫3.0年金保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:c62094ab-8747-4b3a-a5b7-2575e04c484a",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/100_国寿福享E鑫3.0年金保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 473950,
+      "sha256": "1f19332399694d2161b154878b02b79c139492ad64062d5af3cde9133d18ef29"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/110_国寿福享E鑫3.0年金保险(互联网专属)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 238855,
+      "sha256": "14e1b1a07cbfcbb8765774eb81e722c57a2072104f78a8f16982bf9363a94504"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/121_国寿福享E鑫3.0年金保险(互联网专属)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 85953,
+      "sha256": "a50e28dffc3360be4130401f55311ea1b22d4d13a6de43f5fd937baf64baab0f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/300_国寿福享E鑫3.0年金保险(互联网专属)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 371632,
+      "sha256": "48ed1c9c3fe666523e92cf24ed7cfb50e0d540c3faf8268428e5da302d7ee8f9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/100_国寿福享E鑫3.0年金保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/121_国寿福享E鑫3.0年金保险(互联网专属)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/300_国寿福享E鑫3.0年金保险(互联网专属)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-08-29 16:28:26+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-08-29 16:28:26",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/09d98f6d7d73401989722210fa66fade/110_国寿福享E鑫3.0年金保险(互联网专属)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿福享E鑫3.0年金保险（互联网专属）",
+    "othermessage": "",
+    "id": "c62094ab-8747-4b3a-a5b7-2575e04c484a",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

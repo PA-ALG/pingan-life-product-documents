@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:9dd5dbdd-99ad-4606-9410-b239032f4637",
+  "actualPlanCode": "9dd5dbdd-99ad-4606-9410-b239032f4637",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫鸿禧养老年金保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9dd5dbdd-99ad-4606-9410-b239032f4637",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/100_国寿鑫鸿禧养老年金保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 275037,
+      "sha256": "29d78e6a5f9f4176cc52e1c99fa423e13e08a8ee486a3948afea773f285e2375"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/110_国寿鑫鸿禧养老年金保险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 86592,
+      "sha256": "7b17e9cc56277059499c0a839deb27eee2be0fa66fe0ad878a806ad5d1c51ace"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/121_国寿鑫鸿禧养老年金保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 1313243,
+      "sha256": "c6587807d7645a7e57d4542b85e96bcba9ae4ba8df4eab37366143eeb96a563e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/300_国寿鑫鸿禧养老年金保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 344993,
+      "sha256": "7aad94132649579975e14ebeffa2ac30f5aab8af77188f9b1cc99f8d92f2c8df"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/100_国寿鑫鸿禧养老年金保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/121_国寿鑫鸿禧养老年金保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/300_国寿鑫鸿禧养老年金保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-17 10:01:46+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-10-17 10:01:46",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/d5f013a1d0e64a74aac960ac36a840db/110_国寿鑫鸿禧养老年金保险基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫鸿禧养老年金保险",
+    "othermessage": "",
+    "id": "9dd5dbdd-99ad-4606-9410-b239032f4637",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

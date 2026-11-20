@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:c197b65d-fb84-4156-9637-3339711c3b9c",
+  "actualPlanCode": "c197b65d-fb84-4156-9637-3339711c3b9c",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加学生儿童疾病住院费用补偿医疗保险（A款）（银代版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:c197b65d-fb84-4156-9637-3339711c3b9c",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/113d3c821bb54407811062fad30c55e9/国寿附加学生儿童疾病住院费用补偿医疗保险(A款)(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 323677,
+      "sha256": "6bc5e448890a8438cf8eaed4c154ce3ab7b11a9b3f71a9c1780a37e5060ae2c7"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/113d3c821bb54407811062fad30c55e9/110_国寿附加学生儿童疾病住院费用补偿医疗保险(A款)(银代版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 103233,
+      "sha256": "0dad150e2d9444bfac6fbdc938ada529fc041a64694257447c7ad19691747a64"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/113d3c821bb54407811062fad30c55e9/300_国寿附加学生儿童疾病住院费用补偿医疗保险(A款)(银代版)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 399716,
+      "sha256": "9d879c4d86e7cf1466e1c0fa9f87cfb45fe0ace5ced8e9625cb55f49e9633eda"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/113d3c821bb54407811062fad30c55e9/国寿附加学生儿童疾病住院费用补偿医疗保险(A款)(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/113d3c821bb54407811062fad30c55e9/300_国寿附加学生儿童疾病住院费用补偿医疗保险(A款)(银代版)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-23 09:42:50+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-23 09:49:05",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/113d3c821bb54407811062fad30c55e9/110_国寿附加学生儿童疾病住院费用补偿医疗保险(A款)(银代版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加学生儿童疾病住院费用补偿医疗保险（A款）（银代版）",
+    "othermessage": "",
+    "id": "c197b65d-fb84-4156-9637-3339711c3b9c",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

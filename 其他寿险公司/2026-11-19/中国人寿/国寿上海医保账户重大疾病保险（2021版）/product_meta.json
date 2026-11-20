@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76e1922-14c3-11ee-9f96-bc97e1225d40",
+  "actualPlanCode": "a76e1922-14c3-11ee-9f96-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿上海医保账户重大疾病保险（2021版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76e1922-14c3-11ee-9f96-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e1954-14c3-11ee-9f97-bc97e1225d40/100_国寿上海医保账户重大疾病保险（2021版）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 486756,
+      "sha256": "85bb67a9f4131f9fbe86b299c98c590f01413d0e47efd7c48b00e5b425eac110"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e1954-14c3-11ee-9f97-bc97e1225d40/110_国寿上海医保账户重大疾病保险（2021版）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 52892,
+      "sha256": "bb2af6f2035be1f20d4b1855245866e3240651366324557b254cc386caca3a1b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e1954-14c3-11ee-9f97-bc97e1225d40/300_国寿上海医保账户重大疾病保险（2021版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 237896,
+      "sha256": "a7c3c4fd94d7da230b58337fa0d61dc5ab23679d314cf47d82af4288d40ea0fa"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76e1954-14c3-11ee-9f97-bc97e1225d40/100_国寿上海医保账户重大疾病保险（2021版）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76e1954-14c3-11ee-9f97-bc97e1225d40/300_国寿上海医保账户重大疾病保险（2021版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "164",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76e1954-14c3-11ee-9f97-bc97e1225d40/110_国寿上海医保账户重大疾病保险（2021版）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿上海医保账户重大疾病保险（2021版）",
+    "othermessage": "",
+    "id": "a76e1922-14c3-11ee-9f96-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

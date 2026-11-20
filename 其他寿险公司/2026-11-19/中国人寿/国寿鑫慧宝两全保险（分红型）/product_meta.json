@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:b7046ff8-0142-4fb8-ae2d-1478316eb5cb",
+  "actualPlanCode": "b7046ff8-0142-4fb8-ae2d-1478316eb5cb",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫慧宝两全保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:b7046ff8-0142-4fb8-ae2d-1478316eb5cb",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/100_国寿鑫慧宝两全保险(分红型)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 296787,
+      "sha256": "db340e4abe5c3657ac1fe83a51a13c0898db586533671e08287d2f040ef3cd60"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/110_国寿鑫慧宝两全保险(分红型)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 133241,
+      "sha256": "9d0782379a6901df0a16af984abbed17add6f21565fdd214ec956f49cba6c727"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/121_国寿鑫慧宝两全保险(分红型)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 94477,
+      "sha256": "4696ad87e37ce1b9f5ef74fc6878e4d0658f1a5aff9bae307a1bfa4fc65bc215"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/300_国寿鑫慧宝两全保险(分红型)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 397540,
+      "sha256": "7a02603b2cbb4c5967f935e0cdcdac0d4038b9b91f96f5a08eb717f8ef75c313"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/100_国寿鑫慧宝两全保险(分红型)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/121_国寿鑫慧宝两全保险(分红型)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/300_国寿鑫慧宝两全保险(分红型)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-07-01 15:49:55+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-07-31 17:40:10",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/17e50ff637314b85979a964fee030eee/110_国寿鑫慧宝两全保险(分红型)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫慧宝两全保险（分红型）",
+    "othermessage": "",
+    "id": "b7046ff8-0142-4fb8-ae2d-1478316eb5cb",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

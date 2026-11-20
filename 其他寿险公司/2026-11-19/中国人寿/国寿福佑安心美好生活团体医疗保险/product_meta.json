@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a7697dea-14c3-11ee-9e58-bc97e1225d40",
+  "actualPlanCode": "a7697dea-14c3-11ee-9e58-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿福佑安心美好生活团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7697dea-14c3-11ee-9e58-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7697e08-14c3-11ee-9e59-bc97e1225d40/100_国寿福佑安心美好生活团体医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 218641,
+      "sha256": "8fa6c247a9af8126217c91c82862cd9d847029ee909fe13dc1486e0a3a0c2100"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7697e08-14c3-11ee-9e59-bc97e1225d40/300_国寿福佑安心美好生活团体医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 470238,
+      "sha256": "002ce60042d7f9d0cb39443e42e9376399f3ef5091e54b29b89cc7485cb98b6d"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a7697e08-14c3-11ee-9e59-bc97e1225d40/100_国寿福佑安心美好生活团体医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a7697e08-14c3-11ee-9e59-bc97e1225d40/300_国寿福佑安心美好生活团体医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "5",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿福佑安心美好生活团体医疗保险",
+    "othermessage": "",
+    "id": "a7697dea-14c3-11ee-9e58-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

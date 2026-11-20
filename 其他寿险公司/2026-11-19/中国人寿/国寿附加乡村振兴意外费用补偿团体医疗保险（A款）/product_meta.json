@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:f716c427-5e23-4990-9241-fe0de43895df",
+  "actualPlanCode": "f716c427-5e23-4990-9241-fe0de43895df",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乡村振兴意外费用补偿团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:f716c427-5e23-4990-9241-fe0de43895df",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/85851b3abedb4edc8dd5bc9d86f042fb/国寿附加乡村振兴意外费用补偿团体医疗保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 193763,
+      "sha256": "4cee4f06054e68fb1eebaab40947b7e68036391d150b87b03a5b7ad54acf15c5"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/85851b3abedb4edc8dd5bc9d86f042fb/国寿附加乡村振兴意外费用补偿团体医疗保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 341571,
+      "sha256": "5c6cfd2c9ad94d4bbd8b651f7bd092d21f0ae1dc222f5e5e80f90db4d3a9130a"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/85851b3abedb4edc8dd5bc9d86f042fb/国寿附加乡村振兴意外费用补偿团体医疗保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/85851b3abedb4edc8dd5bc9d86f042fb/国寿附加乡村振兴意外费用补偿团体医疗保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-07-01 15:09:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-07-01 15:09:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加乡村振兴意外费用补偿团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "f716c427-5e23-4990-9241-fe0de43895df",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

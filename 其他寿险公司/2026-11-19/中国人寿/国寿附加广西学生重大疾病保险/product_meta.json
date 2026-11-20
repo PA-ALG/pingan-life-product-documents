@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76b6f92-14c3-11ee-9eb4-bc97e1225d40",
+  "actualPlanCode": "a76b6f92-14c3-11ee-9eb4-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加广西学生重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76b6f92-14c3-11ee-9eb4-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b6fba-14c3-11ee-9eb5-bc97e1225d40/100_国寿附加广西学生重大疾病保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 489055,
+      "sha256": "77b212fa3320c7e2e9d7ed8fd9f7c89866d5abafb14f4d36786bfb633fca6d5b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b6fba-14c3-11ee-9eb5-bc97e1225d40/110_国寿附加广西学生重大疾病保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 67477,
+      "sha256": "398d6096bab9d466e9fa60530883f7ab3a618fbcebf07476a2456caa39e3a2d8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b6fba-14c3-11ee-9eb5-bc97e1225d40/300_国寿附加广西学生重大疾病保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 229059,
+      "sha256": "fde6a22f0170659b301d8ef48dd6ddc6b4889a342fcaa2727599a525a0e85d1d"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76b6fba-14c3-11ee-9eb5-bc97e1225d40/100_国寿附加广西学生重大疾病保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76b6fba-14c3-11ee-9eb5-bc97e1225d40/300_国寿附加广西学生重大疾病保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "51",
+    "datemodified": "2024-02-29 20:25:50",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76b6fba-14c3-11ee-9eb5-bc97e1225d40/110_国寿附加广西学生重大疾病保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加广西学生重大疾病保险",
+    "othermessage": "",
+    "id": "a76b6f92-14c3-11ee-9eb4-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76f9ba8-14c3-11ee-a01c-bc97e1225d40",
+  "actualPlanCode": "a76f9ba8-14c3-11ee-a01c-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿贴心呵护住院费用补偿医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76f9ba8-14c3-11ee-a01c-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f9bc6-14c3-11ee-a01d-bc97e1225d40/100_国寿贴心呵护住院费用补偿医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 435804,
+      "sha256": "5d219af4fccdebe5a79df5150972f82de51f2a535e7ef7b20ab27f663a114104"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f9bc6-14c3-11ee-a01d-bc97e1225d40/110_国寿贴心呵护住院费用补偿医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 106998,
+      "sha256": "27dbf16699fcae13ce35bb1962aa5e65f1778c328c7203b10019568a9df9b0ce"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f9bc6-14c3-11ee-a01d-bc97e1225d40/300_国寿贴心呵护住院费用补偿医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 282488,
+      "sha256": "20b68c80efee20552d233b62c0e129a3de28b8874b959975e24aeedf192279dc"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76f9bc6-14c3-11ee-a01d-bc97e1225d40/100_国寿贴心呵护住院费用补偿医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76f9bc6-14c3-11ee-a01d-bc97e1225d40/300_国寿贴心呵护住院费用补偿医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "231",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76f9bc6-14c3-11ee-a01d-bc97e1225d40/110_国寿贴心呵护住院费用补偿医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿贴心呵护住院费用补偿医疗保险",
+    "othermessage": "",
+    "id": "a76f9ba8-14c3-11ee-a01c-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

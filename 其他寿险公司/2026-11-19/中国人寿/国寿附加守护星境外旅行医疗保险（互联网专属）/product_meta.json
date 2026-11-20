@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:d7fed260-28e9-4cc4-93c5-9d5ac5cc289d",
+  "actualPlanCode": "d7fed260-28e9-4cc4-93c5-9d5ac5cc289d",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加守护星境外旅行医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:d7fed260-28e9-4cc4-93c5-9d5ac5cc289d",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c9e450e423cf40a39e1ea98f4dd23a49/100_国寿附加守护星境外旅行医疗保险(互联网专属)利益条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 572438,
+      "sha256": "affdc135bac7e367b032df4875508203a9d8fdc256883b6aa5a9adc290dffb68"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c9e450e423cf40a39e1ea98f4dd23a49/110_国寿附加守护星境外旅行医疗保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 56299,
+      "sha256": "fbd2c567e041908dd0f4bb50d9ff5ab04fff379fdd97e9db17a3ed6c9d39c113"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c9e450e423cf40a39e1ea98f4dd23a49/300_国寿附加守护星境外旅行医疗保险(互联网专属)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 421529,
+      "sha256": "3c7b2463808c5641eaf29c8d3e7a42dd9022a31253dff41e4049476f48fdb7a7"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/c9e450e423cf40a39e1ea98f4dd23a49/100_国寿附加守护星境外旅行医疗保险(互联网专属)利益条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/c9e450e423cf40a39e1ea98f4dd23a49/300_国寿附加守护星境外旅行医疗保险(互联网专属)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-07-10 11:10:51+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-07-10 11:10:51",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/c9e450e423cf40a39e1ea98f4dd23a49/110_国寿附加守护星境外旅行医疗保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加守护星境外旅行医疗保险（互联网专属）",
+    "othermessage": "",
+    "id": "d7fed260-28e9-4cc4-93c5-9d5ac5cc289d",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

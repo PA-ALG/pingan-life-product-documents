@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:5712b540-c602-48d4-821b-8d57f1640d97",
+  "actualPlanCode": "5712b540-c602-48d4-821b-8d57f1640d97",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿小微企业人员团体综合意外伤害保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:5712b540-c602-48d4-821b-8d57f1640d97",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6a0003446ee64055bcd5e4835ef24509/100_国寿小微企业人员团体综合意外伤害保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 304177,
+      "sha256": "73e936a3ffc0863aaf1489abbfb096034f4ee0e87826593dbfc37e444554ebcf"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6a0003446ee64055bcd5e4835ef24509/300_国寿小微企业人员团体综合意外伤害保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 604837,
+      "sha256": "2dbf142479e8d5c30a212695550948eef7b44775789957cc1b4988b9fa99a995"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/6a0003446ee64055bcd5e4835ef24509/100_国寿小微企业人员团体综合意外伤害保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/6a0003446ee64055bcd5e4835ef24509/300_国寿小微企业人员团体综合意外伤害保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-05-14 16:42:55+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-05-14 16:42:55",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿小微企业人员团体综合意外伤害保险（A款）",
+    "othermessage": "",
+    "id": "5712b540-c602-48d4-821b-8d57f1640d97",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

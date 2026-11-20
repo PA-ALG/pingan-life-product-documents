@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:09c2152f-be27-4e7f-a466-fc859e214eca",
+  "actualPlanCode": "09c2152f-be27-4e7f-a466-fc859e214eca",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康宁保女性重大疾病保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:09c2152f-be27-4e7f-a466-fc859e214eca",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8a3dc63e7b2e41e9acb58991823d77d2/100_国寿康宁保女性重大疾病保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 687699,
+      "sha256": "f3afd026bb1c7f86f083d19b93275b2ca80b858b591fe2735c1da7888a97a654"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8a3dc63e7b2e41e9acb58991823d77d2/110_国寿康宁保女性重大疾病保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 251220,
+      "sha256": "1f6e6b20e27a6c54b7bc0d90d60f48d06585a4baececf0fb00b9340b8bbf0ecf"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8a3dc63e7b2e41e9acb58991823d77d2/300_国寿康宁保女性重大疾病保险(互联网专属)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 255489,
+      "sha256": "22eb72e3a2bd3907981c640e2acaf667db1ecd4f3d0a98ea708a367c7c17658f"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/8a3dc63e7b2e41e9acb58991823d77d2/100_国寿康宁保女性重大疾病保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/8a3dc63e7b2e41e9acb58991823d77d2/300_国寿康宁保女性重大疾病保险(互联网专属)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-04-23 17:01:56+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-04-23 17:01:56",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/8a3dc63e7b2e41e9acb58991823d77d2/110_国寿康宁保女性重大疾病保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康宁保女性重大疾病保险（互联网专属）",
+    "othermessage": "",
+    "id": "09c2152f-be27-4e7f-a466-fc859e214eca",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

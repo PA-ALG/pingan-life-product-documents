@@ -1,0 +1,8 @@
+{
+  "url": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "api": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+  "expectedCount": 518,
+  "scope": "官方 type=1、issell=1 在售产品记录（不同条款/渠道记录保持独立）",
+  "company": "中国人寿",
+  "discoveredCount": 518
+}

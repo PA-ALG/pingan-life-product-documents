@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:6a12ba06-f2b7-4bc7-9f95-31b3d15e2963",
+  "actualPlanCode": "6a12ba06-f2b7-4bc7-9f95-31b3d15e2963",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿通泰无忧意外伤害保险（E款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:6a12ba06-f2b7-4bc7-9f95-31b3d15e2963",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a230a506e69a497193d15d246f1d8e06/100_国寿通泰无忧意外伤害保险(E款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 388933,
+      "sha256": "65d7b2a4fb506edeed2207adbb75168f6d94f781449d41fd69f279bf2e30ea6b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a230a506e69a497193d15d246f1d8e06/110_国寿通泰无忧意外伤害保险(E款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 86657,
+      "sha256": "0a7729c8c8cc5788fdfa7afa45c2414a73050152a9528e6afd5753882b19c33d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a230a506e69a497193d15d246f1d8e06/300_国寿通泰无忧意外伤害保险(E款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 558999,
+      "sha256": "da9b54c644d3fe75de46f83571b7bf91337068ddf386f2ad461aa4b75e3c5b4f"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a230a506e69a497193d15d246f1d8e06/100_国寿通泰无忧意外伤害保险(E款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a230a506e69a497193d15d246f1d8e06/300_国寿通泰无忧意外伤害保险(E款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-26 09:54:58+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-26 15:51:07",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a230a506e69a497193d15d246f1d8e06/110_国寿通泰无忧意外伤害保险(E款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿通泰无忧意外伤害保险（E款）",
+    "othermessage": "",
+    "id": "6a12ba06-f2b7-4bc7-9f95-31b3d15e2963",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

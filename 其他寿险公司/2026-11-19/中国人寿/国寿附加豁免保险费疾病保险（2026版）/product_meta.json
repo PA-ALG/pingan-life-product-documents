@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:02447fdc-8637-44aa-96cb-9a7fe64f8595",
+  "actualPlanCode": "02447fdc-8637-44aa-96cb-9a7fe64f8595",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加豁免保险费疾病保险（2026版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:02447fdc-8637-44aa-96cb-9a7fe64f8595",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/100_国寿附加豁免保险费疾病保险(2026版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 579688,
+      "sha256": "575fe500430ea6bd7c3ef2583cc96434fc837e4e72ba4d2b7aaa42f737bfddb4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/110_国寿附加豁免保险费疾病保险(2026版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 116900,
+      "sha256": "c7616ff6f48a0f1e841bf148af26f458e1290a649f86dd11e34a7b7ecce80f13"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/121_国寿附加豁免保险费疾病保险(2026版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 946350,
+      "sha256": "aa3dae0d62ade426a5fb1de07384f83f437212751a2ceddf38c74da9b38f335f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/300_国寿附加豁免保险费疾病保险(2026版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 282450,
+      "sha256": "7b4d2b64ec4cf84426c84a34e28ad11a45ae55f844a04d8b4a6a4a2da7e0e0e3"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/100_国寿附加豁免保险费疾病保险(2026版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/121_国寿附加豁免保险费疾病保险(2026版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/300_国寿附加豁免保险费疾病保险(2026版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-04-08 16:31:30+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-04-17 10:53:55",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/ac3c49f4500748f3b4fe01027f7ace87/110_国寿附加豁免保险费疾病保险(2026版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加豁免保险费疾病保险（2026版）",
+    "othermessage": "",
+    "id": "02447fdc-8637-44aa-96cb-9a7fe64f8595",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

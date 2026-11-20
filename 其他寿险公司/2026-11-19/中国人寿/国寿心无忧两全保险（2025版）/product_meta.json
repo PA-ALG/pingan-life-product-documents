@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:9a000116-c7b7-4d98-9361-a1d7dcf1de16",
+  "actualPlanCode": "9a000116-c7b7-4d98-9361-a1d7dcf1de16",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿心无忧两全保险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9a000116-c7b7-4d98-9361-a1d7dcf1de16",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/100_国寿心无忧两全保险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 293995,
+      "sha256": "9c659424d7de5139caaae1838725743424ef3b68763cfe482d0612a0b043642e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/110_国寿心无忧两全保险(2025版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 304145,
+      "sha256": "240e91548ef1fb72669417fe0f6208ac330014ef6782a3f08f96c68a2936942e"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/121_国寿心无忧两全保险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 152875,
+      "sha256": "e84dff5cc402dc801ee0a825912c03a60779889d4cceea96ab5d3aa4a5e94d41"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/300_国寿心无忧两全保险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 528272,
+      "sha256": "8e5fecbc0e5bcfa2452715158336f112a926f806b3fcd8a18fe39af9cc6edbe2"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/100_国寿心无忧两全保险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/121_国寿心无忧两全保险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/300_国寿心无忧两全保险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-12-17 16:12:38+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-12-17 16:12:38",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/abbe6030c8874fd3ab77cb4c8f5b450d/110_国寿心无忧两全保险(2025版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿心无忧两全保险（2025版）",
+    "othermessage": "",
+    "id": "9a000116-c7b7-4d98-9361-a1d7dcf1de16",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

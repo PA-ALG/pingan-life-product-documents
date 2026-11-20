@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:306908c8-c8c9-4e2f-8cdd-95adb400ea86",
+  "actualPlanCode": "306908c8-c8c9-4e2f-8cdd-95adb400ea86",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加宁波学生补充医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:306908c8-c8c9-4e2f-8cdd-95adb400ea86",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d88a8a6e9f4b48ac9e2eb68ce0a9d3ea/100_国寿附加宁波学生补充医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 465974,
+      "sha256": "6bc758c810f9b2cbf40a3ff0773c601409e5a93f946e4b982226f2e7a2a7b2f9"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d88a8a6e9f4b48ac9e2eb68ce0a9d3ea/110_国寿附加宁波学生补充医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 208426,
+      "sha256": "31a20f6e479e9c8a653c8647993024b51739695da02185ebecdf0ab71356892a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d88a8a6e9f4b48ac9e2eb68ce0a9d3ea/300_国寿附加宁波学生补充医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 514008,
+      "sha256": "26e1fe3cf0171650ff0d7ecea60b3c75237400f4d3bdae72b942b11bc48ce107"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/d88a8a6e9f4b48ac9e2eb68ce0a9d3ea/100_国寿附加宁波学生补充医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/d88a8a6e9f4b48ac9e2eb68ce0a9d3ea/300_国寿附加宁波学生补充医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-24 16:16:43+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-24 16:16:43",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/d88a8a6e9f4b48ac9e2eb68ce0a9d3ea/110_国寿附加宁波学生补充医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加宁波学生补充医疗保险",
+    "othermessage": "",
+    "id": "306908c8-c8c9-4e2f-8cdd-95adb400ea86",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

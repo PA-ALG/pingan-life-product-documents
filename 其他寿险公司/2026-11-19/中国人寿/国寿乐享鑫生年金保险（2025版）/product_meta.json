@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:d0fc5fd9-c9eb-4219-8692-7051c41e3632",
+  "actualPlanCode": "d0fc5fd9-c9eb-4219-8692-7051c41e3632",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乐享鑫生年金保险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:d0fc5fd9-c9eb-4219-8692-7051c41e3632",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/100_国寿乐享鑫生年金保险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 353104,
+      "sha256": "6e345d3d8b9858c65d975c588a36a454f9b1a8552676e14e8b9bcdb4dcc01422"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/110_国寿乐享鑫生年金保险(2025版)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 353870,
+      "sha256": "85172f20a47d8f7bbb30a9e30a2938a1b66c1d0d71f09a397fcb6f7d73b31a78"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/121_国寿乐享鑫生年金保险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 13267009,
+      "sha256": "5a82a7fa013894cad7ba9f05c22ef4628743f14f9582186c31a8299ee38036ac"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/300_国寿乐享鑫生年金保险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 300061,
+      "sha256": "abb23b42426fef4ae174d90f23254800ad4b2fec0f17d642bc8ae636d8c698a7"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/100_国寿乐享鑫生年金保险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/121_国寿乐享鑫生年金保险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/300_国寿乐享鑫生年金保险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-11-28 23:46:36+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-11-28 23:46:36",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/3e166f6eb8d64dac8500fd9d14f931bc/110_国寿乐享鑫生年金保险(2025版)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿乐享鑫生年金保险（2025版）",
+    "othermessage": "",
+    "id": "d0fc5fd9-c9eb-4219-8692-7051c41e3632",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

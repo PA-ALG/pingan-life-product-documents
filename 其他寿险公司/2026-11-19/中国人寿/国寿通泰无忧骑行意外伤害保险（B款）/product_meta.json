@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:5cba8f46-6fb2-482b-8ee2-9090533c4d45",
+  "actualPlanCode": "5cba8f46-6fb2-482b-8ee2-9090533c4d45",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿通泰无忧骑行意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:5cba8f46-6fb2-482b-8ee2-9090533c4d45",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8dc0dd38386142c090ee398bf48513d6/100_国寿通泰无忧骑行意外伤害保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 403951,
+      "sha256": "fc13f0677212e4324dcbd0feb03123e5e10515a0c6122abda63b51de89de3d04"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8dc0dd38386142c090ee398bf48513d6/110_国寿通泰无忧骑行意外伤害保险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 90772,
+      "sha256": "58e455431ff088fdf71d20ea739973a98e082c17fc41333fad6e22e7074f6f97"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8dc0dd38386142c090ee398bf48513d6/300_国寿通泰无忧骑行意外伤害保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 574466,
+      "sha256": "4bdca0e524353680c98d5b0b78394e1b953d2922759276d0965972644f45788c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/8dc0dd38386142c090ee398bf48513d6/100_国寿通泰无忧骑行意外伤害保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/8dc0dd38386142c090ee398bf48513d6/300_国寿通泰无忧骑行意外伤害保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-26 09:55:30+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-26 15:50:31",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/8dc0dd38386142c090ee398bf48513d6/110_国寿通泰无忧骑行意外伤害保险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿通泰无忧骑行意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "5cba8f46-6fb2-482b-8ee2-9090533c4d45",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

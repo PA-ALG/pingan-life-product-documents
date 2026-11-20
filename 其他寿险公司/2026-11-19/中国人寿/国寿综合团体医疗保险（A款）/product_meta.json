@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:ae63a0c1-794e-4291-9d50-79d98210e6a5",
+  "actualPlanCode": "ae63a0c1-794e-4291-9d50-79d98210e6a5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿综合团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:ae63a0c1-794e-4291-9d50-79d98210e6a5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2b21c66c819b4399ad68ac312212ffad/100_国寿综合团体医疗保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 300149,
+      "sha256": "f27e912830c37d2551ee4f8c9941ef0158fdc65a6ed7b8344950f1f8f02f0753"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2b21c66c819b4399ad68ac312212ffad/300_国寿综合团体医疗保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 291579,
+      "sha256": "398f907d333bd6fbc1cfd94b665d3170423648f3cb14840f9c4fc4d06750c492"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/2b21c66c819b4399ad68ac312212ffad/100_国寿综合团体医疗保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/2b21c66c819b4399ad68ac312212ffad/300_国寿综合团体医疗保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-06-18 13:55:20+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-06-18 13:55:20",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿综合团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "ae63a0c1-794e-4291-9d50-79d98210e6a5",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

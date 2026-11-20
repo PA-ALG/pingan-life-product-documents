@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a771ca72-14c3-11ee-a0a6-bc97e1225d40",
+  "actualPlanCode": "a771ca72-14c3-11ee-a0a6-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加绿洲疾病住院费用补偿团体医疗保险（2013版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a771ca72-14c3-11ee-a0a6-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771caa4-14c3-11ee-a0a7-bc97e1225d40/100_国寿附加绿洲疾病住院费用补偿团体医疗保险（2013版）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 145030,
+      "sha256": "3fe23f4d9b96d21fb2c9e1d833439f3a858326ac321ce4feff9ed085d3809990"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771caa4-14c3-11ee-a0a7-bc97e1225d40/300_国寿附加绿洲疾病住院费用补偿团体医疗保险(2013版)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 381489,
+      "sha256": "71d1e84d56d0f20a0ea4caf3e510e084316d8915a0ff8e1f33ba8752d4a0e7e6"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a771caa4-14c3-11ee-a0a7-bc97e1225d40/100_国寿附加绿洲疾病住院费用补偿团体医疗保险（2013版）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a771caa4-14c3-11ee-a0a7-bc97e1225d40/300_国寿附加绿洲疾病住院费用补偿团体医疗保险(2013版)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "300",
+    "datemodified": "2024-02-29 20:31:13",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加绿洲疾病住院费用补偿团体医疗保险（2013版）",
+    "othermessage": "",
+    "id": "a771ca72-14c3-11ee-a0a6-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

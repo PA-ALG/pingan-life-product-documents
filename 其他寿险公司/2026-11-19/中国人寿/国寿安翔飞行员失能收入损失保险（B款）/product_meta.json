@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:0aa7956a-1447-4b8e-bb66-fe422144af3a",
+  "actualPlanCode": "0aa7956a-1447-4b8e-bb66-fe422144af3a",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿安翔飞行员失能收入损失保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "失能险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:0aa7956a-1447-4b8e-bb66-fe422144af3a",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d350a59ea80940bc97a2857ae2534cd1/国寿安翔飞行员失能收入损失保险(B款).pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 380990,
+      "sha256": "b9c18f731cd8e929e2a3ff2047a1960b80e3ae1d7726a163ba964b06390bf144"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d350a59ea80940bc97a2857ae2534cd1/110_国寿安翔飞行员失能收入损失保险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 75131,
+      "sha256": "35e971891fe994402229f16b90635a6b456628a91f641e7ef145c09541f947b8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/d350a59ea80940bc97a2857ae2534cd1/300_国寿安翔飞行员失能收入损失保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 237111,
+      "sha256": "20436e2d771746dfd97bc36faa252503a7d5606d84cd9ff2bebf9ce12c812b40"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/d350a59ea80940bc97a2857ae2534cd1/国寿安翔飞行员失能收入损失保险(B款).pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/d350a59ea80940bc97a2857ae2534cd1/300_国寿安翔飞行员失能收入损失保险（B款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-12 10:22:37+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-01-31 21:51:17",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/d350a59ea80940bc97a2857ae2534cd1/110_国寿安翔飞行员失能收入损失保险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿安翔飞行员失能收入损失保险（B款）",
+    "othermessage": "",
+    "id": "0aa7956a-1447-4b8e-bb66-fe422144af3a",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

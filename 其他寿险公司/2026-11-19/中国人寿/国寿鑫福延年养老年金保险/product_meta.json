@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:5e781305-e246-41a1-86cb-018fa0e827fd",
+  "actualPlanCode": "5e781305-e246-41a1-86cb-018fa0e827fd",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫福延年养老年金保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:5e781305-e246-41a1-86cb-018fa0e827fd",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/100_国寿鑫福延年养老年金保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 298295,
+      "sha256": "c5ad767fbcc9b4412a66936df0e999d28668efb88edd4bac43b376ba37658ae8"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/110_国寿鑫福延年养老年金保险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 504393,
+      "sha256": "b85c58bda7b750a905a960757c21452dcc04b9e0ff5c8e77877ab487da0e4bee"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/121_国寿鑫福延年养老年金保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 599408,
+      "sha256": "39a49436d7d0a23d068b436972ec55ba2f05001d30863316824c366a3d2f40b1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/300_国寿鑫福延年养老年金保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 506386,
+      "sha256": "130ae1ac205f0e52e2896302166efb9ae6e2e1edef3f203d50a96750813a8ab5"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/100_国寿鑫福延年养老年金保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/121_国寿鑫福延年养老年金保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/300_国寿鑫福延年养老年金保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-06 10:07:51+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-06 10:07:51",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/c65327fd6e33418e8668d0b6e0491de9/110_国寿鑫福延年养老年金保险基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫福延年养老年金保险",
+    "othermessage": "",
+    "id": "5e781305-e246-41a1-86cb-018fa0e827fd",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

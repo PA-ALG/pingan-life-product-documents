@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a771ea98-14c3-11ee-a0b6-bc97e1225d40",
+  "actualPlanCode": "a771ea98-14c3-11ee-a0b6-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加学生儿童意外伤害费用补偿医疗保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a771ea98-14c3-11ee-a0b6-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771eab6-14c3-11ee-a0b7-bc97e1225d40/100_国寿附加学生儿童意外伤害费用补偿医疗保险（B款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 231142,
+      "sha256": "07778dc005464316e9d334230f6c58bd9681c817400e07fab87fc9cb0fb1af65"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771eab6-14c3-11ee-a0b7-bc97e1225d40/110_国寿附加学生儿童意外伤害费用补偿医疗保险（B款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 61872,
+      "sha256": "2f7c8e7e5c7f4bb38d8e7cb247ae6f751376b03208f812166a39961c12ba909c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771eab6-14c3-11ee-a0b7-bc97e1225d40/300_国寿附加学生儿童意外伤害费用补偿医疗保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 226250,
+      "sha256": "64c17220ac42d57c6b4a3e45dbdea981f9b58ae51478ac30cc78458169eeed1d"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a771eab6-14c3-11ee-a0b7-bc97e1225d40/100_国寿附加学生儿童意外伤害费用补偿医疗保险（B款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a771eab6-14c3-11ee-a0b7-bc97e1225d40/300_国寿附加学生儿童意外伤害费用补偿医疗保险（B款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "308",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a771eab6-14c3-11ee-a0b7-bc97e1225d40/110_国寿附加学生儿童意外伤害费用补偿医疗保险（B款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加学生儿童意外伤害费用补偿医疗保险（B款）",
+    "othermessage": "",
+    "id": "a771ea98-14c3-11ee-a0b6-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

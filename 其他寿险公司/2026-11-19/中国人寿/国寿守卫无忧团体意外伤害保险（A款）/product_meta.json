@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:2ae7ea8c-ebb9-45c8-b851-8eb40c8a552a",
+  "actualPlanCode": "2ae7ea8c-ebb9-45c8-b851-8eb40c8a552a",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿守卫无忧团体意外伤害保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2ae7ea8c-ebb9-45c8-b851-8eb40c8a552a",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7fee64461c364df18abc37acac3758f8/国寿守卫无忧团体意外伤害保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 256201,
+      "sha256": "d56265b62c422e64dbdffbd0162befd6c1cbb55f9b65af56d26e903cdcb43b5f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7fee64461c364df18abc37acac3758f8/国寿守卫无忧团体意外伤害保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 388741,
+      "sha256": "1670bd95e9ef0da5e1240fb5f2d402b8f64de96faae926e305f93e6985b151a3"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/7fee64461c364df18abc37acac3758f8/国寿守卫无忧团体意外伤害保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/7fee64461c364df18abc37acac3758f8/国寿守卫无忧团体意外伤害保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-09-09 11:44:45+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-09-09 11:49:14",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿守卫无忧团体意外伤害保险（A款）",
+    "othermessage": "",
+    "id": "2ae7ea8c-ebb9-45c8-b851-8eb40c8a552a",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

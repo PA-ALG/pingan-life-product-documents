@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:f1987de7-42c4-409b-afad-7702d7b4e94c",
+  "actualPlanCode": "f1987de7-42c4-409b-afad-7702d7b4e94c",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加瑞鑫提前给付重大疾病保险（尊享版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:f1987de7-42c4-409b-afad-7702d7b4e94c",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/100_国寿附加瑞鑫提前给付重大疾病保险(尊享版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 597281,
+      "sha256": "4cd800289906e3897e42a195e4d9c161bf5c40fcbee87f904b76425fcb1e45bd"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/110_国寿附加瑞鑫提前给付重大疾病保险(尊享版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 127910,
+      "sha256": "f17ded0de2e106ef539af64405b1a16ff1c2dd3c1c4df91b546693555c65c2b6"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/121_国寿附加瑞鑫提前给付重大疾病保险(尊享版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 4066475,
+      "sha256": "4ef6062670893b8a896dbf2a8318ef6c6bbea67e968517634fb8a2be3b55e50d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/300_国寿附加瑞鑫提前给付重大疾病保险(尊享版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 327646,
+      "sha256": "67cff6a8b14897cb4e987d52f368950b0306350ad03634caf848c2ed791bb938"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/100_国寿附加瑞鑫提前给付重大疾病保险(尊享版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/121_国寿附加瑞鑫提前给付重大疾病保险(尊享版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/300_国寿附加瑞鑫提前给付重大疾病保险(尊享版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-10-10 15:17:05+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-10-10 15:17:05",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a334de44285040ada6e08d21d3494df5/110_国寿附加瑞鑫提前给付重大疾病保险(尊享版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加瑞鑫提前给付重大疾病保险（尊享版）",
+    "othermessage": "",
+    "id": "f1987de7-42c4-409b-afad-7702d7b4e94c",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

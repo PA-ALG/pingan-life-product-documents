@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a770db3a-14c3-11ee-a07a-bc97e1225d40",
+  "actualPlanCode": "a770db3a-14c3-11ee-a07a-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加通泰交通团体意外费用补偿医疗保险（2017版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a770db3a-14c3-11ee-a07a-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770db6c-14c3-11ee-a07b-bc97e1225d40/100_国寿附加通泰交通团体意外费用补偿医疗保险（2017版）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 159817,
+      "sha256": "c042b6878a5c03249b3fdb854fe184683c8020e8dda0322e21482487aabd1cc8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770db6c-14c3-11ee-a07b-bc97e1225d40/300_国寿附加通泰交通团体意外费用补偿医疗保险（2017版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 219341,
+      "sha256": "e8d91077964e0a214154d48c46f9666258ec79e25078f4e7465c8ab8d10df3f4"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a770db6c-14c3-11ee-a07b-bc97e1225d40/100_国寿附加通泰交通团体意外费用补偿医疗保险（2017版）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a770db6c-14c3-11ee-a07b-bc97e1225d40/300_国寿附加通泰交通团体意外费用补偿医疗保险（2017版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "278",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加通泰交通团体意外费用补偿医疗保险（2017版）",
+    "othermessage": "",
+    "id": "a770db3a-14c3-11ee-a07a-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

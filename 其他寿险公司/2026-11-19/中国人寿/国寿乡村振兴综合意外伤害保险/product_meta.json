@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76c9ff2-14c3-11ee-9f42-bc97e1225d40",
+  "actualPlanCode": "a76c9ff2-14c3-11ee-9f42-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乡村振兴综合意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76c9ff2-14c3-11ee-9f42-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ca0b0-14c3-11ee-9f43-bc97e1225d40/100_国寿乡村振兴综合意外伤害保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 366841,
+      "sha256": "857c70da9537c985c8f94a917f62b87dd96ef1bbc946d63cc47cf0ff35bb0e6e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ca0b0-14c3-11ee-9f43-bc97e1225d40/110_国寿乡村振兴综合意外伤害保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 80729,
+      "sha256": "7a7be0f996d60c8f1877c4b4bf772638fb111e85e9dfa333cf228e26d941cb8c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ca0b0-14c3-11ee-9f43-bc97e1225d40/300_国寿乡村振兴综合意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 391490,
+      "sha256": "4c9911b8e65cd44c82b4e88db91d2b964c1b4d4e44676d07d31dd6f7c96cc38c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76ca0b0-14c3-11ee-9f43-bc97e1225d40/100_国寿乡村振兴综合意外伤害保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76ca0b0-14c3-11ee-9f43-bc97e1225d40/300_国寿乡村振兴综合意外伤害保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "122",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76ca0b0-14c3-11ee-9f43-bc97e1225d40/110_国寿乡村振兴综合意外伤害保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿乡村振兴综合意外伤害保险",
+    "othermessage": "",
+    "id": "a76c9ff2-14c3-11ee-9f42-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:268914a2-f8c5-4a93-b23e-befb01fc5c84",
+  "actualPlanCode": "268914a2-f8c5-4a93-b23e-befb01fc5c84",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乐学无忧住院费用补偿医疗保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:268914a2-f8c5-4a93-b23e-befb01fc5c84",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1be9fec0bc164dc9be6eedca137cc12b/100_国寿附加乐学无忧住院费用补偿医疗保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 266169,
+      "sha256": "f9d888d8976543a6436b32186f3cda3cc591d89e3f427aaffb3232efd37c12cb"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1be9fec0bc164dc9be6eedca137cc12b/110_国寿附加乐学无忧住院费用补偿医疗保险(C款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 314084,
+      "sha256": "176c0512f78cd4a086d9d0307224d2bdc1a54b9ec49222fc6f493895e480a9da"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1be9fec0bc164dc9be6eedca137cc12b/278-300_国寿附加乐学无忧住院费用补偿医疗保险(C款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 239019,
+      "sha256": "26634d0d6f8e457db9d33997af51d5d6f3d80d4b69792184d7e1c13a31624fd3"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/1be9fec0bc164dc9be6eedca137cc12b/100_国寿附加乐学无忧住院费用补偿医疗保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/1be9fec0bc164dc9be6eedca137cc12b/278-300_国寿附加乐学无忧住院费用补偿医疗保险(C款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-03-08 11:21:09+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-03-08 11:21:09",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/1be9fec0bc164dc9be6eedca137cc12b/110_国寿附加乐学无忧住院费用补偿医疗保险(C款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加乐学无忧住院费用补偿医疗保险（C款）",
+    "othermessage": "",
+    "id": "268914a2-f8c5-4a93-b23e-befb01fc5c84",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

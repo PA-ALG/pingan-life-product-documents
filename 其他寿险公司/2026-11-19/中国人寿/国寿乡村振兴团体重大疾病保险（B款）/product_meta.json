@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76ca7cc-14c3-11ee-9f46-bc97e1225d40",
+  "actualPlanCode": "a76ca7cc-14c3-11ee-9f46-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乡村振兴团体重大疾病保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76ca7cc-14c3-11ee-9f46-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ca7f4-14c3-11ee-9f47-bc97e1225d40/100_国寿乡村振兴团体重大疾病保险（B款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 497084,
+      "sha256": "dc870872ce73b8bfacb36071405f2573c43addf3131889a5d9d1ff058e3ae9f7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ca7f4-14c3-11ee-9f47-bc97e1225d40/300_国寿乡村振兴团体重大疾病保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 396807,
+      "sha256": "4d1a12c45dbbc628b171581899661e5f2c6843ec4b36237bf869f40360bbf6e5"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76ca7f4-14c3-11ee-9f47-bc97e1225d40/100_国寿乡村振兴团体重大疾病保险（B款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76ca7f4-14c3-11ee-9f47-bc97e1225d40/300_国寿乡村振兴团体重大疾病保险（B款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "124",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿乡村振兴团体重大疾病保险（B款）",
+    "othermessage": "",
+    "id": "a76ca7cc-14c3-11ee-9f46-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:2d539f8f-64a5-4338-a1ea-cc9dc7add4e4",
+  "actualPlanCode": "2d539f8f-64a5-4338-a1ea-cc9dc7add4e4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加爱意康悦特定医疗保险（尊享版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2d539f8f-64a5-4338-a1ea-cc9dc7add4e4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c12d59fd35024754972afbba0f8dafec/国寿附加爱意康悦特定医疗保险(尊享版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 679761,
+      "sha256": "7a36f503780db0ad6ab3fe4119b855b822787483f71fdddf7119b56186be09d6"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c12d59fd35024754972afbba0f8dafec/110_国寿附加爱意康悦特定医疗保险(尊享版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 53430,
+      "sha256": "5f3d4a16abc4dce598723e520dd1291b0e6aed4cf4c18debd017e449f28deb33"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c12d59fd35024754972afbba0f8dafec/300_国寿附加爱意康悦特定医疗保险(尊享版)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 538701,
+      "sha256": "a505a73c7cc7238f473743d3a87ed7a3c4c95f134cb8961302c67f24add062be"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/c12d59fd35024754972afbba0f8dafec/国寿附加爱意康悦特定医疗保险(尊享版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/c12d59fd35024754972afbba0f8dafec/300_国寿附加爱意康悦特定医疗保险(尊享版)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-07-14 15:47:29+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-07-14 15:47:29",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/c12d59fd35024754972afbba0f8dafec/110_国寿附加爱意康悦特定医疗保险(尊享版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加爱意康悦特定医疗保险（尊享版）",
+    "othermessage": "",
+    "id": "2d539f8f-64a5-4338-a1ea-cc9dc7add4e4",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76cef20-14c3-11ee-9f58-bc97e1225d40",
+  "actualPlanCode": "a76cef20-14c3-11ee-9f58-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿神舟团体补充医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76cef20-14c3-11ee-9f58-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76cef48-14c3-11ee-9f59-bc97e1225d40/100_国寿神舟团体补充医疗保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 490850,
+      "sha256": "c7953ba4ab7a0d935cf25a01ede93bac476e8d29396bd381b3d4f0f965db9cce"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76cef48-14c3-11ee-9f59-bc97e1225d40/300_国寿神舟团体补充医疗保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 293294,
+      "sha256": "e5b957350393f7460b700c9df277ceec708f7b3c6f63ae7322f1b4c01c9fa89f"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76cef48-14c3-11ee-9f59-bc97e1225d40/100_国寿神舟团体补充医疗保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76cef48-14c3-11ee-9f59-bc97e1225d40/300_国寿神舟团体补充医疗保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "133",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿神舟团体补充医疗保险（A款）",
+    "othermessage": "",
+    "id": "a76cef20-14c3-11ee-9f58-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

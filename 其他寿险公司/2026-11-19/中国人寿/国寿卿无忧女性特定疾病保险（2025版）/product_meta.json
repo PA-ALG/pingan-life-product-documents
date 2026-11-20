@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:9812a977-b37a-477a-bc35-671eab1dfb4b",
+  "actualPlanCode": "9812a977-b37a-477a-bc35-671eab1dfb4b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿卿无忧女性特定疾病保险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9812a977-b37a-477a-bc35-671eab1dfb4b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/100_国寿卿无忧女性特定疾病保险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 628916,
+      "sha256": "b7d90253a328268e287b6d43f8736d4b281124faea89dc08f99ce2665d4ea078"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/110_国寿卿无忧女性特定疾病保险(2025版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 319706,
+      "sha256": "b527a74b54d686258391962b1a69d7fa4066b864a57763540b0e8ccc576bae04"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/121_国寿卿无忧女性特定疾病保险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 4871776,
+      "sha256": "077b7aba3a8cec83af81600a70ece0b9441fa2d82cc4f0e6f33eec637a4e39bb"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/300_国寿卿无忧女性特定疾病保险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 577762,
+      "sha256": "7b1a21dac7147dc4f85eed2eec80bef5a33d9641f5cc137adc90b67f30c34447"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/100_国寿卿无忧女性特定疾病保险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/121_国寿卿无忧女性特定疾病保险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/300_国寿卿无忧女性特定疾病保险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-19 17:13:15+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-19 17:13:15",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/fe92dac02ec44585bec85b5863686fdf/110_国寿卿无忧女性特定疾病保险(2025版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿卿无忧女性特定疾病保险（2025版）",
+    "othermessage": "",
+    "id": "9812a977-b37a-477a-bc35-671eab1dfb4b",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

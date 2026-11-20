@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a770fb56-14c3-11ee-a08a-bc97e1225d40",
+  "actualPlanCode": "a770fb56-14c3-11ee-a08a-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加两保一孤疾病身故团体定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a770fb56-14c3-11ee-a08a-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770fb74-14c3-11ee-a08b-bc97e1225d40/100_国寿附加两保一孤疾病身故团体定期寿险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 162691,
+      "sha256": "f8ea6caae3335a9d0e29c2420f8e7efa449f357e98d8093654b212870819ac6b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770fb74-14c3-11ee-a08b-bc97e1225d40/300_国寿附加两保一孤疾病身故团体定期寿险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 210171,
+      "sha256": "8cb8b4a4b2fd99980aef3fc0c23b3159e39c1a75a0534408ab0d99a212732464"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a770fb74-14c3-11ee-a08b-bc97e1225d40/100_国寿附加两保一孤疾病身故团体定期寿险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a770fb74-14c3-11ee-a08b-bc97e1225d40/300_国寿附加两保一孤疾病身故团体定期寿险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "286",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加两保一孤疾病身故团体定期寿险",
+    "othermessage": "",
+    "id": "a770fb56-14c3-11ee-a08a-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

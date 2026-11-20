@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:aad2810d-5e66-448d-9fbc-990e0854569f",
+  "actualPlanCode": "aad2810d-5e66-448d-9fbc-990e0854569f",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫缘宝养老年金保险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:aad2810d-5e66-448d-9fbc-990e0854569f",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bd6e8c81fb9f4491be3dd02fb534652f/100_国寿鑫缘宝养老年金保险(万能型)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 351330,
+      "sha256": "7d66cae99f5fc7797f653f2dd75de45ef122cdc98896f1afece2bb1422f1b12b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bd6e8c81fb9f4491be3dd02fb534652f/110_国寿鑫缘宝养老年金保险(万能型)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 41503,
+      "sha256": "b204cb8f28f2c670e968844ec6719c2e6fa3412f57bbcf3db504dafa1aeb5ff1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bd6e8c81fb9f4491be3dd02fb534652f/300_国寿鑫缘宝养老年金保险(万能型)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 456786,
+      "sha256": "d3fef1ba486daffe953bce0eed8ee75dcf8cbe24d18f01621f26dbec81c50f7e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/bd6e8c81fb9f4491be3dd02fb534652f/100_国寿鑫缘宝养老年金保险(万能型)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/bd6e8c81fb9f4491be3dd02fb534652f/300_国寿鑫缘宝养老年金保险(万能型)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-11-18 15:49:07+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-07-31 17:42:22",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/bd6e8c81fb9f4491be3dd02fb534652f/110_国寿鑫缘宝养老年金保险(万能型)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫缘宝养老年金保险（万能型）",
+    "othermessage": "",
+    "id": "aad2810d-5e66-448d-9fbc-990e0854569f",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

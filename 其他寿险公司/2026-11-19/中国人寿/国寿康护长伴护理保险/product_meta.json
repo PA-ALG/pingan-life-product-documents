@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:65afa1a3-9228-4b52-ab74-f833367aa6b6",
+  "actualPlanCode": "65afa1a3-9228-4b52-ab74-f833367aa6b6",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康护长伴护理保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "护理险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:65afa1a3-9228-4b52-ab74-f833367aa6b6",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/100_国寿康护长伴护理保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 450448,
+      "sha256": "9b6492984257cccdf2ef073b859a5cfced406f51b24f7aac3515eec38e4ed753"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/110_国寿康护长伴护理保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 265954,
+      "sha256": "ef2812df83d82c3b627572938d2d24611a452ce205f2581e79a9a49a1ff507b6"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/121_国寿康护长伴护理保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 224303,
+      "sha256": "90a04150e5f33d4ba9dc793b7f02acba0756a269262eb35689f3b29a7e42136a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/300_国寿康护长伴护理保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 437503,
+      "sha256": "fce646b71e8eb8ddbff8dd163fe8a332c32c651a6ef0b8474154fd9b88450d1a"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/100_国寿康护长伴护理保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/121_国寿康护长伴护理保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/300_国寿康护长伴护理保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-19 17:06:37+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-19 17:06:37",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/082e738d96124e929b406d80f041c0c7/110_国寿康护长伴护理保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康护长伴护理保险",
+    "othermessage": "",
+    "id": "65afa1a3-9228-4b52-ab74-f833367aa6b6",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

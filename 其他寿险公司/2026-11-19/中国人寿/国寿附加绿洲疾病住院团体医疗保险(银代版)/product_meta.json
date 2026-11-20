@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:03a73926-2be7-45aa-adaa-2ed016d0590f",
+  "actualPlanCode": "03a73926-2be7-45aa-adaa-2ed016d0590f",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加绿洲疾病住院团体医疗保险(银代版)",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:03a73926-2be7-45aa-adaa-2ed016d0590f",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f9cf10b78898413f954412e3bb6da971/100_国寿附加绿洲疾病住院团体医疗保险(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 232663,
+      "sha256": "613c52a1a196ecadf7f89aa38b9f39cae0fd2614301bdc00d0062e5b482b81f3"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f9cf10b78898413f954412e3bb6da971/300_国寿附加绿洲疾病住院团体医疗保险（银代版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 225931,
+      "sha256": "d1acdd2204073f6ccf4b2e1eca92330f7a40060d1304939efd8f6015c71f32bd"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/f9cf10b78898413f954412e3bb6da971/100_国寿附加绿洲疾病住院团体医疗保险(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/f9cf10b78898413f954412e3bb6da971/300_国寿附加绿洲疾病住院团体医疗保险（银代版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-10 15:09:48+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-01-31 21:55:43",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加绿洲疾病住院团体医疗保险(银代版)",
+    "othermessage": "",
+    "id": "03a73926-2be7-45aa-adaa-2ed016d0590f",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

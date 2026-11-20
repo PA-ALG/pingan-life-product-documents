@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:b46654ba-323a-4d07-8c03-6cd9925fe18d",
+  "actualPlanCode": "b46654ba-323a-4d07-8c03-6cd9925fe18d",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿销售精英团体养老年金保险（B款）（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:b46654ba-323a-4d07-8c03-6cd9925fe18d",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c7f039feb872426bbb7856869bfe4103/100_国寿销售精英团体养老年金保险(B款)(万能型)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 238515,
+      "sha256": "0694c7f3fc0b3b2b7bb2b81766df6952bf74096fed7a34cac3792b8e766dc053"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c7f039feb872426bbb7856869bfe4103/300_国寿销售精英团体养老年金保险(B款)(万能型)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 319798,
+      "sha256": "6420b7f776b21080d901bb04512edd2b5250f216137bb2239889370d05c9124a"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/c7f039feb872426bbb7856869bfe4103/100_国寿销售精英团体养老年金保险(B款)(万能型)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/c7f039feb872426bbb7856869bfe4103/300_国寿销售精英团体养老年金保险(B款)(万能型)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-20 16:21:32+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-10-20 16:21:32",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿销售精英团体养老年金保险（B款）（万能型）",
+    "othermessage": "",
+    "id": "b46654ba-323a-4d07-8c03-6cd9925fe18d",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

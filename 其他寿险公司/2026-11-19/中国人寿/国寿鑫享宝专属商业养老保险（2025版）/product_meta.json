@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:fe9f6342-1b7f-4569-aff4-3e0ca9153f8b",
+  "actualPlanCode": "fe9f6342-1b7f-4569-aff4-3e0ca9153f8b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫享宝专属商业养老保险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "其他人身险",
+  "productLevel": null,
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:fe9f6342-1b7f-4569-aff4-3e0ca9153f8b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4172fc4f3ad24626a6e0ca9ba6ef9f1b/国寿鑫享宝专属商业养老保险(惠享版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 318114,
+      "sha256": "aa2ceab38c48793d0c14837007245e44310e4637bc0f0eacada9990e000c1496"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4172fc4f3ad24626a6e0ca9ba6ef9f1b/国寿鑫享宝专属商业养老保险(惠享版)养老年金领取标准表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 113761,
+      "sha256": "27c51c0d7e858d6482be6be22fff461408ea76b604eaa34802ac418360a6bddd"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4172fc4f3ad24626a6e0ca9ba6ef9f1b/国寿鑫享宝专属商业养老保险(惠享版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 817550,
+      "sha256": "6d366888b4ceca454363afa028208f61b0f68c259aa84ed55e24c57d7059e45b"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/4172fc4f3ad24626a6e0ca9ba6ef9f1b/国寿鑫享宝专属商业养老保险(惠享版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/4172fc4f3ad24626a6e0ca9ba6ef9f1b/国寿鑫享宝专属商业养老保险(惠享版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-11-13 15:02:57+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-11-13 15:02:57",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/4172fc4f3ad24626a6e0ca9ba6ef9f1b/国寿鑫享宝专属商业养老保险(惠享版)养老年金领取标准表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫享宝专属商业养老保险（2025版）",
+    "othermessage": "",
+    "id": "fe9f6342-1b7f-4569-aff4-3e0ca9153f8b",
+    "category": null
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

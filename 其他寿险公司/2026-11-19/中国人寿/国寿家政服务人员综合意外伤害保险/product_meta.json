@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:9cba8d4c-1e0f-44f9-a8cb-6f46fdba24f8",
+  "actualPlanCode": "9cba8d4c-1e0f-44f9-a8cb-6f46fdba24f8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿家政服务人员综合意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9cba8d4c-1e0f-44f9-a8cb-6f46fdba24f8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bc9230b918574939b629242dd9efa108/100_国寿家政服务人员综合意外伤害保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 448106,
+      "sha256": "cbe9bf266ac7fecfbf825147fe52be25ce2f070529e59d43cacc996dabc1d671"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bc9230b918574939b629242dd9efa108/300_国寿家政服务人员综合意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 603605,
+      "sha256": "4393c8094d764bd34f5a79c59219646d6848cff34c2beacd8175d3fa3d23e460"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/bc9230b918574939b629242dd9efa108/100_国寿家政服务人员综合意外伤害保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/bc9230b918574939b629242dd9efa108/300_国寿家政服务人员综合意外伤害保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-04-29 21:03:03+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-04-29 21:03:03",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿家政服务人员综合意外伤害保险",
+    "othermessage": "",
+    "id": "9cba8d4c-1e0f-44f9-a8cb-6f46fdba24f8",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:6be2f018-7bdb-4759-8df0-e8e23719e2ad",
+  "actualPlanCode": "6be2f018-7bdb-4759-8df0-e8e23719e2ad",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加康医保两全保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:6be2f018-7bdb-4759-8df0-e8e23719e2ad",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/100_国寿附加康医保两全保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 317934,
+      "sha256": "31d335bd561959e9a9cb246096b6afe98a068aa84b766a3ff91cded1008e4be0"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/110_国寿附加康医保两全保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 313172,
+      "sha256": "d5145560a52d1c99320cc3a21a772fdf230863be53c9f4040d45c69b3499ff69"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/121_国寿附加康医保两全保险(互联网专属)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 179730,
+      "sha256": "b123d7fd2a825765473c5788f278e0a5a79a42bff1fbee72a4bef3bc53dc1e23"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/300_国寿附加康医保两全保险(互联网专属)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 499594,
+      "sha256": "6d93ff3cb856bc8eb7d8161a9504d51519594ca2e701dbed7eff0d5872ccacd9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/100_国寿附加康医保两全保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/121_国寿附加康医保两全保险(互联网专属)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/300_国寿附加康医保两全保险(互联网专属)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-05-26 16:30:48+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-05-26 16:30:48",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/78432b832a814849b6e9c3e2106a0bc5/110_国寿附加康医保两全保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加康医保两全保险（互联网专属）",
+    "othermessage": "",
+    "id": "6be2f018-7bdb-4759-8df0-e8e23719e2ad",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

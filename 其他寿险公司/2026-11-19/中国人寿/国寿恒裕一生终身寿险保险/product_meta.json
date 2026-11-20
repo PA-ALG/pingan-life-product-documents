@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:5b251bd9-8b3e-42be-a36a-20a137a23376",
+  "actualPlanCode": "5b251bd9-8b3e-42be-a36a-20a137a23376",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿恒裕一生终身寿险保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:5b251bd9-8b3e-42be-a36a-20a137a23376",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/100_国寿恒裕一生终身寿险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 323513,
+      "sha256": "f028f35148ae2ec1198ef595b2a0fe0c30473c39616c1d85d2ea1437e3146e92"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/110_国寿恒裕一生终身寿险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 161686,
+      "sha256": "1b5eec18de4628921c97aba7bf4fbe6c719dcb25ac114df2c05784ee23495c0b"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/121_国寿恒裕一生终身寿险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 334050,
+      "sha256": "9d552fd4967c1bb115d1cdeda9b28394a73198cf015d967b4e43e4d5d7725dee"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/300_国寿恒裕一生终身寿险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 480752,
+      "sha256": "237fd513e6b10302a18ed9339cfb33c4a308971666a55e13888353d91ecb3f15"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/100_国寿恒裕一生终身寿险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/121_国寿恒裕一生终身寿险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/300_国寿恒裕一生终身寿险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-06 10:05:24+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-06 10:05:24",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/53c12fa2ed10499d9baa8a82d57a8b3e/110_国寿恒裕一生终身寿险基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿恒裕一生终身寿险保险",
+    "othermessage": "",
+    "id": "5b251bd9-8b3e-42be-a36a-20a137a23376",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76e90a0-14c3-11ee-9fb8-bc97e1225d40",
+  "actualPlanCode": "a76e90a0-14c3-11ee-9fb8-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿新绿洲团体重大疾病保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76e90a0-14c3-11ee-9fb8-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e90c8-14c3-11ee-9fb9-bc97e1225d40/100_国寿新绿洲团体重大疾病保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 479006,
+      "sha256": "90ed44d1f8389931d3cc88e98159670bb3c2c704291faf81254ed00e3010eb6f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e90c8-14c3-11ee-9fb9-bc97e1225d40/300_国寿新绿洲团体重大疾病保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 238659,
+      "sha256": "d7678124326e137685176146bc30eb5c6d4f5b5a05dc8eef7a46d4eaa647ad16"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76e90c8-14c3-11ee-9fb9-bc97e1225d40/100_国寿新绿洲团体重大疾病保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76e90c8-14c3-11ee-9fb9-bc97e1225d40/300_国寿新绿洲团体重大疾病保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "181",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿新绿洲团体重大疾病保险（A款）",
+    "othermessage": "",
+    "id": "a76e90a0-14c3-11ee-9fb8-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

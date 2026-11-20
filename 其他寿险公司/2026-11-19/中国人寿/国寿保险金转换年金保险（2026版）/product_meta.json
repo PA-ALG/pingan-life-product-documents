@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:41077cc1-cf1a-4002-912c-f2b83e5efea0",
+  "actualPlanCode": "41077cc1-cf1a-4002-912c-f2b83e5efea0",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿保险金转换年金保险（2026版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:41077cc1-cf1a-4002-912c-f2b83e5efea0",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/100_国寿保险金转换年金保险(2026版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 306748,
+      "sha256": "689196d672dabf68df1b113bf9d3db58f2c4daf56d18c6df7deb3bfeab94bff4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/110_国寿保险金转换年金保险(2026版)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 55737,
+      "sha256": "e0e3c4bd5a43275782bf93325c072761fd6ea812aa653c86158025e4d6847acd"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/121_国寿保险金转换年金保险(2026版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 303817,
+      "sha256": "f6ef08f88a0fb921792c2e4cf26207762095436bff29a8240707fb75b797c286"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/300_国寿保险金转换年金保险(2026版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 274293,
+      "sha256": "156752dc6e6274c43cb879b6b7c2aa40fb61a09e3c9639311b5e306d27f2d860"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/100_国寿保险金转换年金保险(2026版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/121_国寿保险金转换年金保险(2026版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/300_国寿保险金转换年金保险(2026版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-06-15 16:11:33+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-06-17 10:12:16",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/12ace07bd30d43deafe11ccd6436a1bb/110_国寿保险金转换年金保险(2026版)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿保险金转换年金保险（2026版）",
+    "othermessage": "",
+    "id": "41077cc1-cf1a-4002-912c-f2b83e5efea0",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

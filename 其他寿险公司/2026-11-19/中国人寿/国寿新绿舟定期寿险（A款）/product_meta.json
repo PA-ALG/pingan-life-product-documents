@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76fdf0a-14c3-11ee-a034-bc97e1225d40",
+  "actualPlanCode": "a76fdf0a-14c3-11ee-a034-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿新绿舟定期寿险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76fdf0a-14c3-11ee-a034-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76fdf32-14c3-11ee-a035-bc97e1225d40/100_国寿新绿舟定期寿险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 265100,
+      "sha256": "4d1c51d6e8f461c717326c6fbb637c19f9b172e3a9bf7dd831817950ca84d1ce"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76fdf32-14c3-11ee-a035-bc97e1225d40/110_国寿新绿舟定期寿险（A款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 95988,
+      "sha256": "a11ad74c0230709e9056d35de90b1de341fcd8c8b94d63c091a4386649afd17b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76fdf32-14c3-11ee-a035-bc97e1225d40/300_国寿新绿舟定期寿险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 241352,
+      "sha256": "67ec9d387e9c796127e8b21023af98c9dff80e37ea22409123b86d46c078fe6b"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76fdf32-14c3-11ee-a035-bc97e1225d40/100_国寿新绿舟定期寿险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76fdf32-14c3-11ee-a035-bc97e1225d40/300_国寿新绿舟定期寿险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "243",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76fdf32-14c3-11ee-a035-bc97e1225d40/110_国寿新绿舟定期寿险（A款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿新绿舟定期寿险（A款）",
+    "othermessage": "",
+    "id": "a76fdf0a-14c3-11ee-a034-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

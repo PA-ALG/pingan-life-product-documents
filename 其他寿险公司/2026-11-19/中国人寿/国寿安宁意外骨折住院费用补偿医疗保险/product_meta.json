@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a771fda8-14c3-11ee-a0c0-bc97e1225d40",
+  "actualPlanCode": "a771fda8-14c3-11ee-a0c0-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿安宁意外骨折住院费用补偿医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a771fda8-14c3-11ee-a0c0-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771fdc6-14c3-11ee-a0c1-bc97e1225d40/100_国寿安宁意外骨折住院费用补偿医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 293843,
+      "sha256": "716539856a250b35f92e5380463fc48e147db6771ed67acdcd41cd9479c1098f"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771fdc6-14c3-11ee-a0c1-bc97e1225d40/110_国寿安宁意外骨折住院费用补偿医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 75300,
+      "sha256": "f781d5d09fa2c2ffa5fca37c67bd070867b7fc3334ddda484670ee18f167839a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771fdc6-14c3-11ee-a0c1-bc97e1225d40/300_国寿安宁意外骨折住院费用补偿医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 249759,
+      "sha256": "1e6f5b0221e25474786d2e6d5f11f02b37cef478d69aea89a3bb5e8998c2079e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a771fdc6-14c3-11ee-a0c1-bc97e1225d40/100_国寿安宁意外骨折住院费用补偿医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a771fdc6-14c3-11ee-a0c1-bc97e1225d40/300_国寿安宁意外骨折住院费用补偿医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "313",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a771fdc6-14c3-11ee-a0c1-bc97e1225d40/110_国寿安宁意外骨折住院费用补偿医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿安宁意外骨折住院费用补偿医疗保险",
+    "othermessage": "",
+    "id": "a771fda8-14c3-11ee-a0c0-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

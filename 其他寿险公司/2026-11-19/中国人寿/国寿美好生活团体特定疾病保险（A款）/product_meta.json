@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:97a588b4-0078-4e27-ab56-27c559f77d39",
+  "actualPlanCode": "97a588b4-0078-4e27-ab56-27c559f77d39",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿美好生活团体特定疾病保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:97a588b4-0078-4e27-ab56-27c559f77d39",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8a4d5b53d9734a3b8bf76740f96f8b75/100_国寿美好生活团体特定疾病保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 501665,
+      "sha256": "4ac534bc4ba77dfc8a9249266d5fd061bc7a213396fa143dc650d8f76d4a59e7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8a4d5b53d9734a3b8bf76740f96f8b75/300_国寿美好生活团体特定疾病保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 262154,
+      "sha256": "07e90c49313cd050027101ee9144b9b54aa40ae155e03859d50c7a67b638dc0c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/8a4d5b53d9734a3b8bf76740f96f8b75/100_国寿美好生活团体特定疾病保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/8a4d5b53d9734a3b8bf76740f96f8b75/300_国寿美好生活团体特定疾病保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-12-30 09:46:59+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-12-30 09:46:59",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿美好生活团体特定疾病保险（A款）",
+    "othermessage": "",
+    "id": "97a588b4-0078-4e27-ab56-27c559f77d39",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

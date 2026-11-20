@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a769d448-14c3-11ee-9e86-bc97e1225d40",
+  "actualPlanCode": "a769d448-14c3-11ee-9e86-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿通泰无忧团体意外伤害保险（E款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a769d448-14c3-11ee-9e86-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a769d466-14c3-11ee-9e87-bc97e1225d40/100_国寿通泰无忧团体意外伤害保险（E款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 225212,
+      "sha256": "8d2e54aedf6acfb851d0c04d206235cae6a7d4c9b162e0948fdcc9e7ccfdf888"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a769d466-14c3-11ee-9e87-bc97e1225d40/300_国寿通泰无忧团体意外伤害保险（E款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 447047,
+      "sha256": "6787ac987b19e77311be83434965074a3c3004080304d201b1c772e9f0552c45"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a769d466-14c3-11ee-9e87-bc97e1225d40/100_国寿通泰无忧团体意外伤害保险（E款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a769d466-14c3-11ee-9e87-bc97e1225d40/300_国寿通泰无忧团体意外伤害保险（E款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "28",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿通泰无忧团体意外伤害保险（E款）",
+    "othermessage": "",
+    "id": "a769d448-14c3-11ee-9e86-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

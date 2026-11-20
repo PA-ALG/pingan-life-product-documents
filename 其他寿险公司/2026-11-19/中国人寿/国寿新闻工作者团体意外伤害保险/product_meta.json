@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:04fa809c-644d-4114-94ad-65aeddde89fa",
+  "actualPlanCode": "04fa809c-644d-4114-94ad-65aeddde89fa",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿新闻工作者团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:04fa809c-644d-4114-94ad-65aeddde89fa",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/aa6b7280e5514bb299e79b34ff93bf74/100_国寿新闻工作者团体意外伤害保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 238332,
+      "sha256": "f8bc9d23239af8174a4d6337cdce27e982b35c7cc5cb8d589903da96d8e281fe"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/aa6b7280e5514bb299e79b34ff93bf74/300_国寿新闻工作者团体意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 421365,
+      "sha256": "5976854ebde488d31d6a1e2a88d28eb912c9e98170da24f90b7c106a66a80902"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/aa6b7280e5514bb299e79b34ff93bf74/100_国寿新闻工作者团体意外伤害保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/aa6b7280e5514bb299e79b34ff93bf74/300_国寿新闻工作者团体意外伤害保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-09-11 16:56:10+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-03-06 13:46:36",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿新闻工作者团体意外伤害保险",
+    "othermessage": "",
+    "id": "04fa809c-644d-4114-94ad-65aeddde89fa",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

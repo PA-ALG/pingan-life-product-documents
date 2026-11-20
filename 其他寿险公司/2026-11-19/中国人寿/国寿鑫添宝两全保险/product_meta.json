@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:9bcfba89-8cb6-4136-b031-109b95316582",
+  "actualPlanCode": "9bcfba89-8cb6-4136-b031-109b95316582",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫添宝两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9bcfba89-8cb6-4136-b031-109b95316582",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/100_国寿鑫添宝两全保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 293379,
+      "sha256": "d0dd592209c475de79619860e4fdd3cd2d086946df2b221fb1889b9fef08bd7a"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/110_国寿鑫添宝两全保险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 104265,
+      "sha256": "891af366a592bd2a1a88ab63c3ec93547f0ba1a006a50deb5a7b778ab96edc0f"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/121_国寿鑫添宝两全保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 25589,
+      "sha256": "58db548982b4745e425816fd0eddf1a9566665f292d0b39739f4ae74f0e1bb68"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/300_国寿鑫添宝两全保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 327427,
+      "sha256": "d41e09fc4580b8d6dad330b5e84d97ba94b96c00cc6fea234c379d44227bd314"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/100_国寿鑫添宝两全保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": "Y",
+    "cashvalue": "/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/121_国寿鑫添宝两全保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/300_国寿鑫添宝两全保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-08-31 10:37:02+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-07-31 17:44:29",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/c2c36f9e0fe04d5aa37cc8f649d002f4/110_国寿鑫添宝两全保险基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫添宝两全保险",
+    "othermessage": "",
+    "id": "9bcfba89-8cb6-4136-b031-109b95316582",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

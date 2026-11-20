@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:cae77761-4af4-45cf-a5f8-b47802064868",
+  "actualPlanCode": "cae77761-4af4-45cf-a5f8-b47802064868",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿小微企业人员意外住院定额给付团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:cae77761-4af4-45cf-a5f8-b47802064868",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/79da1b816eae42969ae4bb1dea04bd8a/100_国寿小微企业人员意外住院定额给付团体医疗保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 299808,
+      "sha256": "fbf8e04a0b1dd95a07af71afddec7c78399f7d6a5223f48e56f5e9eb120a33db"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/79da1b816eae42969ae4bb1dea04bd8a/300_国寿小微企业人员意外住院定额给付团体医疗保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 552893,
+      "sha256": "c58dfe1585470da6ce20cbd8dd36ae7d053c1772e36c1e0c016d1a859112103e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/79da1b816eae42969ae4bb1dea04bd8a/100_国寿小微企业人员意外住院定额给付团体医疗保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/79da1b816eae42969ae4bb1dea04bd8a/300_国寿小微企业人员意外住院定额给付团体医疗保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-04 15:41:55+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-04 15:41:55",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿小微企业人员意外住院定额给付团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "cae77761-4af4-45cf-a5f8-b47802064868",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

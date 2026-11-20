@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:173a94d9-f05f-416d-9b6f-f6cbdceb8a62",
+  "actualPlanCode": "173a94d9-f05f-416d-9b6f-f6cbdceb8a62",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乐学无忧补充医疗保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:173a94d9-f05f-416d-9b6f-f6cbdceb8a62",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/0a70c678c1384d49bc30fc0c0033c148/国寿附加乐学无忧补充医疗保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 415606,
+      "sha256": "b9d8dd6d588bb0b53b776959677c2a9e1a70ab4009558a6c57b09173e9143d73"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/0a70c678c1384d49bc30fc0c0033c148/110_国寿附加乐学无忧补充医疗保险(C款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 513702,
+      "sha256": "3e5e2c0418e3129d25a3e64278e41abd309917203d5951a0a879eae64374bf8c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/0a70c678c1384d49bc30fc0c0033c148/300_国寿附加乐学无忧补充医疗保险(C款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 526487,
+      "sha256": "09680c67d966ab1daf89b59c09c584f09afa3ec1e55a0770a27ec180bce84503"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/0a70c678c1384d49bc30fc0c0033c148/国寿附加乐学无忧补充医疗保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/0a70c678c1384d49bc30fc0c0033c148/300_国寿附加乐学无忧补充医疗保险(C款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-03 09:45:41+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-03 09:45:41",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/0a70c678c1384d49bc30fc0c0033c148/110_国寿附加乐学无忧补充医疗保险(C款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加乐学无忧补充医疗保险（C款）",
+    "othermessage": "",
+    "id": "173a94d9-f05f-416d-9b6f-f6cbdceb8a62",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

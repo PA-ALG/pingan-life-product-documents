@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:93c5fa04-4c96-41f6-91f7-71069dd998bb",
+  "actualPlanCode": "93c5fa04-4c96-41f6-91f7-71069dd998bb",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加绿洲意外费用补偿团体医疗保险（D款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:93c5fa04-4c96-41f6-91f7-71069dd998bb",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bfaf338b0f45442a90010cae923fe8a5/国寿附加绿洲意外费用补偿团体医疗保险(D款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 173492,
+      "sha256": "f5d150c80daa2d936eb5eb9e146c3433426b65e13474f4a83b6cde6c25fb63d8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/bfaf338b0f45442a90010cae923fe8a5/国寿附加绿洲意外费用补偿团体医疗保险(D款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 237798,
+      "sha256": "c42f8ee765ece320873bcd4ba2559b83a890826bb685625baf1c490df1f415ee"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/bfaf338b0f45442a90010cae923fe8a5/国寿附加绿洲意外费用补偿团体医疗保险(D款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/bfaf338b0f45442a90010cae923fe8a5/国寿附加绿洲意外费用补偿团体医疗保险(D款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-17 16:54:28+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-10-17 16:54:28",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加绿洲意外费用补偿团体医疗保险（D款）",
+    "othermessage": "",
+    "id": "93c5fa04-4c96-41f6-91f7-71069dd998bb",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

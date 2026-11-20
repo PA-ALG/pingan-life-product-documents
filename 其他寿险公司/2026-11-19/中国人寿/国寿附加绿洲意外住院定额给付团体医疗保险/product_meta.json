@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a772be96-14c3-11ee-a0fa-bc97e1225d40",
+  "actualPlanCode": "a772be96-14c3-11ee-a0fa-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加绿洲意外住院定额给付团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a772be96-14c3-11ee-a0fa-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772bebe-14c3-11ee-a0fb-bc97e1225d40/100_国寿附加绿洲意外住院定额给付团体医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 167827,
+      "sha256": "fe3b8c2695eaa40c19986e179548edde87be79dfd88dc5926450b08f66962d4b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772bebe-14c3-11ee-a0fb-bc97e1225d40/300_国寿附加绿洲意外住院定额给付团体医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 307813,
+      "sha256": "ba77d5635f0a1b115c2c389a038f55bdb479acf49da416bc98a31cf199e7ed81"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a772bebe-14c3-11ee-a0fb-bc97e1225d40/100_国寿附加绿洲意外住院定额给付团体医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a772bebe-14c3-11ee-a0fb-bc97e1225d40/300_国寿附加绿洲意外住院定额给付团体医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "342",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加绿洲意外住院定额给付团体医疗保险",
+    "othermessage": "",
+    "id": "a772be96-14c3-11ee-a0fa-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

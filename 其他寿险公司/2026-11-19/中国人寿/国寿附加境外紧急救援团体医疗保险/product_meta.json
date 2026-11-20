@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a771cef0-14c3-11ee-a0a8-bc97e1225d40",
+  "actualPlanCode": "a771cef0-14c3-11ee-a0a8-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加境外紧急救援团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a771cef0-14c3-11ee-a0a8-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771cf18-14c3-11ee-a0a9-bc97e1225d40/100_国寿附加境外紧急救援团体医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 168640,
+      "sha256": "595af07cb7272ddd18525696117e88e4d7b322cb208790600c5a7606e56f44b8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771cf18-14c3-11ee-a0a9-bc97e1225d40/300_国寿附加境外紧急救援团体医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 197584,
+      "sha256": "dd91cf1d9e2d708a055f04b0d7931e29f5b0e86b2d5103c55f2b99e6eb740f0a"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a771cf18-14c3-11ee-a0a9-bc97e1225d40/100_国寿附加境外紧急救援团体医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a771cf18-14c3-11ee-a0a9-bc97e1225d40/300_国寿附加境外紧急救援团体医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "301",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加境外紧急救援团体医疗保险",
+    "othermessage": "",
+    "id": "a771cef0-14c3-11ee-a0a8-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

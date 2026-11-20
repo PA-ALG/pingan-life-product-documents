@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76e8894-14c3-11ee-9fb4-bc97e1225d40",
+  "actualPlanCode": "a76e8894-14c3-11ee-9fb4-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿扶贫保团体重大疾病保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76e8894-14c3-11ee-9fb4-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e88c6-14c3-11ee-9fb5-bc97e1225d40/100_国寿扶贫保团体重大疾病保险（C款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 423937,
+      "sha256": "13a9a2dd4b7011596557f60465d524c9219efaa96d6754d261979879db2c3021"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76e88c6-14c3-11ee-9fb5-bc97e1225d40/300_国寿扶贫保团体重大疾病保险（C款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 306431,
+      "sha256": "f13de74041bf149c3d064b14ba3468113ee9b6d3c6bfa0abb9a5f2b0eb2e112a"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76e88c6-14c3-11ee-9fb5-bc97e1225d40/100_国寿扶贫保团体重大疾病保险（C款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76e88c6-14c3-11ee-9fb5-bc97e1225d40/300_国寿扶贫保团体重大疾病保险（C款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "179",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿扶贫保团体重大疾病保险（C款）",
+    "othermessage": "",
+    "id": "a76e8894-14c3-11ee-9fb4-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:6953352a-8a9d-473e-a4c1-8acca03ddfbb",
+  "actualPlanCode": "6953352a-8a9d-473e-a4c1-8acca03ddfbb",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿祥和人生定期寿险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:6953352a-8a9d-473e-a4c1-8acca03ddfbb",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/100_国寿祥和人生定期寿险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 556867,
+      "sha256": "8dbc95359b2c876a82902b64a9e350c96bfb2a690ba278cbb22c86c53a797eee"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/110_国寿祥和人生定期寿险(2025版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 657989,
+      "sha256": "a5f99a045744ae59b6d7adf372c86408a4a5c540416cb374a4b975332e93a4c9"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/121_国寿祥和人生定期寿险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 444250,
+      "sha256": "852555f70ed7d4c5f5465d6a584513ebdfbb7abc3dd453aeb5e807bd819326b8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/300_国寿祥和人生定期寿险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 726539,
+      "sha256": "00e0257e45e77008e7dc6f1a9e35fca1cff051ab878d18582305121c949ce76b"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/100_国寿祥和人生定期寿险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/121_国寿祥和人生定期寿险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/300_国寿祥和人生定期寿险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-28 09:51:18+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-11-27 14:21:46",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/14d4364aa4384fd69fbefae89238c078/110_国寿祥和人生定期寿险(2025版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿祥和人生定期寿险（2025版）",
+    "othermessage": "",
+    "id": "6953352a-8a9d-473e-a4c1-8acca03ddfbb",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76f662e-14c3-11ee-a000-bc97e1225d40",
+  "actualPlanCode": "a76f662e-14c3-11ee-a000-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿一带一路团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76f662e-14c3-11ee-a000-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f6656-14c3-11ee-a001-bc97e1225d40/100_国寿一带一路团体医疗保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 202554,
+      "sha256": "b27472af1f178cdf5720b7596cdcdd2594f47f1bb2845d912f57cf52bf56253b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f6656-14c3-11ee-a001-bc97e1225d40/300_国寿一带一路团体医疗保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 320114,
+      "sha256": "24df03f8c1714d41421d9218e97ff935588103b1f9bdfc939eb173b83ffb0da9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76f6656-14c3-11ee-a001-bc97e1225d40/100_国寿一带一路团体医疗保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76f6656-14c3-11ee-a001-bc97e1225d40/300_国寿一带一路团体医疗保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "217",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿一带一路团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "a76f662e-14c3-11ee-a000-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

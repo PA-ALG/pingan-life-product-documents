@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:7038ad54-8605-4705-91b2-39d2388a9be8",
+  "actualPlanCode": "7038ad54-8605-4705-91b2-39d2388a9be8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫泰金生养老年金保险（分红型）（典藏版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:7038ad54-8605-4705-91b2-39d2388a9be8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/100_国寿鑫泰金生养老年金保险(分红型)(典藏版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 328099,
+      "sha256": "87b6b3d93f68cfc7dca4818e8c98d5a99ebc532ec47708a7ab2f9b46fa2e3109"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/110_国寿鑫泰金生养老年金保险(分红型)(典藏版)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 430057,
+      "sha256": "adc71b07b5295a4562aede07d54ecd559d151255f10a27868d1c6dd9122d1778"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/121_国寿鑫泰金生养老年金保险(分红型)(典藏版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 20073890,
+      "sha256": "fc86dd79c3511a82940c4c398e48da9467187c8943ada05a6ef5b35d0bf05412"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/300_国寿鑫泰金生养老年金保险(分红型)(典藏版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 478351,
+      "sha256": "77f48856c65f603126180c1c3095d9bcfb836330c91358ef9231a3ca8f995db3"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/100_国寿鑫泰金生养老年金保险(分红型)(典藏版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/121_国寿鑫泰金生养老年金保险(分红型)(典藏版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/300_国寿鑫泰金生养老年金保险(分红型)(典藏版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-10-10 15:14:18+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-10-10 15:14:18",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/e235c438c8f74f9ab07842d00f49c16b/110_国寿鑫泰金生养老年金保险(分红型)(典藏版)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫泰金生养老年金保险（分红型）（典藏版）",
+    "othermessage": "",
+    "id": "7038ad54-8605-4705-91b2-39d2388a9be8",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

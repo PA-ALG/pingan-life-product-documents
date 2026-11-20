@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:9adf96cd-e205-4fac-9ab0-8bb569644f9d",
+  "actualPlanCode": "9adf96cd-e205-4fac-9ab0-8bb569644f9d",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿臻爱无忧医疗保险（悦享版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9adf96cd-e205-4fac-9ab0-8bb569644f9d",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4e59d38f6b97438bb15bf8cdc33c6e3e/100_国寿臻爱无忧医疗保险(悦享版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 894464,
+      "sha256": "fab321ac97026dba071d48427be8f95b47d101e4fcc7cfd57bbaefa0f31b8f84"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4e59d38f6b97438bb15bf8cdc33c6e3e/110_国寿臻爱无忧医疗保险(悦享版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 142615,
+      "sha256": "d7a69d95ea69ac5c03ef6344fd27787410651adf0ab6b14d1efcf15e21db84c8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4e59d38f6b97438bb15bf8cdc33c6e3e/300_国寿臻爱无忧医疗保险(悦享版)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 696981,
+      "sha256": "413d288711ae2a4d1c75d7c61040add517355870e0b96c7bfb3213f7ca9078e9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/4e59d38f6b97438bb15bf8cdc33c6e3e/100_国寿臻爱无忧医疗保险(悦享版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/4e59d38f6b97438bb15bf8cdc33c6e3e/300_国寿臻爱无忧医疗保险(悦享版)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-09 16:47:42+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-09 16:47:42",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/4e59d38f6b97438bb15bf8cdc33c6e3e/110_国寿臻爱无忧医疗保险(悦享版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿臻爱无忧医疗保险（悦享版）",
+    "othermessage": "",
+    "id": "9adf96cd-e205-4fac-9ab0-8bb569644f9d",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76d6d88-14c3-11ee-9f78-bc97e1225d40",
+  "actualPlanCode": "a76d6d88-14c3-11ee-9f78-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76d6d88-14c3-11ee-9f78-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76d6db0-14c3-11ee-9f79-bc97e1225d40/100_国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 411041,
+      "sha256": "7a01ad8b465baf6c0438b23545f1fa5111dc0df844550d832202299620c48235"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76d6db0-14c3-11ee-9f79-bc97e1225d40/110_国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 117546,
+      "sha256": "bc500bcc2fa107ae06f9f86df5202a3bbb6313d4abd36b53828937cb73192f7e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76d6db0-14c3-11ee-9f79-bc97e1225d40/300_国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 270679,
+      "sha256": "c488912781e00efa22452aec306cc51754d295751261ead387bf0e48210ef54c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76d6db0-14c3-11ee-9f79-bc97e1225d40/100_国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76d6db0-14c3-11ee-9f79-bc97e1225d40/300_国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "149",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76d6db0-14c3-11ee-9f79-bc97e1225d40/110_国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加乐学无忧意外伤害费用补偿医疗保险（G款）",
+    "othermessage": "",
+    "id": "a76d6d88-14c3-11ee-9f78-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

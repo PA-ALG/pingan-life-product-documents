@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76b6358-14c3-11ee-9eae-bc97e1225d40",
+  "actualPlanCode": "a76b6358-14c3-11ee-9eae-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿校园综合意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76b6358-14c3-11ee-9eae-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b6376-14c3-11ee-9eaf-bc97e1225d40/100_国寿校园综合意外伤害保险（B款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 341762,
+      "sha256": "0971b0e9afc4525c7a8fa6460d0cb8b7f96fe3184896f074b3212bec5ab8bbf0"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b6376-14c3-11ee-9eaf-bc97e1225d40/110_国寿校园综合意外伤害保险（B款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 184373,
+      "sha256": "00d7871a339f3d4d6a86df05e7a363842e7aee69c31919dca583b5347f6082cf"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b6376-14c3-11ee-9eaf-bc97e1225d40/300_国寿校园综合意外伤害保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 419709,
+      "sha256": "0826d0b9a77965996af66e261450407379b7823948c2f33dfcb6159fe2d5f593"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76b6376-14c3-11ee-9eaf-bc97e1225d40/100_国寿校园综合意外伤害保险（B款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76b6376-14c3-11ee-9eaf-bc97e1225d40/300_国寿校园综合意外伤害保险（B款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "48",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76b6376-14c3-11ee-9eaf-bc97e1225d40/110_国寿校园综合意外伤害保险（B款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿校园综合意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "a76b6358-14c3-11ee-9eae-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

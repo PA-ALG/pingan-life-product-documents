@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:6640aeec-565b-46ae-a7e4-ee13b7bf54cb",
+  "actualPlanCode": "6640aeec-565b-46ae-a7e4-ee13b7bf54cb",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿惠享一生终身重大疾病保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:6640aeec-565b-46ae-a7e4-ee13b7bf54cb",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/100_国寿惠享一生终身重大疾病保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 968135,
+      "sha256": "c93fdf29cc5ea32e4983df747222411115a9a7c23b58544e98aa23ef0de46014"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/110_国寿惠享一生终身重大疾病保险(C款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 2640323,
+      "sha256": "0ac8caddbbd1aa76bfbf4d69552583392be41520d52cccdc96f071fa73a9d1db"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/121_国寿惠享一生终身重大疾病保险(C款)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 8466333,
+      "sha256": "ce5abb334146aa6d56cd2104875cf1105d1cff0c9d5ff5f3ca8539b757f15f75"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/300_国寿惠享一生终身重大疾病保险(C款)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 556015,
+      "sha256": "a92f74a4ba6d188c0b1ce16030f2f181902e0a52257970a1328db4f8e9d24e2d"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/100_国寿惠享一生终身重大疾病保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/121_国寿惠享一生终身重大疾病保险(C款)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/300_国寿惠享一生终身重大疾病保险(C款)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-29 16:02:05+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-10-29 16:02:05",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/535447a9df8447c48a2689577e6694e7/110_国寿惠享一生终身重大疾病保险(C款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿惠享一生终身重大疾病保险（C款）",
+    "othermessage": "",
+    "id": "6640aeec-565b-46ae-a7e4-ee13b7bf54cb",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

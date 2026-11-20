@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:c36dd472-dc7b-4f30-bd31-0f8411c75a92",
+  "actualPlanCode": "c36dd472-dc7b-4f30-bd31-0f8411c75a92",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加绿洲住院费用补偿团体医疗保险（A款）（银代版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:c36dd472-dc7b-4f30-bd31-0f8411c75a92",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2800e08d554e485e8ce2f7ab7953a862/100_国寿附加绿洲住院费用补偿团体医疗保险(A款)(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 239390,
+      "sha256": "7f40b5d9d441113068ba82c36d25a44a110444c2f6bff65a1d81ba4be81db95f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2800e08d554e485e8ce2f7ab7953a862/300_国寿附加绿洲住院费用补偿团体医疗保险（A款）（银代版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 228505,
+      "sha256": "24aaee48074e890d5524ac598916c88a941e7c3d558f08b43c17fef3ab9ead4e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/2800e08d554e485e8ce2f7ab7953a862/100_国寿附加绿洲住院费用补偿团体医疗保险(A款)(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/2800e08d554e485e8ce2f7ab7953a862/300_国寿附加绿洲住院费用补偿团体医疗保险（A款）（银代版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-10 15:12:05+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-01-10 15:12:05",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加绿洲住院费用补偿团体医疗保险（A款）（银代版）",
+    "othermessage": "",
+    "id": "c36dd472-dc7b-4f30-bd31-0f8411c75a92",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

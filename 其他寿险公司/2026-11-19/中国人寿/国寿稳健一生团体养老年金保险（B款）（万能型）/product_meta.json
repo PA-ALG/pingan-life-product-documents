@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a64c3ea8-d9c1-4efd-8cb6-f4a1b0dcd967",
+  "actualPlanCode": "a64c3ea8-d9c1-4efd-8cb6-f4a1b0dcd967",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿稳健一生团体养老年金保险（B款）（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a64c3ea8-d9c1-4efd-8cb6-f4a1b0dcd967",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ba7e6610ee614681860160515481e674/100_国寿稳健一生团体养老年金保险(B款)(万能型)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 259931,
+      "sha256": "305c956e57ee9aad9db6e0d66988ce9da0a77d1eed5dfe62373785817baa7e63"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/ba7e6610ee614681860160515481e674/300_国寿稳健一生团体养老年金保险(B款)(万能型)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 322314,
+      "sha256": "f4ea5df5d65d719d8968443f99b10396ba3d8170aefb825f032544c82091178b"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/ba7e6610ee614681860160515481e674/100_国寿稳健一生团体养老年金保险(B款)(万能型)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/ba7e6610ee614681860160515481e674/300_国寿稳健一生团体养老年金保险(B款)(万能型)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-20 16:20:31+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-10-20 16:20:31",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿稳健一生团体养老年金保险（B款）（万能型）",
+    "othermessage": "",
+    "id": "a64c3ea8-d9c1-4efd-8cb6-f4a1b0dcd967",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

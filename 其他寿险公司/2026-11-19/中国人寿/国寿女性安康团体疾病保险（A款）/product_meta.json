@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a7723444-14c3-11ee-a0d0-bc97e1225d40",
+  "actualPlanCode": "a7723444-14c3-11ee-a0d0-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿女性安康团体疾病保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7723444-14c3-11ee-a0d0-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772346c-14c3-11ee-a0d1-bc97e1225d40/100_国寿女性安康团体疾病保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 146595,
+      "sha256": "792a8ade82b83f6893230640dcd03654fceb3c576a1390379e37a15faf67b6d4"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772346c-14c3-11ee-a0d1-bc97e1225d40/300_国寿女性安康团体疾病保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 213581,
+      "sha256": "dad6e0695098a5081a5a03dc8f77d748c7adb4fa9074e8ae00494ee04b0653db"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a772346c-14c3-11ee-a0d1-bc97e1225d40/100_国寿女性安康团体疾病保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a772346c-14c3-11ee-a0d1-bc97e1225d40/300_国寿女性安康团体疾病保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "321",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿女性安康团体疾病保险（A款）",
+    "othermessage": "",
+    "id": "a7723444-14c3-11ee-a0d0-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:c273a3e1-c688-4e0a-b0ac-a3be347dbe34",
+  "actualPlanCode": "c273a3e1-c688-4e0a-b0ac-a3be347dbe34",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫安盈两全保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:c273a3e1-c688-4e0a-b0ac-a3be347dbe34",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/100_国寿鑫安盈两全保险(A款)利益条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 213852,
+      "sha256": "8201a69f92f0eb2cdf05944bfabf831023b3cb01330aab22e7b18948fc265d3e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/110_国寿鑫安盈两全保险(A款)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 105621,
+      "sha256": "bc73ef1d8b11d19e88170c561ac05b2b549225f8bf176c6af385b3910f003adf"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/120_国寿鑫安盈两全保险(A款)现金价值表示例.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 31670,
+      "sha256": "1f0d318d7b01f20fc01b88bee7e37b4d09fb3cc850a3af4e8f97b1efc987b407"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/300_国寿鑫安盈两全保险(A款)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 259660,
+      "sha256": "46eb793ca54ac5229d4a3c3604a9a212cfcfb7cf2e9c7c5511f28d200a8e5299"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/100_国寿鑫安盈两全保险(A款)利益条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/120_国寿鑫安盈两全保险(A款)现金价值表示例.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/300_国寿鑫安盈两全保险(A款)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-19 16:58:34+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-01-31 21:44:30",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/f2d5fc314ff94a7c96927767ba945e02/110_国寿鑫安盈两全保险(A款)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫安盈两全保险（A款）",
+    "othermessage": "",
+    "id": "c273a3e1-c688-4e0a-b0ac-a3be347dbe34",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

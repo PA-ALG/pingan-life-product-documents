@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76bcac8-14c3-11ee-9ee4-bc97e1225d40",
+  "actualPlanCode": "a76bcac8-14c3-11ee-9ee4-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿神州紧急救援意外伤害保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76bcac8-14c3-11ee-9ee4-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76bcae6-14c3-11ee-9ee5-bc97e1225d40/100_国寿神州紧急救援意外伤害保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 374290,
+      "sha256": "50a40c1079ba66bee91fbc060abddc45768ae4b56d4726b1fdd877d84991d8f3"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76bcae6-14c3-11ee-9ee5-bc97e1225d40/110_国寿神州紧急救援意外伤害保险（A款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 65705,
+      "sha256": "0cfb57858b3a13b88362c532a2b0fab9f280efcced5071557b30ea866485f845"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76bcae6-14c3-11ee-9ee5-bc97e1225d40/300_国寿神州紧急救援意外伤害保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 381727,
+      "sha256": "33dd9048ec30fee46a6da20ac3f63c85ae68e0f63fbfaf876619f0d3703cbb79"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76bcae6-14c3-11ee-9ee5-bc97e1225d40/100_国寿神州紧急救援意外伤害保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76bcae6-14c3-11ee-9ee5-bc97e1225d40/300_国寿神州紧急救援意外伤害保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "75",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76bcae6-14c3-11ee-9ee5-bc97e1225d40/110_国寿神州紧急救援意外伤害保险（A款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿神州紧急救援意外伤害保险（A款）",
+    "othermessage": "",
+    "id": "a76bcac8-14c3-11ee-9ee4-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

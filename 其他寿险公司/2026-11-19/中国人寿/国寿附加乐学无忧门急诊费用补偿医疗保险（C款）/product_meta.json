@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:56179b07-a012-4613-8e3c-09026b18c50e",
+  "actualPlanCode": "56179b07-a012-4613-8e3c-09026b18c50e",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乐学无忧门急诊费用补偿医疗保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:56179b07-a012-4613-8e3c-09026b18c50e",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5193c8c83a3644e8b03581aaed7a3cd8/100_国寿附加乐学无忧门急诊费用补偿医疗保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 313188,
+      "sha256": "a073ae0eb127642be557c92c5bd9fc73cac8b5d1cae7c62f65e0b81e565edda3"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5193c8c83a3644e8b03581aaed7a3cd8/110_国寿附加乐学无忧门急诊费用补偿医疗保险(C款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 161204,
+      "sha256": "551b178cd57d5403b5ad9a83ac17f47fc6f4ce3815defe3ae0323383c590e907"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5193c8c83a3644e8b03581aaed7a3cd8/300_国寿附加乐学无忧门急诊费用补偿医疗保险(C款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 354717,
+      "sha256": "bb9185c4b8bb29269edf08821a350fb76d9b93649857e98cb5da23b94588454b"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/5193c8c83a3644e8b03581aaed7a3cd8/100_国寿附加乐学无忧门急诊费用补偿医疗保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/5193c8c83a3644e8b03581aaed7a3cd8/300_国寿附加乐学无忧门急诊费用补偿医疗保险(C款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-06-30 09:15:40+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-06-30 09:15:40",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/5193c8c83a3644e8b03581aaed7a3cd8/110_国寿附加乐学无忧门急诊费用补偿医疗保险(C款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加乐学无忧门急诊费用补偿医疗保险（C款）",
+    "othermessage": "",
+    "id": "56179b07-a012-4613-8e3c-09026b18c50e",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

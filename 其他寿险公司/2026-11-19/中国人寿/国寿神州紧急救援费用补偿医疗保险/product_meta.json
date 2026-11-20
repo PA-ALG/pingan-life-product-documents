@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a772308e-14c3-11ee-a0ce-bc97e1225d40",
+  "actualPlanCode": "a772308e-14c3-11ee-a0ce-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿神州紧急救援费用补偿医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a772308e-14c3-11ee-a0ce-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a77230ac-14c3-11ee-a0cf-bc97e1225d40/100_国寿神州紧急救援费用补偿医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 280033,
+      "sha256": "7c42ca9ce756c49ea5933f87a1e2477959c96d3ae9ceb2d8ae178ac610270e64"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a77230ac-14c3-11ee-a0cf-bc97e1225d40/110_国寿神州紧急救援费用补偿医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 57786,
+      "sha256": "a36d14beb8676ba353a82b966b7b64039baa7a1e651ac6061c398ed3cdab5caa"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a77230ac-14c3-11ee-a0cf-bc97e1225d40/300_国寿神州紧急救援费用补偿医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 268955,
+      "sha256": "9e068a9ef17b816c5eeb449dcb2ee5d95eef89ff5b86a2457e14ed55ca29a971"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a77230ac-14c3-11ee-a0cf-bc97e1225d40/100_国寿神州紧急救援费用补偿医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a77230ac-14c3-11ee-a0cf-bc97e1225d40/300_国寿神州紧急救援费用补偿医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "320",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a77230ac-14c3-11ee-a0cf-bc97e1225d40/110_国寿神州紧急救援费用补偿医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿神州紧急救援费用补偿医疗保险",
+    "othermessage": "",
+    "id": "a772308e-14c3-11ee-a0ce-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

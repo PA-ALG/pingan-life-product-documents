@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a7720a3c-14c3-11ee-a0c6-bc97e1225d40",
+  "actualPlanCode": "a7720a3c-14c3-11ee-a0c6-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿长久呵护住院定额给付医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7720a3c-14c3-11ee-a0c6-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7720a5a-14c3-11ee-a0c7-bc97e1225d40/100_国寿长久呵护住院定额给付医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 656454,
+      "sha256": "2fae069949d7ae189f48ea7d47f2d82b737017033a7adc6d275542ef2eaf7944"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7720a5a-14c3-11ee-a0c7-bc97e1225d40/110_国寿长久呵护住院定额给付医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 116693,
+      "sha256": "434bfa90f4a7e18187ee7fc46675b1061f1724f250bc544f9735fe2872afbe73"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7720a5a-14c3-11ee-a0c7-bc97e1225d40/300_国寿长久呵护住院定额给付医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 978678,
+      "sha256": "6869e4b3836fb588293c0c59683e372bd000758ce280229fbaa42d1f873b3a00"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a7720a5a-14c3-11ee-a0c7-bc97e1225d40/100_国寿长久呵护住院定额给付医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a7720a5a-14c3-11ee-a0c7-bc97e1225d40/300_国寿长久呵护住院定额给付医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "316",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a7720a5a-14c3-11ee-a0c7-bc97e1225d40/110_国寿长久呵护住院定额给付医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿长久呵护住院定额给付医疗保险",
+    "othermessage": "",
+    "id": "a7720a3c-14c3-11ee-a0c6-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

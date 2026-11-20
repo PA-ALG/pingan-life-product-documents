@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:b327e523-e4ea-40a6-a486-502aafb185c4",
+  "actualPlanCode": "b327e523-e4ea-40a6-a486-502aafb185c4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康医保预防接种医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:b327e523-e4ea-40a6-a486-502aafb185c4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b2ceb1c72dd24935b029ca6b48fd3395/100_国寿康医保预防接种医疗保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 399519,
+      "sha256": "a2f2c83111a8dc9e50d68d3e71c1a14540e75a7a5213536fdabb23e1a9c68365"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b2ceb1c72dd24935b029ca6b48fd3395/110_国寿康医保预防接种医疗保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 37263,
+      "sha256": "42eb13b7b767b88bbc68493557669f85ddaae862b758b58adbf9fbfed7df946f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b2ceb1c72dd24935b029ca6b48fd3395/300_国寿康医保预防接种医疗保险(互联网专属)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 465820,
+      "sha256": "ea1affc604989999d639b39dd0cf4154ae288e93f7b5b3db79caf85cb72ffe5d"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/b2ceb1c72dd24935b029ca6b48fd3395/100_国寿康医保预防接种医疗保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/b2ceb1c72dd24935b029ca6b48fd3395/300_国寿康医保预防接种医疗保险(互联网专属)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-16 20:24:21+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-17 13:53:54",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/b2ceb1c72dd24935b029ca6b48fd3395/110_国寿康医保预防接种医疗保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康医保预防接种医疗保险（互联网专属）",
+    "othermessage": "",
+    "id": "b327e523-e4ea-40a6-a486-502aafb185c4",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

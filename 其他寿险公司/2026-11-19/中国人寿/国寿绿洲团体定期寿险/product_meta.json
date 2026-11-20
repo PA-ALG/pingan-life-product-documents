@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a7728912-14c3-11ee-a0f2-bc97e1225d40",
+  "actualPlanCode": "a7728912-14c3-11ee-a0f2-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿绿洲团体定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7728912-14c3-11ee-a0f2-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772893a-14c3-11ee-a0f3-bc97e1225d40/100_国寿绿洲团体定期寿险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 197421,
+      "sha256": "332795579183d49db22bf8a35e10ac7deb2869632901aadee009e41c761bd52a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772893a-14c3-11ee-a0f3-bc97e1225d40/300_国寿绿洲团体定期寿险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 206630,
+      "sha256": "370f2e156543d9d7963790c42bd605ff0966fcd26d91cde1f378f17d6f0eac66"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a772893a-14c3-11ee-a0f3-bc97e1225d40/100_国寿绿洲团体定期寿险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a772893a-14c3-11ee-a0f3-bc97e1225d40/300_国寿绿洲团体定期寿险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "338",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿绿洲团体定期寿险",
+    "othermessage": "",
+    "id": "a7728912-14c3-11ee-a0f2-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

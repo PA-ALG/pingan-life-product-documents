@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a772e920-14c3-11ee-a110-bc97e1225d40",
+  "actualPlanCode": "a772e920-14c3-11ee-a110-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿团体补充医疗保险（A型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a772e920-14c3-11ee-a110-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772e93e-14c3-11ee-a111-bc97e1225d40/100_国寿团体补充医疗保险（A型）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 209478,
+      "sha256": "334f9151051c55f4b54e9acd1e8203d62b6bc7cafea3444509764b7c1ad0f535"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772e93e-14c3-11ee-a111-bc97e1225d40/300_国寿团体补充医疗保险（A型）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 244931,
+      "sha256": "19962e2342af22836a6752089a9fe35f38fb889ba488e2c9311f12b68cbf499c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a772e93e-14c3-11ee-a111-bc97e1225d40/100_国寿团体补充医疗保险（A型）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a772e93e-14c3-11ee-a111-bc97e1225d40/300_国寿团体补充医疗保险（A型）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "353",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿团体补充医疗保险（A型）",
+    "othermessage": "",
+    "id": "a772e920-14c3-11ee-a110-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

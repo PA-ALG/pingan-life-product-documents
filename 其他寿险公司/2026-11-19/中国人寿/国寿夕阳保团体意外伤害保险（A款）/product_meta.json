@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76c98cc-14c3-11ee-9f3e-bc97e1225d40",
+  "actualPlanCode": "a76c98cc-14c3-11ee-9f3e-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿夕阳保团体意外伤害保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76c98cc-14c3-11ee-9f3e-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c98ea-14c3-11ee-9f3f-bc97e1225d40/100_国寿夕阳保团体意外伤害保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 310451,
+      "sha256": "cba3a4562bc01627326efa4ff1ee89548fb5ed42be3a3cd3c309111ab8947fd8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c98ea-14c3-11ee-9f3f-bc97e1225d40/2-300_国寿夕阳保团体意外伤害保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 449848,
+      "sha256": "74b865a2aa0b86e3e14d0a877ddf452a1df21d17179af41a465e9ace575b9426"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76c98ea-14c3-11ee-9f3f-bc97e1225d40/100_国寿夕阳保团体意外伤害保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76c98ea-14c3-11ee-9f3f-bc97e1225d40/2-300_国寿夕阳保团体意外伤害保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "120",
+    "datemodified": "2025-03-31 22:51:30",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿夕阳保团体意外伤害保险（A款）",
+    "othermessage": "",
+    "id": "a76c98cc-14c3-11ee-9f3e-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

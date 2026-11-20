@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:962b2c94-3bfd-40b1-bfd3-03b91753111b",
+  "actualPlanCode": "962b2c94-3bfd-40b1-bfd3-03b91753111b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乡村振兴团体综合意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:962b2c94-3bfd-40b1-bfd3-03b91753111b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6dff93ba570441c9ad8bab8756b0ce4f/100_国寿乡村振兴团体综合意外伤害保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 301267,
+      "sha256": "982b26e7042f71e46a8408bd570c6c3c87b13d0ba7f5595b1f68013f7e40ea42"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6dff93ba570441c9ad8bab8756b0ce4f/300_国寿乡村振兴团体综合意外伤害保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 598410,
+      "sha256": "7354ae6be50794d67dce37c22e2c1c95fb91f6db11033e8bb4ba71228065a886"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/6dff93ba570441c9ad8bab8756b0ce4f/100_国寿乡村振兴团体综合意外伤害保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/6dff93ba570441c9ad8bab8756b0ce4f/300_国寿乡村振兴团体综合意外伤害保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-20 15:49:01+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-23 11:03:17",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿乡村振兴团体综合意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "962b2c94-3bfd-40b1-bfd3-03b91753111b",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a772064a-14c3-11ee-a0c4-bc97e1225d40",
+  "actualPlanCode": "a772064a-14c3-11ee-a0c4-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿长久呵护住院费用补偿医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a772064a-14c3-11ee-a0c4-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7720672-14c3-11ee-a0c5-bc97e1225d40/100_国寿长久呵护住院费用补偿医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 277137,
+      "sha256": "b60bf78d916c13fe8159faf020ea05073836763d457cc83dd6cb6df2243791d4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7720672-14c3-11ee-a0c5-bc97e1225d40/110_国寿长久呵护住院费用补偿医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 243484,
+      "sha256": "2e9e4a1a2bfe6c9ed98688a8c625e9abd25c56c268db33bc6036d101dc9513d5"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7720672-14c3-11ee-a0c5-bc97e1225d40/300_国寿长久呵护住院费用补偿医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 269350,
+      "sha256": "01bbec63f7af821e7f23c0e1de6d5d10c867a887642471fb5c53a0a4a2cd7a42"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a7720672-14c3-11ee-a0c5-bc97e1225d40/100_国寿长久呵护住院费用补偿医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a7720672-14c3-11ee-a0c5-bc97e1225d40/300_国寿长久呵护住院费用补偿医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "315",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a7720672-14c3-11ee-a0c5-bc97e1225d40/110_国寿长久呵护住院费用补偿医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿长久呵护住院费用补偿医疗保险",
+    "othermessage": "",
+    "id": "a772064a-14c3-11ee-a0c4-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

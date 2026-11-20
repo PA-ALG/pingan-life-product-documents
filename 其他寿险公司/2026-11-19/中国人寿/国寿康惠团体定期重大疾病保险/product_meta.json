@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:8bacf853-dda1-44d6-8ee1-5995ee0bbb42",
+  "actualPlanCode": "8bacf853-dda1-44d6-8ee1-5995ee0bbb42",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康惠团体定期重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": null,
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:8bacf853-dda1-44d6-8ee1-5995ee0bbb42",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/450470c9ce2d44e19aa174bc0d6473c2/100_国寿康惠团体定期重大疾病保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 679745,
+      "sha256": "ff48150eecfc419055a742e6eeabbdb0724b0269acc3b550ea71b88c9d2d4796"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/450470c9ce2d44e19aa174bc0d6473c2/300_国寿康惠团体定期重大疾病保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 291643,
+      "sha256": "9ce084ad37ed1d92322d0786de5d6c27734aa2e1e14d5c179d9f19c8e6a2983f"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/450470c9ce2d44e19aa174bc0d6473c2/100_国寿康惠团体定期重大疾病保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/450470c9ce2d44e19aa174bc0d6473c2/300_国寿康惠团体定期重大疾病保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-07-22 16:27:28+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-07-22 16:27:28",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿康惠团体定期重大疾病保险",
+    "othermessage": "",
+    "id": "8bacf853-dda1-44d6-8ee1-5995ee0bbb42",
+    "category": null
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

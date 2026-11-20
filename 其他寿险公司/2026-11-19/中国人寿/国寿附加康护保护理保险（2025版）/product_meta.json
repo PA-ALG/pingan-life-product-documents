@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:2b27bb94-6f02-41eb-bd9f-cb87d8359832",
+  "actualPlanCode": "2b27bb94-6f02-41eb-bd9f-cb87d8359832",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加康护保护理保险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "护理险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2b27bb94-6f02-41eb-bd9f-cb87d8359832",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/100_国寿附加康护保护理保险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 405152,
+      "sha256": "c83af231ede297102c4189146880188f77c4d5de3c9b71d0e6b7f47ef8ef4ba1"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/110_国寿附加康护保护理保险(2025版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 107634,
+      "sha256": "23ee3d393a611066270dd970e2f6ffcfa81bbda528898e8e63b094d3b7ae413d"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/121_国寿附加康护保护理保险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 3592792,
+      "sha256": "37104099a4907d6654f46749a5635942d69bd492d97623ac9811415053d9699b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/300_国寿附加康护保护理保险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 296041,
+      "sha256": "abc7f12d2f7dae4089ea8c0ca783d71ed28b8a22ebd2d21810ba657c7c501783"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/100_国寿附加康护保护理保险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/121_国寿附加康护保护理保险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/300_国寿附加康护保护理保险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-02 11:03:43+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-02 11:03:43",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a05a4f84b63546929114541041b7a984/110_国寿附加康护保护理保险(2025版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加康护保护理保险（2025版）",
+    "othermessage": "",
+    "id": "2b27bb94-6f02-41eb-bd9f-cb87d8359832",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

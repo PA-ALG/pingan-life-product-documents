@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:7caf0bc3-c2fb-4a3a-8365-b31262573c3d",
+  "actualPlanCode": "7caf0bc3-c2fb-4a3a-8365-b31262573c3d",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫鸿年年金保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:7caf0bc3-c2fb-4a3a-8365-b31262573c3d",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/100_国寿鑫鸿年年金保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 359106,
+      "sha256": "427e024753ef0960bc0102b7d6e20e7010f9c4db9929d84a5887be4501884e6d"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/110_国寿鑫鸿年年金保险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 80934,
+      "sha256": "f365c374f701449cc552c5f8f8e2238e852939e2bc31f15812e84324cb7a50a3"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/121_国寿鑫鸿年年金保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 792701,
+      "sha256": "394dfe3d3737e6b5a440f29c5a75e705318f9b5b5015182cb3fcc7bbef62404c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/300_国寿鑫鸿年年金保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 272748,
+      "sha256": "46b0f2ddfa4af4f805616270d7742f05e4f9a859404cb00c2e0fd6f951bb5368"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/100_国寿鑫鸿年年金保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/121_国寿鑫鸿年年金保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/300_国寿鑫鸿年年金保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-27 17:19:38+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-27 17:19:38",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/aaf483aee2fa40a49c2a50b09a543e6c/110_国寿鑫鸿年年金保险基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫鸿年年金保险",
+    "othermessage": "",
+    "id": "7caf0bc3-c2fb-4a3a-8365-b31262573c3d",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

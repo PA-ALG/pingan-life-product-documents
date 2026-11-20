@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76cb672-14c3-11ee-9f4e-bc97e1225d40",
+  "actualPlanCode": "a76cb672-14c3-11ee-9f4e-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乡村振兴团体定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76cb672-14c3-11ee-9f4e-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76cb690-14c3-11ee-9f4f-bc97e1225d40/100_国寿乡村振兴团体定期寿险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 206220,
+      "sha256": "f0c48c882bfa59e71fb07fc70678b3dfb5d15ab2bb15afd8b117f0f356f48208"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76cb690-14c3-11ee-9f4f-bc97e1225d40/300_国寿乡村振兴团体定期寿险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 219946,
+      "sha256": "098f311ee7436035b0798c68aa43653852dbe5afa6d615adb2de5f322b0a3027"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76cb690-14c3-11ee-9f4f-bc97e1225d40/100_国寿乡村振兴团体定期寿险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76cb690-14c3-11ee-9f4f-bc97e1225d40/300_国寿乡村振兴团体定期寿险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "128",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿乡村振兴团体定期寿险",
+    "othermessage": "",
+    "id": "a76cb672-14c3-11ee-9f4e-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

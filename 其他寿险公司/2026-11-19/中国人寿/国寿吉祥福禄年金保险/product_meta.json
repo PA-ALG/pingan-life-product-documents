@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:3e3846e6-ad1e-4fa9-b25e-c9e154b345f4",
+  "actualPlanCode": "3e3846e6-ad1e-4fa9-b25e-c9e154b345f4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿吉祥福禄年金保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:3e3846e6-ad1e-4fa9-b25e-c9e154b345f4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/100_国寿吉祥福禄年金保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 539186,
+      "sha256": "0593deedce7f458f4e7ac4c8cd9db6f3f3788a2f744e8c697ca6ccfc488486bc"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/110_国寿吉祥福禄年金保险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 687768,
+      "sha256": "074dbab5f1dcd02b233fd6460596823ce4202a0e3cf4c275f3b2966d47249083"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/121_国寿吉祥福禄年金保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 809120,
+      "sha256": "e797f9f6e8359f73abb1230dff9ab7a0b66b4d14d0e745b15cfa2bae47bd2e06"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/300_国寿吉祥福禄年金保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 637225,
+      "sha256": "5db328d4279177e6af3b9ec49496fd6c8facf7c188c88c5ffd8601146c959dc8"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/100_国寿吉祥福禄年金保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/121_国寿吉祥福禄年金保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/300_国寿吉祥福禄年金保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-07 15:24:50+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-07 15:24:50",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/1931a214b929441ebae6360f5d7e4ea5/110_国寿吉祥福禄年金保险基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿吉祥福禄年金保险",
+    "othermessage": "",
+    "id": "3e3846e6-ad1e-4fa9-b25e-c9e154b345f4",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

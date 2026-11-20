@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a3396fe3-39be-48ca-89ae-84ccbaf33aa6",
+  "actualPlanCode": "a3396fe3-39be-48ca-89ae-84ccbaf33aa6",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿增益宝终身寿险（万能型）（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a3396fe3-39be-48ca-89ae-84ccbaf33aa6",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7427d9cb81844ddbaf3255afd7d63f4c/100_国寿增益宝终身寿险(万能型)(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 364142,
+      "sha256": "0ca9a9e9053eba5bd65736fc608f0aea8706dbbbf33568a71dca423de1b60d65"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7427d9cb81844ddbaf3255afd7d63f4c/110_国寿增益宝终身寿险(万能型)(2025版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 117190,
+      "sha256": "275f06acd14e9f636500ab522b0bbadc6a401a861d25511b7625731796fd5916"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7427d9cb81844ddbaf3255afd7d63f4c/300_国寿增益宝终身寿险(万能型)(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 477872,
+      "sha256": "e97cf50b07bf553bf4de6afa652d8cdd7232fc0c04dd183ce3b10f9964ec2e02"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/7427d9cb81844ddbaf3255afd7d63f4c/100_国寿增益宝终身寿险(万能型)(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/7427d9cb81844ddbaf3255afd7d63f4c/300_国寿增益宝终身寿险(万能型)(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-11-28 23:43:14+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-11-28 23:43:14",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/7427d9cb81844ddbaf3255afd7d63f4c/110_国寿增益宝终身寿险(万能型)(2025版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿增益宝终身寿险（万能型）（2025版）",
+    "othermessage": "",
+    "id": "a3396fe3-39be-48ca-89ae-84ccbaf33aa6",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

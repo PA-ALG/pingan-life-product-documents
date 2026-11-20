@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:21d242d1-8871-4df9-b561-67847df26446",
+  "actualPlanCode": "21d242d1-8871-4df9-b561-67847df26446",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加建筑工程意外团体医疗保险（B款）（银代版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:21d242d1-8871-4df9-b561-67847df26446",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a3c7ca6f97974c9d897da20cc78c2b4b/100_国寿附加建筑工程意外团体医疗保险(B款)(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 163141,
+      "sha256": "269469757314722f9b389b6a5aeb6b8df8d5f99809fb8dea15ddb681b497567d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a3c7ca6f97974c9d897da20cc78c2b4b/300_国寿附加建筑工程意外团体医疗保险（B款）（银代版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 223538,
+      "sha256": "8efdd95ddbc80e0dcd00c59263aaaa4969b996e3f6f3c2d367daf397a26be27d"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a3c7ca6f97974c9d897da20cc78c2b4b/100_国寿附加建筑工程意外团体医疗保险(B款)(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a3c7ca6f97974c9d897da20cc78c2b4b/300_国寿附加建筑工程意外团体医疗保险（B款）（银代版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-10 15:09:19+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-01-10 15:09:19",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加建筑工程意外团体医疗保险（B款）（银代版）",
+    "othermessage": "",
+    "id": "21d242d1-8871-4df9-b561-67847df26446",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

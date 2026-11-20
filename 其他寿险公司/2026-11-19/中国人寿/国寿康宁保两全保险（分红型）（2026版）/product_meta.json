@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:cb5c5b8f-6253-44da-b737-52ee13bf9d2f",
+  "actualPlanCode": "cb5c5b8f-6253-44da-b737-52ee13bf9d2f",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康宁保两全保险（分红型）（2026版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:cb5c5b8f-6253-44da-b737-52ee13bf9d2f",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/100_国寿康宁保两全保险(分红型)(2026版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 568093,
+      "sha256": "e25195d63d9fb5e28857c41facd3b9fca0e5d1b04167a6135ebcb3f435c97805"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/110_国寿康宁保两全保险(分红型)(2026版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 118364,
+      "sha256": "9ba85fb8cee0c96c94886c24681ccc589df043811c382fd1d7abae4d4babbf9f"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/121_国寿康宁保两全保险(分红型)(2026版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 355660,
+      "sha256": "6fcf7bd137ce52c6ba248de6c99a86b595597a413d49494a5cc5518295a3982e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/300_国寿康宁保两全保险(分红型)(2026版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 324438,
+      "sha256": "27a9cdab460a5fd60134548ab0a9061d85a5c937163f354c1d70180a94942b9c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/100_国寿康宁保两全保险(分红型)(2026版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/121_国寿康宁保两全保险(分红型)(2026版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/300_国寿康宁保两全保险(分红型)(2026版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-04-28 15:52:11+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-04-28 15:52:11",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/f492ffa464534aeb82582c4f0f7c9a8c/110_国寿康宁保两全保险(分红型)(2026版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康宁保两全保险（分红型）（2026版）",
+    "othermessage": "",
+    "id": "cb5c5b8f-6253-44da-b737-52ee13bf9d2f",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

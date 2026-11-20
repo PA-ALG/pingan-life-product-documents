@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:93fffb4c-376c-438d-8112-857cc8d8da19",
+  "actualPlanCode": "93fffb4c-376c-438d-8112-857cc8d8da19",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乡村振兴定期寿险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:93fffb4c-376c-438d-8112-857cc8d8da19",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/04bbf63b93e34a88a6982a51916df6ec/国寿乡村振兴定期寿险(B款)利益条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 308222,
+      "sha256": "64376aa04d5a2c41697fcd8cc8cef13e492f3f0179c6baf23e251a6d94821907"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/04bbf63b93e34a88a6982a51916df6ec/国寿乡村振兴定期寿险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 102998,
+      "sha256": "9e1a860a8415b219c4015cf9edc5ede6e271741cdc462abb3fb888ac7dc51560"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/04bbf63b93e34a88a6982a51916df6ec/300_国寿乡村振兴定期寿险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 244490,
+      "sha256": "2e5371267be35affcc02fd7880811e43402090903e57be2a9c614a5c07638270"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/04bbf63b93e34a88a6982a51916df6ec/国寿乡村振兴定期寿险(B款)利益条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/04bbf63b93e34a88a6982a51916df6ec/300_国寿乡村振兴定期寿险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-11-21 16:16:49+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-02-29 20:25:02",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/04bbf63b93e34a88a6982a51916df6ec/国寿乡村振兴定期寿险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿乡村振兴定期寿险（B款）",
+    "othermessage": "",
+    "id": "93fffb4c-376c-438d-8112-857cc8d8da19",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

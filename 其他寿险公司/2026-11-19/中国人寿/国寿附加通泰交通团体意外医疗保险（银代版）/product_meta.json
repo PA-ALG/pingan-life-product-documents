@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:2d79efcc-cd0f-47ad-8c2e-74a9cee52ed4",
+  "actualPlanCode": "2d79efcc-cd0f-47ad-8c2e-74a9cee52ed4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加通泰交通团体意外医疗保险（银代版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2d79efcc-cd0f-47ad-8c2e-74a9cee52ed4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e0a79ea2271c46109bfbc0407ab0d0ee/100_国寿附加通泰交通团体意外医疗保险(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 159394,
+      "sha256": "429ec614a20f23855505c514236da6023ec9a9213d35371c459d09e4b001a183"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e0a79ea2271c46109bfbc0407ab0d0ee/300_国寿附加通泰交通团体意外医疗保险（银代版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 220318,
+      "sha256": "e22751f016364276c2ae9ddfda64d5af518958b8d9a86700bdeb0e23ab456cc4"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/e0a79ea2271c46109bfbc0407ab0d0ee/100_国寿附加通泰交通团体意外医疗保险(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/e0a79ea2271c46109bfbc0407ab0d0ee/300_国寿附加通泰交通团体意外医疗保险（银代版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-10 15:12:39+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-01-10 15:12:39",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加通泰交通团体意外医疗保险（银代版）",
+    "othermessage": "",
+    "id": "2d79efcc-cd0f-47ad-8c2e-74a9cee52ed4",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

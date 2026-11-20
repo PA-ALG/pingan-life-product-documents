@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:7ea8ae8f-357c-4348-8e21-ef08c08297b9",
+  "actualPlanCode": "7ea8ae8f-357c-4348-8e21-ef08c08297b9",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿重大自然灾害意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:7ea8ae8f-357c-4348-8e21-ef08c08297b9",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9e3eeb8264714d8c86b650f6d05542a2/100_国寿重大自然灾害意外伤害保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 411173,
+      "sha256": "bba2ca5110cbafa3c09ec60a9b6d80dc09d76898df7a7443a3c2a22603069da3"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9e3eeb8264714d8c86b650f6d05542a2/110_国寿重大自然灾害意外伤害保险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 59108,
+      "sha256": "4105eabfc0c72e6d98c8bb897fc0fd35ad8bac26c2ea4b4c7d4c39258f281b9a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9e3eeb8264714d8c86b650f6d05542a2/300_国寿重大自然灾害意外伤害保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 526721,
+      "sha256": "d842cd1c24c2c7f6f11c817e7e38b19582d89084e9f3910aed6f0b23df79f274"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/9e3eeb8264714d8c86b650f6d05542a2/100_国寿重大自然灾害意外伤害保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/9e3eeb8264714d8c86b650f6d05542a2/300_国寿重大自然灾害意外伤害保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-06-30 09:14:41+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-06-30 09:14:41",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/9e3eeb8264714d8c86b650f6d05542a2/110_国寿重大自然灾害意外伤害保险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿重大自然灾害意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "7ea8ae8f-357c-4348-8e21-ef08c08297b9",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

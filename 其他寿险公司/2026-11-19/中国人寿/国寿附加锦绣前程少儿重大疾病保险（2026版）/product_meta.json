@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:444f6cd9-c5b6-48bb-a242-3fcb9f5d50cd",
+  "actualPlanCode": "444f6cd9-c5b6-48bb-a242-3fcb9f5d50cd",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加锦绣前程少儿重大疾病保险（2026版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:444f6cd9-c5b6-48bb-a242-3fcb9f5d50cd",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/100_国寿附加锦绣前程少儿重大疾病保险(2026版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 832346,
+      "sha256": "16babb18765ce26d083551b77bae39a550164f0ec0f992165040efe1a3948f72"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/110_国寿附加锦绣前程少儿重大疾病保险(2026版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 113915,
+      "sha256": "cb4f8e5f799a47be7b6f6b402ef5d1957e56cd288095d316bd257e5ff44a2e79"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/121_国寿附加锦绣前程少儿重大疾病保险(2026版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 123267,
+      "sha256": "82fc3b6ce0db9a478eb39ff8f8a7d656efdb53b9cacf7f79f6ef00f2ee9c458f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/300_国寿附加锦绣前程少儿重大疾病保险(2026版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 367567,
+      "sha256": "64a815f947363a96972a0d1ed9ce58d25eeadda96b1abaae86d5f10a80670721"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/100_国寿附加锦绣前程少儿重大疾病保险(2026版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/121_国寿附加锦绣前程少儿重大疾病保险(2026版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/300_国寿附加锦绣前程少儿重大疾病保险(2026版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-04-17 16:31:04+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-04-17 16:31:04",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/15f9b870192a4b0db80e8704a78b44d2/110_国寿附加锦绣前程少儿重大疾病保险(2026版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加锦绣前程少儿重大疾病保险（2026版）",
+    "othermessage": "",
+    "id": "444f6cd9-c5b6-48bb-a242-3fcb9f5d50cd",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:f96bfad6-7de2-4d84-a9da-d89d3c32a150",
+  "actualPlanCode": "f96bfad6-7de2-4d84-a9da-d89d3c32a150",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿守护星运动意外伤害保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:f96bfad6-7de2-4d84-a9da-d89d3c32a150",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4d406097408c44f3a7969074ddabcef6/100_国寿守护星运动意外伤害保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 392279,
+      "sha256": "d00607e063796715cff2c6c9df00b7b3b4c3ecd78d8d1ecd2da02100c02cca53"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4d406097408c44f3a7969074ddabcef6/110_国寿守护星运动意外伤害保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 134303,
+      "sha256": "dbedccb339c0a60fdafc63cdf02c358df3f5fe47dd9f63fd52ff7ff5019b7b81"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4d406097408c44f3a7969074ddabcef6/300_国寿守护星运动意外伤害保险(互联网专属)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 543179,
+      "sha256": "8bb5f01b520e102195cc7082889870f3124725b5f505d239c4260ea6dc3d204c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/4d406097408c44f3a7969074ddabcef6/100_国寿守护星运动意外伤害保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/4d406097408c44f3a7969074ddabcef6/300_国寿守护星运动意外伤害保险(互联网专属)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-06-17 15:42:25+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-06-17 15:42:25",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/4d406097408c44f3a7969074ddabcef6/110_国寿守护星运动意外伤害保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿守护星运动意外伤害保险（互联网专属）",
+    "othermessage": "",
+    "id": "f96bfad6-7de2-4d84-a9da-d89d3c32a150",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:0744f9fe-96fa-44ef-be30-0cd114e94530",
+  "actualPlanCode": "0744f9fe-96fa-44ef-be30-0cd114e94530",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿燃气团体意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:0744f9fe-96fa-44ef-be30-0cd114e94530",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1c51c35bf38f4afa986f3319399f02d0/100_国寿燃气团体意外伤害保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 327376,
+      "sha256": "d2649b8eea8a818e7602694ca099b0fea6e4a6cdb23001ccc0da9fe1b1692818"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1c51c35bf38f4afa986f3319399f02d0/300_国寿燃气团体意外伤害保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 561458,
+      "sha256": "3d0522585127502fe138dabaacd5e1635239606cab03f0759cac6e6359a649cf"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/1c51c35bf38f4afa986f3319399f02d0/100_国寿燃气团体意外伤害保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/1c51c35bf38f4afa986f3319399f02d0/300_国寿燃气团体意外伤害保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-24 16:48:02+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-24 16:48:02",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿燃气团体意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "0744f9fe-96fa-44ef-be30-0cd114e94530",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:15cb2203-7850-43b9-9e2c-393d92cc6a97",
+  "actualPlanCode": "15cb2203-7850-43b9-9e2c-393d92cc6a97",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿综合团体医疗保险(银代版)",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:15cb2203-7850-43b9-9e2c-393d92cc6a97",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c4c50717f09a4d77974b6a988922dbd0/100_国寿综合团体医疗保险(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 223771,
+      "sha256": "c31d642779629dc44e178c6ad87bc8e4acb3c777e87a5d26ca810634492b187f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c4c50717f09a4d77974b6a988922dbd0/300_国寿综合团体医疗保险（银代版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 293253,
+      "sha256": "1fa9c4b07728633fb2bad98ffdca8993c4f59af921258f260a13e680b52ee98e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/c4c50717f09a4d77974b6a988922dbd0/100_国寿综合团体医疗保险(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/c4c50717f09a4d77974b6a988922dbd0/300_国寿综合团体医疗保险（银代版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-11 10:26:14+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-01-31 21:54:33",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿综合团体医疗保险(银代版)",
+    "othermessage": "",
+    "id": "15cb2203-7850-43b9-9e2c-393d92cc6a97",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

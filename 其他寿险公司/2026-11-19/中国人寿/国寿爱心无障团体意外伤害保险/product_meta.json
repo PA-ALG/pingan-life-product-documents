@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:9ab8e888-09c3-475c-8e30-fae3dd733147",
+  "actualPlanCode": "9ab8e888-09c3-475c-8e30-fae3dd733147",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿爱心无障团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9ab8e888-09c3-475c-8e30-fae3dd733147",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/126ff91e617a4f39a13beb043c8db791/国寿爱心无障团体意外伤害保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 323191,
+      "sha256": "b1bae52e53cde6718d41fb7a37fe58585548cb8484a66cd8aa5c46da822b84d0"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/126ff91e617a4f39a13beb043c8db791/国寿爱心无障团体意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 557158,
+      "sha256": "89b9bda8274b5d1202de20022614350daa6cefddfc18623af983d57432d35273"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/126ff91e617a4f39a13beb043c8db791/国寿爱心无障团体意外伤害保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/126ff91e617a4f39a13beb043c8db791/国寿爱心无障团体意外伤害保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-07-01 15:07:38+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-07-01 15:07:38",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿爱心无障团体意外伤害保险",
+    "othermessage": "",
+    "id": "9ab8e888-09c3-475c-8e30-fae3dd733147",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

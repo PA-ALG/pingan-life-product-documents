@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:e4cc6fbf-f5b6-4888-986c-c95a8465ebce",
+  "actualPlanCode": "e4cc6fbf-f5b6-4888-986c-c95a8465ebce",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫越稳赢养老年金保险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:e4cc6fbf-f5b6-4888-986c-c95a8465ebce",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/100_国寿鑫越稳赢养老年金保险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 306008,
+      "sha256": "046d65a3b78dce2a4c7ff8ea16e33d1067fdb2835f4a47703b57c6a0213ead03"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/110_国寿鑫越稳赢养老年金保险(2025版)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 386756,
+      "sha256": "a0b756bf6e2a446900e79e9cfbddf43742bc68795054b32fc46cafef5c1f2faa"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/121_国寿鑫越稳赢养老年金保险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 16103604,
+      "sha256": "484cbfb1dfeafc6b5f11529714b5e413956994eb695f09e764c71620eb94c016"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/300_国寿鑫越稳赢养老年金保险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 444110,
+      "sha256": "79e8f14f11f14e6b9d0227ea9fea5e5e68bd7fefa21cfc5a9071a69ac685f111"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/100_国寿鑫越稳赢养老年金保险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/121_国寿鑫越稳赢养老年金保险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/300_国寿鑫越稳赢养老年金保险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-02 11:00:53+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-02 11:00:53",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/9483f06f82c04cf0b6384b1a4bcab251/110_国寿鑫越稳赢养老年金保险(2025版)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫越稳赢养老年金保险（2025版）",
+    "othermessage": "",
+    "id": "e4cc6fbf-f5b6-4888-986c-c95a8465ebce",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

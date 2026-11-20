@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:6bbf4b13-b410-4d09-afe0-3e1253393e3c",
+  "actualPlanCode": "6bbf4b13-b410-4d09-afe0-3e1253393e3c",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加广西学生意外伤害门诊费用补偿医疗保险（D款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:6bbf4b13-b410-4d09-afe0-3e1253393e3c",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2a0a98c830c74216bc24640945e26cf6/100_国寿附加广西学生意外伤害门诊费用补偿医疗保险(D款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 188312,
+      "sha256": "d4558a97c0bef562559b65b77cd37b7550ded41cee58158c82eb6f632cc40a92"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2a0a98c830c74216bc24640945e26cf6/110_国寿附加广西学生意外伤害门诊费用补偿医疗保险(D款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 36251,
+      "sha256": "bc60646a93fe5409329092a14e07240f6a839d66a1276f07f9a2a601db3d72ee"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2a0a98c830c74216bc24640945e26cf6/300_国寿附加广西学生意外伤害门诊费用补偿医疗保险(D款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 170268,
+      "sha256": "a4c69f28931a21e2f26e9a9998dfccbee6b548d17590c684e40f2d8456899e12"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/2a0a98c830c74216bc24640945e26cf6/100_国寿附加广西学生意外伤害门诊费用补偿医疗保险(D款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/2a0a98c830c74216bc24640945e26cf6/300_国寿附加广西学生意外伤害门诊费用补偿医疗保险(D款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-30 14:11:45+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-30 14:11:45",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/2a0a98c830c74216bc24640945e26cf6/110_国寿附加广西学生意外伤害门诊费用补偿医疗保险(D款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加广西学生意外伤害门诊费用补偿医疗保险（D款）",
+    "othermessage": "",
+    "id": "6bbf4b13-b410-4d09-afe0-3e1253393e3c",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

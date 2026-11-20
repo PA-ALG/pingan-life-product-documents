@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:3f8fc7e7-eb3e-47a5-ae0d-076c7a0858f8",
+  "actualPlanCode": "3f8fc7e7-eb3e-47a5-ae0d-076c7a0858f8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乡村振兴意外费用补偿团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:3f8fc7e7-eb3e-47a5-ae0d-076c7a0858f8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b390e6cd3cf848b9866b03ffa8c2ac0f/国寿乡村振兴意外费用补偿团体医疗保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 203905,
+      "sha256": "63e56d6bde5ce62dba104d066aa7c2b155ab5d87d9b0d6ef1bf6724df92da039"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b390e6cd3cf848b9866b03ffa8c2ac0f/300_国寿乡村振兴意外费用补偿团体医疗保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 259295,
+      "sha256": "dc6dc78b4a979201ad18b800d32a9d0398e7fcce2178812c8261d4c2c78792a7"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/b390e6cd3cf848b9866b03ffa8c2ac0f/国寿乡村振兴意外费用补偿团体医疗保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/b390e6cd3cf848b9866b03ffa8c2ac0f/300_国寿乡村振兴意外费用补偿团体医疗保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-11-21 16:17:49+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2023-11-21 16:17:49",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿乡村振兴意外费用补偿团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "3f8fc7e7-eb3e-47a5-ae0d-076c7a0858f8",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

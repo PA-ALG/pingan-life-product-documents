@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:2ee57edb-4ccd-4ca5-b411-b69829c3e7da",
+  "actualPlanCode": "2ee57edb-4ccd-4ca5-b411-b69829c3e7da",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿瑞鑫年金保险（分红型）（尊享版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2ee57edb-4ccd-4ca5-b411-b69829c3e7da",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/100_国寿瑞鑫年金保险(分红型)(尊享版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 321799,
+      "sha256": "03db64ef7b99549d5913789582a4e6794ef3d5a65e76ab288f188847289039b9"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/110_国寿瑞鑫年金保险(分红型)(尊享版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 127522,
+      "sha256": "d29053698a3192b08b5f1d04f587e48ed0a61268100b012c641c4a7d6c2999ac"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/121_国寿瑞鑫年金保险(分红型)(尊享版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 4086218,
+      "sha256": "fb2ea96c66c482074ef41314a92944dfbd7c0e312a1018bab61a9f4f25049e7a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/300_国寿瑞鑫年金保险(分红型)(尊享版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 394967,
+      "sha256": "20d9ddb7affe84d5c5f3d1b1d3234ea66e8afd851b93e3abdbc3e1811e00f587"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/100_国寿瑞鑫年金保险(分红型)(尊享版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/121_国寿瑞鑫年金保险(分红型)(尊享版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/300_国寿瑞鑫年金保险(分红型)(尊享版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-10-10 15:15:39+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-10-10 15:15:39",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/e2ead5e9447445c59d796fa9fa5ae3a1/110_国寿瑞鑫年金保险(分红型)(尊享版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿瑞鑫年金保险（分红型）（尊享版）",
+    "othermessage": "",
+    "id": "2ee57edb-4ccd-4ca5-b411-b69829c3e7da",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

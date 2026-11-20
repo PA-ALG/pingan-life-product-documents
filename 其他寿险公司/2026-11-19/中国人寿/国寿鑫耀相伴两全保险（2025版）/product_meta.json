@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:b05f58c1-7c88-42c1-bdf9-090944f94260",
+  "actualPlanCode": "b05f58c1-7c88-42c1-bdf9-090944f94260",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫耀相伴两全保险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:b05f58c1-7c88-42c1-bdf9-090944f94260",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/100_国寿鑫耀相伴两全保险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 569176,
+      "sha256": "8bf072eb61b234adfe3d6f1ed961c06059e0853cbba665cabc7b477f7a7c9173"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/110_国寿鑫耀相伴两全保险(2025版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 81528,
+      "sha256": "2208ba716b846b7528500516fa9c69fb4a73942eb9437095aa9bb36ff4e6d101"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/121_国寿鑫耀相伴两全保险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 1318164,
+      "sha256": "87367f8674fe78ff39fdd20b000690f77e2dcab5c2c6755fdde9eb9c856b6e65"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/300_国寿鑫耀相伴两全保险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 246763,
+      "sha256": "09cdeb79941fd31b7bf54a0039c8a332960c0198971ec7f6264653b84a256c61"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/100_国寿鑫耀相伴两全保险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/121_国寿鑫耀相伴两全保险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/300_国寿鑫耀相伴两全保险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-01 10:03:03+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-01 10:03:03",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/dd6a061fca0743eb8dfb41c1a8320325/110_国寿鑫耀相伴两全保险(2025版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫耀相伴两全保险（2025版）",
+    "othermessage": "",
+    "id": "b05f58c1-7c88-42c1-bdf9-090944f94260",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

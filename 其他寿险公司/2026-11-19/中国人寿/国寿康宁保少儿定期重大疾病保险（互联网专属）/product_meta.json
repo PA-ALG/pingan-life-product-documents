@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:200dcddf-a416-4ab0-a6da-582c181219c5",
+  "actualPlanCode": "200dcddf-a416-4ab0-a6da-582c181219c5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康宁保少儿定期重大疾病保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:200dcddf-a416-4ab0-a6da-582c181219c5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/100_国寿康宁保少儿定期重大疾病保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 737039,
+      "sha256": "30d3eb854e3062eb65e66512fe932f55a231304a7c1a4ed8f7e46605e0fa1d4e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/110_国寿康宁保少儿定期重大疾病保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 88670,
+      "sha256": "a6f58977e97c2540e59ba2316faba666b3fce426be6ccd15035466589fdfa1c2"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/121_国寿康宁保少儿定期重大疾病保险(互联网专属)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 141980,
+      "sha256": "8fccaeac828c808b6f9ec699ec0a6f5b471454b3883fd0d76b3348574ad11eb2"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/300_国寿康宁保少儿定期重大疾病保险(互联网专属)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 537050,
+      "sha256": "fe979f41b06cfdb10ed7c3c4aa81fcc858d4d1d4a669f4603e4e87464cdca563"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/100_国寿康宁保少儿定期重大疾病保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/121_国寿康宁保少儿定期重大疾病保险(互联网专属)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/300_国寿康宁保少儿定期重大疾病保险(互联网专属)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-15 17:42:34+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-15 17:42:34",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/90c38609aa754664a208200487dac921/110_国寿康宁保少儿定期重大疾病保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康宁保少儿定期重大疾病保险（互联网专属）",
+    "othermessage": "",
+    "id": "200dcddf-a416-4ab0-a6da-582c181219c5",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

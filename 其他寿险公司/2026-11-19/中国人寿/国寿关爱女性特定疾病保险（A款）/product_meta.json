@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a7711da2-14c3-11ee-a090-bc97e1225d40",
+  "actualPlanCode": "a7711da2-14c3-11ee-a090-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿关爱女性特定疾病保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7711da2-14c3-11ee-a090-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7711dca-14c3-11ee-a091-bc97e1225d40/100_国寿关爱女性特定疾病保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 346466,
+      "sha256": "adc5edbe67437e8ef36ed83b992aef0cb33df13cc83c6729d6b541293c4bbdc1"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7711dca-14c3-11ee-a091-bc97e1225d40/110_国寿关爱女性特定疾病保险（A款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 57876,
+      "sha256": "068c22ffdde372cb6aca92ddaaae83e4b59b97123c22bf3785c8124cd8286ab5"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7711dca-14c3-11ee-a091-bc97e1225d40/300_国寿关爱女性特定疾病保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 218949,
+      "sha256": "8c1a0a5d34ff3d85662d6b956ab186f929da0fd042b9e88cc882adad61b5ae9c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a7711dca-14c3-11ee-a091-bc97e1225d40/100_国寿关爱女性特定疾病保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a7711dca-14c3-11ee-a091-bc97e1225d40/300_国寿关爱女性特定疾病保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "289",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a7711dca-14c3-11ee-a091-bc97e1225d40/110_国寿关爱女性特定疾病保险（A款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿关爱女性特定疾病保险（A款）",
+    "othermessage": "",
+    "id": "a7711da2-14c3-11ee-a090-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

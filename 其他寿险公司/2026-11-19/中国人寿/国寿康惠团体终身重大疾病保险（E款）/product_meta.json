@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:e8f12b7c-c042-45b9-b80f-02a0a4fb8982",
+  "actualPlanCode": "e8f12b7c-c042-45b9-b80f-02a0a4fb8982",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康惠团体终身重大疾病保险（E款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:e8f12b7c-c042-45b9-b80f-02a0a4fb8982",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/214e607c7d864f638a227f90a95d36ae/100_国寿康惠团体终身重大疾病保险(E款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 519406,
+      "sha256": "44c59f4c68bc3c57040d57570bf9181ea5b40bd5721524ac0076fc1c6adf8453"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/214e607c7d864f638a227f90a95d36ae/300_国寿康惠团体终身重大疾病保险(E款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 319407,
+      "sha256": "b55610272aeced208614182ceeea6b80aa197859b1c0b4317d12899315cf87c8"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/214e607c7d864f638a227f90a95d36ae/100_国寿康惠团体终身重大疾病保险(E款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/214e607c7d864f638a227f90a95d36ae/300_国寿康惠团体终身重大疾病保险(E款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-20 16:19:54+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-10-20 16:19:54",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿康惠团体终身重大疾病保险（E款）",
+    "othermessage": "",
+    "id": "e8f12b7c-c042-45b9-b80f-02a0a4fb8982",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

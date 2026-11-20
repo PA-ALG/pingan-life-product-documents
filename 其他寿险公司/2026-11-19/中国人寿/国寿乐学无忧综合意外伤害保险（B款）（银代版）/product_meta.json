@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:7b082304-70f3-4e12-a840-9ce307f4bcc1",
+  "actualPlanCode": "7b082304-70f3-4e12-a840-9ce307f4bcc1",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿乐学无忧综合意外伤害保险（B款）（银代版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:7b082304-70f3-4e12-a840-9ce307f4bcc1",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/66331b8baa584ff79de8f449bd42a881/国寿乐学无忧综合意外伤害保险(B款)(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 380335,
+      "sha256": "11e4a220590cc67eb487c9c1083f8a8db936c0da05ab42ff6114a11fc253c08c"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/66331b8baa584ff79de8f449bd42a881/110_国寿乐学无忧综合意外伤害保险(B款)(银代版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 166221,
+      "sha256": "2bde6979bacc627994320f1870b0144e43bae349d8d614a822335b5954c63f6e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/66331b8baa584ff79de8f449bd42a881/300_国寿乐学无忧综合意外伤害保险(B款)(银代版)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 615487,
+      "sha256": "bad98d77d1da6f24f605195080c3d59f206282491b876b41ebef05f786953d06"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/66331b8baa584ff79de8f449bd42a881/国寿乐学无忧综合意外伤害保险(B款)(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/66331b8baa584ff79de8f449bd42a881/300_国寿乐学无忧综合意外伤害保险(B款)(银代版)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-23 09:51:48+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-23 09:51:48",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/66331b8baa584ff79de8f449bd42a881/110_国寿乐学无忧综合意外伤害保险(B款)(银代版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿乐学无忧综合意外伤害保险（B款）（银代版）",
+    "othermessage": "",
+    "id": "7b082304-70f3-4e12-a840-9ce307f4bcc1",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

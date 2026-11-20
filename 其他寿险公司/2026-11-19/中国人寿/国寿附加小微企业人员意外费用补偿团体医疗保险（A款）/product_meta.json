@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:b147b5a9-5a56-4c1b-912d-322732b6dc55",
+  "actualPlanCode": "b147b5a9-5a56-4c1b-912d-322732b6dc55",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加小微企业人员意外费用补偿团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:b147b5a9-5a56-4c1b-912d-322732b6dc55",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c218aeea8f1a483f91ef66c3dd6890c1/100_国寿附加小微企业人员意外费用补偿团体医疗保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 174841,
+      "sha256": "eb51186ef332f9cb0e5670cbbb26ef288b54b78c94bab31ceefb0d02af83b5d1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/c218aeea8f1a483f91ef66c3dd6890c1/300_国寿附加小微企业人员意外费用补偿团体医疗保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 392828,
+      "sha256": "5c99813d4ce6586200f045bbb1b569c2c2f8d4d277a44966be2fd3e4cc585b37"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/c218aeea8f1a483f91ef66c3dd6890c1/100_国寿附加小微企业人员意外费用补偿团体医疗保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/c218aeea8f1a483f91ef66c3dd6890c1/300_国寿附加小微企业人员意外费用补偿团体医疗保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-05-14 16:44:17+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-05-14 16:44:17",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加小微企业人员意外费用补偿团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "b147b5a9-5a56-4c1b-912d-322732b6dc55",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

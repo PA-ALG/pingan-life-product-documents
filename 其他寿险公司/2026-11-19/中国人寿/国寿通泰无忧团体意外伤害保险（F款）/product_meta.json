@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:cf33eec0-6fca-44e4-89ec-8355516a62a9",
+  "actualPlanCode": "cf33eec0-6fca-44e4-89ec-8355516a62a9",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿通泰无忧团体意外伤害保险（F款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:cf33eec0-6fca-44e4-89ec-8355516a62a9",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6c28cac1880d463585fd0f3451e13903/100_国寿通泰无忧团体意外伤害保险(F款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 231027,
+      "sha256": "5981241bb08c8255d953ebf69e118034cb4264213f45728dcf23a3ac5ba77388"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6c28cac1880d463585fd0f3451e13903/300_国寿通泰无忧团体意外伤害保险(F款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 381071,
+      "sha256": "fb6bf20abef8a5a1ce78b09c021005dbc865b2d3a84d162f9830217573e472b9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/6c28cac1880d463585fd0f3451e13903/100_国寿通泰无忧团体意外伤害保险(F款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/6c28cac1880d463585fd0f3451e13903/300_国寿通泰无忧团体意外伤害保险(F款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-12-29 14:36:16+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-12-29 14:36:16",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿通泰无忧团体意外伤害保险（F款）",
+    "othermessage": "",
+    "id": "cf33eec0-6fca-44e4-89ec-8355516a62a9",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

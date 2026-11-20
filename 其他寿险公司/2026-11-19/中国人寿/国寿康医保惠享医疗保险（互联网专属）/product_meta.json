@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:9b43d84f-8742-491c-a858-8770df914d7f",
+  "actualPlanCode": "9b43d84f-8742-491c-a858-8770df914d7f",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康医保惠享医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:9b43d84f-8742-491c-a858-8770df914d7f",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e9cde2882caa453ebf7abc8d5492f921/100_国寿康医保惠享医疗保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 743825,
+      "sha256": "d263c8c2cde08cb778fa9c3344595ba5f50fcd20c6bdcdd4da1b546a8203281a"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e9cde2882caa453ebf7abc8d5492f921/110_国寿康医保惠享医疗保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 59074,
+      "sha256": "91f3dbe7041bbd5f1f12ea76567c7ae18abeafdcd913c9a652ee3dfc871a0298"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e9cde2882caa453ebf7abc8d5492f921/300_国寿康医保惠享医疗保险(互联网专属)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 473500,
+      "sha256": "fb94c6ad9e1ff08e1c070e797c0e2207f58877e913315f5c8ffa80d1113077ce"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/e9cde2882caa453ebf7abc8d5492f921/100_国寿康医保惠享医疗保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/e9cde2882caa453ebf7abc8d5492f921/300_国寿康医保惠享医疗保险(互联网专属)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-06-17 15:43:34+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-06-17 15:43:34",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/e9cde2882caa453ebf7abc8d5492f921/110_国寿康医保惠享医疗保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康医保惠享医疗保险（互联网专属）",
+    "othermessage": "",
+    "id": "9b43d84f-8742-491c-a858-8770df914d7f",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

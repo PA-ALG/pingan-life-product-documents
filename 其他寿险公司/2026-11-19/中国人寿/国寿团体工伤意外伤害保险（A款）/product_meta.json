@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76c862a-14c3-11ee-9f34-bc97e1225d40",
+  "actualPlanCode": "a76c862a-14c3-11ee-9f34-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿团体工伤意外伤害保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76c862a-14c3-11ee-9f34-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c8648-14c3-11ee-9f35-bc97e1225d40/100_国寿团体工伤意外伤害保险(A款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 216172,
+      "sha256": "0f03223b3549962f6049e078eec58ba036633919be506621c52374110018a76a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c8648-14c3-11ee-9f35-bc97e1225d40/5-300_国寿团体工伤意外伤害保险(A款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 515936,
+      "sha256": "6fb880171a796dc525dfcdaeaed2f32a6fb955f8741803eed210aa9cbb556194"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76c8648-14c3-11ee-9f35-bc97e1225d40/100_国寿团体工伤意外伤害保险(A款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76c8648-14c3-11ee-9f35-bc97e1225d40/5-300_国寿团体工伤意外伤害保险(A款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "115",
+    "datemodified": "2025-04-01 09:17:02",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿团体工伤意外伤害保险（A款）",
+    "othermessage": "",
+    "id": "a76c862a-14c3-11ee-9f34-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

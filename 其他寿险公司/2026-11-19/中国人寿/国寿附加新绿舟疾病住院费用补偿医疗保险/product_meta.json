@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76f8456-14c3-11ee-a010-bc97e1225d40",
+  "actualPlanCode": "a76f8456-14c3-11ee-a010-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加新绿舟疾病住院费用补偿医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76f8456-14c3-11ee-a010-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f847e-14c3-11ee-a011-bc97e1225d40/100_国寿附加新绿舟疾病住院费用补偿医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 242753,
+      "sha256": "7f0ea4bb36b8a2fd7a04e323362f5b286e827fed00c42beec2a3f7b4b20834ab"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f847e-14c3-11ee-a011-bc97e1225d40/110_国寿附加新绿舟疾病住院费用补偿医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 109897,
+      "sha256": "dfa5aeba655a5fb49885ba5111aafb2316ffefcdabba64532af736c5a4c204fa"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f847e-14c3-11ee-a011-bc97e1225d40/300_国寿附加新绿舟疾病住院费用补偿医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 240675,
+      "sha256": "e8c739ef8b80c09cad1c1d0e37f2b2297caa499e02b597387de587138e20b1a7"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76f847e-14c3-11ee-a011-bc97e1225d40/100_国寿附加新绿舟疾病住院费用补偿医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76f847e-14c3-11ee-a011-bc97e1225d40/300_国寿附加新绿舟疾病住院费用补偿医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "225",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76f847e-14c3-11ee-a011-bc97e1225d40/110_国寿附加新绿舟疾病住院费用补偿医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加新绿舟疾病住院费用补偿医疗保险",
+    "othermessage": "",
+    "id": "a76f8456-14c3-11ee-a010-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

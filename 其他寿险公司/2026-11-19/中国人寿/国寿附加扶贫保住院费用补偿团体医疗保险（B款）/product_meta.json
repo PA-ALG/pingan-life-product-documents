@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a7707b36-14c3-11ee-a060-bc97e1225d40",
+  "actualPlanCode": "a7707b36-14c3-11ee-a060-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加扶贫保住院费用补偿团体医疗保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7707b36-14c3-11ee-a060-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7707b5e-14c3-11ee-a061-bc97e1225d40/100_国寿附加扶贫保住院费用补偿团体医疗保险（B款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 157599,
+      "sha256": "a48ebcc754798da78d69d767869925e68fe8f8782cdc7f4030229cbbe3f78273"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7707b5e-14c3-11ee-a061-bc97e1225d40/300_国寿附加扶贫保住院费用补偿团体医疗保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 225130,
+      "sha256": "72cd0b5e053c5c4f109d256ed20cf98f03836708e6fe7c1fe1b79b5d920429ec"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a7707b5e-14c3-11ee-a061-bc97e1225d40/100_国寿附加扶贫保住院费用补偿团体医疗保险（B款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a7707b5e-14c3-11ee-a061-bc97e1225d40/300_国寿附加扶贫保住院费用补偿团体医疗保险（B款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "265",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加扶贫保住院费用补偿团体医疗保险（B款）",
+    "othermessage": "",
+    "id": "a7707b36-14c3-11ee-a060-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

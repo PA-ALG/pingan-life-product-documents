@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:1f3a62fd-8190-4dd6-aa1a-712ab047a356",
+  "actualPlanCode": "1f3a62fd-8190-4dd6-aa1a-712ab047a356",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加新绿舟意外费用补偿医疗保险（D款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:1f3a62fd-8190-4dd6-aa1a-712ab047a356",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/04e6d8d3b0e54313b3da91efeb383eb3/国寿附加新绿舟意外费用补偿医疗保险(D款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 287343,
+      "sha256": "badb23cc689c7eb3fa560b90a5e7cb7d745de8a6ae5479a479be9cf8a91c3e4c"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/04e6d8d3b0e54313b3da91efeb383eb3/国寿附加新绿舟意外费用补偿医疗保险(D款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 152109,
+      "sha256": "5aafceb9bdea10d1fd5f0942a7fbfa0f8e46ef526c6565c1e02e0519028c2b7a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/04e6d8d3b0e54313b3da91efeb383eb3/国寿附加新绿舟意外费用补偿医疗保险(D款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 491123,
+      "sha256": "c1b4cb7ea750ffa3e3decfead8f114cbc9b74d6dfc60cdeaaf809fcbbe10857c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/04e6d8d3b0e54313b3da91efeb383eb3/国寿附加新绿舟意外费用补偿医疗保险(D款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/04e6d8d3b0e54313b3da91efeb383eb3/国寿附加新绿舟意外费用补偿医疗保险(D款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-17 16:56:32+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-10-17 16:56:32",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/04e6d8d3b0e54313b3da91efeb383eb3/国寿附加新绿舟意外费用补偿医疗保险(D款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加新绿舟意外费用补偿医疗保险（D款）",
+    "othermessage": "",
+    "id": "1f3a62fd-8190-4dd6-aa1a-712ab047a356",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

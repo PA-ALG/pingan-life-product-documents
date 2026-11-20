@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:22633bff-4830-41a8-8806-d29f7b0b9afb",
+  "actualPlanCode": "22633bff-4830-41a8-8806-d29f7b0b9afb",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫颐金生终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:22633bff-4830-41a8-8806-d29f7b0b9afb",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/100_国寿鑫颐金生终身寿险(分红型)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 304819,
+      "sha256": "6b7637c2100f2354cfafd97e0f03e335de99145772fc8fe3c5c88043beb39726"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/110_国寿鑫颐金生终身寿险(分红型)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 518202,
+      "sha256": "88f0ef7578197a09c4cef97a17357555280c16d062f95109549a93cebca39c9f"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/121_国寿鑫颐金生终身寿险(分红型)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 837581,
+      "sha256": "57255dcd5f57634a50d0ecdf4d8222ca28a0efb39ec0f440c4bf96f16f566179"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/300_国寿鑫颐金生终身寿险(分红型)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 712130,
+      "sha256": "778e68dad96b486b3979a665498400ca20d92f7adb786213f889d79fa6467042"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/100_国寿鑫颐金生终身寿险(分红型)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/121_国寿鑫颐金生终身寿险(分红型)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/300_国寿鑫颐金生终身寿险(分红型)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-04 09:59:53+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-04 09:59:53",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/b660deb0123c434c8d16e521a04d0f85/110_国寿鑫颐金生终身寿险(分红型)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫颐金生终身寿险（分红型）",
+    "othermessage": "",
+    "id": "22633bff-4830-41a8-8806-d29f7b0b9afb",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:b6a9f19f-0b53-4be4-8b5e-621f20e84a1e",
+  "actualPlanCode": "b6a9f19f-0b53-4be4-8b5e-621f20e84a1e",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿新业态团体意外费用补偿医疗保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:b6a9f19f-0b53-4be4-8b5e-621f20e84a1e",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7da58733801a4ffc97d787a4568e1395/100_国寿新业态团体意外费用补偿医疗保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 299255,
+      "sha256": "16c967279947f11a8f16f665aff7087bca597c289bc9d65b7f6b24f961908f23"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7da58733801a4ffc97d787a4568e1395/300_国寿新业态团体意外费用补偿医疗保险(C款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 424707,
+      "sha256": "d9e3bda77240e2e1b702fd4663a17b34743ad8b3a34d0ad136a9474c66e227ef"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/7da58733801a4ffc97d787a4568e1395/100_国寿新业态团体意外费用补偿医疗保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/7da58733801a4ffc97d787a4568e1395/300_国寿新业态团体意外费用补偿医疗保险(C款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-06 10:01:49+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-06 10:01:49",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿新业态团体意外费用补偿医疗保险（C款）",
+    "othermessage": "",
+    "id": "b6a9f19f-0b53-4be4-8b5e-621f20e84a1e",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

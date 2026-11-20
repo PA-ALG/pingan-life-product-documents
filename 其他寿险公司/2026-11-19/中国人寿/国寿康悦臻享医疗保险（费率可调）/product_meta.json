@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:872c4316-6226-4a47-8cdb-d6f868953f12",
+  "actualPlanCode": "872c4316-6226-4a47-8cdb-d6f868953f12",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康悦臻享医疗保险（费率可调）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:872c4316-6226-4a47-8cdb-d6f868953f12",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/100_国寿康悦臻享医疗保险(费率可调)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 860853,
+      "sha256": "0370aad88106c61ea355ad0ee78b8bce8881b5861a788fa9f5530611625f3e1d"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/110_国寿康悦臻享医疗保险(费率可调)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 242099,
+      "sha256": "f69089a5e19cd649484c5cc9e28f4638f0b41195e883562d8f84de20dd29a0fb"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/300_国寿康悦臻享医疗保险(费率可调)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 470836,
+      "sha256": "b13086429e73932cd38e140585d32d3d7f21636e2b973af0b62b63a31d64e702"
+    },
+    {
+      "label": "其他产品信息",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/国寿康悦臻享医疗保险(费率可调)院外特定重大疾病急需药品清单.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "其他产品信息.pdf",
+      "status": "downloaded",
+      "bytes": 75236,
+      "sha256": "873f9d80e4c7a31b2d9639f40196fd72a941bfbf63fcb15c14ca88efc831eee4"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/100_国寿康悦臻享医疗保险(费率可调)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/300_国寿康悦臻享医疗保险(费率可调)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-05-08 15:14:43+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-05-08 15:14:43",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/110_国寿康悦臻享医疗保险(费率可调)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康悦臻享医疗保险（费率可调）",
+    "othermessage": "/upload/resources/file/productBasicInfo/9b793382d11f413490bc51e1f54c45ec/国寿康悦臻享医疗保险(费率可调)院外特定重大疾病急需药品清单.pdf",
+    "id": "872c4316-6226-4a47-8cdb-d6f868953f12",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

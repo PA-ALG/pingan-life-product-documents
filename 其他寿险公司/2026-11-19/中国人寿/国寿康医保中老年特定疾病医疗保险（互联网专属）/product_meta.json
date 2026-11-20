@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:67b4f75e-8e32-4537-8c8f-cd3f75efebe8",
+  "actualPlanCode": "67b4f75e-8e32-4537-8c8f-cd3f75efebe8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康医保中老年特定疾病医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:67b4f75e-8e32-4537-8c8f-cd3f75efebe8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/714efb2da42c4e039ba85c24a182667f/100_国寿康医保中老年特定疾病医疗保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 768944,
+      "sha256": "a2863013cddd57215efe51e101ad68d0afc7cf52aeda2923cf1ebdd4bb7c919c"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/714efb2da42c4e039ba85c24a182667f/110_国寿康医保中老年特定疾病医疗保险(互联网专属)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 50212,
+      "sha256": "943df0a9933803d0768a5a104b437f47440e292d18b9a76c78aaf1a9f68efd15"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/714efb2da42c4e039ba85c24a182667f/300_国寿康医保中老年特定疾病医疗保险(互联网专属)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 354641,
+      "sha256": "dfc19983748f9997bfe1a9d083d9d7fe5b5f8e0556752dbf69b61c7938c4d70c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/714efb2da42c4e039ba85c24a182667f/100_国寿康医保中老年特定疾病医疗保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/714efb2da42c4e039ba85c24a182667f/300_国寿康医保中老年特定疾病医疗保险(互联网专属)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-15 17:44:15+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-15 17:44:15",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/714efb2da42c4e039ba85c24a182667f/110_国寿康医保中老年特定疾病医疗保险(互联网专属)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康医保中老年特定疾病医疗保险（互联网专属）",
+    "othermessage": "",
+    "id": "67b4f75e-8e32-4537-8c8f-cd3f75efebe8",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

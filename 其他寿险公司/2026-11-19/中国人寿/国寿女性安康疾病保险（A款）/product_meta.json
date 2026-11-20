@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a7707758-14c3-11ee-a05e-bc97e1225d40",
+  "actualPlanCode": "a7707758-14c3-11ee-a05e-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿女性安康疾病保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7707758-14c3-11ee-a05e-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7707780-14c3-11ee-a05f-bc97e1225d40/100_国寿女性安康疾病保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 236834,
+      "sha256": "689363654f98754627f7e9a6b48768440a9d4d83f4a60d1c32911648fa0e7bca"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7707780-14c3-11ee-a05f-bc97e1225d40/110_国寿女性安康疾病保险（A款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 48421,
+      "sha256": "aaed219d57eec6e6118d3503bba643865882cf82bb019105d1c6a7171664f91e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a7707780-14c3-11ee-a05f-bc97e1225d40/300_国寿女性安康疾病保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 228326,
+      "sha256": "36c88f5374f460fe051afc2f021ba021adecc03046d1699896c6b3eaf05299b5"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a7707780-14c3-11ee-a05f-bc97e1225d40/100_国寿女性安康疾病保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a7707780-14c3-11ee-a05f-bc97e1225d40/300_国寿女性安康疾病保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "264",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a7707780-14c3-11ee-a05f-bc97e1225d40/110_国寿女性安康疾病保险（A款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿女性安康疾病保险（A款）",
+    "othermessage": "",
+    "id": "a7707758-14c3-11ee-a05e-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

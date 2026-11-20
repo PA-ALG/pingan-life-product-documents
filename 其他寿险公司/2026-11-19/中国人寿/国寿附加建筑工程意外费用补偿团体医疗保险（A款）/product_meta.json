@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76f355a-14c3-11ee-9ffc-bc97e1225d40",
+  "actualPlanCode": "a76f355a-14c3-11ee-9ffc-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加建筑工程意外费用补偿团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76f355a-14c3-11ee-9ffc-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f3578-14c3-11ee-9ffd-bc97e1225d40/100_国寿附加建筑工程意外费用补偿团体医疗保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 158716,
+      "sha256": "1e3b3553b4d91cedfb2fe8cf2bff9e750e607bed3b025cee3f30fa8d58c0b7b5"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f3578-14c3-11ee-9ffd-bc97e1225d40/300_国寿附加建筑工程意外费用补偿团体医疗保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 219001,
+      "sha256": "16305c5f64274b54622bbb75f1a109a11df636756b7b4ff19cb4e08a6d8def71"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76f3578-14c3-11ee-9ffd-bc97e1225d40/100_国寿附加建筑工程意外费用补偿团体医疗保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76f3578-14c3-11ee-9ffd-bc97e1225d40/300_国寿附加建筑工程意外费用补偿团体医疗保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "215",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加建筑工程意外费用补偿团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "a76f355a-14c3-11ee-9ffc-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

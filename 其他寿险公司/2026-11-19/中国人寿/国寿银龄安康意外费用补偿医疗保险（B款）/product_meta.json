@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:7033f9a4-7fee-4f6d-91ef-3bb0ef5e54c5",
+  "actualPlanCode": "7033f9a4-7fee-4f6d-91ef-3bb0ef5e54c5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿银龄安康意外费用补偿医疗保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:7033f9a4-7fee-4f6d-91ef-3bb0ef5e54c5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/033fbed7b7c9447a8f292968bdc5b5e0/100_国寿银龄安康意外费用补偿医疗保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 329472,
+      "sha256": "5b6c824a91480dafd26ee867f8cbd13cbe8b0554f6dbea5153123bef0455c062"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/033fbed7b7c9447a8f292968bdc5b5e0/110_国寿银龄安康意外费用补偿医疗保险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 142662,
+      "sha256": "66ee6322dac95f19166ab7a23d35192eac1bb2d9d83470239172d9c2b22b88e6"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/033fbed7b7c9447a8f292968bdc5b5e0/300_国寿银龄安康意外费用补偿医疗保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 471179,
+      "sha256": "d19824c6e99c7e8522fe7664a899bc4589b1da10518f3c4f460673362f103d55"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/033fbed7b7c9447a8f292968bdc5b5e0/100_国寿银龄安康意外费用补偿医疗保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/033fbed7b7c9447a8f292968bdc5b5e0/300_国寿银龄安康意外费用补偿医疗保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-20 15:46:06+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-23 11:04:47",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/033fbed7b7c9447a8f292968bdc5b5e0/110_国寿银龄安康意外费用补偿医疗保险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿银龄安康意外费用补偿医疗保险（B款）",
+    "othermessage": "",
+    "id": "7033f9a4-7fee-4f6d-91ef-3bb0ef5e54c5",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a771d7a6-14c3-11ee-a0ac-bc97e1225d40",
+  "actualPlanCode": "a771d7a6-14c3-11ee-a0ac-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿城乡居民大病团体医疗保险（A型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a771d7a6-14c3-11ee-a0ac-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771d7c4-14c3-11ee-a0ad-bc97e1225d40/100_国寿城乡居民大病团体医疗保险（A型）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 153957,
+      "sha256": "7d0696e27ecaed81f47c944dac50ff573cb97bde814d5da20e602bdde4ef1eaf"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771d7c4-14c3-11ee-a0ad-bc97e1225d40/300_国寿城乡居民大病团体医疗保险（A型）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 262395,
+      "sha256": "d2993865bde7e7af0b52d8b20c703f812749d6152a5b42d3e7d0069a2ca394c9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a771d7c4-14c3-11ee-a0ad-bc97e1225d40/100_国寿城乡居民大病团体医疗保险（A型）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a771d7c4-14c3-11ee-a0ad-bc97e1225d40/300_国寿城乡居民大病团体医疗保险（A型）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "303",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿城乡居民大病团体医疗保险（A型）",
+    "othermessage": "",
+    "id": "a771d7a6-14c3-11ee-a0ac-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

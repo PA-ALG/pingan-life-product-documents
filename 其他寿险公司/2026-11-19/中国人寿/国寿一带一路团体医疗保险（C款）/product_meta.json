@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:6c1cfc07-cae6-4f89-8e18-bccf035c7cfa",
+  "actualPlanCode": "6c1cfc07-cae6-4f89-8e18-bccf035c7cfa",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿一带一路团体医疗保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:6c1cfc07-cae6-4f89-8e18-bccf035c7cfa",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e4038b25b1504517aa6f0b67f956d4a4/100_国寿一带一路团体医疗保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 297172,
+      "sha256": "726318bb7318b44e59340e76d2a5ab6a78c05fc8805888ecc4f9a3b8abadf0dd"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/e4038b25b1504517aa6f0b67f956d4a4/300_国寿一带一路团体医疗保险(C款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 331153,
+      "sha256": "cb563a75da685211fd1ecce39f6a6615807014e0c202df934bda1982689ed132"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/e4038b25b1504517aa6f0b67f956d4a4/100_国寿一带一路团体医疗保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/e4038b25b1504517aa6f0b67f956d4a4/300_国寿一带一路团体医疗保险(C款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-01-22 14:00:15+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-02-09 16:36:32",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿一带一路团体医疗保险（C款）",
+    "othermessage": "",
+    "id": "6c1cfc07-cae6-4f89-8e18-bccf035c7cfa",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a7708374-14c3-11ee-a064-bc97e1225d40",
+  "actualPlanCode": "a7708374-14c3-11ee-a064-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿扶贫保团体定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a7708374-14c3-11ee-a064-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770839c-14c3-11ee-a065-bc97e1225d40/100_国寿扶贫保团体定期寿险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 194099,
+      "sha256": "bb62433eb283106465014cba42bd60a8cfa1173b811ed02cf00ca7fd099147ee"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a770839c-14c3-11ee-a065-bc97e1225d40/300_国寿扶贫保团体定期寿险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 217301,
+      "sha256": "c03ddd2fdc8708e11508cac25e51252496cf39289b4d1cb37450402a41ee5e8c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a770839c-14c3-11ee-a065-bc97e1225d40/100_国寿扶贫保团体定期寿险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a770839c-14c3-11ee-a065-bc97e1225d40/300_国寿扶贫保团体定期寿险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "267",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿扶贫保团体定期寿险",
+    "othermessage": "",
+    "id": "a7708374-14c3-11ee-a064-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

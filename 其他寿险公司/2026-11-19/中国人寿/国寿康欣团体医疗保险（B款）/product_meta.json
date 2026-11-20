@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:bae31fff-5bf8-4e92-bc4f-6e5c8ee1ff49",
+  "actualPlanCode": "bae31fff-5bf8-4e92-bc4f-6e5c8ee1ff49",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康欣团体医疗保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:bae31fff-5bf8-4e92-bc4f-6e5c8ee1ff49",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5d1f802d7f0841bc9b2b31e7eac16885/100_国寿康欣团体医疗保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 575269,
+      "sha256": "8154cb1095830cf12248b5351b1c8ad74ec0cb9268596581a98740e09aeaaa8b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5d1f802d7f0841bc9b2b31e7eac16885/300_国寿康欣团体医疗保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 675963,
+      "sha256": "12ff33bf655f426f9cdbd43b0c830146481261b1cf349ba94fc3b3684f575744"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/5d1f802d7f0841bc9b2b31e7eac16885/100_国寿康欣团体医疗保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/5d1f802d7f0841bc9b2b31e7eac16885/300_国寿康欣团体医疗保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-06-04 14:50:35+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-06-04 14:50:35",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿康欣团体医疗保险（B款）",
+    "othermessage": "",
+    "id": "bae31fff-5bf8-4e92-bc4f-6e5c8ee1ff49",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

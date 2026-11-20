@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:a51a3a0d-dbf7-4757-8f4b-2cf029fbf7e7",
+  "actualPlanCode": "a51a3a0d-dbf7-4757-8f4b-2cf029fbf7e7",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康宁馨孕宝重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a51a3a0d-dbf7-4757-8f4b-2cf029fbf7e7",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/100_国寿康宁馨孕宝重大疾病保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 778830,
+      "sha256": "113b79b774d0fe1d529be479d8f358c89079ced95dc9d7e98c77c6bb82f85ef7"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/110_国寿康宁馨孕宝重大疾病保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 169520,
+      "sha256": "55f806effaac8ead07a197c5956f36cbfbd5540ec3cf5a07c360724a7eecd909"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/121_国寿康宁馨孕宝重大疾病保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 91919,
+      "sha256": "37d2cdab38a0a1bba15b7afe411a301690ed8b55830f3961f0192d3df3533266"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/300_国寿康宁馨孕宝重大疾病保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 416235,
+      "sha256": "d0210b93729aff2b2e87aca4d76f936bbd7c61777b26f2caa2f5175a54127b4e"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/100_国寿康宁馨孕宝重大疾病保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/121_国寿康宁馨孕宝重大疾病保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/300_国寿康宁馨孕宝重大疾病保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-01-06 10:56:39+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-01-06 10:56:39",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/cb9e0d84f34544ac88c7541885c8a182/110_国寿康宁馨孕宝重大疾病保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康宁馨孕宝重大疾病保险",
+    "othermessage": "",
+    "id": "a51a3a0d-dbf7-4757-8f4b-2cf029fbf7e7",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:54029cae-f5f0-4461-95f1-19ec238936bf",
+  "actualPlanCode": "54029cae-f5f0-4461-95f1-19ec238936bf",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿宁波学生儿童定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:54029cae-f5f0-4461-95f1-19ec238936bf",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/462eb9ced16b404f9c1dc5d4e552dfe0/100_国寿宁波学生儿童定期寿险条款-披露材料.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 417613,
+      "sha256": "f4f443d817357a67517d4b12b88dd18f326c44f99d55a0459b41177cb4f7d9d8"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/462eb9ced16b404f9c1dc5d4e552dfe0/110_国寿宁波学生儿童定期寿险费率表-披露材料.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 62888,
+      "sha256": "47a2adb6d488f43ef948871a9f5a2dded04260558efe7a7b674c9c7461dc012a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/462eb9ced16b404f9c1dc5d4e552dfe0/300_国寿宁波学生儿童定期寿险产品说明-披露材料.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 450530,
+      "sha256": "ac36f59efd6552549a430bd719c82ea189d4d4f83da3648cefc4a025611e9581"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/462eb9ced16b404f9c1dc5d4e552dfe0/100_国寿宁波学生儿童定期寿险条款-披露材料.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/462eb9ced16b404f9c1dc5d4e552dfe0/300_国寿宁波学生儿童定期寿险产品说明-披露材料.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-27 16:50:16+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-27 16:50:16",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/462eb9ced16b404f9c1dc5d4e552dfe0/110_国寿宁波学生儿童定期寿险费率表-披露材料.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿宁波学生儿童定期寿险",
+    "othermessage": "",
+    "id": "54029cae-f5f0-4461-95f1-19ec238936bf",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

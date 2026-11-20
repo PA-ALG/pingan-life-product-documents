@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:d5230d76-8b8d-47fb-83d5-96a810988c6a",
+  "actualPlanCode": "d5230d76-8b8d-47fb-83d5-96a810988c6a",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿科技企业人员团体综合意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:d5230d76-8b8d-47fb-83d5-96a810988c6a",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1c06cebe0d324e558d46d733a23ab422/100_国寿科技企业人员团体综合意外伤害保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 247389,
+      "sha256": "645d97ac87b7bf6f0480eea3022033844799248f81a74c0d33f7c8cb4b6f052d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1c06cebe0d324e558d46d733a23ab422/300_国寿科技企业人员团体综合意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 406351,
+      "sha256": "b437318598c7f50bbad68aa3617cc85adab6fd542fd2f9dfdb6ea9f8c87f5d69"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/1c06cebe0d324e558d46d733a23ab422/100_国寿科技企业人员团体综合意外伤害保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/1c06cebe0d324e558d46d733a23ab422/300_国寿科技企业人员团体综合意外伤害保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-10-16 10:32:12+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2023-10-16 10:32:12",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿科技企业人员团体综合意外伤害保险",
+    "othermessage": "",
+    "id": "d5230d76-8b8d-47fb-83d5-96a810988c6a",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

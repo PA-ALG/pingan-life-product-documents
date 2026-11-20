@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:762fc7f7-b648-447d-b507-6cd1345ee3dc",
+  "actualPlanCode": "762fc7f7-b648-447d-b507-6cd1345ee3dc",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿年丰鑫赢年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:762fc7f7-b648-447d-b507-6cd1345ee3dc",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/100_国寿年丰鑫赢年金保险(分红型)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 285419,
+      "sha256": "899ba77cc052e4f3aed28f5dd1c1f0d8e2602f173f52de6f90eef4f75c272cb4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/110_国寿年丰鑫赢年金保险(分红型)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 46335,
+      "sha256": "80e4d949f6bfecdb5e38e7683daca45a403d725aadc9e23f1251c1a4c3b479cf"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/121_国寿年丰鑫赢年金保险(分红型)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 930184,
+      "sha256": "6eac9c363636157b8f2a2484260b3f0c53fcca31f609cfe82378775e168fe071"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/300_国寿年丰鑫赢年金保险(分红型)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 364888,
+      "sha256": "acdb78324d57ff5f39cb410ea1d9f0b1908a4ece384c904c859f87b4e7fd60d7"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/100_国寿年丰鑫赢年金保险(分红型)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/121_国寿年丰鑫赢年金保险(分红型)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/300_国寿年丰鑫赢年金保险(分红型)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-09-28 10:38:08+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-09-28 10:47:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/1db6c4bc00ed44c6b9a7a10fb8810786/110_国寿年丰鑫赢年金保险(分红型)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿年丰鑫赢年金保险（分红型）",
+    "othermessage": "",
+    "id": "762fc7f7-b648-447d-b507-6cd1345ee3dc",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

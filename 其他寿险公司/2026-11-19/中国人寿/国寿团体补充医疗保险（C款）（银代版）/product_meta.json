@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:2426b326-bc69-422b-ab9b-fab432431014",
+  "actualPlanCode": "2426b326-bc69-422b-ab9b-fab432431014",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿团体补充医疗保险（C款）（银代版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2426b326-bc69-422b-ab9b-fab432431014",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1f90d85d9b3a4ead9d0aee75705eea50/100_国寿团体补充医疗保险(C款)(银代版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 296608,
+      "sha256": "2ba8c6a23b1d7e0dc359335a8ed846516e73962cd3096d97b0f8f61d6c124931"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/1f90d85d9b3a4ead9d0aee75705eea50/300_国寿团体补充医疗保险（C款）（银代版）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 279014,
+      "sha256": "93d3b57f5b01a1029894b63aa4281b47bf7d40fe73b957df73180554e51176d9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/1f90d85d9b3a4ead9d0aee75705eea50/100_国寿团体补充医疗保险(C款)(银代版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/1f90d85d9b3a4ead9d0aee75705eea50/300_国寿团体补充医疗保险（C款）（银代版）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-01-10 15:15:04+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-01-10 15:15:04",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿团体补充医疗保险（C款）（银代版）",
+    "othermessage": "",
+    "id": "2426b326-bc69-422b-ab9b-fab432431014",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

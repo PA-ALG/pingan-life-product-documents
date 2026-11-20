@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:fdf24b0a-6873-4574-9fcd-e46f6c22dfef",
+  "actualPlanCode": "fdf24b0a-6873-4574-9fcd-e46f6c22dfef",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿城市定制型商业团体医疗保险(2025A)",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:fdf24b0a-6873-4574-9fcd-e46f6c22dfef",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7e9b0c704a0b474ab9798be8d0722925/100_国寿城市定制型商业团体医疗保险(2025A)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 207058,
+      "sha256": "36c67ba5c94209a50d65a277c4a31f8d5890b2575d7d2d99e208944d8b4ad7e5"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7e9b0c704a0b474ab9798be8d0722925/国寿城市定制型商业团体医疗保险(2025A)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 501298,
+      "sha256": "97845174fc631da99dde14c196983d432f9c0df29c1e43d3b35baf9127de5482"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/7e9b0c704a0b474ab9798be8d0722925/100_国寿城市定制型商业团体医疗保险(2025A)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/7e9b0c704a0b474ab9798be8d0722925/国寿城市定制型商业团体医疗保险(2025A)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-10-17 14:38:20+08",
+    "modifiedbyname": "田思行",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-01-31 21:41:27",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿城市定制型商业团体医疗保险(2025A)",
+    "othermessage": "",
+    "id": "fdf24b0a-6873-4574-9fcd-e46f6c22dfef",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

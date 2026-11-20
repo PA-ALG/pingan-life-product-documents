@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:27e6dcb1-0c54-4145-a689-544ec6cc573c",
+  "actualPlanCode": "27e6dcb1-0c54-4145-a689-544ec6cc573c",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿银龄安康旅游意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:27e6dcb1-0c54-4145-a689-544ec6cc573c",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5c0a6713975a44d3a879971ae4cd1031/国寿银龄安康旅游意外伤害保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 450083,
+      "sha256": "2ffdd3cb7a01ecf47be60e6fecc4604ae557a7c4445849aade3a14122dcbc928"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5c0a6713975a44d3a879971ae4cd1031/国寿银龄安康旅游意外伤害保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 88420,
+      "sha256": "4443ce02effbf689b129ad20e51875556ad020e5fbec950946dd3f77fce8d323"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5c0a6713975a44d3a879971ae4cd1031/国寿银龄安康旅游意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 583790,
+      "sha256": "398288e106cf3c0dae1ea03006dee15cd14067f18f8afc7d0314b0b46204288c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/5c0a6713975a44d3a879971ae4cd1031/国寿银龄安康旅游意外伤害保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/5c0a6713975a44d3a879971ae4cd1031/国寿银龄安康旅游意外伤害保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-07-01 15:12:15+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-07-01 15:12:15",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/5c0a6713975a44d3a879971ae4cd1031/国寿银龄安康旅游意外伤害保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿银龄安康旅游意外伤害保险",
+    "othermessage": "",
+    "id": "27e6dcb1-0c54-4145-a689-544ec6cc573c",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

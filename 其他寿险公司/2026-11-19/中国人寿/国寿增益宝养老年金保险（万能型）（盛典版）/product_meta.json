@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:ba02b491-a675-4065-bd22-e071bd2d429d",
+  "actualPlanCode": "ba02b491-a675-4065-bd22-e071bd2d429d",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿增益宝养老年金保险（万能型）（盛典版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:ba02b491-a675-4065-bd22-e071bd2d429d",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5a370a915daa4a7bb8e2745ae74cdb8b/100_国寿增益宝养老年金保险(万能型)(盛典版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 286609,
+      "sha256": "7788c6b1ad3bb259a59d1953414c7becb925dffd61eb68d143aa2c20ef3c046c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/5a370a915daa4a7bb8e2745ae74cdb8b/300_国寿增益宝养老年金保险(万能型)(盛典版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 458007,
+      "sha256": "8a3bba5fec40b5d5b7bbdec1959ce07b0de15f03ecc38527bfc9d9d6ba538569"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/5a370a915daa4a7bb8e2745ae74cdb8b/100_国寿增益宝养老年金保险(万能型)(盛典版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/5a370a915daa4a7bb8e2745ae74cdb8b/300_国寿增益宝养老年金保险(万能型)(盛典版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-11-28 23:38:34+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-11-28 23:38:34",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿增益宝养老年金保险（万能型）（盛典版）",
+    "othermessage": "",
+    "id": "ba02b491-a675-4065-bd22-e071bd2d429d",
+    "category": "P3"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

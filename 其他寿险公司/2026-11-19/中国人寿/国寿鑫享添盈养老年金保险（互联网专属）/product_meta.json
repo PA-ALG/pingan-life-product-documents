@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:a198d805-d0bc-4c83-8a3b-83beb0261ac7",
+  "actualPlanCode": "a198d805-d0bc-4c83-8a3b-83beb0261ac7",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿鑫享添盈养老年金保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a198d805-d0bc-4c83-8a3b-83beb0261ac7",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/100_国寿鑫享添盈养老年金保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 481083,
+      "sha256": "2a20ca62a899b5af585bf5d4ccf48e9265d52cf03c2d9346265bb54156fd43ee"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/110_国寿鑫享添盈养老年金保险(互联网专属)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 364648,
+      "sha256": "8f008389b6e27af7d4d7252c4342f7adbcb01e1f3cdbb20cd29f8aee64e9bd37"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/121_国寿鑫享添盈养老年金保险(互联网专属)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 489812,
+      "sha256": "37361fca1526b3008f0a2093da8521a6d6c34732fa3ac4be5b418d6bda94c33f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/300_国寿鑫享添盈养老年金保险(互联网专属)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 527690,
+      "sha256": "fa97cf1c4ab01130bf57d896720076bb7b4f0ace19860ea42bd0c7d404423240"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/100_国寿鑫享添盈养老年金保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/121_国寿鑫享添盈养老年金保险(互联网专属)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/300_国寿鑫享添盈养老年金保险(互联网专属)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-04-07 17:28:44+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-04-09 16:44:36",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/0580283bbdbc49bfad4be59129e3f976/110_国寿鑫享添盈养老年金保险(互联网专属)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿鑫享添盈养老年金保险（互联网专属）",
+    "othermessage": "",
+    "id": "a198d805-d0bc-4c83-8a3b-83beb0261ac7",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

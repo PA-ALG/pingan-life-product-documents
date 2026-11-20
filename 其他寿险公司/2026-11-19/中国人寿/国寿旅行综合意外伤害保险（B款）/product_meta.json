@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:11e1f6c3-a5db-4d27-845b-b0a398ec729a",
+  "actualPlanCode": "11e1f6c3-a5db-4d27-845b-b0a398ec729a",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿旅行综合意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:11e1f6c3-a5db-4d27-845b-b0a398ec729a",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2ee400a4c85e461688fc8720a91c65bf/100_国寿旅行综合意外伤害保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 419089,
+      "sha256": "1e61ac349ec448be11c25b1840d9aa0433c45cea90d5c81431495de2ebb1f5de"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2ee400a4c85e461688fc8720a91c65bf/110_国寿旅行综合意外伤害保险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 97955,
+      "sha256": "61cd629402dbb44e6605c9da3e7f7e2c5b1796626a229a5b52784fa6967469aa"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/2ee400a4c85e461688fc8720a91c65bf/300_国寿旅行综合意外伤害保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 607128,
+      "sha256": "f781cf9c9ceac97b38de17cf6cba7bc1cda8a9c442915107accf9a06a036ab38"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/2ee400a4c85e461688fc8720a91c65bf/100_国寿旅行综合意外伤害保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/2ee400a4c85e461688fc8720a91c65bf/300_国寿旅行综合意外伤害保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-24 16:49:49+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-24 16:49:49",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/2ee400a4c85e461688fc8720a91c65bf/110_国寿旅行综合意外伤害保险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿旅行综合意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "11e1f6c3-a5db-4d27-845b-b0a398ec729a",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

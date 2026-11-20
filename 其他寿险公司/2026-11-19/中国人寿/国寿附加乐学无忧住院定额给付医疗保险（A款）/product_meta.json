@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76fee1e-14c3-11ee-a03c-bc97e1225d40",
+  "actualPlanCode": "a76fee1e-14c3-11ee-a03c-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乐学无忧住院定额给付医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76fee1e-14c3-11ee-a03c-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76fee46-14c3-11ee-a03d-bc97e1225d40/100_国寿附加乐学无忧住院定额给付医疗保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 230690,
+      "sha256": "5e4a11b73a36acab8205e784c0b7cf947e4e7c224346f42d1cc77ff1453443c4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76fee46-14c3-11ee-a03d-bc97e1225d40/110_国寿附加乐学无忧住院定额给付医疗保险（A款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 58305,
+      "sha256": "e523695f66d434d6674b107873f146e4b2d43368bc2ba7a0dd75be5fd8083699"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76fee46-14c3-11ee-a03d-bc97e1225d40/300_国寿附加乐学无忧住院定额给付医疗保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 335338,
+      "sha256": "628de0a874b1383da9d4b2a916037814cfefe6ba4b4059871a42c39af02a2016"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76fee46-14c3-11ee-a03d-bc97e1225d40/100_国寿附加乐学无忧住院定额给付医疗保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76fee46-14c3-11ee-a03d-bc97e1225d40/300_国寿附加乐学无忧住院定额给付医疗保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "247",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76fee46-14c3-11ee-a03d-bc97e1225d40/110_国寿附加乐学无忧住院定额给付医疗保险（A款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加乐学无忧住院定额给付医疗保险（A款）",
+    "othermessage": "",
+    "id": "a76fee1e-14c3-11ee-a03c-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

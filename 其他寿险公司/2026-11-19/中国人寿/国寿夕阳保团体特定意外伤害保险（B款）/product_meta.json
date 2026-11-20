@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:0296f236-168a-478d-8ae2-02a8e4768494",
+  "actualPlanCode": "0296f236-168a-478d-8ae2-02a8e4768494",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿夕阳保团体特定意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:0296f236-168a-478d-8ae2-02a8e4768494",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4dc826a6a6714cc99c35e4a630ba21ca/100_国寿夕阳保团体特定意外伤害保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 207469,
+      "sha256": "aaebb8b3170a5c965ddc8e28b73908fe6310cef30ab5c7e16302d5c9c340a3c9"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4dc826a6a6714cc99c35e4a630ba21ca/300_国寿夕阳保团体特定意外伤害保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 1128108,
+      "sha256": "e1aa3cf581318f864342af98e3d2939ea70d00844527f879f3c4c0d0385f8358"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/4dc826a6a6714cc99c35e4a630ba21ca/100_国寿夕阳保团体特定意外伤害保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/4dc826a6a6714cc99c35e4a630ba21ca/300_国寿夕阳保团体特定意外伤害保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-26 16:22:32+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-26 16:22:32",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿夕阳保团体特定意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "0296f236-168a-478d-8ae2-02a8e4768494",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

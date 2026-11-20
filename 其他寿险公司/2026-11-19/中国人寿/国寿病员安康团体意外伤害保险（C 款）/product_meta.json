@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:14917df5-211b-4028-8984-cad3650fb5c8",
+  "actualPlanCode": "14917df5-211b-4028-8984-cad3650fb5c8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿病员安康团体意外伤害保险（C 款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:14917df5-211b-4028-8984-cad3650fb5c8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7f457f36a0cc4753aca342dd78696109/100_国寿病员安康团体意外伤害保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 279338,
+      "sha256": "35cec8f8d6fbc704b6cc12f7f5e1b057e5007980ae55b8fd97ac69288aa89bcb"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/7f457f36a0cc4753aca342dd78696109/300_国寿病员安康团体意外伤害保险(C款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 514392,
+      "sha256": "aa00adfeb1ea0e70c4660bdc4198735e4f32b3d7c39dd0197c905d32f127f2a5"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/7f457f36a0cc4753aca342dd78696109/100_国寿病员安康团体意外伤害保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/7f457f36a0cc4753aca342dd78696109/300_国寿病员安康团体意外伤害保险(C款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-03-31 13:48:46+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-03-31 13:48:46",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿病员安康团体意外伤害保险（C 款）",
+    "othermessage": "",
+    "id": "14917df5-211b-4028-8984-cad3650fb5c8",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

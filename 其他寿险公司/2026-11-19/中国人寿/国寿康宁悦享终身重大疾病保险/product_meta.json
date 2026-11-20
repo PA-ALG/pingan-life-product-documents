@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:6ae34f50-b87f-489a-9d60-43406677a5a4",
+  "actualPlanCode": "6ae34f50-b87f-489a-9d60-43406677a5a4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康宁悦享终身重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:6ae34f50-b87f-489a-9d60-43406677a5a4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/100_国寿康宁悦享终身重大疾病保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 705424,
+      "sha256": "bfc499bf308089bbf4719bc11336daf214d710b8cdf0525862c8544fb8253b92"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/110_国寿康宁悦享终身重大疾病保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 127604,
+      "sha256": "f0144c12d9a1de6e55420e440f722837989c1afc196a5339fa23cc2afd97a4e0"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/121_国寿康宁悦享终身重大疾病保险现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 135396,
+      "sha256": "42af9319f83618c6cf14af9b184e4d37d9e977fd4f38d17b307a8f3cc8d423d8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/300_国寿康宁悦享终身重大疾病保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 282306,
+      "sha256": "d17e785a1c279015fffcc6cbe77847d1ba508af29337732b7bd5882c406b70a5"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/100_国寿康宁悦享终身重大疾病保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/121_国寿康宁悦享终身重大疾病保险现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/300_国寿康宁悦享终身重大疾病保险产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2026-08-10 16:36:03+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2026-08-10 16:36:03",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/736f9025469b4bdab822e567b7e9db5c/110_国寿康宁悦享终身重大疾病保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿康宁悦享终身重大疾病保险",
+    "othermessage": "",
+    "id": "6ae34f50-b87f-489a-9d60-43406677a5a4",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

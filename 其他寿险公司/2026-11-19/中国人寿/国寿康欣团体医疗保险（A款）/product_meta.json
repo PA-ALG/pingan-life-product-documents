@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76bb038-14c3-11ee-9ed6-bc97e1225d40",
+  "actualPlanCode": "a76bb038-14c3-11ee-9ed6-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康欣团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76bb038-14c3-11ee-9ed6-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76bb060-14c3-11ee-9ed7-bc97e1225d40/100_国寿康欣团体医疗保险（A款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 499847,
+      "sha256": "956016ee9d89a7f80844d40567f4a1acdce738c2a28a5539eb67fc772322e10a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76bb060-14c3-11ee-9ed7-bc97e1225d40/300_国寿康欣团体医疗保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 328204,
+      "sha256": "55da00f67a790ca0fb90cabb68ae436908aac283edc30275baeb1b33b41e6e8b"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76bb060-14c3-11ee-9ed7-bc97e1225d40/100_国寿康欣团体医疗保险（A款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76bb060-14c3-11ee-9ed7-bc97e1225d40/300_国寿康欣团体医疗保险（A款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "68",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿康欣团体医疗保险（A款）",
+    "othermessage": "",
+    "id": "a76bb038-14c3-11ee-9ed6-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

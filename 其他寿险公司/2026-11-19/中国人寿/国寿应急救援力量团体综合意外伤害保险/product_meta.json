@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:c1893b15-5812-4645-afbf-f4dbac89f1b6",
+  "actualPlanCode": "c1893b15-5812-4645-afbf-f4dbac89f1b6",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿应急救援力量团体综合意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:c1893b15-5812-4645-afbf-f4dbac89f1b6",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/3e38b0ef96e54e18a7fec84340a9cbfb/国寿应急救援力量团体综合意外伤害保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 256295,
+      "sha256": "57b62872ec30ff2d559b85b5fe8c7993247584321bd43ca298c83fad5887802b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/3e38b0ef96e54e18a7fec84340a9cbfb/国寿应急救援力量团体综合意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 396606,
+      "sha256": "fb4481ad9423a6f152bf4bb5f6d26b470a42cf7de73bb4d575f2083a854160f7"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/3e38b0ef96e54e18a7fec84340a9cbfb/国寿应急救援力量团体综合意外伤害保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/3e38b0ef96e54e18a7fec84340a9cbfb/国寿应急救援力量团体综合意外伤害保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2024-03-29 17:13:43+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2024-03-29 17:13:43",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿应急救援力量团体综合意外伤害保险",
+    "othermessage": "",
+    "id": "c1893b15-5812-4645-afbf-f4dbac89f1b6",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

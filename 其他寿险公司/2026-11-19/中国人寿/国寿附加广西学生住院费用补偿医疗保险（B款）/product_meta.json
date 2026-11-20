@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76b773a-14c3-11ee-9eb8-bc97e1225d40",
+  "actualPlanCode": "a76b773a-14c3-11ee-9eb8-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加广西学生住院费用补偿医疗保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76b773a-14c3-11ee-9eb8-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b7762-14c3-11ee-9eb9-bc97e1225d40/100_国寿附加广西学生住院费用补偿医疗保险（B款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 229437,
+      "sha256": "fbf5ee2dfae730e65568915b0b61dbbd49a712a3364ec96d24efd8db2f242615"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b7762-14c3-11ee-9eb9-bc97e1225d40/110_国寿附加广西学生住院费用补偿医疗保险（B款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 128818,
+      "sha256": "b04b3b2982e2a7c5785fb3d55cb3806281cd54afd86a31f9072c7560dc43bca1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76b7762-14c3-11ee-9eb9-bc97e1225d40/300_国寿附加广西学生住院费用补偿医疗保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 285025,
+      "sha256": "17241fade6eb4a501392f8de62bcc1c8dac92f6b5b61baca081bdcaccd7a7e60"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76b7762-14c3-11ee-9eb9-bc97e1225d40/100_国寿附加广西学生住院费用补偿医疗保险（B款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76b7762-14c3-11ee-9eb9-bc97e1225d40/300_国寿附加广西学生住院费用补偿医疗保险（B款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "53",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76b7762-14c3-11ee-9eb9-bc97e1225d40/110_国寿附加广西学生住院费用补偿医疗保险（B款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加广西学生住院费用补偿医疗保险（B款）",
+    "othermessage": "",
+    "id": "a76b773a-14c3-11ee-9eb8-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

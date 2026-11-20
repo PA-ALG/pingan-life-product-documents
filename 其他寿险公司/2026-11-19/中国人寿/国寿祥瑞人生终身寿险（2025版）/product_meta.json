@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:2b000d82-e651-4879-a00f-1ece5a92588d",
+  "actualPlanCode": "2b000d82-e651-4879-a00f-1ece5a92588d",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿祥瑞人生终身寿险（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2b000d82-e651-4879-a00f-1ece5a92588d",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/100_国寿祥瑞人生终身寿险(2025版)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 554736,
+      "sha256": "6a5ebdac6b091bc448113a459cf56885a4bfe4bb1a437bfc7afabefde9726509"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/110_国寿祥瑞人生终身寿险(2025版)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 530314,
+      "sha256": "5abaf1ecf808a37d8c279a14d98a968751cc146b15d4b173c67c4eb14d69123b"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/121_国寿祥瑞人生终身寿险(2025版)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 9931033,
+      "sha256": "320152c48992072f8396d75eae1b7211551535067b37f014675e7edae887e9da"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/300_国寿祥瑞人生终身寿险(2025版)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 751659,
+      "sha256": "00ccd112c9d6326ea99c52c40087d5c0c3e6cad56dabdba6ee82ae47aca24a53"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/100_国寿祥瑞人生终身寿险(2025版)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/121_国寿祥瑞人生终身寿险(2025版)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/300_国寿祥瑞人生终身寿险(2025版)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-09-28 09:47:40+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-09-28 09:47:40",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/99e6ae7d72eb4330af7820d1fcc461ef/110_国寿祥瑞人生终身寿险(2025版)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿祥瑞人生终身寿险（2025版）",
+    "othermessage": "",
+    "id": "2b000d82-e651-4879-a00f-1ece5a92588d",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

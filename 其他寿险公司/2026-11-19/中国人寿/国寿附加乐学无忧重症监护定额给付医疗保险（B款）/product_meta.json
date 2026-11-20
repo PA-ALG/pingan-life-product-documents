@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:8646f9df-c6d4-4bac-b05c-158159c7b20b",
+  "actualPlanCode": "8646f9df-c6d4-4bac-b05c-158159c7b20b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加乐学无忧重症监护定额给付医疗保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:8646f9df-c6d4-4bac-b05c-158159c7b20b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8e964a4ea79e4e46a821bf8e3d59aa31/100_国寿附加乐学无忧重症监护定额给付医疗保险(B款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 279497,
+      "sha256": "89ae15b7d38e834b1fde95b9203cf69f39b612ffe2a1ae34a82aa85437fc86b9"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8e964a4ea79e4e46a821bf8e3d59aa31/110_国寿附加乐学无忧重症监护定额给付医疗保险(B款)费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 77119,
+      "sha256": "31263d34f70acb909d121f0e07ba139c9796fb1b13ac89eada7f1d8b6d77915c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/8e964a4ea79e4e46a821bf8e3d59aa31/300_国寿附加乐学无忧重症监护定额给付医疗保险(B款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 393070,
+      "sha256": "a99f42aee7037967057a377182ed65ce18c39be3d9d33a6cc5b864d27f3128ed"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/8e964a4ea79e4e46a821bf8e3d59aa31/100_国寿附加乐学无忧重症监护定额给付医疗保险(B款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/8e964a4ea79e4e46a821bf8e3d59aa31/300_国寿附加乐学无忧重症监护定额给付医疗保险(B款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-08-01 09:22:04+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-08-01 09:22:04",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/8e964a4ea79e4e46a821bf8e3d59aa31/110_国寿附加乐学无忧重症监护定额给付医疗保险(B款)费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿附加乐学无忧重症监护定额给付医疗保险（B款）",
+    "othermessage": "",
+    "id": "8646f9df-c6d4-4bac-b05c-158159c7b20b",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

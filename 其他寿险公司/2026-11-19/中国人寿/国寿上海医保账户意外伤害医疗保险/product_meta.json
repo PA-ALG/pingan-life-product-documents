@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76f1566-14c3-11ee-9fec-bc97e1225d40",
+  "actualPlanCode": "a76f1566-14c3-11ee-9fec-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿上海医保账户意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76f1566-14c3-11ee-9fec-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f158e-14c3-11ee-9fed-bc97e1225d40/100_国寿上海医保账户意外伤害医疗保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 242392,
+      "sha256": "03841c80fbaf156e202d0d80aa1a6d3c78d0a987191a94aee810601fb9b734de"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f158e-14c3-11ee-9fed-bc97e1225d40/110_国寿上海医保账户意外伤害医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 82835,
+      "sha256": "65a6abe7d4575792700704dba09fab26d0db1011985cc833ddbb57909554d1f9"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76f158e-14c3-11ee-9fed-bc97e1225d40/300_国寿上海医保账户意外伤害医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 285324,
+      "sha256": "4e394ad44e46a4d85b079430c3adf29f206c48b702a10da12a5f4d1967a971a7"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76f158e-14c3-11ee-9fed-bc97e1225d40/100_国寿上海医保账户意外伤害医疗保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76f158e-14c3-11ee-9fed-bc97e1225d40/300_国寿上海医保账户意外伤害医疗保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "207",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76f158e-14c3-11ee-9fed-bc97e1225d40/110_国寿上海医保账户意外伤害医疗保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿上海医保账户意外伤害医疗保险",
+    "othermessage": "",
+    "id": "a76f1566-14c3-11ee-9fec-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

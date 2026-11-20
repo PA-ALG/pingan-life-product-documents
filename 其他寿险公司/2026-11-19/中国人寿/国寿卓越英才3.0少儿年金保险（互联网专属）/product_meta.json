@@ -1,0 +1,73 @@
+{
+  "planCode": "中国人寿:ff5a7103-d1f6-4e8f-9085-e89c46aea8ce",
+  "actualPlanCode": "ff5a7103-d1f6-4e8f-9085-e89c46aea8ce",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿卓越英才3.0少儿年金保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:ff5a7103-d1f6-4e8f-9085-e89c46aea8ce",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/100_国寿卓越英才3.0少儿年金保险(互联网专属)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 316804,
+      "sha256": "17e2acaf452a0eb99249e66ad7443e0e065d1763d21eeec2ec2e8a0e21ce4834"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/110_国寿卓越英才3.0少儿年金保险(互联网专属)基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 93117,
+      "sha256": "bc4a482adfd5531ca521b9a5c4f7aa8a3b09452217dba706b3f0e1fbd6e31947"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/121_国寿卓越英才3.0少儿年金保险(互联网专属)现金价值表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 29544,
+      "sha256": "a1813d71150be963b2c8b76f639a78ecc7ff6a6f6bcf95d4b14aaf3c86d93ced"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/300_国寿卓越英才3.0少儿年金保险(互联网专属)产品说明书.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 406607,
+      "sha256": "f760a1b023e5bdca715887a44374c2569e6423c7872bcafaf18427d91453bd3c"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/100_国寿卓越英才3.0少儿年金保险(互联网专属)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/121_国寿卓越英才3.0少儿年金保险(互联网专属)现金价值表.pdf",
+    "productdescription": "/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/300_国寿卓越英才3.0少儿年金保险(互联网专属)产品说明书.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-08-29 16:33:04+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-08-29 16:33:04",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/6814a5d4b841462ab18f82fa3b10d585/110_国寿卓越英才3.0少儿年金保险(互联网专属)基本保险金额表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿卓越英才3.0少儿年金保险（互联网专属）",
+    "othermessage": "",
+    "id": "ff5a7103-d1f6-4e8f-9085-e89c46aea8ce",
+    "category": "P2"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

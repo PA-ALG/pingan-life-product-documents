@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a772e56a-14c3-11ee-a10e-bc97e1225d40",
+  "actualPlanCode": "a772e56a-14c3-11ee-a10e-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿康优全球团体医疗保险（B型）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a772e56a-14c3-11ee-a10e-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772e592-14c3-11ee-a10f-bc97e1225d40/100_国寿康优全球团体医疗保险（B型）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 432727,
+      "sha256": "c046325a3693766deb66e05a3ed9996653fae7fcf407e1877092e902f6f01346"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a772e592-14c3-11ee-a10f-bc97e1225d40/300_国寿康优全球团体医疗保险（B型）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 436531,
+      "sha256": "6a591cda71d3d00882bcb177e2f1ffcc11c7d1333549a66c8216d91bce8344ef"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a772e592-14c3-11ee-a10f-bc97e1225d40/100_国寿康优全球团体医疗保险（B型）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a772e592-14c3-11ee-a10f-bc97e1225d40/300_国寿康优全球团体医疗保险（B型）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "352",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿康优全球团体医疗保险（B型）",
+    "othermessage": "",
+    "id": "a772e56a-14c3-11ee-a10e-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

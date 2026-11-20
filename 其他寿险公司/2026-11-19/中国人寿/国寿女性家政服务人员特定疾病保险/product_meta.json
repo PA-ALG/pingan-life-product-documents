@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:2ebd7bb9-1d9f-4c42-b666-dfcab279d5dc",
+  "actualPlanCode": "2ebd7bb9-1d9f-4c42-b666-dfcab279d5dc",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿女性家政服务人员特定疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2ebd7bb9-1d9f-4c42-b666-dfcab279d5dc",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4db99ed1c82e4d5ba96d775376b37b82/100_国寿女性家政服务人员特定疾病保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 410095,
+      "sha256": "9f3a7ed22ff1ee810a1064074aa5bd1b2270665f7de3998c6c957b9b0086f1e2"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4db99ed1c82e4d5ba96d775376b37b82/110_国寿女性家政服务人员特定疾病保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 59998,
+      "sha256": "698f93a91aede1683c9f17002df6499ca7c26f779464f9f8e3b51f93cb43b1af"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/4db99ed1c82e4d5ba96d775376b37b82/300_国寿女性家政服务人员特定疾病保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 378752,
+      "sha256": "b635f66b664e82092e9ed47ffeca842d12879b58e62f235e8d7736e7034d71c9"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/4db99ed1c82e4d5ba96d775376b37b82/100_国寿女性家政服务人员特定疾病保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/4db99ed1c82e4d5ba96d775376b37b82/300_国寿女性家政服务人员特定疾病保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2025-07-21 09:36:19+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2025-07-21 09:36:19",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/4db99ed1c82e4d5ba96d775376b37b82/110_国寿女性家政服务人员特定疾病保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿女性家政服务人员特定疾病保险",
+    "othermessage": "",
+    "id": "2ebd7bb9-1d9f-4c42-b666-dfcab279d5dc",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

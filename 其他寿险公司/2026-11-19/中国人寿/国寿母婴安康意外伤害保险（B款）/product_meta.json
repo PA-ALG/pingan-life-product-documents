@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:a76ba16a-14c3-11ee-9ece-bc97e1225d40",
+  "actualPlanCode": "a76ba16a-14c3-11ee-9ece-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿母婴安康意外伤害保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76ba16a-14c3-11ee-9ece-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ba192-14c3-11ee-9ecf-bc97e1225d40/100_国寿母婴安康意外伤害保险（B款）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 356974,
+      "sha256": "4837a08ab345ea869db9ebee6c7bf710ae7601b0c24fc0976219a6ab1a4182be"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ba192-14c3-11ee-9ecf-bc97e1225d40/110_国寿母婴安康意外伤害保险（B款）费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 56877,
+      "sha256": "1f15b4fc15615ef1201c1d24fece7bf2e660d445594e2a607ef5944ce4d62dff"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76ba192-14c3-11ee-9ecf-bc97e1225d40/300_国寿母婴安康意外伤害保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 396042,
+      "sha256": "aed6a59e3f5ce44724f8392be80724fcc1109addf348cc61a804b1c03ad82b1b"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76ba192-14c3-11ee-9ecf-bc97e1225d40/100_国寿母婴安康意外伤害保险（B款）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76ba192-14c3-11ee-9ecf-bc97e1225d40/300_国寿母婴安康意外伤害保险（B款）产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": null,
+    "remark": null,
+    "issell": "1",
+    "serialno": "64",
+    "datemodified": "2023-06-26 00:00:00",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/a76ba192-14c3-11ee-9ecf-bc97e1225d40/110_国寿母婴安康意外伤害保险（B款）费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿母婴安康意外伤害保险（B款）",
+    "othermessage": "",
+    "id": "a76ba16a-14c3-11ee-9ece-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

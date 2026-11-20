@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a771a556-14c3-11ee-a0a4-bc97e1225d40",
+  "actualPlanCode": "a771a556-14c3-11ee-a0a4-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿附加绿洲门诊费用补偿团体医疗保险（2013版）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a771a556-14c3-11ee-a0a4-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771a5a6-14c3-11ee-a0a5-bc97e1225d40/100_国寿附加绿洲门诊费用补偿团体医疗保险（2013版）条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 159856,
+      "sha256": "01534d0e20f6de1151a32ebcce5ae26f5c249dcf540b01e3a2731008bb58d235"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a771a5a6-14c3-11ee-a0a5-bc97e1225d40/300_国寿附加绿洲门诊费用补偿团体医疗保险(2013版)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 351234,
+      "sha256": "6392dba3362a3e3dc1f5be0a311e2250af6f919a95fd7c812a2273e7901d7ac4"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a771a5a6-14c3-11ee-a0a5-bc97e1225d40/100_国寿附加绿洲门诊费用补偿团体医疗保险（2013版）条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a771a5a6-14c3-11ee-a0a5-bc97e1225d40/300_国寿附加绿洲门诊费用补偿团体医疗保险(2013版)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "299",
+    "datemodified": "2024-02-29 20:30:40",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿附加绿洲门诊费用补偿团体医疗保险（2013版）",
+    "othermessage": "",
+    "id": "a771a556-14c3-11ee-a0a4-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

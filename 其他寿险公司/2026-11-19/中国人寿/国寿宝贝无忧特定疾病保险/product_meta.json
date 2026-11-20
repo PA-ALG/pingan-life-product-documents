@@ -1,0 +1,64 @@
+{
+  "planCode": "中国人寿:2acacced-27e2-4252-866c-d2006ad8f2d4",
+  "actualPlanCode": "2acacced-27e2-4252-866c-d2006ad8f2d4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿宝贝无忧特定疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:2acacced-27e2-4252-866c-d2006ad8f2d4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/fd1f1bd6af1942828c7bb4f9f28ae431/国寿宝贝无忧特定疾病保险条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 518074,
+      "sha256": "94ea4c41557019c3fb25b8ea6eb7339021ee4644aff5453d531de354dba6b5f1"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/fd1f1bd6af1942828c7bb4f9f28ae431/110_国寿宝贝无忧特定疾病保险费率表.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 52446,
+      "sha256": "27270a29a5febbddbe9534b671a5bf37f0ec1a097b610252616bb62b4d51aba4"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/fd1f1bd6af1942828c7bb4f9f28ae431/300_国寿宝贝无忧特定疾病保险产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 257163,
+      "sha256": "be4fe2611219e0420838bb71749613608b14b5c7f36717ae918f6ca423102193"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/fd1f1bd6af1942828c7bb4f9f28ae431/国寿宝贝无忧特定疾病保险条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/fd1f1bd6af1942828c7bb4f9f28ae431/300_国寿宝贝无忧特定疾病保险产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-08-21 14:49:37+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "0",
+    "datemodified": "2023-08-23 16:55:07",
+    "stop_sell_time": null,
+    "ratestable": "/upload/resources/file/productBasicInfo/fd1f1bd6af1942828c7bb4f9f28ae431/110_国寿宝贝无忧特定疾病保险费率表.pdf",
+    "hasriskinfo": null,
+    "productname": "国寿宝贝无忧特定疾病保险",
+    "othermessage": "",
+    "id": "2acacced-27e2-4252-866c-d2006ad8f2d4",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

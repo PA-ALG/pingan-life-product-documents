@@ -1,0 +1,55 @@
+{
+  "planCode": "中国人寿:a76c8dc8-14c3-11ee-9f38-bc97e1225d40",
+  "actualPlanCode": "a76c8dc8-14c3-11ee-9f38-bc97e1225d40",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "国寿新绿洲团体意外伤害保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "中国人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "中国人寿:a76c8dc8-14c3-11ee-9f38-bc97e1225d40",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c8de6-14c3-11ee-9f39-bc97e1225d40/100_国寿新绿洲团体意外伤害保险(C款)条款.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 237654,
+      "sha256": "ba3eefd015691f1c857a20700ba36f11eda3e0f988fb2751974fa79a61426b68"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.e-chinalife.com/upload/resources/file/productBasicInfo/a76c8de6-14c3-11ee-9f39-bc97e1225d40/4-300_国寿新绿洲团体意外伤害保险(C款)产品说明.pdf",
+      "sourcePageUrl": "https://www.e-chinalife.com/jw/web/json/app/product_info_publish/plugin/com.chinalife.yunque.ProductInfoPublish/service",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 374922,
+      "sha256": "6e23889b6f94ff539f7fa53fb8c2efa9acf0526f5b7f4473c69d505e42bb0b06"
+    }
+  ],
+  "rawOfficialRecord": {
+    "clause": "/upload/resources/file/productBasicInfo/a76c8de6-14c3-11ee-9f39-bc97e1225d40/100_国寿新绿洲团体意外伤害保险(C款)条款.pdf",
+    "hasmorelevel": null,
+    "historyflag": null,
+    "cashvalue": "",
+    "productdescription": "/upload/resources/file/productBasicInfo/a76c8de6-14c3-11ee-9f39-bc97e1225d40/4-300_国寿新绿洲团体意外伤害保险(C款)产品说明.pdf",
+    "stopsellmessage": "",
+    "date_created": "2023-06-26 00:00:00+08",
+    "modifiedbyname": "黎欢",
+    "remark": null,
+    "issell": "1",
+    "serialno": "117",
+    "datemodified": "2025-04-01 09:17:58",
+    "stop_sell_time": null,
+    "ratestable": "",
+    "hasriskinfo": null,
+    "productname": "国寿新绿洲团体意外伤害保险（C款）",
+    "othermessage": "",
+    "id": "a76c8dc8-14c3-11ee-9f38-bc97e1225d40",
+    "category": "P1"
+  },
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
