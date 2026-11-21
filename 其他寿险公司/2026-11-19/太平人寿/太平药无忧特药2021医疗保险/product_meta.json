@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:4d34b2b120193335",
+  "actualPlanCode": "4d34b2b120193335",
+  "clauseName": "太平药无忧特药2021医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202402/28154720e5fd.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202402/28154720e5fd.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 246952,
+      "sha256": "b2a9c9fe3aa59d76ad7da460a739aab9671155781f0835a485045abd66106a84",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202107/05134702fhzi.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202107/05134702fhzi.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 985381,
+      "sha256": "8429fbdf9fca1375956ef45c5a71c451ed305e99de5784c4b433777e534ddaa2",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202306/3b922c91-0985-11ee-923e-040e3c2db7a3.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202306/3b922c91-0985-11ee-923e-040e3c2db7a3.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 52966,
+      "sha256": "88d925fbcb082526db4c0d47dcfab6d39bd0dd6360091030f8da158241b000cf",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平药无忧特药2021医疗保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:8eed8802b55f7230",
+  "actualPlanCode": "8eed8802b55f7230",
+  "clauseName": "太平学生幼儿B1意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/241645436k1l.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/241645436k1l.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 169237,
+      "sha256": "e7468fc5cce77bea4f982d69843a10396ec8ea79594b8735928403e3e9bb80e1",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/24164506439a.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/24164506439a.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 652661,
+      "sha256": "23f1397aaae71e598be06ae6c1a5f37a83c0351bc14e402dc21c38902de7df2e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/24164528vd3l.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/24164528vd3l.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 74986,
+      "sha256": "b4834ddf2f8d6ce3a43138b5127d69939c3565332291f4bb7f82b6aab803032c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平学生幼儿B1意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

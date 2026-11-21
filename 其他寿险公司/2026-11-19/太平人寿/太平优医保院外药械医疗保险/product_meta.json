@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:a6958f50181b0a35",
+  "actualPlanCode": "a6958f50181b0a35",
+  "clauseName": "太平优医保院外药械医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/08173126f0ql.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/08173126f0ql.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 208666,
+      "sha256": "7a45cb58e4268cd38ea263b35ad0919e6800efd6092f6de55bef9b9909068bad",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/08173047chuq.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/08173047chuq.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 650721,
+      "sha256": "b71e2717c811237c1993a1e31512ec2d9bfca347763dee38a534e3fa202f01d9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/08173101m6u6.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/08173101m6u6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 249519,
+      "sha256": "74dfb15f93e3be23bb7a90631f5334f6f2aeb141f7796b7d7541cf222bf762fe",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平优医保院外药械医疗保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

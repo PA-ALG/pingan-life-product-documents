@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:22b7fe8004e097c0",
+  "actualPlanCode": "22b7fe8004e097c0",
+  "clauseName": "太平优享一生年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202605/18131207qo01.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202605/18131207qo01.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 322675,
+      "sha256": "f6ffa7afea517e9d52d9be08b2e1147e68e4a39c5fa6e721133b84b7d1cf668a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202605/18131126sq3x.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202605/29110034mb1j.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202605/18131126sq3x.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 545123,
+      "sha256": "cfee2bbaf5d9b94efc5180be0a587d2dd784c5a10ed03fad24561a14482c7805",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202605/18131225w592.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202605/18131225w592.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 2567386,
+      "sha256": "4914cdc95d233444993984c9e862a2027060c86f20d4bfb18ce2d7f2d8034440",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202605/18131150oq80.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202605/18131150oq80.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 154612,
+      "sha256": "ce58bb2ee97b7bc9a471de16b07a99831bb20fa91e62c42c0e3c26cd3bb550cc",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平优享一生年金保险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

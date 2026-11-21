@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:67b0ccdbf3127913",
+  "actualPlanCode": "67b0ccdbf3127913",
+  "clauseName": "太平至臻鸿悦终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/09091155ejzk.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/09091155ejzk.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 324417,
+      "sha256": "433723c4e7e4af4d5d7acfc5de055503e52057f53af0e3d1a68624253bf46834",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/09091120ulp1.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/09091120ulp1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 640117,
+      "sha256": "efc9b91ccd7e4c7620f73af45da095c49f398835c5ddf4736f982cada422a40c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/09091257546h.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/09091257546h.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1176231,
+      "sha256": "2c9c2c38ba12e3feb8e9c57286fb761a61b66c19951e64e19ed2306a36e41faf",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/090911376lya.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/090911376lya.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 113028,
+      "sha256": "59e96046aed0420a803a3f2db523e14ad1bdafe8e8f75563599c55ecfc227fd1",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平至臻鸿悦终身寿险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "寿险",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

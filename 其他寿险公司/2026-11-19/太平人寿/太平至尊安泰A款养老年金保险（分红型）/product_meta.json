@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:0c693291ef12fccc",
+  "actualPlanCode": "0c693291ef12fccc",
+  "clauseName": "太平至尊安泰A款养老年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/23135254thiz.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/23135254thiz.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 406932,
+      "sha256": "b0c60255e6b65f8f2411cd1e50e2b8f72c43867a50ed55049e4889334f8797f2",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/23135125ti8s.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/23135125ti8s.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 565801,
+      "sha256": "b8ccb2172ac2c2807d131a5de411826c648991d879877364bef8a39e5fbd103e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/23135316v6nc.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/23135316v6nc.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 16232777,
+      "sha256": "0aa18f487d0045f206a7616b7005be9b22c20543c91d90988c33cd27c66c090b",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/23135237x015.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/23135237x015.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 3620772,
+      "sha256": "90b1e5c6344d7338cbb7e06a52775763eb7b5882482f466a92da89471ee7619e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平至尊安泰A款养老年金保险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

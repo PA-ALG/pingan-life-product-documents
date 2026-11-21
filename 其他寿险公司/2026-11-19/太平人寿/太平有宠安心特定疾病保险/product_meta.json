@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:f5340823a94093b7",
+  "actualPlanCode": "f5340823a94093b7",
+  "clauseName": "太平有宠安心特定疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202402/28155119ptpe.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202402/28155119ptpe.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 192652,
+      "sha256": "d3213b0ced30b75c5248b1ae73cee149e48d84116ae8d4bf87ca000c6905de1a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202307/030921158xsx.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202307/030921158xsx.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 716896,
+      "sha256": "e22599afca2accbc7cbb3fc0edee7266a705320c5b646349ddaac79928f48273",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202307/03092135tux7.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202307/03092135tux7.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 139389,
+      "sha256": "a6acd8acaf43e3d177542cb16b340c761071cec880de827e355f0b4617f52d78",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平有宠安心特定疾病保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "planCode": "太平人寿:77b0f8dd98e037f3",
+  "actualPlanCode": "77b0f8dd98e037f3",
+  "clauseName": "太平赢多多两全保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06135720euib.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06135720euib.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 205736,
+      "sha256": "6a259f1066b62a176e2fe19f3ca9210849506c12c554822b8df1864b32316070",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/29141010u4m4.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/26131625iqlj.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202601/06135624rwqt.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202606/29141010u4m4.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 526147,
+      "sha256": "4b8bcaa6dedb8189c8fdb35d873de3d6887cf63ef0cb71027da78103560899d3",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06135659ev1c.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06135659ev1c.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 256922,
+      "sha256": "189ed633fd427dc2f483b50ce3db82d060fff820e9e9843f89390532d219cde3",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06135643yc02.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06135643yc02.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 83519,
+      "sha256": "4c61c60318f3f088762480ab2d0dfc08e5d3ae839fbaf4248429650a9bb04207",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平赢多多两全保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "两全",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:c3bf890871fc3ff2",
+  "actualPlanCode": "c3bf890871fc3ff2",
+  "clauseName": "太平优选转换年金保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/06140159wneo.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/06140159wneo.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 218678,
+      "sha256": "40e8330db96f83eb938bd0a7dc6ac64b0a14ad513c03fecd40bded1d774a4f53",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/06140059uybf.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/06140059uybf.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 477766,
+      "sha256": "f33d89c86fa11119bc65549f5d5255bd2793758ffb45bafcd70e472bede898da",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/061401403v9p.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/061401403v9p.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 273711,
+      "sha256": "8af38e8841d4b999b0651a5bf00e23d00eac12f459f41e729325d803e7a276ba",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/06140122frp3.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/06140122frp3.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 219587,
+      "sha256": "a0efbc8caef0e95f717b6aad69903859586b11a89c6836e67752592753c713ed",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平优选转换年金保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}
