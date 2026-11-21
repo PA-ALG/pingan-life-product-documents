@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:f9e4e5d8c92d1f7c",
+  "actualPlanCode": "f9e4e5d8c92d1f7c",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保爱享金生2025（成人版）两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_5.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:f9e4e5d8c92d1f7c",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/10/11/89605.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_5.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 538429,
+      "sha256": "f5f2492a5151a7c43cdef5caf0ac92cc1cc89a793979ca40e45128fd40a42f4d"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/10/11/89606.pdf?oldName=太保爱享金生2025（成人版）两全保险保费、基本保险金额及身故或全残保险利益表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_5.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 122765,
+      "sha256": "f0bea3691412e2f7e8123847939406e5bcbfebf28f82e12b823279e3d62c8cd0"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/10/11/89607.pdf?oldName=太保爱享金生2025（成人版）两全保险现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_5.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 326332,
+      "sha256": "6b2664c81ff44349bd8ec5d2d098783d4387f4c5dae62856c2e2c42470a6bc74"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/10/11/89608.pdf?oldName=太保爱享金生2025（成人版）两全保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_5.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 256703,
+      "sha256": "a7bce630ecee0514ebc1f666162bb7980a6ecff220ba58a204e8547b5d6a1695"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

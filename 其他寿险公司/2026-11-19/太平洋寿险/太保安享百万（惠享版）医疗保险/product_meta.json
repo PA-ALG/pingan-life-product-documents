@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:89636f265c056c82",
+  "actualPlanCode": "89636f265c056c82",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保安享百万（惠享版）医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:89636f265c056c82",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/05/14/86545.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1855750,
+      "sha256": "cd92597a3d2f231eec635dfe3c5c25fd98c0eb6a2f90aa0affa374a4fc52778d"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/05/14/86546.pdf?oldName=太保安享百万（惠享版）医疗保险保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 123349,
+      "sha256": "2af0b46049b0287b1e42784959e9168f337e22032d969ae1091f94c526d6bc76"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/05/14/86547.pdf?oldName=太保安享百万（惠享版）医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 244452,
+      "sha256": "a0ccf726b08d7ef896fa38339d08e3ba33298f7163a346531a7ceeaedb2023e1"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
