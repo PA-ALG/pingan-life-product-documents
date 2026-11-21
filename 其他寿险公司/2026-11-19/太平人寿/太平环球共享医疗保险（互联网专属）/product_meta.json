@@ -1,0 +1,63 @@
+{
+  "planCode": "太平人寿:f5088f96c25565ce",
+  "actualPlanCode": "f5088f96c25565ce",
+  "clauseName": "太平环球共享医疗保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202411/15133437bgk5.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202411/15133437bgk5.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 212676,
+      "sha256": "c1c8ca3f7257a135f21854651fbc1fc23a0a728cd06c9a1aa918c7ff10977f50",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202411/15133350lyri.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202411/151432005bza.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202411/15133350lyri.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 694328,
+      "sha256": "49bc3b1873f7d3692b07fb4526d5db80dc554b0b6189e357f8e13dfce1202fba",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202411/15133419um3g.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202411/15133419um3g.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 160505,
+      "sha256": "2765b4376d57fa28dfd316d9234f66652113447bc51157f5eee3b1bb4f4faff1",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平环球共享医疗保险（互联网专属）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "是",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

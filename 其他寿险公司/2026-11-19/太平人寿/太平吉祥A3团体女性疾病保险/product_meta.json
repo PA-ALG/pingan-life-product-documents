@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:7163b2cbb43f02a9",
+  "actualPlanCode": "7163b2cbb43f02a9",
+  "clauseName": "太平吉祥A3团体女性疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/24140024z5sb.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/24140024z5sb.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 219806,
+      "sha256": "c6e8b6c1fe7e910bb667d51ac2798227fa30f3735f26d3232f22ecbbf7d1e72e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/24135948xaiz.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/24135948xaiz.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 784368,
+      "sha256": "e8cc9faf471cd57868ba5fcaabde8e0cf26e70c71a87a5c1d1e5d6acc99f7234",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥A3团体女性疾病保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

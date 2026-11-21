@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:6c5013ce3cb317be",
+  "actualPlanCode": "6c5013ce3cb317be",
+  "clauseName": "太平吉祥A1团体养老年金保险（万能型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/04163833ibql.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/04163833ibql.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 496598,
+      "sha256": "ab483ee5c5ed88ece28a59e7f66c9404142c249b3d873491b4720ddecf80d22c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/04163813je0c.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/04163813je0c.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 828129,
+      "sha256": "d10eb69c7614fa8cdf43b7e41a3b47aa5939819994adddbaf6336fe4f0f07916",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥A1团体养老年金保险（万能型）",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

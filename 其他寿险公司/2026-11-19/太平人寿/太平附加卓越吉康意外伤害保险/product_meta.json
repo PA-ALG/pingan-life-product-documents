@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:74680f44a94f91d0",
+  "actualPlanCode": "74680f44a94f91d0",
+  "clauseName": "太平附加卓越吉康意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202402/28145956p0aa.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202402/28145956p0aa.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 222972,
+      "sha256": "1fc010781ffb6e2e314a9260e60814abd29e0c61277befb2b5002c8f0173f2ff",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202207/01095654rb52.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202207/01095654rb52.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 976631,
+      "sha256": "d27490a219d4c0ead8f06a9a0aa630cfff72f51bc5c6e470afaf06a22a2fd5b8",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202306/3b67b738-0985-11ee-9555-040e3c2db7a3.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202306/3b67b738-0985-11ee-9555-040e3c2db7a3.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 359765,
+      "sha256": "8541c9913e81ee393e4cbe02796f4ce7d1e9afea5961904c8ec32c4449fd10dd",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加卓越吉康意外伤害保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

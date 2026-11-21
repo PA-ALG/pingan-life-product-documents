@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:f0ad1a74af0545f1",
+  "actualPlanCode": "f0ad1a74af0545f1",
+  "clauseName": "太平吉祥A2团体院外药械医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/301328468cmu.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/301328468cmu.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 206955,
+      "sha256": "8f7d47e092f96fec3f03d8ccb9b1e8e0949c16eb9f1872d94a6a95ccab5c5370",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/30132824doyx.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/30132824doyx.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 590856,
+      "sha256": "2c8370ad2fd577d19979011d9949cc03e8f35fb1aea4497868d7dcb19c694b2a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥A2团体院外药械医疗保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

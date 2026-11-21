@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:5d822a1ac39300e8",
+  "actualPlanCode": "5d822a1ac39300e8",
+  "clauseName": "太平惠康保重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142803o5re.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142803o5re.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 248588,
+      "sha256": "f10671160f9fbf61beb77b51cd1a40847271fddb911d6df4ba3cf28b097443d0",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142701efa3.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142701efa3.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 908796,
+      "sha256": "155eef867a11a1133ded800fffe06b729811e999b1b58ad37f277eddf4e42839",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142746l73z.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142746l73z.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 174214,
+      "sha256": "6b2b2dee6e75d3281469cfeefc0a0e17f28efcb51173d69e42bfdfce76c8dedd",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142718lhz7.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142718lhz7.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 209102,
+      "sha256": "cd965f19a215c55bbdb4b74fd10e522ba28f1fc7aa851dfc60a5d4c21268e4d6",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平惠康保重大疾病保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

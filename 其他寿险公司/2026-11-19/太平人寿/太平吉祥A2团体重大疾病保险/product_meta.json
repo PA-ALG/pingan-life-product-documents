@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:484c858ac69ff8e0",
+  "actualPlanCode": "484c858ac69ff8e0",
+  "clauseName": "太平吉祥A2团体重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28164759zszl.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28164759zszl.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 170720,
+      "sha256": "239c7c2b439924672d4131c8857832d220cb9366e942eb3b14fc2ed31f81e5b2",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28164734qfp3.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28164734qfp3.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1356763,
+      "sha256": "2f0ccc96eb5ddf98de1aa00eb2fd6a7321c30ae1808442eaaa2e6aef44ca5dce",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥A2团体重大疾病保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

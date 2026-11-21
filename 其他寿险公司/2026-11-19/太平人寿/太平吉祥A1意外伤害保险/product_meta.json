@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:51faee88b55e9f49",
+  "actualPlanCode": "51faee88b55e9f49",
+  "clauseName": "太平吉祥A1意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28170010zajx.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28170010zajx.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 190727,
+      "sha256": "b70a418335c8677e06280d34d8f2aa72a94c8e3163a8a1e255cc13e7fce347b0",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28165952ar27.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28165952ar27.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 675489,
+      "sha256": "1a292b0b5755e0b14087d07828492fbe546c1aed020d47f53a57036b3d84b415",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/131119014ury.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/131119014ury.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 231629,
+      "sha256": "0c58d76ae2bcbbd0ab4e56c8d565bb35cfc457a47fb3cc2e7bff9254499fdeeb",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥A1意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

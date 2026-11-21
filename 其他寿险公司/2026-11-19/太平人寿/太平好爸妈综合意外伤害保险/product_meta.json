@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:47fc148870890eb8",
+  "actualPlanCode": "47fc148870890eb8",
+  "clauseName": "太平好爸妈综合意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202402/28150603slca.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202402/28150603slca.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 317341,
+      "sha256": "3447874f2c57157c488514df4cf9d93c962cc27a4bf2a0901e7eda159d8e1c04",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202207/011130159ij5.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202207/011130159ij5.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 792317,
+      "sha256": "1bd820ad7fa41350b05068dfa310312593f7925799369fcbb64d7f79e2829d70",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202306/3ba690f0-0985-11ee-9451-040e3c2db7a3.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202306/3ba690f0-0985-11ee-9451-040e3c2db7a3.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 231253,
+      "sha256": "8eb179dbcabbcfc225b438360570ccfcd1a3fe80038ca548e58749628099647d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平好爸妈综合意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

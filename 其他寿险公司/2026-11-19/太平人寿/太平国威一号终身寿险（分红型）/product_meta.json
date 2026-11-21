@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:c343c07b7e0269da",
+  "actualPlanCode": "c343c07b7e0269da",
+  "clauseName": "太平国威一号终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/131122586dmy.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/131122586dmy.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 339539,
+      "sha256": "99bd6fdfb502f4bed269519f69d643335701d791f21a455b2a2159d8d5983a55",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/131121587n9x.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/131121587n9x.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 750638,
+      "sha256": "9fef122de9f50cc97ad2b9881cb38f48953b99b6e96f535837e93e682a0b8459",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/13112242mbxj.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/13112242mbxj.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1176210,
+      "sha256": "e501149a8cc218b842f64f2e12c4e984b9f285fcf3e6c9bacfb69fb551cf17d7",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/131122237yjm.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/131122237yjm.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 128661,
+      "sha256": "92be0a2d0fa6739b3ca45f40bf1a55d66f85abaa6d2c0b3630cfded398b7ae68",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平国威一号终身寿险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "寿险",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

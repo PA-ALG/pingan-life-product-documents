@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:c762ac525ace07bd",
+  "actualPlanCode": "c762ac525ace07bd",
+  "clauseName": "太平国兴账户养老年金保险（万能型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28161619hmfb.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28161619hmfb.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 407988,
+      "sha256": "9127bf10baef767221a23f92fb29947b4860a8f0955cfd4675097a83b3a066a4",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28161536rx5c.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28161536rx5c.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 578056,
+      "sha256": "1a2e800bf78b9666a6715464a6a9ea06a634986ee62d906346093b7c5bc9549f",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平国兴账户养老年金保险（万能型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:be2a0f198c9b041c",
+  "actualPlanCode": "be2a0f198c9b041c",
+  "clauseName": "太平吉祥补充工伤A3团体失能收入损失保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "失能险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202512/22165454ssk5.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202512/22165454ssk5.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 167592,
+      "sha256": "65fb44ed2b95849bcdd2951071dd020a4874e2847cae0346234f8c37ae38f633",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202512/22165437qze1.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202512/22165437qze1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 461261,
+      "sha256": "110b1539c3f815458eafe67fb90c2ee14baea5a8157e4f63bf5e9fc103e6882c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥补充工伤A3团体失能收入损失保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

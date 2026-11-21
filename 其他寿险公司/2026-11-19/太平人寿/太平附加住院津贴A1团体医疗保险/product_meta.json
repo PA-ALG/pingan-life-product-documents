@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:bd6b04d817a15c52",
+  "actualPlanCode": "bd6b04d817a15c52",
+  "clauseName": "太平附加住院津贴A1团体医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/24132732kunt.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/24132732kunt.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 169393,
+      "sha256": "280afd324c7e9d56ad79c751bf5f22b60a43fca915583a4f37813344f247c4f8",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/24132713eap2.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/24132713eap2.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 664393,
+      "sha256": "3ecb7197017cb56b27911b81394ec7d911a5e5dce07bc481f6a1f2ca25a58c05",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加住院津贴A1团体医疗保险",
+    "渠道": "团体",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}
