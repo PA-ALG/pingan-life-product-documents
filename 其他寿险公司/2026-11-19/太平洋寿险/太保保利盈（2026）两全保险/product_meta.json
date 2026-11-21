@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:3d58fbbf791f2836",
+  "actualPlanCode": "3d58fbbf791f2836",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保保利盈（2026）两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:3d58fbbf791f2836",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/24/96415.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 702259,
+      "sha256": "29ffee1fd7896fbc093294220b756e0a84e3c0b6af306e24372ab5f924fc82c3"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/24/96416.pdf?oldName=太保保利盈（2026）两全保险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 94917,
+      "sha256": "7fe0b06a6a2c7603e328065d21f0194cacb7e7c079568c3c5d90dadbd69ea588"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/24/96417.pdf?oldName=太保保利盈（2026）两全保险现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 378097,
+      "sha256": "8eb556daad801fa7b6d4b9fc1f19d1e6d8099ad56257c3cd2e0b39d445451cbb"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/24/96419.pdf?oldName=太保保利盈（2026）两全保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 300089,
+      "sha256": "97801a2bb5d09601e86e172548c290da6a0831c0ad46994a80ea6c6924f89db2"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

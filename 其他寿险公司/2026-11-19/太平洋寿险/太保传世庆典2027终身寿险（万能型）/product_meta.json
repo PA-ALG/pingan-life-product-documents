@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:eca9f385a98934ae",
+  "actualPlanCode": "eca9f385a98934ae",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保传世庆典2027终身寿险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:eca9f385a98934ae",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/11/17/107965.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 742519,
+      "sha256": "694e643a4d8dd0ac36d4796b9df9be9c8d26e35847cdc35627fcbdee898c3a4b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/11/17/107966.pdf?oldName=太保传世庆典2027终身寿险（万能型）年风险保障费用表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 47058,
+      "sha256": "1c336d7f896243d23b0e006951fe9bc7ec763e4b31eee5b4a804829546fa8676"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/11/17/107967.pdf?oldName=太保传世庆典2027终身寿险（万能型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 357580,
+      "sha256": "3fedbfbae881feea407aa03e1a4cfc110201fd5f8c5c83e3b2f98538a304d854"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
