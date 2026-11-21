@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:2615a86a339690e4",
+  "actualPlanCode": "2615a86a339690e4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加建工突发急性病团体定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:2615a86a339690e4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2016/05/09/28601.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 236838,
+      "sha256": "5ff65a05827e58a06716fc609ec7093aecffd2498ef40f1a1be271b902abfa4c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79816.pdf?oldName=附加建工突发急性病团体定期寿险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 193355,
+      "sha256": "93d57ed424ef3973e4ef9b27466db0ecf32ec2c3e74fe18b43d56495a7d37a76"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

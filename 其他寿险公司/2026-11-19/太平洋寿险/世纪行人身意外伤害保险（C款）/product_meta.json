@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:6111fdf8000948b5",
+  "actualPlanCode": "6111fdf8000948b5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "世纪行人身意外伤害保险（C款）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:6111fdf8000948b5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/03/31/85977.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 573704,
+      "sha256": "fe8804c2b4822e52ab19181b3a35204a5668b079afc22bf54125b3ba6582f7e3"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/03/31/85978.pdf?oldName=世纪行人身意外伤害保险（C款）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 75113,
+      "sha256": "82222064b0f5e0a87ac54a7de25666821f97a0212c48e785c1d786c98321729a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/03/31/85979.pdf?oldName=世纪行人身意外伤害保险（C款）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 204912,
+      "sha256": "08de50b91e5d8a250098b4c0cc7764bb9b1e83198db33807583d7bfce1278ed8"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

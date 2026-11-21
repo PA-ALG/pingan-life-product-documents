@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:2735367cec75c07c",
+  "actualPlanCode": "2735367cec75c07c",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加团体旅游突发急性病定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:2735367cec75c07c",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2016/06/29/32830.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 238886,
+      "sha256": "99eb75271bccd43646d2582d999fb2dc689a9df2bb883a759d0bfbc664170e06"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79817.pdf?oldName=附加团体旅游突发急性病定期寿险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 189122,
+      "sha256": "4843c112ab7513a278b34c43ec8d0d5360d1252385db11707550a58d0d309ebb"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:e9a33be5d36ffdbe",
+  "actualPlanCode": "e9a33be5d36ffdbe",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "花样年华特定疾病保险（H2016）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_11.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:e9a33be5d36ffdbe",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/84987.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_11.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 499114,
+      "sha256": "666df833ca48c4754eddbf59d13c21e36d279f80b970d1535b846f55ac1b44c6"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/84988.pdf?oldName=花样年华特定疾病保险（H2016）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_11.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 139478,
+      "sha256": "bb289642faf9332d349f8a6530b4940315785446ef83f5306f1bf310bc2bfd45"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/84986.pdf?oldName=花样年华特定疾病保险（H2016）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_11.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 234378,
+      "sha256": "bfdf99e1cc25fbde67192b1c909c8e1e2658d230763d25a9d1a474aae5d9a534"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

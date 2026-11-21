@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:40ddb65f164d7dfc",
+  "actualPlanCode": "40ddb65f164d7dfc",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "乐享百万医疗保险（H2017A）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:40ddb65f164d7dfc",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/84990.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 785276,
+      "sha256": "24c7e5b65b3d2fa2193d81d859dfb90fdc45a47dfc815796d34af9d6ec55def0"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/84991.pdf?oldName=乐享百万医疗保险（H2017A）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 171157,
+      "sha256": "3921f9d4488013096f6eb33f07e74e5944dc286565cca64dbae43166902a32a1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/84989.pdf?oldName=乐享百万医疗保险（H2017A）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 285069,
+      "sha256": "95058220cb4e09aeb700d58ef55c7dcad35f9c611be078f339a45bc8b4fc09a1"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

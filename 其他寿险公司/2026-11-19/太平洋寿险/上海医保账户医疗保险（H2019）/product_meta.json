@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:5604472693b043f4",
+  "actualPlanCode": "5604472693b043f4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "上海医保账户医疗保险（H2019）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:5604472693b043f4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/85009.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 611342,
+      "sha256": "902e689c9c58512e24bf83e76df27a7984c3964462618883b9ab449307f297b8"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/85010.pdf?oldName=上海医保账户医疗保险（H2019）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 282220,
+      "sha256": "1351c96f0452ce9605834bed5053da03bfd162287e23f9fc680d97c92440bbc9"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/85008.pdf?oldName=上海医保账户医疗保险（H2019）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_10.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 283078,
+      "sha256": "aa19c4268a14f2f708d2f03104520a522b70b576b233c4ae70a1047549b2ee77"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

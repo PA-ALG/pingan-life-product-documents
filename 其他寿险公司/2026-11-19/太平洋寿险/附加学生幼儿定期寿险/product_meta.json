@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:4dbfde0562deecca",
+  "actualPlanCode": "4dbfde0562deecca",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加学生幼儿定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:4dbfde0562deecca",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/11/09/77597.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 175586,
+      "sha256": "eeda45470594e17d951719f0c8a4da1b87984e739b41b4075d0c10eaf8a6c7cd"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/11/09/77598.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 35136,
+      "sha256": "923cd093d877fd2b73e76e9c21c479b63b2c82187df295928630da69f45cff1c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79819.pdf?oldName=附加学生幼儿定期寿险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 212756,
+      "sha256": "420090a9fb86474bf70a20a746cc71766ca04cef83f8c2ced9339771acf66230"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:c66912a22484a2b6",
+  "actualPlanCode": "c66912a22484a2b6",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保阿尔茨海默病特定药品团体医疗保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_9.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:c66912a22484a2b6",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/01/20/85348.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_9.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 539897,
+      "sha256": "9694ceba6f761f16cea425b9dbd2921926887b27cbdbe3811a84981275a09f3b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/01/20/85347.pdf?oldName=太保阿尔茨海默病特定药品团体医疗保险（A款）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_9.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 269461,
+      "sha256": "6b26d7407898b317449cf232a8aeadd0950de49e1eb3e3f48e47d5674321759e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

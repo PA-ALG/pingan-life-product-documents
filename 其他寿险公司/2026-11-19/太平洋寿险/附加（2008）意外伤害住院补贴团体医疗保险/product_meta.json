@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:7d850c3b0c790376",
+  "actualPlanCode": "7d850c3b0c790376",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加（2008）意外伤害住院补贴团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:7d850c3b0c790376",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/10/12/77248.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 437444,
+      "sha256": "a2a00e02b302aed3ef81d0c1a77a7da2591af2402e9096beee8a4f9760ae32e0"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79876.pdf?oldName=附加（2008）意外伤害住院补贴团体医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 202097,
+      "sha256": "e2916aa89b3c6be2edf8a253079430549f59a20b76db801f6fdd3479e0a0fbce"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

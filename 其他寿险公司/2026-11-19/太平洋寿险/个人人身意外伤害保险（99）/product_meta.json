@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:fedfd8e045cda040",
+  "actualPlanCode": "fedfd8e045cda040",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "个人人身意外伤害保险（99）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:fedfd8e045cda040",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/03/29/80410.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 398680,
+      "sha256": "d22cdd1e294f0b8f3772899a08e4359023704c943870fd7d42a9cdbb236b568b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/03/29/80411.pdf?oldName=个人人身意外伤害保险（99）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 73208,
+      "sha256": "29b0bb3a7d71839093b4471b549860d6a8384e6585886e95c4bfedec6a1eac66"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/03/29/80409.pdf?oldName=个人人身意外伤害保险（99）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 214003,
+      "sha256": "dadfe04b08d6a726d572700f69b67056c801514df661a7543a12bd347658bbb9"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

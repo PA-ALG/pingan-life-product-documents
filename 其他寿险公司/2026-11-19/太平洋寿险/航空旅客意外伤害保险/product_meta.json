@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:4b3168557227ab7b",
+  "actualPlanCode": "4b3168557227ab7b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "航空旅客意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_5.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:4b3168557227ab7b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2016/05/10/28849.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_5.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 203499,
+      "sha256": "8ded9a9139a92e6f6ae756c73df307bf6d55fc68b43771b4f32d8619ad1a90c9"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/06/28/72596.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_5.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 86283,
+      "sha256": "b973e50e80ce9d4e090eb47264b7c2dd3d004f2da20d213d7d79192a9eed85ac"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79828.pdf?oldName=航空旅客意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_5.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 162777,
+      "sha256": "54e7b1e1aab4aee23785a6dceaf8bd7bb4e8c84e6dee8955a68a87746a7ed73c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

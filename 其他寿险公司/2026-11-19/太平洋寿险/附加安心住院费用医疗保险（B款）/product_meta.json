@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:cdf9213f0cc22a09",
+  "actualPlanCode": "cdf9213f0cc22a09",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加安心住院费用医疗保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:cdf9213f0cc22a09",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80861.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 399488,
+      "sha256": "72a10ac840cd656a33ff743e8c748feeb54011e35f769fd9b5a2916d5c1f8b8e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80862.pdf?oldName=附加安心住院费用医疗保险（B款）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 72357,
+      "sha256": "fb03aa7a518bf82b451167fd754a20fc751e80ba289a4a85385fc89a55462751"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80860.pdf?oldName=附加安心住院费用医疗保险（B款）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 184685,
+      "sha256": "128a0f92b228b4d6d9cef6f6fa205caa40592d2294d38bb8642331c8844f1b0e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

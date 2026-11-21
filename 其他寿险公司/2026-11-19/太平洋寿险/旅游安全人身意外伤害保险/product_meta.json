@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:dd48d9402f7b4ee5",
+  "actualPlanCode": "dd48d9402f7b4ee5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "旅游安全人身意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:dd48d9402f7b4ee5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2017/02/10/34474.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 370182,
+      "sha256": "8863abc7f605392e5d355c1d41f4854f6ff743f03aff203fd69418d55f1de6dc"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/06/28/72616.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_4.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 130227,
+      "sha256": "473ae93089404f8894f6dd50ea1b44f2c1ad5e553644325d0d5946baa813b214"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79834.pdf?oldName=旅游安全人身意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 234050,
+      "sha256": "af632b96889f28919dc0eef641dfd21b041882c2970ad33cd1990fed0d5c53e2"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

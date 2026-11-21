@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:f332cbdbff11ea85",
+  "actualPlanCode": "f332cbdbff11ea85",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "安全宝小额意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_3.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:f332cbdbff11ea85",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/10/12/77245.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_3.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 262914,
+      "sha256": "13f42b56fb0a279e8de52d5bd30c11735d2291b0d6c70f02e8d51c3058342ce4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/10/12/77246.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_3.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 102235,
+      "sha256": "d75bf89f38b3bdc00267d12ad19369e092363bb6591c2881de1fbd813d9bef45"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79823.pdf?oldName=安全宝小额意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_3.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 166141,
+      "sha256": "728046587fde39739b8f212aaf29a44a0642da62dab06fbfb6367e3a2bf380ed"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

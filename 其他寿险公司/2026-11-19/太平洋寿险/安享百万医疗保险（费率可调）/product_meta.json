@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:e88a5561dee9cf4b",
+  "actualPlanCode": "e88a5561dee9cf4b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "安享百万医疗保险（费率可调）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:e88a5561dee9cf4b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80850.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 650791,
+      "sha256": "ac96f61f43f37320e40d2c4ef8ae06447efdcee74d290b593b9741d78c1a6bdb"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80851.pdf?oldName=安享百万医疗保险（费率可调）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 69729,
+      "sha256": "968d8d1e042ccc78b0439845cc3d8f2c176d2976375ff4d6a8f403b931149a13"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80852.pdf?oldName=安享百万医疗保险（费率可调）现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 136139,
+      "sha256": "d91907b872881b850bd8866adc288a2f491501493925c560b620f968c51a733f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80849.pdf?oldName=安享百万医疗保险（费率可调）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 278314,
+      "sha256": "3495c310ca9bb62e0fbc09a500eb8fc22f2951c9b280f76213e0013b799ec2dd"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

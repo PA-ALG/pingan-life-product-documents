@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:41e9826c05545729",
+  "actualPlanCode": "41e9826c05545729",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加学生幼儿重大疾病保险（2021版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:41e9826c05545729",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2021/02/07/54716.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 504692,
+      "sha256": "6af61f7009c6fadc352f7d2c5a561a095dcaaeae21ed3685e817d88fb3768666"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/06/21/72197.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 51919,
+      "sha256": "8d0d0a2afc0fedfd295a7cd3cbc4be70934d88c2d43597b41234bdd2a307d4a4"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79898.pdf?oldName=附加学生幼儿重大疾病保险（2021版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 238386,
+      "sha256": "83c9bd885e6a1f7de6b6898a11ad66425795676e073db1aa5ba3b03d041eb87c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

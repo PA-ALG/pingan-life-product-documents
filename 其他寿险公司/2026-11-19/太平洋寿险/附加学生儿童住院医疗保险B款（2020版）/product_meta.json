@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:1a4f7e5e51f67b11",
+  "actualPlanCode": "1a4f7e5e51f67b11",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加学生儿童住院医疗保险B款（2020版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:1a4f7e5e51f67b11",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/31/80935.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 549740,
+      "sha256": "3507c1add06b42973097ab3e850d579aacce7af0e72bcdf119516c5ff681f767"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/31/80936.pdf?oldName=附加学生儿童住院医疗保险B款（2020版）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 401228,
+      "sha256": "91567cf066ec11730037c57eed59a7baae728ee03dc2d6cbfa189283e6136c5b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/31/80932.pdf?oldName=附加学生儿童住院医疗保险B款（2020版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 242038,
+      "sha256": "cbc4e83934026d67c655b002e87e53a8f5b1e26aebd65e84b71c296c6e1fe779"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:6e2d75ec89ae4851",
+  "actualPlanCode": "6e2d75ec89ae4851",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "建设工程施工人员团体意外伤害保险（B）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:6e2d75ec89ae4851",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/03/31/85980.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 554807,
+      "sha256": "40a0a4eff3aee6d8299c1e4c07d85d0c39ee89db15d802f071f1ce046ea8024f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/03/31/85981.pdf?oldName=建设工程施工人员团体意外伤害保险（B）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 244697,
+      "sha256": "77ead902c3115abe8be9a17b1cd54259275d30ec428e29f3d570800114f9762d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,11 @@
+{
+  "company": "太平洋寿险",
+  "url": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/?inSub=3&subMenu=1",
+  "expectedCount": 348,
+  "discoveredCount": 348,
+  "pageCount": 36,
+  "scope": "官网在办产品：寿险、年金、意外险、健康险；排除全部停办目录和历史版本",
+  "pdfCount": 1080,
+  "completeProducts": 348,
+  "failedMaterials": 0
+}

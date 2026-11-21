@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:3012587fec3b56df",
+  "actualPlanCode": "3012587fec3b56df",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "社保补充团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_14.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:3012587fec3b56df",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/10/12/77272.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_14.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 343970,
+      "sha256": "565287aa8bfd11989ee3b73765ff9ddd8d221c8b8577b9f31632b1e6e8f7e81a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79919.pdf?oldName=社保补充团体医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_14.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 239752,
+      "sha256": "3421f3b1d3bb703e9223fb50751e12c45cd95b0c96be83c69755a89cb96a193f"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:4158ca5e281e6256",
+  "actualPlanCode": "4158ca5e281e6256",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加团体重大疾病保险（2021版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_14.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:4158ca5e281e6256",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/10/12/77257.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_14.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 585671,
+      "sha256": "6647f9327f844ae2133aa4d61aa92420b6d8e86323ab8e1141a11b88a4a80ce0"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79886.pdf?oldName=附加团体重大疾病保险（2021版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_14.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 240916,
+      "sha256": "aeeae994cab71c0e15d053b5d77556fed241ff3528e32d62912b13be613ccf09"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:c3ebad7362026bbc",
+  "actualPlanCode": "c3ebad7362026bbc",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加学生意外伤害门（急）诊医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_3.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:c3ebad7362026bbc",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/12/96276.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_3.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 354413,
+      "sha256": "f26d479ed3d086491c58ea33b8a6963b94e53fb7f9f6493a841d1cb17069accc"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/12/96277.pdf?oldName=附加学生意外伤害门（急）诊医疗保险费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_3.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 143488,
+      "sha256": "feb38e6ef1bcf26d59dba5317faa31cabdc7a3af3a20b8d560fe3dd15801f1a1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/12/96278.pdf?oldName=附加学生意外伤害门（急）诊医疗保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_3.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 216822,
+      "sha256": "75a5fa525d00947ffc52f165ad189351dc64054ad6e71ab7ec8e3fdbd747a63b"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
