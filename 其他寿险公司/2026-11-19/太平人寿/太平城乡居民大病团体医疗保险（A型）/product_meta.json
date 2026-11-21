@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:010fd88187cad88b",
+  "actualPlanCode": "010fd88187cad88b",
+  "clauseName": "太平城乡居民大病团体医疗保险（A型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202402/28143732rg7w.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202402/28143732rg7w.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 153748,
+      "sha256": "7e03ff14358026f8de989e08133a39edd3fce00c00cc3b62b9a42b0142569f27",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/201408/01185553mxhc.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/201408/01185553mxhc.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 255577,
+      "sha256": "592174d2d3d0a7800bc53aaf3546894cb1c094744023e7235b7ef2ce831b7732",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平城乡居民大病团体医疗保险（A型）",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:974c66e59d5c33eb",
+  "actualPlanCode": "974c66e59d5c33eb",
+  "clauseName": "太平附加广西学生幼儿综合医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/22105744ppme.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/22105744ppme.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 182786,
+      "sha256": "8e13e5b18ff649f7899a3a046ad878737a1111d46abc62f97dc685616f134384",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/221057047f32.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/221057047f32.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 846100,
+      "sha256": "049bb110f31791cd0ff3acfb9c7db94ed32f027ef13ad2bb0172bda024d0305d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/221057270nvl.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/221057270nvl.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 194814,
+      "sha256": "58e60cdba506a37a80cc7c2018e9856d6d89e80258a5b9a8757cbd5f163c35e3",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加广西学生幼儿综合医疗保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

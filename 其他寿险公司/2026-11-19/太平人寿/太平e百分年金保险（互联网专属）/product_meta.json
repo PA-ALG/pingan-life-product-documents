@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:d3c1e7d9fffb4df4",
+  "actualPlanCode": "d3c1e7d9fffb4df4",
+  "clauseName": "太平e百分年金保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100748r84n.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100748r84n.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 279786,
+      "sha256": "d35b6f3dcc73fa23c53a09c109ea21423bc4ae139b8e110fb8cee5bc3ae58194",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100631lg4p.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01151713ici3.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202509/01100631lg4p.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 530340,
+      "sha256": "6297d93753213ab2bd9abd7f55c765f11833e5d7048203f3653fffe302141f29",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/0110071775au.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/0110071775au.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 5773631,
+      "sha256": "fc5e4c84de7f78a5df393f6a7b31f7b1acec3452b1463a47a02655aacf5b2e87",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100652wwe0.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100652wwe0.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 345713,
+      "sha256": "c97c4e750e4854bfc5f171f52b0a679825424952af445b7047da2c5c2684d54c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平e百分年金保险（互联网专属）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "是",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

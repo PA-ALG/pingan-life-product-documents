@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:c4442a4105fcbc45",
+  "actualPlanCode": "c4442a4105fcbc45",
+  "clauseName": "太平N2团体长期补充医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/11143653z721.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/11143653z721.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 186923,
+      "sha256": "ef552ec7c82b26d1cf726d40fd6582afb571656f2480031d96ebd155dee2fd1a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/111436376byk.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/111436376byk.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 881529,
+      "sha256": "58747590c9be49cb19530134dc926455fffd7a7d7d8904b3f1fd50de8ec1540e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平N2团体长期补充医疗保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

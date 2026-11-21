@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:35d32c5b5baa5245",
+  "actualPlanCode": "35d32c5b5baa5245",
+  "clauseName": "太平福禄嘉禧粤港澳大湾区重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/09112029pofl.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/09112029pofl.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 343452,
+      "sha256": "741e2b86e72eb0e69831492e7b3d59fb717d8219b84ff8d936a9fb72cc01dcdd",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/09111929rh7f.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/09111929rh7f.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1645797,
+      "sha256": "f9e4d6a7c0e1e13d3ff3d6cc1551419ce715100aa9bca0adce4c62c5c3638b1e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/0911200973c7.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/0911200973c7.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1005531,
+      "sha256": "98678305f93f530f184c94f61e3924220f7b88ab8125e617c22fe1c47be34425",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/09111951g37p.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/09111951g37p.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 379181,
+      "sha256": "2a1b21c3842d78eaac050c24159c6e687937cee6d03c2ceb3b4da34b3565fb59",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平福禄嘉禧粤港澳大湾区重大疾病保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "planCode": "太平人寿:e06fdc56f232c4bc",
+  "actualPlanCode": "e06fdc56f232c4bc",
+  "clauseName": "太平福禄悦禧粤港澳大湾区终身重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/24151436ufsb.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202503/031127483xqx.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202509/24151436ufsb.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 279889,
+      "sha256": "6bfd030cb5ef020a597d5490e31ee71e620a0eef22015f98167cb2e8e31f575c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/241514024rvi.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202503/03112653b3ne.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202509/241514024rvi.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 870981,
+      "sha256": "af1691a8d353d0cf62dbbb1c5a166edf29adb00332b4235a5947d1f19c104ab9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202503/03112727z23b.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202503/03112727z23b.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 456122,
+      "sha256": "4802c4f5f1bbcc53a65e098654a62213d2a8e32a9162e63d854b684a4d8ee777",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/241514197a8v.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202503/03112710smc6.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202509/241514197a8v.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 81394,
+      "sha256": "f5d76cd93789576c248d0ccca629ba9d89222c05538661b848dc0f1461254872",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平福禄悦禧粤港澳大湾区终身重大疾病保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

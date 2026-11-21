@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:24695324028de357",
+  "actualPlanCode": "24695324028de357",
+  "clauseName": "太平传世五号年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/201136074fql.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/201136074fql.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 367232,
+      "sha256": "291aaa07e877bd3c978ab15e555eca3187a027f2c8dc2da59604869534e7ca9b",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/201134209vtm.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/201134209vtm.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 561725,
+      "sha256": "63acc689464da2fdb928d6e782cff738efca5b9fb640f7fa64bfd5487089945c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/201135518cfy.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/201135518cfy.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1123741,
+      "sha256": "2fb03ca562d68498d7f09dcb054afe6b6d93882250af59f1daa87719400f3500",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202609/201135140ef2.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202609/201135140ef2.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 422053,
+      "sha256": "048d4b082819c87c1623d8956cdd695fe5dd21fe6ed4ff72acd95cf7a9afd68b",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平传世五号年金保险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

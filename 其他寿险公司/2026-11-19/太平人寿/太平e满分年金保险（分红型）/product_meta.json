@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:245d8d4449d284b1",
+  "actualPlanCode": "245d8d4449d284b1",
+  "clauseName": "太平e满分年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202512/2915090457fm.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202512/2915090457fm.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 301214,
+      "sha256": "8d6e6689d260373f19d79e7d7092a899855184f0964f32335b47192bf00dfb79",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202512/29150832p5gh.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/17144137wy86.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202512/29150832p5gh.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 550642,
+      "sha256": "f3cd34c6a4d853f8d409a8914fb126d18185c84e24f5c43a84229311a120ce30",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202512/29150922mab6.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202512/29150922mab6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 858905,
+      "sha256": "25c2388a170e7556f51a56be1a311a0dfa891508772a5b38ecc5619521352887",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202512/291508509ota.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202512/291508509ota.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 118307,
+      "sha256": "9e8a498c4be5094670efea6d7a6bf83bf157dee2dc0374cf725dde6c74235b2c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平e满分年金保险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

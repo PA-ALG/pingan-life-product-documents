@@ -1,0 +1,66 @@
+{
+  "planCode": "太平人寿:583bf6786ac5f91e",
+  "actualPlanCode": "583bf6786ac5f91e",
+  "clauseName": "太平爱守护2021医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/24154659im68.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202402/28132535rf9y.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202411/13095158u5kn.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202604/24154659im68.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 272716,
+      "sha256": "9abc8e2310eb5fc877a3898312ec85318047fa12023d770b7350e462c9be43de",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/24154645urqm.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202106/07153842mj7v.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202411/13095143rt6b.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202604/24154645urqm.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1362054,
+      "sha256": "32927a0871c0e8a275f2ee714e509c1e5b2ff09c251bee790ff686a1042e5cd9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202306/3b8e37a3-0985-11ee-a16e-040e3c2db7a3.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202306/3b8e37a3-0985-11ee-a16e-040e3c2db7a3.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 316983,
+      "sha256": "fec8abb192739fb51d0a8b98bcbe7f34014e8307e9610ac93eac371eed4ff2c9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平爱守护2021医疗保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

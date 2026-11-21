@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:5106951417985a8f",
+  "actualPlanCode": "5106951417985a8f",
+  "clauseName": "太平e满利年金保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100523n2io.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100523n2io.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 238658,
+      "sha256": "cc576bf06222cec877ef1aafe7321cff33bc7b248865355033742a0b83a175ce",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100415kkcj.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/011521019kca.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202509/01100415kkcj.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 564895,
+      "sha256": "a8cce80c69f4e75c9177f748ec9322971043630a8c7fcb463858fc6b7a0c5c0d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100459ohwv.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100459ohwv.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 165717,
+      "sha256": "f48bf3ac198618f42043412e6f81e821c47c0679680c6a65ad9d302886ea591a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100439e6te.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100439e6te.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 127160,
+      "sha256": "0637b0562038184983fdf2d69f4b044a87ee64002875c74ab016543b4bb937bf",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平e满利年金保险（互联网专属）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "是",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

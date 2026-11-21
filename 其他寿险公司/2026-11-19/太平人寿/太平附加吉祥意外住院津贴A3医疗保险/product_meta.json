@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:0cd95703df4f9e1a",
+  "actualPlanCode": "0cd95703df4f9e1a",
+  "clauseName": "太平附加吉祥意外住院津贴A3医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06140306tiy0.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06140306tiy0.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 196407,
+      "sha256": "9eaf53797d021a21cd78374de5f3f9bc1bb0706cb03f7d480c97e0e306e3e37e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06140212tbel.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06140212tbel.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 621319,
+      "sha256": "0d77dd0fa72a09f2b006b595323c0f05d9ebf093b0ebce535243b05a0fd363b0",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06140249s8yn.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06140249s8yn.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 91787,
+      "sha256": "729172537fdcdfb691ec6bc8c1fa3758d68d3bf5adff8d1146ad8fc16f3ea446",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加吉祥意外住院津贴A3医疗保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:cab5c37fcd2ce598",
+  "actualPlanCode": "cab5c37fcd2ce598",
+  "clauseName": "太平附加吉祥绿洲门诊急诊A4团体医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/061435457r9e.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/061435457r9e.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 182918,
+      "sha256": "c89d0141c96ccc61222aed4e8aaa2a0a3a16df98fd76439e26cf5f0d2ecdade9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06143529ihvc.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06143529ihvc.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 650388,
+      "sha256": "47cf8acc5820342c5c45529e8ab0896cad49e92cda5ae1fabb2da848ecd533a2",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加吉祥绿洲门诊急诊A4团体医疗保险",
+    "渠道": "团体",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:09171533a6521439",
+  "actualPlanCode": "09171533a6521439",
+  "clauseName": "太平附加吉祥A4团体综合医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/061422186lvg.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/061422186lvg.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 181415,
+      "sha256": "f83a2c2d12068f925629d5663986bf645ef942fd8b1ccc4f29f7766e4892f1fa",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06142152ym55.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06142152ym55.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 702761,
+      "sha256": "744b64987c52515bf0618d5eed3749c4f261b92d1a9e7887e3841b9a804adf4a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加吉祥A4团体综合医疗保险",
+    "渠道": "团体",
+    "主附": "附加险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

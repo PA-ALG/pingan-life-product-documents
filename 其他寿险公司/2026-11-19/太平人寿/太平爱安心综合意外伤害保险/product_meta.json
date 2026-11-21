@@ -1,0 +1,65 @@
+{
+  "planCode": "太平人寿:4f8ef3698b18ddae",
+  "actualPlanCode": "4f8ef3698b18ddae",
+  "clauseName": "太平爱安心综合意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/26101324ny74.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202402/28104135ml72.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202603/26101324ny74.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 286250,
+      "sha256": "db7c60a0fbc0c20e7bf37e3fa80f42fad236c4a627cee6c9eb0a028edacbcb7c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/261012439voh.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202207/01102936pjy2.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202603/261012439voh.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 699043,
+      "sha256": "605cb7ec6ab367027d39ce44441e5afa1c84b522346fe321c4740d8e17ea2453",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/26101259t5kf.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202306/3b8ba15a-0985-11ee-ae1e-040e3c2db7a3.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202603/26101259t5kf.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 317786,
+      "sha256": "ed259700420c38eff7e409b0bf9b213f404eebf2525f890238949185ef4ad4f9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平爱安心综合意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

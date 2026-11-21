@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:98acb49734ab7842",
+  "actualPlanCode": "98acb49734ab7842",
+  "clauseName": "太平安鑫稳盈年金保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202610/08105103fo11.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202610/08105103fo11.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 273858,
+      "sha256": "6398ce80fa43cd66e98271079f05c21cb5f1efde8e24168d5a60a17c8884880a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202610/08105008hpvp.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202611/091515362ste.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202610/08105008hpvp.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 533670,
+      "sha256": "a635d2e2928a6ffe9ca3eabc26c22442817b75a702bf90b32aadeaefc3515c4d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202610/13091848mxdn.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202610/13091848mxdn.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 139875,
+      "sha256": "75932667d671c1b7770d40a38b92923a0d46b745f54dacf6bcfabc5ede254db4",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202610/08105027q3q7.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202610/08105027q3q7.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 132389,
+      "sha256": "509e463aee3b4c75d2bba3b3e08abf79f793a70a48bcaacf1cf2a831d8184d4a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平安鑫稳盈年金保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

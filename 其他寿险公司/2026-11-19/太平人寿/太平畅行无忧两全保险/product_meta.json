@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:4121b96429982d33",
+  "actualPlanCode": "4121b96429982d33",
+  "clauseName": "太平畅行无忧两全保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/181330090mcl.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/181330090mcl.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 425127,
+      "sha256": "102e508e094f00ff29d2e37a0dbfef857594d152d8adc65de36c7693fd052998",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/18132923yzfl.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/18132923yzfl.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1019585,
+      "sha256": "928d800b7cfb79554a2528c9d13e86782e3348003fa2e295cb685c7eed7948fa",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/18132953mnyf.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/18132953mnyf.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 146287,
+      "sha256": "764e78e96e4566081f84088c2a97ac30d7f042962275e191bff89bcd4a6a3577",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/18132937jax9.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/18132937jax9.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 109785,
+      "sha256": "2c9e658b0d1a148fe22c6035d3988982f0ef76f6aa29a580aa05443cd9596708",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平畅行无忧两全保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "两全",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

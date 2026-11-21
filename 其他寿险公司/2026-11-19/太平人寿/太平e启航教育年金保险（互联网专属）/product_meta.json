@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:da6a4ce2a33277c4",
+  "actualPlanCode": "da6a4ce2a33277c4",
+  "clauseName": "太平e启航教育年金保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/131649070o83.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/131649070o83.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 283525,
+      "sha256": "330671851cee091bb1f9e4c94b41c3d4f824c179b15f6a314f1bd12b16f4c345",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/13164759mo23.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/2815533023jx.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202511/13164759mo23.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 589551,
+      "sha256": "6b658ea815fc27fad314034523853515b1b319b4a26dfccd781eac1e9d69f4fe",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/131648502ya5.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/131648502ya5.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 151050,
+      "sha256": "53d9f08fe912a85514e576e30acabf94ec398fb478eade733bd35397fdaf4ad6",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/13164832nr58.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/13164832nr58.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 129874,
+      "sha256": "24824c6f8e0695dbe2e734f2776ef550eaa0ebb9e670f4fe406fec6ae4d46e89",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平e启航教育年金保险（互联网专属）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "是",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

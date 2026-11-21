@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:a741a5da11864c31",
+  "actualPlanCode": "a741a5da11864c31",
+  "clauseName": "太平附加福禄投保人豁免保费2025重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202502/24100323b5vl.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202502/24100323b5vl.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 209598,
+      "sha256": "39235738daa72775a4426e9013c74ff4e444fedf9b9cd63bb4f0dd83cd2f51dc",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202502/24100237k4fj.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202502/24100237k4fj.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1145561,
+      "sha256": "9ccd68ae7959bfe574bcc7b28be5cc5478ae3ae02dfe7606e09d006cac7c8df3",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202502/24100259dh0e.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202502/24100259dh0e.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 435866,
+      "sha256": "a697aceeb50835eee9d246ff69646ea54d790f46b0e4d16b4b659b2bfe9bdc01",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加福禄投保人豁免保费2025重大疾病保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

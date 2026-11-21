@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:960b2fc23719b86a",
+  "actualPlanCode": "960b2fc23719b86a",
+  "clauseName": "太平财富鑫享年金保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/21095747hguy.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/21095747hguy.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 270234,
+      "sha256": "05c4c4c319ebb6e71208f8614326b4c3d3f6cb9156bf222bb2bb447f01447a45",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/210956514cdc.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/210956514cdc.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 556598,
+      "sha256": "96b0241b3c797266deeaee1de6637367094e30bac7dbcfb533c5b62f4048cfc9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/21095731db10.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/21095731db10.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 461313,
+      "sha256": "1365c9d9e2f34ea0ab7d9e7f37fe3760e020731d80e27b876205cc8f68072162",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/21095713erib.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/21095713erib.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 252034,
+      "sha256": "0ff5c77ecdd918908bedd0d1ad2cb230132e397ba9798a540fe45f398e172a0c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平财富鑫享年金保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

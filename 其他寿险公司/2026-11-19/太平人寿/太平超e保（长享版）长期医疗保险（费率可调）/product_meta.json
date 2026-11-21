@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:346fe9653df2d642",
+  "actualPlanCode": "346fe9653df2d642",
+  "clauseName": "太平超e保（长享版）长期医疗保险（费率可调）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/071549284ywo.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/071549284ywo.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 407505,
+      "sha256": "05362cc6e6d70b746de3c6a60bcec3201d754359e84e748655b8a18635d8e0d7",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/07154851e8cl.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/07154851e8cl.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1552051,
+      "sha256": "82387a39108c2a2bb833c952705f7bd9c88e55a9897a810af2511e6fc8cba338",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202604/07154909ft3i.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202604/07154909ft3i.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 146015,
+      "sha256": "23ed515b8f593a5310b491b2eacf35d545897ce2a7872bfba5e6769311e4af71",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平超e保（长享版）长期医疗保险（费率可调）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

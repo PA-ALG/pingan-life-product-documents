@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:6b5c6109d98704da",
+  "actualPlanCode": "6b5c6109d98704da",
+  "clauseName": "太平附加温暖保贝提前给付重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/211421347sle.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/211421347sle.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 244141,
+      "sha256": "24f565da4ddbc10111b37418685eb236900b0fd0f5557e75791918f5d115f2cf",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21141955amd5.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21141955amd5.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1365498,
+      "sha256": "a929cbce24f1d84ff2d5c47b5bce18042a30521dbe0dbdaa665d745e4a63d708",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/211421077r2k.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/211421077r2k.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 501519,
+      "sha256": "26fd03ca217e5c6be31da84906ae0e986419ee639cbfbdf6b11304fb3f4b3598",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142014ore8.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142014ore8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 121092,
+      "sha256": "a39a8f63cc2163c8bb20b1544a3a61875b28ae0fca4297fd2582d35e4f2b1861",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平附加温暖保贝提前给付重大疾病保险",
+    "渠道": "个人",
+    "主附": "附加险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}
