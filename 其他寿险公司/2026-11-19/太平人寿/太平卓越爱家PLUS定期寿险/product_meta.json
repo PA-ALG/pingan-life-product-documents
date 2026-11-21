@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:8d3aabf194d46c85",
+  "actualPlanCode": "8d3aabf194d46c85",
+  "clauseName": "太平卓越爱家PLUS定期寿险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01101002jnod.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01101002jnod.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 246255,
+      "sha256": "5e04259f8ff512186ceeb326debb745d861f01be92b542a4a80835a285da6322",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100859os1o.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100859os1o.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 715980,
+      "sha256": "448f60ddd6d1d452602cfe191acf5e7641c64a09bb883817f38685f7b8bd538d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100944bxng.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100944bxng.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 335392,
+      "sha256": "32e04653e1a85a87d14b3087caa9c2734e96e4c9eb17bb4ec36daa885b039436",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/01100918a7yy.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/01100918a7yy.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 206053,
+      "sha256": "e1628cf33438b48379148c73fb6b7be9c0136c6c3082ca084932da17e78f54a6",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平卓越爱家PLUS定期寿险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "寿险",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

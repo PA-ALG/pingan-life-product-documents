@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:ec095acd3e744fae",
+  "actualPlanCode": "ec095acd3e744fae",
+  "clauseName": "太平至尊双祺年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/13170259zphq.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/13170259zphq.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 356352,
+      "sha256": "3c7d46d20aa099ae0af4b46490ac4ba717c80b9ee20abac0aae66853c126d6a4",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/29141249n780.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/13170212isf1.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202606/29141249n780.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 545170,
+      "sha256": "71e85b6260dc03f53e04becfa2b34469343bfda7687fb0365731b84d987ccc99",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/13170320ay9n.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/13170320ay9n.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 22832413,
+      "sha256": "a0045ae94e24547392ae8857c5f9a52c726db677ab59dd1ec098b306204663d7",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202603/131702290l0v.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202603/131702290l0v.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 345887,
+      "sha256": "407614eb3fd6436918056d28858d2547b6cd2974f10b6f461bb4d590452568f6",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平至尊双祺年金保险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}
