@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:7f186a1e3cec6793",
+  "actualPlanCode": "7f186a1e3cec6793",
+  "clauseName": "友邦友型运动随享版意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%9E%8B%E8%BF%90%E5%8A%A8%E9%9A%8F%E4%BA%AB%E7%89%88%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%9E%8B%E8%BF%90%E5%8A%A8%E9%9A%8F%E4%BA%AB%E7%89%88%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 223882,
+      "sha256": "cc3f74befd900802df720bb23d6ac062e3e83dc4f25f1fd332f91bcaa18df0d3",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1151-1_Sports%20Accident%20Short%20Term%2820230505%29_IAC9100015884_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B1151-1_Sports%20Accident%20Short%20Term%2820230505%29_IAC9100015884_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 655821,
+      "sha256": "4a31ff4742149a8f3f7da6b8e083eaacd02d9452d498cc5dd3eed26e4a3268e0",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%9E%8B%E8%BF%90%E5%8A%A8%E9%9A%8F%E4%BA%AB%E7%89%88%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%9E%8B%E8%BF%90%E5%8A%A8%E9%9A%8F%E4%BA%AB%E7%89%88%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 78738,
+      "sha256": "02d617d6a20c8615e1135be9b9daba298f3e52356c12e76d87cd52321722a3cf",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦友型运动随享版意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

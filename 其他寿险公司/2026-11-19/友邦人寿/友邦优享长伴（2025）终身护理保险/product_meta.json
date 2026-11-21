@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:65c58325c2406039",
+  "actualPlanCode": "65c58325c2406039",
+  "clauseName": "友邦优享长伴（2025）终身护理保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "护理险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B31131brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B31131brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 303862,
+      "sha256": "2a3fc6c17b4595f84b3c39d8cf12e06c0b9f433df8394030cdf517fb5c005711",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3113-1_TDHLTC%202025%2820250806%29_IAC9100028314_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3113-1_TDHLTC%202025%2820250806%29_IAC9100028314_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 351115,
+      "sha256": "76bdbf33031fa81128d30b0440c17c7ff09daf261cd927d7373fc2b70ef8e8c2",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E9%95%BF%E4%BC%B4%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E9%95%BF%E4%BC%B4%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 7072042,
+      "sha256": "6ba53c449f36163dd8b0b64c0e24e3ada89f7c61d611fec426d6209126f45381",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E9%95%BF%E4%BC%B4%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E9%95%BF%E4%BC%B4%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 145648,
+      "sha256": "e7321f2d5a8f8600e1eababafdefda18ec356767de21f6e616551dc8a3a06953",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦优享长伴（2025）终身护理保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P2",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

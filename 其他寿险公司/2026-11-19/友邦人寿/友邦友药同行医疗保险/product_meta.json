@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:f7f5f44e5c7a27ce",
+  "actualPlanCode": "f7f5f44e5c7a27ce",
+  "clauseName": "友邦友药同行医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3202-0%E5%8F%8B%E9%82%A6%E5%8F%8B%E8%8D%AF%E5%90%8C%E8%A1%8C%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3202-0%E5%8F%8B%E9%82%A6%E5%8F%8B%E8%8D%AF%E5%90%8C%E8%A1%8C%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 203516,
+      "sha256": "87fcfda53ba2840b020e04e717621c5c8083277b60dd834d296c5fdecba877e0",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3202-1%E5%8F%8B%E9%82%A6%E5%8F%8B%E8%8D%AF%E5%90%8C%E8%A1%8C%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3202-1%E5%8F%8B%E9%82%A6%E5%8F%8B%E8%8D%AF%E5%90%8C%E8%A1%8C%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 209260,
+      "sha256": "5f5286a030272802b23d22d5843179db6eba034bb8129c51bd7243f2fb664690",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/B3202-0%E5%8F%8B%E9%82%A6%E5%8F%8B%E8%8D%AF%E5%90%8C%E8%A1%8C%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/B3202-0%E5%8F%8B%E9%82%A6%E5%8F%8B%E8%8D%AF%E5%90%8C%E8%A1%8C%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 88303,
+      "sha256": "1757d9db328e877768974e1b2b5c6917331fc9afe24a9528e7fe8fb1c37290c5",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦友药同行医疗保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

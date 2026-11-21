@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:c57d0745d306d69a",
+  "actualPlanCode": "c57d0745d306d69a",
+  "clauseName": "友邦优享年年（2025）A款年金保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B31091brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B31091brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 311740,
+      "sha256": "fa28631edcd88a2571cf023355c40d87ab64ee7037f8604c784e29f39488a7cc",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3109-1_PPB%20Annuity%205.0%2820250704%29_IAC9100027713_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3109-1_PPB%20Annuity%205.0%2820250704%29_IAC9100027713_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 291654,
+      "sha256": "f509ac4efe9afb8c58e8ba36cceb8ef89ee2e87e00cbb5f26e3db1a32bd9f7a2",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E5%B9%B4%E5%B9%B4%EF%BC%882025%EF%BC%89A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E5%B9%B4%E5%B9%B4%EF%BC%882025%EF%BC%89A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 5000443,
+      "sha256": "a8e3dd78d611625945297aebfc7006a9e097da85e3ca7a1434f271f4596afe38",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E5%B9%B4%E5%B9%B4%EF%BC%882025%EF%BC%89A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E4%BC%98%E4%BA%AB%E5%B9%B4%E5%B9%B4%EF%BC%882025%EF%BC%89A%E6%AC%BE%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 179317,
+      "sha256": "596c4e51d23f076f554daa9b20cf3754ef5984f33be9fe796b43221a07407e94",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦优享年年（2025）A款年金保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "否",
+    "产品分级": "P2",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

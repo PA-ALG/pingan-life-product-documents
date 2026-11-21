@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:ebc859de0daf6812",
+  "actualPlanCode": "ebc859de0daf6812",
+  "clauseName": "友邦友如意顺心版（2025）重大疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%89%88%EF%BC%882025%EF%BC%89%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%89%88%EF%BC%882025%EF%BC%89%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 376279,
+      "sha256": "712e4605da34c5ce04682407ce401a11f723b6a097264b1f3085cc607e1454a2",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3122-1_AUWA%20N%202.0%2820250829%29_IAC9100028926_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3122-1_AUWA%20N%202.0%2820250829%29_IAC9100028926_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 860381,
+      "sha256": "b547d983d909597f7a10eb8eea6486b234c9f94493c4a10354139efde8a7bf56",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%89%88%EF%BC%882025%EF%BC%89%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8%28%E5%90%AB%E5%87%8F%E9%A2%9D%E4%BA%A4%E6%B8%85%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%29.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%89%88%EF%BC%882025%EF%BC%89%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8%28%E5%90%AB%E5%87%8F%E9%A2%9D%E4%BA%A4%E6%B8%85%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%29.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 8287971,
+      "sha256": "b1285f66f5542a7fefe1b1fe3f0e76850c04614f666bf0b450c207c52507984b",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%89%88%EF%BC%882025%EF%BC%89%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%8F%8B%E5%A6%82%E6%84%8F%E9%A1%BA%E5%BF%83%E7%89%88%EF%BC%882025%EF%BC%89%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 803157,
+      "sha256": "0638b0f3053cb8eca9f976acda1b5e679bf97be8b865cc56e3ca699d8e8424ec",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦友如意顺心版（2025）重大疾病保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "P2",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}
