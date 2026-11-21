@@ -1,0 +1,38 @@
+{
+  "planCode": "友邦人寿:263a9931bed30a05",
+  "actualPlanCode": "263a9931bed30a05",
+  "clauseName": "友邦健康保障委托管理产品",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "其他人身险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0566-1_ASO%2820090427%29_IAC0000007922_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B0566-1_ASO%2820090427%29_IAC0000007922_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 228944,
+      "sha256": "fc215b1f3b1202e57637decfa656049918fdd6cbb76f1ffa834fb0ec20e74301",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦健康保障委托管理产品",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "其他",
+    "互联网专属": "否",
+    "产品分级": "P1",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

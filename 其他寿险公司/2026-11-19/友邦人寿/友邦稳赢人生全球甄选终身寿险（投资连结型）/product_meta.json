@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:7203ed9ab0514d99",
+  "actualPlanCode": "7203ed9ab0514d99",
+  "clauseName": "友邦稳赢人生全球甄选终身寿险（投资连结型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P4",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3205-1%E5%8F%8B%E9%82%A6%E7%A8%B3%E8%B5%A2%E4%BA%BA%E7%94%9F%E5%85%A8%E7%90%83%E7%94%84%E9%80%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E6%8A%95%E8%B5%84%E8%BF%9E%E7%BB%93%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B3205-1%E5%8F%8B%E9%82%A6%E7%A8%B3%E8%B5%A2%E4%BA%BA%E7%94%9F%E5%85%A8%E7%90%83%E7%94%84%E9%80%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E6%8A%95%E8%B5%84%E8%BF%9E%E7%BB%93%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 979394,
+      "sha256": "28933beacb64958ba6fc72df8eb9faa7033dbe48e22a6f1ed6c2fa0dc2f7747e",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3205-1%E5%8F%8B%E9%82%A6%E7%A8%B3%E8%B5%A2%E4%BA%BA%E7%94%9F%E5%85%A8%E7%90%83%E7%94%84%E9%80%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E6%8A%95%E8%B5%84%E8%BF%9E%E7%BB%93%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3205-1%E5%8F%8B%E9%82%A6%E7%A8%B3%E8%B5%A2%E4%BA%BA%E7%94%9F%E5%85%A8%E7%90%83%E7%94%84%E9%80%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E6%8A%95%E8%B5%84%E8%BF%9E%E7%BB%93%E5%9E%8B%EF%BC%89%E7%9A%84%E6%9D%A1%E6%AC%BE.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 344656,
+      "sha256": "35c54692a99dcb49c5bbde981c09f0727f3013d1b4173ac339860847bedec5d7",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E7%A8%B3%E8%B5%A2%E4%BA%BA%E7%94%9F%E5%85%A8%E7%90%83%E7%94%84%E9%80%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E6%8A%95%E8%B5%84%E8%BF%9E%E7%BB%93%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E7%A8%B3%E8%B5%A2%E4%BA%BA%E7%94%9F%E5%85%A8%E7%90%83%E7%94%84%E9%80%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E6%8A%95%E8%B5%84%E8%BF%9E%E7%BB%93%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 266251,
+      "sha256": "4981508452aa39b15379224591500f863b2b8a753cd6f8717de6fb31df0c76f7",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦稳赢人生全球甄选终身寿险（投资连结型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "投连",
+    "互联网专属": "否",
+    "产品分级": "P4",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}

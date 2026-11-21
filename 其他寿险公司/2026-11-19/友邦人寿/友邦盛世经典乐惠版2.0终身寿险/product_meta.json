@@ -1,0 +1,74 @@
+{
+  "planCode": "友邦人寿:3663a77fc52ef890",
+  "actualPlanCode": "3663a77fc52ef890",
+  "clauseName": "友邦盛世经典乐惠版2.0终身寿险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B30871brochure1.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/B30871brochure1.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 258279,
+      "sha256": "f652cb1943903e5fe3f366cb4d8a1950d7fa2f6c052438ed230bbae223bd967e",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3087-1_Banc%20ISWL10.0%2820250528%29_IAC9100026532_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3087-1_Banc%20ISWL10.0%2820250528%29_IAC9100026532_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 272360,
+      "sha256": "6cb785b8a87f78529eb6c24694d5e3dc247bd82b9ef1f834b60d4f9c3ae90ded",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E7%9B%9B%E4%B8%96%E7%BB%8F%E5%85%B8%E4%B9%90%E6%83%A0%E7%89%882.0%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/csv/%E5%8F%8B%E9%82%A6%E7%9B%9B%E4%B8%96%E7%BB%8F%E5%85%B8%E4%B9%90%E6%83%A0%E7%89%882.0%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%E7%9A%84%E7%8E%B0%E9%87%91%E4%BB%B7%E5%80%BC%E8%A1%A8%E5%85%A8%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 3997596,
+      "sha256": "b3f6452883c0900e6cb2c8522064a8639616b65cc68c1ced3c223979f915ed5a",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E7%9B%9B%E4%B8%96%E7%BB%8F%E5%85%B8%E4%B9%90%E6%83%A0%E7%89%882.0%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E7%9B%9B%E4%B8%96%E7%BB%8F%E5%85%B8%E4%B9%90%E6%83%A0%E7%89%882.0%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 132192,
+      "sha256": "b9fc63bf0341477ac973dc8a4d52dbb3779596bd622f5b97f634cb254b09b091",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦盛世经典乐惠版2.0终身寿险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "寿险",
+    "互联网专属": "否",
+    "产品分级": "P2",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}
