@@ -1,0 +1,62 @@
+{
+  "planCode": "友邦人寿:75be331a53bb3535",
+  "actualPlanCode": "75be331a53bb3535",
+  "clauseName": "友邦增利宝（2025）终身寿险（万能型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "友邦人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-06",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E5%A2%9E%E5%88%A9%E5%AE%9D%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/brochure/%E5%8F%8B%E9%82%A6%E5%A2%9E%E5%88%A9%E5%AE%9D%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 371977,
+      "sha256": "60f63aabe061f104e3139825fc5ea35549bb87e28e2a71a8df24f21d91ec46e9",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3126-1_UL2025%2820250905%29_IAC9100029050_con.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/B3126-1_UL2025%2820250905%29_IAC9100029050_con.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 343132,
+      "sha256": "8ee7e95a80a885c03374fe0050a07dacf7d01f9cca2392e3b536c95f71ebb34a",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%A2%9E%E5%88%A9%E5%AE%9D%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf",
+      "sourceUrls": [
+        "https://www.aia.com.cn/content/dam/cn/zh-cn/docs/public-disclosure/prem/%E5%8F%8B%E9%82%A6%E5%A2%9E%E5%88%A9%E5%AE%9D%EF%BC%882025%EF%BC%89%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89%E7%9A%84%E8%B4%B9%E7%8E%87%E8%A1%A8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 266662,
+      "sha256": "1f943eeb4718f8bf3be6bcfc2769d4883a95b6f444fd7b95b79decb4188226f0",
+      "sourcePageUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "友邦人寿",
+    "产品名称": "友邦增利宝（2025）终身寿险（万能型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "万能寿险",
+    "互联网专属": "否",
+    "产品分级": "P3",
+    "官网更新日期": "2026-11-06",
+    "来源": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi"
+  }
+}
