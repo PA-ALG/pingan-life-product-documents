@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:46ec2a7f2d390f7a",
+  "actualPlanCode": "46ec2a7f2d390f7a",
+  "clauseName": "太平稳多多两全保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/13165128c8rv.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/13165128c8rv.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 204429,
+      "sha256": "ef930189c18c4b644a947e0b7f74816e6b6866c7833f356fa6f990e9ece26e14",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/13165024g1vy.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202512/08143758bdzr.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202511/13165024g1vy.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 517836,
+      "sha256": "75859596824da75ba054ffb7b09b033da0b578b4e4bb75fc7254750b54d903cb",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/13165059d01e.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/13165059d01e.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 61347,
+      "sha256": "0d07c729e92c0dffb25dd88fc5ed2c5f90e31bbc148d637ce5c81de0b88aee8d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202511/13165043dws0.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202511/13165043dws0.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 102940,
+      "sha256": "7c76c26992db9940a3560898371f3ed16f670e97cecb52255dd959a583b8bfa6",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平稳多多两全保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "两全",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

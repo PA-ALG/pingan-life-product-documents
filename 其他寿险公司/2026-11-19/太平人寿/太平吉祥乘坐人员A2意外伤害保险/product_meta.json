@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:abc4e831858a581b",
+  "actualPlanCode": "abc4e831858a581b",
+  "clauseName": "太平吉祥乘坐人员A2意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/21111746q3ps.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/21111746q3ps.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 211751,
+      "sha256": "64a099e3c31b8ff451d194ae0b7b15755b0d68280dc1eb5296969e7c8a4528c5",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/21111544fn90.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/21111544fn90.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 461761,
+      "sha256": "70e3f2c024741cd2e64e790fbbb306280de01322027cf98a39f340ff2e48f41c",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202510/21111726dhwx.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202510/21111726dhwx.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 250239,
+      "sha256": "08c972bfc3f325abced37c7185434485ba9abd7320206d65040c933cfc731382",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥乘坐人员A2意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

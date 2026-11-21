@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:5f04dcf16db84b9c",
+  "actualPlanCode": "5f04dcf16db84b9c",
+  "clauseName": "太平温暖陪伴意外医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202407/30101421pvmk.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202407/30101421pvmk.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 181630,
+      "sha256": "f458820d122f9201a23387a5bc774a9ce3eca6b5a24b99f8a640e5a57008073b",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202407/30101153vyfn.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202407/30101153vyfn.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 597670,
+      "sha256": "289a330433330272f9e679ecc83f5b0ee372757cef73a27f7209d94816664552",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202407/3010121768cv.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202407/3010121768cv.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 50962,
+      "sha256": "36793f7aff9e2b4db65ce9280a9c313274958c4bb411bf456463acb4abc59c07",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平温暖陪伴意外医疗保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

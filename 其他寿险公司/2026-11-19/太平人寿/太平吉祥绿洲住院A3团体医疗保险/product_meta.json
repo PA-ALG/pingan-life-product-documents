@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:1c3183655d1b036c",
+  "actualPlanCode": "1c3183655d1b036c",
+  "clauseName": "太平吉祥绿洲住院A3团体医疗保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06143117jlm4.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06143117jlm4.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 181278,
+      "sha256": "38365636400a2a55ea60a4b68c5e621a07b02f001ea2d3af0e6d2d19ed077719",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202601/06143059hjir.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202601/06143059hjir.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 658697,
+      "sha256": "9f7f127689707b46169425ffec69fdbfea4831e850d95e991b8d0cf56bf30a6d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥绿洲住院A3团体医疗保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "医疗/护理",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

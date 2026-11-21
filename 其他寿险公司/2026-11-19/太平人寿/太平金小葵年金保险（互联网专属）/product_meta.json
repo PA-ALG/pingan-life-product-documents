@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:3f2330760684fcff",
+  "actualPlanCode": "3f2330760684fcff",
+  "clauseName": "太平金小葵年金保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/22110021snd2.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/22110021snd2.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 260836,
+      "sha256": "f86f34b2dc22addfd953943dc666f01852ac8363415b3d27d63451c602ef3d24",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/221059096ggp.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202607/03144209kby6.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202606/221059096ggp.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 524359,
+      "sha256": "f986705605e2a5a2427122658f0afa13d03f24f9c7695281600803bec19cd74d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/22105944peac.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/22105944peac.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 2466056,
+      "sha256": "3fac4890af41bbcf92c85605eeb126422d4977fa70cdd18e1e11a87a52578dec",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/22105927simq.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/22105927simq.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 228146,
+      "sha256": "8b9c74682d7e5ebc7495278aff3248b42d59aca0faad1890bb444dbc40fc3523",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平金小葵年金保险（互联网专属）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "年金",
+    "互联网专属": "是",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

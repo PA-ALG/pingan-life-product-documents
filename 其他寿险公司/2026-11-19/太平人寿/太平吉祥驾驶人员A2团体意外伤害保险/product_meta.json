@@ -1,0 +1,50 @@
+{
+  "planCode": "太平人寿:76be20fd0b25aefc",
+  "actualPlanCode": "76be20fd0b25aefc",
+  "clauseName": "太平吉祥驾驶人员A2团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28162437hc0o.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28162437hc0o.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 198762,
+      "sha256": "d0611070b37c825034c3e515dd5267d2ce6642bab58040ffee028355ab9934bb",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202509/28162421j2tg.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202509/28162421j2tg.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 688754,
+      "sha256": "d6899f7faa982ad06cffc0170357767b8abfe6b9345312936f1eb6f1489717c7",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平吉祥驾驶人员A2团体意外伤害保险",
+    "渠道": "团体",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

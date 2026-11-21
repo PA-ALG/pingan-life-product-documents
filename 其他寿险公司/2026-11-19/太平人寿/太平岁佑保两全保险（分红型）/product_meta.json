@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:7f106e300f98d9c4",
+  "actualPlanCode": "7f106e300f98d9c4",
+  "clauseName": "太平岁佑保两全保险（分红型）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/01112122pv38.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/01112122pv38.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 287927,
+      "sha256": "34df3fd9bcb6c9f69547b0caf9c0c505a6b5add779d33b9edcc2502dc793c8b8",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/011120366l7a.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/011120366l7a.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 539923,
+      "sha256": "9a8edb9caeffb3bf34a96f2dfc742bcfa4d5d0206a1398771b447d09bb2bfdc3",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/0111210682u8.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/0111210682u8.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 415445,
+      "sha256": "30c178a2be837f3ec92c7d99eb66dc1fe691d1b665f7c5a7b1a1ee881e6bcac5",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202508/01112050rh44.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202508/01112050rh44.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 85902,
+      "sha256": "943a6c6d1c9b4b7075bbabe6afcc8454b61e689a6125398e5f76cf548e3cb3a2",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平岁佑保两全保险（分红型）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "两全",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

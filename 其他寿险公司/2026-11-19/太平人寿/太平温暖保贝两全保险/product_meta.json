@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:fb1c47c3da9c9695",
+  "actualPlanCode": "fb1c47c3da9c9695",
+  "clauseName": "太平温暖保贝两全保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142427u79g.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142427u79g.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 212531,
+      "sha256": "e79b01d9aecf8475370fc58ce201900a1462c958a3513caa99f460e410f92c81",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142328xawh.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142328xawh.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 487652,
+      "sha256": "eccaf7a527a3de28d1008731774758d58391c57ff66830a4c61e7ebbe2d0650f",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142404wdki.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142404wdki.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 502102,
+      "sha256": "8a040e05235772e18018e4aa50511898eaf9e3231f1681eb3a9210884e86fa08",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202504/21142344m3ud.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202504/21142344m3ud.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 160077,
+      "sha256": "e29db10fe8a607215d11039db441971fcfe2c7f291cb1047d2e885e520021f2d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平温暖保贝两全保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "两全",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

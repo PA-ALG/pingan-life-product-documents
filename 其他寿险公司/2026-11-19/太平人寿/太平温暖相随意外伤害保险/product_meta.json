@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:c5bd04738ed208ee",
+  "actualPlanCode": "c5bd04738ed208ee",
+  "clauseName": "太平温暖相随意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202407/3010225481gz.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202407/3010225481gz.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 176501,
+      "sha256": "f3601c548366813671330342eaaa926fea00923cb18ca004af8607dd20f274c2",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202407/30102146d60p.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202407/30102146d60p.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 720712,
+      "sha256": "3f82b9529cd84eee1ed7464dbf5fe2fece01b5d0d124b365ea73249ad220381e",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202407/30102240gjrp.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202407/30102240gjrp.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1022205,
+      "sha256": "6d92d8443d119915e26889b90b61f429bbfd7dbf106084f77ff064f3ffd805cf",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平温暖相随意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

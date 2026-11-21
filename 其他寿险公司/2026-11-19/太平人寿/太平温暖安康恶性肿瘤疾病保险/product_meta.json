@@ -1,0 +1,74 @@
+{
+  "planCode": "太平人寿:794e7e5eb1920f40",
+  "actualPlanCode": "794e7e5eb1920f40",
+  "clauseName": "太平温暖安康恶性肿瘤疾病保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/30100935mkle.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/30100935mkle.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 212738,
+      "sha256": "e066d829265f82ee08a0f4331637715b74eb9815e3f0c1b5aefe8255c5a3f7f5",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/30100836qi3y.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/30100836qi3y.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 900891,
+      "sha256": "f39da5eee39821bfc84e946f2b6675fae9ad82d66efc2cf2871cc11b258e26b9",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/301009174usd.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/301009174usd.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 257146,
+      "sha256": "49094d61c09b8b334dd11ce0aa81d21c7d0e5ddffba2798dadffeacd7e851277",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202505/301009003974.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202505/301009003974.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 65121,
+      "sha256": "123766b125d18c6b25887d010a7c8b3c5326da02148746bfedaf9cf38bbd3b2a",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平温暖安康恶性肿瘤疾病保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "重疾/疾病",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

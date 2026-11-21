@@ -1,0 +1,62 @@
+{
+  "planCode": "太平人寿:3f3a331e6a04f6af",
+  "actualPlanCode": "3f3a331e6a04f6af",
+  "clauseName": "太平心相伴意外伤害保险",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202403/04094702hqxr.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202403/04094702hqxr.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 253871,
+      "sha256": "535cc122c1f6a607c8a88d102c48798743fe0e6d7bbe24c2cb4758a73f953b34",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202403/040946244il6.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202403/040946244il6.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 670241,
+      "sha256": "f7a1a1a15ae1a057557ea0da4a65ed8b2adbeee5200adb5a2a753b8999b69e33",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202403/040946463ezu.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202403/040946463ezu.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 365836,
+      "sha256": "6fb8932af8b8c0bf8ebc84ca6ed79213930054e50025156b83f6b3e2ef56c7a2",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平心相伴意外伤害保险",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "意外",
+    "互联网专属": "否",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}

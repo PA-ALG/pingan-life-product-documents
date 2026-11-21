@@ -1,0 +1,75 @@
+{
+  "planCode": "太平人寿:57af8fe6026e1922",
+  "actualPlanCode": "57af8fe6026e1922",
+  "clauseName": "太平小金袋两全保险（互联网专属）",
+  "planSalesStatus": "在售",
+  "sourceSalesStatus": "在售",
+  "companyName": "太平人寿",
+  "insuranceCategory": "两全险",
+  "productLevel": "",
+  "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/",
+  "collectedAt": "2026-11-19",
+  "officialUpdatedAt": "2026-11-13",
+  "sourceMaterials": [
+    {
+      "label": "产品说明书",
+      "file": "产品说明书.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/22110244guvm.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/22110244guvm.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 249300,
+      "sha256": "3afe8393be7ee7bab5c195dd3528ee3273093f3099fc97442ced7d412fabb384",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "条款",
+      "file": "条款.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/221101485hm4.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202607/03144032vrth.pdf",
+        "https://www.cntaiping.com/upload/cms/life/202606/221101485hm4.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 543524,
+      "sha256": "9a22802440c797147032f034d40f058c7ae696e24e4673c85663ecb435f93b0d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "现金价值表",
+      "file": "现金价值表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/22110221ffhx.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/22110221ffhx.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 1355855,
+      "sha256": "299d3320e280634bb190d1bcd8cc863f8975d0c83565cb6d891198b0f321170f",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    },
+    {
+      "label": "费率表",
+      "file": "费率表.pdf",
+      "url": "https://www.cntaiping.com/upload/cms/life/202606/221102042eho.pdf",
+      "sourceUrls": [
+        "https://www.cntaiping.com/upload/cms/life/202606/221102042eho.pdf"
+      ],
+      "status": "downloaded",
+      "bytes": 172980,
+      "sha256": "ef956fe2df07d4df4d4cbd1292b67b313cb31c03313b8f6e7cb3ce0c586e106d",
+      "sourcePageUrl": "https://life.cntaiping.com/info-zstscp/"
+    }
+  ],
+  "rawOfficialRecord": {
+    "公司": "太平人寿",
+    "产品名称": "太平小金袋两全保险（互联网专属）",
+    "渠道": "个人",
+    "主附": "主险",
+    "类别": "两全",
+    "互联网专属": "是",
+    "产品分级": "",
+    "官网更新日期": "2026-11-13",
+    "来源": "https://life.cntaiping.com/info-zstscp/"
+  }
+}
