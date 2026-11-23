@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:1155",
+  "actualPlanCode": "1155",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康特定脑动脉瘤手术2022医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1155",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/e1b13ed4-100b-46d8-a8ff-ef4a0fbb36f3.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 724832,
+      "sha256": "b16dd0306fcc88626f4768b1af90dc14047e55c07e3ed133587c6c3d253ba514"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/5672953d-9d09-46b6-8746-fb05a756fd74.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 406650,
+      "sha256": "b6cef5c05fd35ed902bde09a5850b8c8cf6bd5e93a2bed05e4988fe5500f0fe4"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/fb606307-982d-4680-80ad-828c0fc92c99.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 152038,
+      "sha256": "0e1fb1315e2b56e38b0205aedf361c13bc51fa2bb820ebbf8e5988f06c3d9b06"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

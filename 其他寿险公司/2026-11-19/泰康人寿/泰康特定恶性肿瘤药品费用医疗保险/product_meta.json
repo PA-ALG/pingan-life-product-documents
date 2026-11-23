@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:751",
+  "actualPlanCode": "751",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康特定恶性肿瘤药品费用医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:751",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/660f50b0-f9e7-4b72-92c4-a5de89dda269.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1175168,
+      "sha256": "1608d0f8f9a602b653dc46794eabf0d9841804a28b1a079994fd05d40fb44029"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/d860ddcc-cca6-4868-a0a2-b20e82dca250.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 362150,
+      "sha256": "e6dd9f8edb5724062c384c37cd4154c9b265e61706fa8e563cfebd211a140440"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/2105015c-13e4-4610-bc3d-54424c339bc9.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 182547,
+      "sha256": "51f55d3c45aeb7cc21f067bf358732b1a9683f9cb278bf7329adc17402880624"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

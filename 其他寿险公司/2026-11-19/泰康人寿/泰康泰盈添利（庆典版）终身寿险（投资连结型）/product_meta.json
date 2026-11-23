@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2541",
+  "actualPlanCode": "2541",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康泰盈添利（庆典版）终身寿险（投资连结型）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P4",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2541",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/12/19/007b7463-9cb6-4890-9c34-3af6fd202ffb.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 494920,
+      "sha256": "44879cccb316ae8a8749fdeb6a4b6d0ae72bc34e60aa131acbbed101b926ea29"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/12/19/3b34bc22-ba6d-41cf-afd6-8ad542970132.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 1451617,
+      "sha256": "fa991c149f456ad285d0cd4d2079f6efd99f75a4378c67be69ea3eae1836d2e6"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/12/19/e800d133-2daf-4143-85e9-20b690a06c5a.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 167594,
+      "sha256": "e05304d39ced98e3db0d341a50b16c77876ac4218d6057634388d6d5fbb15060"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

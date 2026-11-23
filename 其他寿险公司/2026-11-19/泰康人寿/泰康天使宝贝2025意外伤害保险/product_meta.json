@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2399",
+  "actualPlanCode": "2399",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康天使宝贝2025意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2399",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/07/24/c1ade9e8-5d5f-4620-a64e-a4ceda9d54dc.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 757974,
+      "sha256": "4589bbcb33ef32081501a1f0e7198a59fcea95b6e53ba524c5bb6a27d8de41f7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/07/24/1dd388ca-cea1-43fc-9357-532609ff122f.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 266258,
+      "sha256": "573765fa382cdb2628451ab27f7b111a6e1b03200672235c03514e640a5ff573"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/07/24/355d2ee5-a8b1-45ed-bd25-8355b02a719d.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 99710,
+      "sha256": "d9f9989f053bd13905388f7aeaa4a9c5e4cf5b72c4135b4fafe12f32ed1a1daa"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

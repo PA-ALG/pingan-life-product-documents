@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2483",
+  "actualPlanCode": "2483",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康添福2026终身寿险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2483",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/09/12/ab2ff23a-5589-4103-9dc5-36abc8d2ab23.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 791176,
+      "sha256": "698bcb77e5b9d77ad3eaf755fd84fbc384111882fe882d41fe08ff35ec3a76c6"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/09/12/fd1f397a-f59b-4203-8128-323b61483b04.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 417582,
+      "sha256": "5a778657f8a64fc19d7eaf572ac30bba1e5147474c3fc98fffa1f83618f5f370"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/09/12/d4b67d7f-2c9b-4f05-af62-aea12e4c49c8.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 153744,
+      "sha256": "b8a15b8e8277f8b13ffa7e4f79f7e30d0cb4f83c23636ecf2ba3091048be121a"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

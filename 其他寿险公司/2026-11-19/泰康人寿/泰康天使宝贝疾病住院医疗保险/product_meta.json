@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:1115",
+  "actualPlanCode": "1115",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康天使宝贝疾病住院医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1115",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/f4949a3b-cabb-49d1-9799-5eacfef563b8.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 639823,
+      "sha256": "8362e5804e1619099c3341e5261108cd0a79941c067c79cb7a29cfe6eceb5cb2"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/68687e13-9fc4-4035-a83c-63028855c8e3.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 377601,
+      "sha256": "c152da256ddcee61fff54a5845338d6b9b4c3957f842c411fbb8022d032170bf"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/a488fd2b-964b-4632-b5be-4b6c6b3782e1.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 154147,
+      "sha256": "99556f1dd1e8b877fad4d2e9d823099220d0b18fac41730ae4dfad9b4bdcf6f9"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
