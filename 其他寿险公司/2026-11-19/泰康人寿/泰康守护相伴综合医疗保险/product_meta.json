@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2643",
+  "actualPlanCode": "2643",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康守护相伴综合医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2643",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/09/15/8ed517be-1239-47e1-993d-04cf34b17bb5.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1126398,
+      "sha256": "19dbfb12cfce69b2892f63b1e1e3f394abc93382c836fcbfca1d0dcbe982d911"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/09/15/6ab323a7-174b-4027-a1ca-d33287f6e204.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 520688,
+      "sha256": "59c8b658321dcb3495c94163f4cf08b6b83f7da3b7d297d8b27e2928fd64abc6"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/09/15/de21d764-82e8-4784-a840-6d34f4509ddf.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 194909,
+      "sha256": "39e712b5ddb5debac0734603f94a69e19b8d39e0e2a5c679f1426a2be2f6a535"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

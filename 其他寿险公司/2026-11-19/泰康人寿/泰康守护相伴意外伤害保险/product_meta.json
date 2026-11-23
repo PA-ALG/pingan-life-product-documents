@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2642",
+  "actualPlanCode": "2642",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康守护相伴意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2642",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/09/15/c352616b-8c33-40d5-9ba6-dadcbfcfedf1.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 859908,
+      "sha256": "a1dfdedb9078733ace81afcfc27491cf8ac6cb894e35ec887ac2c7b171488431"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/09/15/641cc2e1-6e6d-4e68-992d-e372d1245f92.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 286635,
+      "sha256": "9ec6afd6478aca3ed3f4020494a05cfbfd0baf14785f93a9e4a6a91408440481"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/09/15/324dd6f7-0226-4a00-9ceb-378d469455e4.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 93383,
+      "sha256": "f8348fef46dd6e55e3049af8abef9926647ac796726785cf556457afc3fb71b0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

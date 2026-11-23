@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:2544",
+  "actualPlanCode": "2544",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康守护C款2.0团体重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2544",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/01/04/ea0d9c2c-c3cc-415b-a93e-8ea42e9af41d.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1937607,
+      "sha256": "f7fca196ce5bbd038130b8595fcc091a2371686361045e60cd3c901fbf5fb57f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/01/04/8f0cbac6-7dfb-40cb-ac84-2508ff721f5c.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 263288,
+      "sha256": "37ae9134bcb14ec890c0921d374f6483610d40c9f22c784ca9cafd854a7fe513"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2565",
+  "actualPlanCode": "2565",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康手术医疗意外保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2565",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/02/06/54c3f6d5-6388-4228-b78b-2d85dca0bc4b.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 719206,
+      "sha256": "e093a48ceb1f14070bbcaf52fa44cc414224eb4552afa58e9dde85cc261d5940"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/02/06/9238d3dc-c261-4b98-b065-ecc6112a412f.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 408724,
+      "sha256": "8f2ed741ce52de8280f0b501579b74172b15107af228b209e2f6d8d74e4911f5"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/02/06/1a96b5e3-5ccb-4379-a764-ff8c384c50fc.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 159478,
+      "sha256": "b48e3ed0563eaa9bd7281689fb98331e21a4b34167e2052480259c261b5fb59e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
