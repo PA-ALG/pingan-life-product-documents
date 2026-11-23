@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:e50f3716f0247a6a",
+  "actualPlanCode": "e50f3716f0247a6a",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保团体年金保险（2025G款）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:e50f3716f0247a6a",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/01/21/92700.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 577704,
+      "sha256": "54db3f9afde39e09d591d4aa370b9373d21000109f1dc873fddba622a204b970"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/01/21/92701.pdf?oldName=太保团体年金保险（2025G款）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 342042,
+      "sha256": "8f226f1436c71832b08d995e59764fe88e7fdd481eaf99f2b898877a762a24a6"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:e7ddfec39a7dc6b5",
+  "actualPlanCode": "e7ddfec39a7dc6b5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保团体定期寿险（2023版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:e7ddfec39a7dc6b5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/01/06/69148.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 429381,
+      "sha256": "b4a99ca2bf0db672968c2e95fa8910dae54b3982b134499882ab1326cb28b9bc"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79821.pdf?oldName=太保团体定期寿险（2023版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_7.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 223190,
+      "sha256": "9c623d79240157ea2e20c1c8dfddfe913176fa75e884f7b7aa82b92ec51f15d1"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

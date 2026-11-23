@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:f1f7e0412df9c5bb",
+  "actualPlanCode": "f1f7e0412df9c5bb",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保团体终身重大疾病保险D款（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:f1f7e0412df9c5bb",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/03/90986.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1454269,
+      "sha256": "c02c92f47875dd39db1689a2a16e205f85b2310521e89b703fa60d84bb906c83"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/03/90987.pdf?oldName=太保团体终身重大疾病保险D款（2025版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 213758,
+      "sha256": "3753cf7120a5e0b38078c9482df36af06f53e7a7268bdc74caa4ac00b4f511b3"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

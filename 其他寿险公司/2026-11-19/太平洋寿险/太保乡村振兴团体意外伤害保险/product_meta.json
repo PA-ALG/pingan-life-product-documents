@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:3b744a13fbf9c4bb",
+  "actualPlanCode": "3b744a13fbf9c4bb",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保乡村振兴团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:3b744a13fbf9c4bb",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/01/20/85344.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 646469,
+      "sha256": "54a2721fd94d9fb441301e867aa1a60306bf121b0ef96549f65399da725585b5"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/01/20/85343.pdf?oldName=太保乡村振兴团体意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 254240,
+      "sha256": "e21d984ecf73a0e98efd53b399fcd72022d3916f3e719eca733b11fdf7036d6d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
