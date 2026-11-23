@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:38",
+  "actualPlanCode": "38",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康健康关爱团体护理保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "护理险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:38",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/5d26beb6-541d-4c8a-a423-d4a3f9ba74b3.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 252020,
+      "sha256": "1be06d4ad7e289ebb2edc5012ce152de4f8f4c7fcf3230837b57fcf2d40ae11b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/d2743567-a91a-4c7a-9fcc-cc0f8d1ae329.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 218445,
+      "sha256": "be7b33fe8914947878bd9cd48801d60f792092dd7ef39dd6eca4d946bb36fa53"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

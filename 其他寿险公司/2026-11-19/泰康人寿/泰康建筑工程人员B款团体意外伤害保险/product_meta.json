@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:1131",
+  "actualPlanCode": "1131",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康建筑工程人员B款团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1131",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/6e4f3cd2-b2f3-4f28-863f-50816f388714.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 759101,
+      "sha256": "dbbea3e6d29440ce7c5495f9cd126292fa1e91142f09f346fb662777f19d3882"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/33c2aca2-4415-44e4-9d80-3743cb29a32f.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 425804,
+      "sha256": "b8a64166ae908fb01f857c8ac350f608155490d645fc897de4463f7cfbefbeca"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:360",
+  "actualPlanCode": "360",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康附加意外住院津贴团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:360",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/d68efce8-9a7f-4c56-8b91-a5ab67d5a51b.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 289815,
+      "sha256": "ff15d82f04954766c7630e53a0822679f6dfe5b41139699c9b5f09fe0132fbf1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/1c6d2f39-76e8-4f96-9833-71b4cba06a94.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 359009,
+      "sha256": "98a0b05c4a70774870b1010f83aa65e6cdb605a65e2580c1a7dbb753b2799938"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

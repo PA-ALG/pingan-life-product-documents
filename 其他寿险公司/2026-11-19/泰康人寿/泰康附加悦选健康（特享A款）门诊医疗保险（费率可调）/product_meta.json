@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2567",
+  "actualPlanCode": "2567",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康附加悦选健康（特享A款）门诊医疗保险（费率可调）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2567",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/02/07/6fccd3e0-ebcd-4fd4-a02b-ca867bdba96b.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 954099,
+      "sha256": "4146230b2f137ffc6bac7966fdb52b223be56fa0c914f105592dd32f3f6366b0"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/02/07/2418efc5-9229-43cd-83d7-a07729e931a7.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 645824,
+      "sha256": "8c4099a5c43ddccd3055f695a18ee296a0284cb3c9ac80267e5b5a8cd11f3e76"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/02/07/3e5cd14d-66b6-44ae-ace2-4705894e3e98.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 1012815,
+      "sha256": "093e125127f8fe41e68b58b711353b1a4425e4e32feb78c3f5fd19f22af6c976"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:825",
+  "actualPlanCode": "825",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康健康尊享A款门诊医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:825",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/c0813469-2b15-40cc-8148-ace5bfd36841.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 671069,
+      "sha256": "a12d43ad29c9b84c7087d99821b945bc4334265544472aca723066bd186592b7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/481c1b71-7dad-42c1-864c-c5b80126c24e.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 395237,
+      "sha256": "8bddfb43c8ea38fad0618e098f6f1fabd79221c6fd6f80d3c8cfe0a47472d33a"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/29b5a0c8-356b-4e18-ba1e-a6745c4549dd.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 100908,
+      "sha256": "646793a87e20e45d41a8e0fb4f96adb106e6d6a7bede33605de535e345a41f1d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
