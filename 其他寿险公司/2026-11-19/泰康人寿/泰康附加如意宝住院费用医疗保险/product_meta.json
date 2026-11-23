@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:742",
+  "actualPlanCode": "742",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康附加如意宝住院费用医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:742",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/97783109-7df1-4f9b-ba85-f288f3f943f1.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 604722,
+      "sha256": "21c334d3783d59a4fa5c3c60421b91135875c8b3880330241e5ce386ad39d62d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/7f16471e-f683-4e13-a707-ee499b6de3b5.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 378805,
+      "sha256": "4f2ddc024bfc525f10f96254f9ed8dc3ca4f2682385d6973d3a8fa62315a059f"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/596b3c59-46c3-46e8-967e-3d5d06fd1706.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 147050,
+      "sha256": "0c40c5862863b46c6478bf4e5b5b4f47681f241149869b2b3f081d1e893b8be0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

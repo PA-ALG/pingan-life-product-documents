@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:1173",
+  "actualPlanCode": "1173",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康附加特定急性病2022医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1173",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2023/06/20/dd1eb554-e73d-4012-96d7-a36c7d6dc66d.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 724827,
+      "sha256": "50e141a7c4cafce60c6f2692a17748e220e538ea56c2a07ef14a98aa1c6fc754"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2023/06/20/642b27c3-4eb7-4a3a-9bc7-d1139f6a607c.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 404722,
+      "sha256": "e826421bf4b2d55e037f0c034face3536860377f0459b3237682ae796682bfe9"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2023/06/20/a7f7e82b-2ae6-4d88-a849-d128a4bfa3af.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 141007,
+      "sha256": "a3ca2d6a0ef44bfb5083bec1f2ab967d210f266941a8c98b9fd2691d42f01e0d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
