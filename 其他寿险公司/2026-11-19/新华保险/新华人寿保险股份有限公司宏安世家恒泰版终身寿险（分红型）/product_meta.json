@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S51000",
+  "actualPlanCode": "00S51000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司宏安世家恒泰版终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S51000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260904/37dcc655-93b0-4ca9-b2f1-4842a013b8a6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S51000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E5%AE%89%E4%B8%96%E5%AE%B6%E6%81%92%E6%B3%B0%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏安世家恒泰版终身寿险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 294628,
+      "sha256": "4db02b9fa5bdd57b04d3976925c3b65b3c850e1eb32dd2d366ca89466c36f9a2"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260904/e8c57cbb-a066-4340-850d-4264bd7fb4ba.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 18875139,
+      "sha256": "5faead55c0122eceb9531890166ae2ab788ccd1b2f256cbf45ab3f86b2860a5c"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260904/8750290f-9ae9-45a6-922c-20b85ff27710.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 37365166,
+      "sha256": "4c426084d29a7e7d2cf433bfa10e2a911eb063d123ea25759c8c19953b81080a"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260904/cea089c5-8da6-4a46-8e48-158f5479f49a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S51000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E5%AE%89%E4%B8%96%E5%AE%B6%E6%81%92%E6%B3%B0%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏安世家恒泰版终身寿险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 351581,
+      "sha256": "014e921cb2144fe88eacee4b64a082fa7e501c8c2985f12350cf9d3abff88d76"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
