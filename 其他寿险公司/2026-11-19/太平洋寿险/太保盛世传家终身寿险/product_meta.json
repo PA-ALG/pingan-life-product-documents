@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:711715682bd898c4",
+  "actualPlanCode": "711715682bd898c4",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保盛世传家终身寿险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:711715682bd898c4",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/03/10/93404.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 734972,
+      "sha256": "5a6f228f023f3970728afb97de2962567a72d77db243c91d3fe4cb66cc31cc51"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/03/10/93405.pdf?oldName=太保盛世传家终身寿险基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 46411,
+      "sha256": "83a0c4967373d87ecacfd1d4b037ce6c976aea18f600a33a13fb0b08a54e7919"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/03/10/93406.pdf?oldName=太保盛世传家终身寿险现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 1210733,
+      "sha256": "5b4911aec266301ab56627ef5cf7bd219cb6e5838aaada13223297b864e6d7d1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/03/10/93407.pdf?oldName=太保盛世传家终身寿险产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 340661,
+      "sha256": "7f30ccfbcb0b9f35866269f0d6e1cf2b20b7c551a5b295bd943c7cf7681ca90f"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
