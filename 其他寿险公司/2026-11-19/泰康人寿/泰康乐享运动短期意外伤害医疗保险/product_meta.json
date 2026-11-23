@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2085",
+  "actualPlanCode": "2085",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康乐享运动短期意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2085",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/42dead1f-46df-41be-999d-76dd95bd3162.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 726615,
+      "sha256": "e3f23aa1bba9dd0dd21818954e341bd3a78b5c26c6ad12351159ebcdd66c81ef"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/f324c681-40aa-488b-a738-8c1cf9998786.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 373941,
+      "sha256": "873e6c780a851169ce8942ca24ae09709ccbe8e7bda8b3f8d273c40c13f71e78"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/3b18d650-fbc3-458b-ad76-b70af3f7e2e3.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 147529,
+      "sha256": "594e5fb96ddd3ee6137dd05b7c93dbdb6033f3e498e9bbce5a3e91d80e613e89"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

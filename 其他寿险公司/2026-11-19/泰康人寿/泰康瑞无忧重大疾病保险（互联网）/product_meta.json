@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:1067",
+  "actualPlanCode": "1067",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康瑞无忧重大疾病保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1067",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/fbc4a985-6150-4a3a-878e-df8b8709b5b3.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1406236,
+      "sha256": "b5482274ed88f5faec5b5ce5bbfeb0e111ce0f6f8d1d54ada6da6e1bdb33be2e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/ee8db031-a317-4dc2-aad6-241fba867725.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 226973,
+      "sha256": "b73ade5682dc853e316a1ddf815eb59125e197c74e691ba5e6df88e39a5ce86e"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/b2016913-e148-4636-b7fc-6bf0aa93f71c.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 380242,
+      "sha256": "17e49b3a04be04c4ca6d89376dda7c6d35c29e35a0fe818b80588869a621f335"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
