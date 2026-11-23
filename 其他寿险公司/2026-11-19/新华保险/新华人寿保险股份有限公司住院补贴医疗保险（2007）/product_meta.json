@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00718000",
+  "actualPlanCode": "00718000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司住院补贴医疗保险（2007）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_22?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00718000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20210430/5d507335-e431-46eb-833b-568eb7566869.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00718000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BD%8F%E9%99%A2%E8%A1%A5%E8%B4%B4%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%EF%BC%882007%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司住院补贴医疗保险（2007）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 237800,
+      "sha256": "d5cd01e44899b5fa05e28cdda9db7f6e90c33c148d4fcb5a8e614519ca7d7929"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/4acad76f-d55e-44c8-8aa5-cc33d42be402.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_22?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 124093,
+      "sha256": "fe91193ceb8db7ce81f795e212fb6a7e20e5d953b8998f87eaafc8ad76e6dfa7"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/05f745cd-2d31-465b-b0e2-a8c33fb2e9cc.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00718000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BD%8F%E9%99%A2%E8%A1%A5%E8%B4%B4%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%EF%BC%882007%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司住院补贴医疗保险（2007）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 89300,
+      "sha256": "6816401b8e4f616e2f466dc48e3b801a8f30b52e7d654e4a08cb6676f8c100b9"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

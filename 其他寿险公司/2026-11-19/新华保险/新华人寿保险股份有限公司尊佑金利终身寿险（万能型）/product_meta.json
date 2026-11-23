@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00X03000",
+  "actualPlanCode": "00X03000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司尊佑金利终身寿险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00X03000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/95aa709f-7630-45f1-a6e8-434dba5a422f.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00X03000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B0%8A%E4%BD%91%E9%87%91%E5%88%A9%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司尊佑金利终身寿险（万能型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 614225,
+      "sha256": "69f3f80f12c13a2db686dcfcbbdf5c82fc2bda56c9150cebfcba35a55f83ae69"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/cc2f4cd7-a998-46c5-a140-abc126eee650.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 107900,
+      "sha256": "e7a5ec3b7e77d1f12200ebd1128d328523a753476ab9f39acc5b767757b9b4d2"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/79e17dfc-c252-4a03-b835-8d6cbdcca519.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00X03000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B0%8A%E4%BD%91%E9%87%91%E5%88%A9%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司尊佑金利终身寿险（万能型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 521203,
+      "sha256": "a8a16c0ed2657f3827cbec8627c28d824b031f05ce86f3f2bfd2720538fca2f8"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

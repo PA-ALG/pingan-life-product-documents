@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G27000",
+  "actualPlanCode": "00G27000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司臻藏世家添翼版终身寿险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G27000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/13627be2-7969-4d32-8229-5ed9e5622701.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G27000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%87%BB%E8%97%8F%E4%B8%96%E5%AE%B6%E6%B7%BB%E7%BF%BC%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司臻藏世家添翼版终身寿险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 443862,
+      "sha256": "f6c81ebf0c4bee2c4fe10c8727c8ead18136949c062b4bd3a349c9f0748d6a07"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260401/9c79383b-b7ee-4bde-ba30-f7e567195782.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 1554708,
+      "sha256": "a62003af29bc2707a7c7b2cfcdb33dd7f8f75aa50600696522eb78f2adbb75eb"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260401/5099e616-2cb7-47eb-ae05-73c490b5823f.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 1030785,
+      "sha256": "8290e365fa7a6f25c61185079b5356191854a9f3fa0816d3546f00117c1accb7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260401/330e426b-344a-48f2-a401-70540c8ca925.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G27000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%87%BB%E8%97%8F%E4%B8%96%E5%AE%B6%E6%B7%BB%E7%BF%BC%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司臻藏世家添翼版终身寿险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 246232,
+      "sha256": "676610d8f175764ced1e866d35ebb4201160df8bf9b8268292285d2c762610bf"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

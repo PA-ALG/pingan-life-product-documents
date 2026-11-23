@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00947000",
+  "actualPlanCode": "00947000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司众惠益团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_23?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00947000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230807/3ab1c47a-52b2-43be-81bd-8fe8b6c875a5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00947000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BC%97%E6%83%A0%E7%9B%8A%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司众惠益团体医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 310640,
+      "sha256": "c00b8515fd2d222ac152929a22462749eeb7122d0841905d592691301ba87525"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/a1c60b44-b74a-4df6-afd8-e8dd60fe88e8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00947000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BC%97%E6%83%A0%E7%9B%8A%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司众惠益团体医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 171995,
+      "sha256": "17b6c491b524a17d8770ab41e7371aeaf77389e1f82d2d9c628f6dfb6100792d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

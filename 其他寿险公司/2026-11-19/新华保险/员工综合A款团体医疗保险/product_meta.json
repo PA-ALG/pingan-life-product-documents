@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00298000",
+  "actualPlanCode": "00298000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "员工综合A款团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_20?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00298000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/jk1088_1541503112747.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00298000&status=1&productName=%E5%91%98%E5%B7%A5%E7%BB%BC%E5%90%88A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "员工综合A款团体医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 181639,
+      "sha256": "994761260007270ea43e6a5f62f6f75eabec7bd0ffe7b6b3ef9ce6318f645e3e"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/0c772a35-db7f-4d5d-8c4b-1a247e5046d4.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00298000&status=1&productName=%E5%91%98%E5%B7%A5%E7%BB%BC%E5%90%88A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "员工综合A款团体医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 161003,
+      "sha256": "6e6f1111239d7c5212197df8382debb5a6dc8171d865686d2946b3a1d80bc0e0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00590000",
+  "actualPlanCode": "00590000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司中小微企业团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_15?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00590000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20231023/5a0f56ac-4169-46c2-93aa-8e5b18ccef7d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00590000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%AD%E5%B0%8F%E5%BE%AE%E4%BC%81%E4%B8%9A%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司中小微企业团体意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 311092,
+      "sha256": "9e3b721e90185a8bbef312a7ed070556db79eea0530992146879ed3d5a921c8a"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/50aad4cd-5961-476f-8ec8-7f623ed853f9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00590000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%AD%E5%B0%8F%E5%BE%AE%E4%BC%81%E4%B8%9A%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司中小微企业团体意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 195597,
+      "sha256": "1d2198675007b68c680a5e5792a6f2c159c7a399ac5edf87d95d12b8c98e47d9"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
