@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S66000",
+  "actualPlanCode": "00S66000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司盛世荣耀金钻版终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S66000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261118/45c76d2c-c652-42ce-a260-f6f0972a69d5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S66000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E8%8D%A3%E8%80%80%E9%87%91%E9%92%BB%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世荣耀金钻版终身寿险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 348708,
+      "sha256": "db0d0b7a453b8ca03915e01cdd637305bc1bf7b5f38b117e6e382dabfd2b6f66"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261118/ed0cd7f1-ac41-4088-b4a0-a3d05078a254.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 23071091,
+      "sha256": "da2bc675465d01f5c62fac7923708785e1597efdf83230a3b12c8bf719c8884e"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261118/560b27d4-ac4c-4546-a182-1d376f14b89f.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 45643090,
+      "sha256": "2969464ba8d3aa009ec5ab174488783a43de4f83e3139dae2c7e667663446823"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261118/01e47f37-8494-42c2-9ea1-3671c64453f3.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S66000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E8%8D%A3%E8%80%80%E9%87%91%E9%92%BB%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世荣耀金钻版终身寿险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 352436,
+      "sha256": "4b2ed1d4d5a0f867337ddc1ff56a45213aa0a02cf0bfd323c758436c1b099516"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
