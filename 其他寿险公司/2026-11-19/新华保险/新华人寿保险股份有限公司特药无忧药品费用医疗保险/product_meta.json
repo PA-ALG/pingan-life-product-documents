@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00877000",
+  "actualPlanCode": "00877000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司特药无忧药品费用医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00877000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20211216/952151f2-cf0f-49ff-a12d-6544481038a9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00877000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%89%B9%E8%8D%AF%E6%97%A0%E5%BF%A7%E8%8D%AF%E5%93%81%E8%B4%B9%E7%94%A8%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司特药无忧药品费用医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 541234,
+      "sha256": "e4c450ce0c69cb1edc0e8ad56e032c17dcfae6a0400cbe6ff29ac8796841851e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/00512568-85ee-4325-b7ac-42025cc5c49b.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 300042,
+      "sha256": "675c682c258e58eaf20a890a67308b0d081523682accdafa1630b966c02a8402"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/1dd8e95f-756d-42aa-ab2d-4a5871cfe948.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00877000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%89%B9%E8%8D%AF%E6%97%A0%E5%BF%A7%E8%8D%AF%E5%93%81%E8%B4%B9%E7%94%A8%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司特药无忧药品费用医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 112894,
+      "sha256": "1d7c3c648123363078a07cae90a6e2b3eb28cb9f446cd46a08a10afcb465c6fc"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

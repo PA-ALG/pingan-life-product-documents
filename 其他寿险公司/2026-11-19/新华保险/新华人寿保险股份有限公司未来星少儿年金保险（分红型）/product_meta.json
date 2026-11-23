@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S55000",
+  "actualPlanCode": "00S55000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司未来星少儿年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S55000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/92134e91-7bd7-4168-9791-34101468d9d7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S55000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%9C%AA%E6%9D%A5%E6%98%9F%E5%B0%91%E5%84%BF%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司未来星少儿年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 460256,
+      "sha256": "ab28110d48e0ea540db73526acd94b579394c2043a3f2bfb7b67c2610cc2dd2e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/5b89eb87-f38c-47fd-9ddb-fcf3aea3b626.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 71930,
+      "sha256": "afe01b42a109ff77b84789e28daf474fa9d67d4cd091a72632b59fdee5905dae"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/1a850956-f705-47f3-91e8-0a83411a344d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2034784,
+      "sha256": "230e05ff258e4f746468052819c180fde36fbcdbedd11d1c55fa053d4475b835"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/da396d46-dfd6-43c2-8608-30c53f4261f0.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S55000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%9C%AA%E6%9D%A5%E6%98%9F%E5%B0%91%E5%84%BF%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司未来星少儿年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 253445,
+      "sha256": "a1549dd24c0411747962586a024b778d35e7ed56b221aeaf4f7d0258ffc3da8e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

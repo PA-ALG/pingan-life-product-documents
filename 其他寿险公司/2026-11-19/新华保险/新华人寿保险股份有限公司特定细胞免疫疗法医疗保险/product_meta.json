@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00883000",
+  "actualPlanCode": "00883000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司特定细胞免疫疗法医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00883000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220606/409e6dd1-6572-4c57-9bae-73a7381eba87.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00883000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%89%B9%E5%AE%9A%E7%BB%86%E8%83%9E%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司特定细胞免疫疗法医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 696056,
+      "sha256": "8d17d8dfc211f9f568e4e396ac93cb0a73ab6e4aeb718e940a9650d7826c1d7f"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/ce6da154-f4ed-4990-91e9-6d31ba350160.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 180351,
+      "sha256": "42a96e9e9732944239742f465688532867ea9312d28a954f3e6f8f2cb74a19ea"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/ded72e92-8f65-4795-99a5-1c7459749146.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00883000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%89%B9%E5%AE%9A%E7%BB%86%E8%83%9E%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司特定细胞免疫疗法医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 121747,
+      "sha256": "4468617164e971cce55e7641f1f37405332dd85dcf0cf8e6c8c36cce812e7196"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

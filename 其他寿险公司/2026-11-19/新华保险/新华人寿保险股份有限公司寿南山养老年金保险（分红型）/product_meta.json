@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S58000",
+  "actualPlanCode": "00S58000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司寿南山养老年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S58000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/cbe7528e-191c-474f-9af1-1cc5dadf253f.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S58000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AF%BF%E5%8D%97%E5%B1%B1%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司寿南山养老年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 222530,
+      "sha256": "2ab249762f737ab3a5a2555ea1ae658084683db7aec13168d21b46ff4f8f321b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/f4ecd14b-6c63-429c-9efb-4b4d992465ac.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 50403,
+      "sha256": "666a67d2a8f35c2348c940d5a281818127206d07bb26b76cf018582d312818f7"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/64bd1bb2-539f-4196-a361-671fdb357c33.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 188857,
+      "sha256": "a2479336493dcec9940601bcad507d259c800575769e7daad2600594b1bb447d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/3cf51a9f-b42b-45f5-b754-5dd89be0842a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S58000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AF%BF%E5%8D%97%E5%B1%B1%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司寿南山养老年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 184391,
+      "sha256": "02a84bb4f7574389a6dc678fb95c695b1cd15988a059e5c6d00555276d6cb253"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

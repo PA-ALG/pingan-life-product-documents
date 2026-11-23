@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G24000",
+  "actualPlanCode": "00G24000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司鑫意农两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G24000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/73af4cb5-9fb6-4e0e-b6b3-899967a5c391.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G24000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%91%AB%E6%84%8F%E5%86%9C%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司鑫意农两全保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 175104,
+      "sha256": "92eb2bba799a6e1f59a7af53c20029b7e3f7ec3f49a53d2b62f356e059935997"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/5d0a6d17-fd4b-4491-89aa-981178efb437.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 55145,
+      "sha256": "110b896ccca2e63be457b405b870f5345f72f56e252388e4f77f7a7daf029f44"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/dd7c60a9-bd7a-4d7d-b259-d903cbff71f0.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 290207,
+      "sha256": "d86f9b6f49376d26c0d73a8efd0d8700c04484828479598cc875b5373b23bdcd"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/9f2ca407-25b9-49cf-a937-42da7c4024b9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G24000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%91%AB%E6%84%8F%E5%86%9C%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司鑫意农两全保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 125321,
+      "sha256": "14520348454ebd6e5dcdfc70744966f5b66322228af90de0ec420e053be70d00"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

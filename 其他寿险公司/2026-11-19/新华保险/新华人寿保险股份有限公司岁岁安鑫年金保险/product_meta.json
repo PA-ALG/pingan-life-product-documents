@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G31000",
+  "actualPlanCode": "00G31000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司岁岁安鑫年金保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G31000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/40db570a-d1db-401e-8276-a23855aec4f7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G31000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B2%81%E5%B2%81%E5%AE%89%E9%91%AB%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司岁岁安鑫年金保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 212243,
+      "sha256": "6d61a4f5f72f38c691f202065b60a45b78758855ea20adc2f0ac2996707bf15d"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/57b67ae4-18b6-4cfc-8001-e68b49d73a4a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 62809,
+      "sha256": "782af92b509444b7d92f0ed6abeabb8cabbd2f4169fff9be42f7691b9570c86a"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/f3bac269-b519-419f-9fff-48a4c44d7f30.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 4082507,
+      "sha256": "6ca4a5fddd341e4d90e0025fecca2001227962f9918d0e7b432187fe3d0f2bcf"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/3347e16a-55e9-4997-93e7-90ef4175f817.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G31000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B2%81%E5%B2%81%E5%AE%89%E9%91%AB%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司岁岁安鑫年金保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 148004,
+      "sha256": "358cbc5c0400b19d649b56a7b8317d96685f513139bcec517c3f43cc9ae970cb"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

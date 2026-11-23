@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00884000",
+  "actualPlanCode": "00884000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司医惠宝重大疾病保险（2021）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00884000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220525/0839332d-d6fa-4bfc-b9db-7ff041cf384d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00884000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8C%BB%E6%83%A0%E5%AE%9D%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%882021%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司医惠宝重大疾病保险（2021）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 342806,
+      "sha256": "15f996f831c26e92befe984664f68fc58dec516da3ea54ba736b63e7c073fff9"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/caa24409-51b2-4c58-8aa1-874dd73e0643.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 90962,
+      "sha256": "47176631132e6c4d1d309c5ac365cd0071d9d6161c2f6ff322ac15fbe55f3b93"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/5971bda3-eadd-4226-bcbf-aed78c62d219.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00884000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8C%BB%E6%83%A0%E5%AE%9D%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%882021%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司医惠宝重大疾病保险（2021）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 179941,
+      "sha256": "0c318f13fb03c9d4827d06a8ae5b8a133eae489e64aac2ad5197692e6ab27406"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

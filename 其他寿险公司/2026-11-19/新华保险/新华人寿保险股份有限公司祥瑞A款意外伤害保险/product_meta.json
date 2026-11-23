@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00376000",
+  "actualPlanCode": "00376000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司祥瑞A款意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_26?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00376000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230614/46fd9ad8-a97f-42ba-92bd-984b040778db.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00376000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%A5%A5%E7%91%9EA%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司祥瑞A款意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 360116,
+      "sha256": "e39bce1f830a5257b04236e4745aec7227829e266466f6d8bb9cd7ac997ce69a"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/92c9cf11-b833-4fc0-aa40-41923afbb987.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_26?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 69029,
+      "sha256": "24658e56e7b3409bf1ddf038b175bf6a74deed21596706da8b75589ac58c163e"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/40b0f1cb-4b8b-4058-9687-e65f9f7fa287.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00376000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%A5%A5%E7%91%9EA%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司祥瑞A款意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 155521,
+      "sha256": "17013d5123d70278741e60a141bfdd3bb16794eb68b90c903d9e8ee0ba01b271"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

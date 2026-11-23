@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00M08000",
+  "actualPlanCode": "00M08000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司乡村振兴综合意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00M08000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/16321b9f-da5e-4c4c-b316-c3ba7c3f9ac6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00M08000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%BB%BC%E5%90%88%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司乡村振兴综合意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 584879,
+      "sha256": "aa88963738e7befcd6a07c8d4be5fd8124d74aaa8449fd854edead9c92b0c1bd"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251125/49307584-6bda-4db8-8e6a-c08aeb878019.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 88599,
+      "sha256": "87427b3f0e95d3f34b29752681779210c184cc62880122690033b46f5f81a133"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/cba5c199-8b1e-413a-ab37-9a79c899c38d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00M08000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%BB%BC%E5%90%88%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司乡村振兴综合意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 264323,
+      "sha256": "2948780842c0b0ea1ea0f73d61f1e5f40b1cdfd0c0089ff08f5d08034bc6fe86"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

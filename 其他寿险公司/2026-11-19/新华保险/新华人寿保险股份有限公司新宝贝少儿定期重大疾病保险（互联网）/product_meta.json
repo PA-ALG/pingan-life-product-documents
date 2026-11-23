@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00A46000",
+  "actualPlanCode": "00A46000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司新宝贝少儿定期重大疾病保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A46000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/7946eae3-4ffe-4cae-a462-1722e58256cd.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A46000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%96%B0%E5%AE%9D%E8%B4%9D%E5%B0%91%E5%84%BF%E5%AE%9A%E6%9C%9F%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司新宝贝少儿定期重大疾病保险（互联网）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 2163416,
+      "sha256": "82f122abc152a92dcb3afa93ca235872052d28926189607b2d6c77d63afa0f5c"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/14a396c2-6414-49bf-a59f-0c2263f5ee4d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 145846,
+      "sha256": "50217b962e66c08a58010adb6c55f282f8b30e8ef1fc8dea44c4aba08f9f158c"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/052105c3-c2e4-45b6-9480-b907f469a8d3.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 9149074,
+      "sha256": "a152b020e002339e5c4681f06054b2c8d8d40a4a602172060db60f0bcd1a889f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260605/75cfe730-78c7-452d-87c7-7e01f2c5fc3c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A46000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%96%B0%E5%AE%9D%E8%B4%9D%E5%B0%91%E5%84%BF%E5%AE%9A%E6%9C%9F%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司新宝贝少儿定期重大疾病保险（互联网）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 496523,
+      "sha256": "5af215cb4ef21923ae6dddaaf03c8527f9cd77c358b4d9315da8cb512e5d5134"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

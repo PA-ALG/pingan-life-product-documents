@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G10000",
+  "actualPlanCode": "00G10000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司未来星臻享版少儿两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G10000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/42d8d555-0052-4db0-86f4-4e4329e6674d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G10000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%9C%AA%E6%9D%A5%E6%98%9F%E8%87%BB%E4%BA%AB%E7%89%88%E5%B0%91%E5%84%BF%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司未来星臻享版少儿两全保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 298125,
+      "sha256": "ff72628e7050730fc17a4cd38258188aa0b0e16a83da6c670d1cf84328da9abd"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/028f48f3-f7fe-4e74-9f2e-250294097d4e.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 79283,
+      "sha256": "e7827b60f78fca9daaa3e3712b6dbe3f2a6136ff04696e37084e0f0e26049088"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/7cacb3ca-9ef4-4569-b23d-5d57e909d4a6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 5745428,
+      "sha256": "5f9c0d45522642882db7a4ce62cc5ad7defc17364683fc27223dec3f01a1556e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/2bbdab1a-d162-426a-b548-12d4a3e88df8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G10000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%9C%AA%E6%9D%A5%E6%98%9F%E8%87%BB%E4%BA%AB%E7%89%88%E5%B0%91%E5%84%BF%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司未来星臻享版少儿两全保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 233979,
+      "sha256": "70c5690f9f2e413985d77e28df8a18b9ac54a340cb2af2005930053c8f179b6f"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

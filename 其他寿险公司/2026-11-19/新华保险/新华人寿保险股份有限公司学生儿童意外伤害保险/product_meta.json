@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00M02000",
+  "actualPlanCode": "00M02000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司学生儿童意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_12?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00M02000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250707/6fee0ba9-28d6-46f1-ab34-33bda1b5042c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00M02000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司学生儿童意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 867101,
+      "sha256": "df73edd299394c6f3a83056d465e913990a95f11c8c50d6790ffe834af766327"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250707/d6c3e15d-cd02-49be-8eef-79f9819eee28.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_12?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 114430,
+      "sha256": "ad9d3469195a39a129f2ebdc9471b2150224d6a9e48fea70263f18921a83a43e"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250707/a29d4083-b7d2-4396-aecf-fc907e591fb1.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00M02000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司学生儿童意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 402694,
+      "sha256": "97f35db263f99809503f69e509ef1bd42cc540f3740c4189fb0bb28a9b3dc1f2"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

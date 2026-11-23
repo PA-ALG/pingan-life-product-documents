@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00M11000",
+  "actualPlanCode": "00M11000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司学生幼儿意外伤害保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00M11000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260812/2d97a66c-3b72-4807-93cb-11eeb60057be.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00M11000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AD%A6%E7%94%9F%E5%B9%BC%E5%84%BF%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%EF%BC%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司学生幼儿意外伤害保险（互联网）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 317825,
+      "sha256": "718c5362a18af735385962c52315c1aec9306bbf05122420603ca42d0f788db3"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260812/6877c7f4-7f65-4c88-92c3-b742630ec726.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 58168,
+      "sha256": "47d074ed1f7b32cbbc01c5ae821c8ccd11f64921617254cb425c00c1abac1772"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260812/f60e4884-0b2c-428c-9f67-19921181ff3e.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00M11000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AD%A6%E7%94%9F%E5%B9%BC%E5%84%BF%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9%EF%BC%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司学生幼儿意外伤害保险（互联网）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 205626,
+      "sha256": "a6119da4444aa41db170f61411200820d49d16136aa8acae4e1d7ccf40883662"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

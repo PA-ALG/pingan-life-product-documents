@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00M03000",
+  "actualPlanCode": "00M03000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司学生儿童A款意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_12?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00M03000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250707/024ceb4c-a0cc-4977-8159-c0e4bbfaf96d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00M03000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5A%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司学生儿童A款意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 870136,
+      "sha256": "c94393c7c69b56a20d47b25c1a06eb4a34d40362424dfdd995e72e40fd833804"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250707/49ae02a3-f49f-4445-8cb9-120170d132f9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_12?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 115174,
+      "sha256": "8ee64ca6a247a14121d952ce6a0db8a3ca7b8b9d59b6f9c5835bd3a3342fd296"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250707/44f418de-d40f-4726-a471-93fb38c21273.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00M03000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5A%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司学生儿童A款意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 406677,
+      "sha256": "c573ea06fcd9969b36164103eae007205272c0eb1333b7efeab673de7dcbf4ff"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
