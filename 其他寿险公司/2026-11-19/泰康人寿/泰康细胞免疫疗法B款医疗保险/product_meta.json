@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2345",
+  "actualPlanCode": "2345",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康细胞免疫疗法B款医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2345",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/01/13/62dd2c81-d277-42cd-a4b1-545e82fa0b7f.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 804645,
+      "sha256": "321bdba03a70ff606eeea31a509781e6dd16c6347a9371a76439d009ab8027a2"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/01/13/8c2e0c85-c9a4-4c7c-8074-3f9d4e2f94e6.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 407990,
+      "sha256": "a47162368be3ed41697c3e18a45792b98903e9476fb04a5a78feb3596e9c2f51"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/01/13/6f53ab6a-25d9-4240-bc0a-498ee7c359e2.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 157510,
+      "sha256": "39ccb45751e720b34d8c550f39a9d06ac40c97a34860379d0202862ce35d0d12"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
