@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00971000",
+  "actualPlanCode": "00971000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加祥禄A款意外住院津贴医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_19?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00971000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240513/ff6c8dc0-081d-41f6-b907-8ebb4fecb2a5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00971000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%A5%A5%E7%A6%84A%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BD%8F%E9%99%A2%E6%B4%A5%E8%B4%B4%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加祥禄A款意外住院津贴医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 215811,
+      "sha256": "406127550fe58fd7fe86a06ebf56c7336c401e43bd8c3379284f43738d70ed30"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240513/0d8f83f2-017d-420b-b7d5-83c99e0c5929.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_19?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 52549,
+      "sha256": "8bb62cef7b4489eaee95e7685eefb8433e9bae8d11f4083e1ef4a14a5a801fee"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240513/358e88c9-de6e-4be1-a1b2-68c63a1a0bc5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00971000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%A5%A5%E7%A6%84A%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BD%8F%E9%99%A2%E6%B4%A5%E8%B4%B4%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加祥禄A款意外住院津贴医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 133156,
+      "sha256": "b0c229d90eafa8deefdb4155632800e02b08dfcf1c8c6a6688ad484cb70218db"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

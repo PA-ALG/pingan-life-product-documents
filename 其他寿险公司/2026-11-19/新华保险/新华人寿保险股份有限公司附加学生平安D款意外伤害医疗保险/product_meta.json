@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00970000",
+  "actualPlanCode": "00970000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加学生平安D款意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_23?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00970000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20210508/1195bff2-ecec-4045-b2f7-beb4b1c7ee5b.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00970000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%B9%B3%E5%AE%89D%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生平安D款意外伤害医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 129803,
+      "sha256": "e3092a0a4236702b853d8701761d8cd479d9a6c5d2555d50548e244af836c63e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/00f40876-d2e8-4055-ac33-d12663a9f572.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_23?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 165933,
+      "sha256": "e37ac710092b5c84546e54e3001fec0f8933aaaece01c39031bb49b35f8cd5d0"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/282289db-191c-4827-b202-e89fb1fd8b2c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00970000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%B9%B3%E5%AE%89D%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生平安D款意外伤害医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 155176,
+      "sha256": "bcb4f346f85cc045659a1478383a6f085cc653e32e3248df6a9e498b9a6247df"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

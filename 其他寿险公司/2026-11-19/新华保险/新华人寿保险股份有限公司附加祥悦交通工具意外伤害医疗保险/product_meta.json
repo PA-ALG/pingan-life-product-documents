@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00848000",
+  "actualPlanCode": "00848000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加祥悦交通工具意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_17?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00848000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20210415/d53a4959-9dc6-4ca1-859d-112b98782812.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00848000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%A5%A5%E6%82%A6%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加祥悦交通工具意外伤害医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 192826,
+      "sha256": "dc450be0ba354c36b713b7457a8952c0e582d5c23273143419d892d74310cd93"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/2b2519c5-9868-4ee2-a890-b0bdd2df9d2c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_17?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 184130,
+      "sha256": "34b9472d6ad87a0976d50ddd52bc42cb43cb1b5ff83b753bf9916663be5e69e8"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/6ca68120-bf2c-42e7-8112-6264f53b80bd.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00848000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%A5%A5%E6%82%A6%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加祥悦交通工具意外伤害医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 177051,
+      "sha256": "4867b29d5d526c7263c68f140ba8bfda83fc7a0c8e7802d3a4cbe2d8462165c8"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

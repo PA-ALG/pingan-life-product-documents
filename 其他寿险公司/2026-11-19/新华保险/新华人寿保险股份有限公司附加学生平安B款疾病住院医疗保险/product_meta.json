@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00523000",
+  "actualPlanCode": "00523000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加学生平安B款疾病住院医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_22?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00523000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230614/e7ab2eeb-420e-49bb-8a97-2aa11fc99cd7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00523000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%B9%B3%E5%AE%89B%E6%AC%BE%E7%96%BE%E7%97%85%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生平安B款疾病住院医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 126547,
+      "sha256": "72bc8685f306fb016247a5fa3b9f9bbdf0ba04e851e1b58d6c86f62d2905da02"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/bc57c400-8e27-40fc-b425-2f4fe0c2b924.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_22?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 342037,
+      "sha256": "4a1fbd33941e69ddacb64b1c78561880b202b707b2ca2784e92f6387d8580e97"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/45c73aae-8ddc-490d-bf86-fe29fcb33d31.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00523000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%B9%B3%E5%AE%89B%E6%AC%BE%E7%96%BE%E7%97%85%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生平安B款疾病住院医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 151479,
+      "sha256": "47f345bccf691836d02e44cacf6e3a4e2bebbc0fca167153b1e664eb07258357"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

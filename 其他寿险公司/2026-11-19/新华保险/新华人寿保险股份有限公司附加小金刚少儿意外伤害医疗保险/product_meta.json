@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00886000",
+  "actualPlanCode": "00886000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加小金刚少儿意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00886000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220525/e2629475-56da-44e1-b22f-c41603f0ab08.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00886000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%B0%8F%E9%87%91%E5%88%9A%E5%B0%91%E5%84%BF%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加小金刚少儿意外伤害医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 312857,
+      "sha256": "6fea67414bd00793519089d2d6349413f7b8c1156d8af5bc02431faa273177b1"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/3451a943-21fb-4cb0-9d08-852c412adf6e.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 121263,
+      "sha256": "584e365846f223250786f82484c9075624c73b2fe3c2fdabc60099819f1d81e2"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/cbafda2b-e751-4b97-bf4b-48029cef702d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00886000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%B0%8F%E9%87%91%E5%88%9A%E5%B0%91%E5%84%BF%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加小金刚少儿意外伤害医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 130769,
+      "sha256": "15e8ac833150ebc91d1051d55439ca30332657fe37d0e0d1cdc7b285bc9954e8"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

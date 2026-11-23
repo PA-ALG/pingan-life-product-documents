@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00A16000",
+  "actualPlanCode": "00A16000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加学生儿童传染病疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A16000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251202/62bff596-9fe7-4c76-931f-e0a2741473bd.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A16000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5%E4%BC%A0%E6%9F%93%E7%97%85%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生儿童传染病疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 255860,
+      "sha256": "f34d23e5c71c5451e92ce9b400a757168b739eead1e9f0db131f74304deb0676"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251202/9fcb01a9-ad3c-460d-93da-1eba4bc21bb6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 52075,
+      "sha256": "33133095c409041fcea2e4c61cc74edd8e54380e3f397d8bd3cedd01ac7d5741"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251202/d967972e-a451-4c57-98c7-eba1fd3d3256.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A16000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5%E4%BC%A0%E6%9F%93%E7%97%85%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生儿童传染病疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 109791,
+      "sha256": "fddfea7b1c16a82873d117d886192ad43038a6b9c4cec69152d7c45dbfc5ed29"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

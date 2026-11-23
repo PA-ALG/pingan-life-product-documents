@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00797000",
+  "actualPlanCode": "00797000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加祥泰A款意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_25?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00797000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240513/b6f74913-7659-47c4-bdc0-9dda370bf2ce.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00797000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%A5%A5%E6%B3%B0A%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加祥泰A款意外伤害医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 191022,
+      "sha256": "33d67c351cb72db05228b6d284fa3c93aa6cb5efa2f36d4e80a260a2197df5aa"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240513/be1a42a8-6658-4de8-897e-1954102d491c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_25?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 264079,
+      "sha256": "e46535c6f0637592c75a73e997710f56566558a771bfc1c2282520691954bbb2"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240513/80f904e7-ad5e-4448-a3df-b43258ece4db.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00797000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%A5%A5%E6%B3%B0A%E6%AC%BE%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加祥泰A款意外伤害医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 141286,
+      "sha256": "61f84d07f3447c6b3e86db6b4d0294fb1043fd3c6f3e5aa3cf27cad37c9b0d99"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

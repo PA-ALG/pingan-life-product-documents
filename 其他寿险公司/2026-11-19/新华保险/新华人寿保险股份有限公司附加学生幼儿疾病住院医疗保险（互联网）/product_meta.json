@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00A42000",
+  "actualPlanCode": "00A42000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加学生幼儿疾病住院医疗保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_3?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A42000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260812/f8e41bba-0cdd-4bd1-a71a-dc9a77d41ade.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A42000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%B9%BC%E5%84%BF%E7%96%BE%E7%97%85%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%EF%BC%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生幼儿疾病住院医疗保险（互联网）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 255681,
+      "sha256": "969371eb27f6426cb9f367a395d6e0c911bd4b049de67935a68c0aa1d6f5e849"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260812/89eceea4-d4a4-4203-a571-69368fe727a4.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_3?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 73290,
+      "sha256": "3f5485a0eea07f26cff52a4a710b915628d98e37fa294d0529034f9e655a82d6"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260812/0bcd2ef4-dc53-4799-9efe-b4dd27d27714.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A42000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%B9%BC%E5%84%BF%E7%96%BE%E7%97%85%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%EF%BC%88%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加学生幼儿疾病住院医疗保险（互联网）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 102334,
+      "sha256": "d893d3706cadb6e3801397277d2959b78c70c477b57254eebfce039d3977e756"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
