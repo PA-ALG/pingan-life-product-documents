@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:229ed5dea61a65a2",
+  "actualPlanCode": "229ed5dea61a65a2",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保老年人团体意外伤害保险（2023版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:229ed5dea61a65a2",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/03/06/69717.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 346473,
+      "sha256": "ba27177616503bdcccbc353322e947f7867de4589b1c2ff4744c0074414e4228"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79848.pdf?oldName=太保老年人团体意外伤害保险（2023版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 260501,
+      "sha256": "fe30bcc27bf31a0bac0df3a58c720bf0b634d45c33b2ed6596daabf440143fa7"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

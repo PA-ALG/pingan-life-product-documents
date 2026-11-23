@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:9cde1e55de75eef9",
+  "actualPlanCode": "9cde1e55de75eef9",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保鎏金安逸（典藏版）年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:9cde1e55de75eef9",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/10/20/107270.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 499208,
+      "sha256": "1fb6c4a63952d73439e9ffdd8fc8ea020c6f02d0087949e9c723428dcc2b38fa"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/10/20/107271.pdf?oldName=太保鎏金安逸（典藏版）年金保险（分红型）基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 43858,
+      "sha256": "6bd5b5390ba6f9510cca715a3f48f46182a86d1a19cde83fa64f2d345b673775"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/10/20/107272.pdf?oldName=太保鎏金安逸（典藏版）年金保险（分红型）现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2351587,
+      "sha256": "6ff0d306320a526f5e3f1678e29aceb0d08b856be5afaceb663e15cbacb116e6"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/10/20/107273.pdf?oldName=太保鎏金安逸（典藏版）年金保险（分红型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 436924,
+      "sha256": "7cf39e5465f1ae146ccf9dd98ef266a3efbb3021ab241792cb4d6a23b9cc06ee"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

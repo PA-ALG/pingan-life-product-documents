@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:6f31751dda0edd75",
+  "actualPlanCode": "6f31751dda0edd75",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保蛮好的人生（职域臻享）年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:6f31751dda0edd75",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/88991.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 524208,
+      "sha256": "9810596b113565784681f7cbb7e748a39cdcc0d85aa05db04f7f4653a37d9cee"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/88992.pdf?oldName=太保蛮好的人生（职域臻享）年金保险（分红型）基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 66579,
+      "sha256": "9962e2a8de4439a49288bd393df522aab0346d689f7b0fd4440da80abaf573e4"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/88993.pdf?oldName=太保蛮好的人生（职域臻享）年金保险（分红型）现金价值表（全表）.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 17179959,
+      "sha256": "9c28acd2423a1bde57048192b44190589284404095abf6ae7518e0b948fe041e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/88994.pdf?oldName=太保蛮好的人生（职域臻享）年金保险（分红型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 409233,
+      "sha256": "711e010ee43d22b2f7b107a33a0734dfe34648a13f9382cb57384c6da8b3eb43"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
