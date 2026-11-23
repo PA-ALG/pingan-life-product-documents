@@ -1,0 +1,56 @@
+{
+  "planCode": "新华保险:00388000",
+  "actualPlanCode": "00388000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加个人（2014）意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_25?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00388000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/89b19f58-ab3f-41d0-807b-bf59d5dbbdb8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00388000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E4%B8%AA%E4%BA%BA%EF%BC%882014%EF%BC%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加个人（2014）意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 289938,
+      "sha256": "74c084d9cfd273a7f83f8936290f9db73c309fc24989dbdd78cbe31208e3864e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240329/9671c4cb-6b87-4306-8666-e3e2884e2975.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_25?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 58094,
+      "sha256": "23bdf157da7edfd58944eaa68cb3902fcc757be4083a800e4b077c1ff8cd72cb"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/01edff06-d562-42df-8994-039a32d4939b.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00388000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E4%B8%AA%E4%BA%BA%EF%BC%882014%EF%BC%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加个人（2014）意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 239992,
+      "sha256": "32e6e5932635fafa27511328cb9082b43908ebe32245eed0b4e7646827551952"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240329/19983c6d-a537-440e-a191-1a2a87ba8614.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00388000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E4%B8%AA%E4%BA%BA%EF%BC%882014%EF%BC%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加个人（2014）意外伤害保险",
+      "file": "产品说明书_2.pdf",
+      "status": "downloaded",
+      "bytes": 229457,
+      "sha256": "c92784e9799d6d11514d24e09faf88b3061e2f0db7adba9fe13e0f064c0f43c4"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S25000",
+  "actualPlanCode": "00S25000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司财富金钻庆典版年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S25000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/49c9ea25-5285-4ede-91c7-d69e8a79708d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S25000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%B4%A2%E5%AF%8C%E9%87%91%E9%92%BB%E5%BA%86%E5%85%B8%E7%89%88%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司财富金钻庆典版年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 214440,
+      "sha256": "cb2fc9bc4ac324ddee56bd60581e845f5ac313a4691e3ea9f21d20058fc82048"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/79385005-5788-49d0-90ee-0b1b6476dbe1.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 43165,
+      "sha256": "913675e00d46252ce5b2f295bb1348c6f104f63274e856e8a7146d8dea0e8979"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/75ac2a35-1906-49e6-b70e-ec4004d92184.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 3836473,
+      "sha256": "c522529fab51b8728f1726b6d12b12d56dc6f07c17bc77c4143cf6931e929726"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/137b8ad3-675b-45eb-98e2-676ef128a6d0.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S25000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%B4%A2%E5%AF%8C%E9%87%91%E9%92%BB%E5%BA%86%E5%85%B8%E7%89%88%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司财富金钻庆典版年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 181200,
+      "sha256": "d39d6f548dc243b1ea12994a2a047755f072525f763ccb71e1b8861389e15949"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

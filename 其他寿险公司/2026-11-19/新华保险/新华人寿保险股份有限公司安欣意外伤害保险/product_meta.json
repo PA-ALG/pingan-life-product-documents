@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00588000",
+  "actualPlanCode": "00588000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司安欣意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_15?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00588000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/6c0df132-aa63-4ba9-87ee-3392cfd555a5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00588000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%89%E6%AC%A3%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司安欣意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 670905,
+      "sha256": "3de9fd1dbdc7fc2e9158902584be16b78105592196800ef6160a959ba1cb7df6"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/e57bd3a9-872d-45bc-a5be-825ff11fc132.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_15?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 92549,
+      "sha256": "95615558082bb5abccbf3c947207374de1618a0bd4635a87d595c49ba9064415"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261028/3875a4cd-0402-48d6-ae09-e7727765c2b3.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00588000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%89%E6%AC%A3%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司安欣意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 319530,
+      "sha256": "d3ba2796d099f137dd847fba7bff5debaabdf6785452c65298e976ed5cccb7ce"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

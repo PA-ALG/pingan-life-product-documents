@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00501000",
+  "actualPlanCode": "00501000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司常护保B款团体护理保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "护理险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_13?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00501000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250305/6240cfb6-8820-43bc-aea2-50603ad62997.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00501000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B8%B8%E6%8A%A4%E4%BF%9DB%E6%AC%BE%E5%9B%A2%E4%BD%93%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司常护保B款团体护理保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 297941,
+      "sha256": "cc2b559a9a42f14861f54981e72997fb2afb076f32ab8786b198391458a4ff97"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250305/daca84cc-7643-414a-958a-0fb550627765.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00501000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B8%B8%E6%8A%A4%E4%BF%9DB%E6%AC%BE%E5%9B%A2%E4%BD%93%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司常护保B款团体护理保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 103145,
+      "sha256": "92ef0a52c0a22c0e4cede6422d799b21542f23ce0f9f1b94dafe2e4250639f81"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

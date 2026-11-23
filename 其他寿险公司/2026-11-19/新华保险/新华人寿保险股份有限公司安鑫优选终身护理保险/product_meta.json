@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:0992000",
+  "actualPlanCode": "0992000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司安鑫优选终身护理保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "护理险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:0992000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250929/f515306b-64bb-4bba-a9cf-a5dfe5c4238d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=0992000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%89%E9%91%AB%E4%BC%98%E9%80%89%E7%BB%88%E8%BA%AB%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司安鑫优选终身护理保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 596667,
+      "sha256": "e9f90573908802c161fd6a28dbd089c222b265c875b6af2d2227c5cd06e452ac"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250929/81d82232-9b4a-4194-a379-7833cc4191a9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 138980,
+      "sha256": "c8d07885252ed25429841835066f0c27126ee8248ceefc1008ab874eafcebbda"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250929/2f8e2e3b-0433-47fe-abdb-648b55cb6ecf.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 28005841,
+      "sha256": "6d46f90a41aa4bd98030589fd814e16464649b3c2211c44a25b6a6d49b15ec7f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250929/798e84cf-8d5f-4631-83aa-2184e86493e1.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=0992000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%89%E9%91%AB%E4%BC%98%E9%80%89%E7%BB%88%E8%BA%AB%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司安鑫优选终身护理保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 252071,
+      "sha256": "8d14cef1d64cd48454b6018e89738630cff6f58c799039c0b72c60d6a7d6c217"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

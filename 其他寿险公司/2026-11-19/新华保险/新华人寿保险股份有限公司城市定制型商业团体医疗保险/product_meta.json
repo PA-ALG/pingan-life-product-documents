@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00A37000",
+  "actualPlanCode": "00A37000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司城市定制型商业团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A37000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260106/ea0e54cd-9e5e-4362-82aa-51b07184c989.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A37000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%9F%8E%E5%B8%82%E5%AE%9A%E5%88%B6%E5%9E%8B%E5%95%86%E4%B8%9A%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司城市定制型商业团体医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 453622,
+      "sha256": "a54c9636b97ed0b06aec8d35117478977f88f908bf17d0024058060726951aa2"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260106/d443a665-a7d6-49c4-807c-84197961fdb7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A37000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%9F%8E%E5%B8%82%E5%AE%9A%E5%88%B6%E5%9E%8B%E5%95%86%E4%B8%9A%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司城市定制型商业团体医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 195792,
+      "sha256": "2a4e0afdc1aa554ad231ad3d817ce02dfc148a3f167c85277dd622ef6aabbc9e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

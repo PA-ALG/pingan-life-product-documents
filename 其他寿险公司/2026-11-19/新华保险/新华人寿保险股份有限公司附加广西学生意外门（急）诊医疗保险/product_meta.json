@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00575000",
+  "actualPlanCode": "00575000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加广西学生意外门（急）诊医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_22?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00575000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220711/bb9d081e-e817-4506-b1d6-400d0c9cc7bb.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00575000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%B9%BF%E8%A5%BF%E5%AD%A6%E7%94%9F%E6%84%8F%E5%A4%96%E9%97%A8%EF%BC%88%E6%80%A5%EF%BC%89%E8%AF%8A%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加广西学生意外门（急）诊医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 194696,
+      "sha256": "e50734ab3dc9b503fd685181a6dba302e456690d362a2d87f1a76f16024035b4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/e1f672d8-833d-4161-9004-7f92d2d51680.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_22?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 57688,
+      "sha256": "342ac29073de7f8b1626ced837fa6de7b73d682fe75dcc67a6dd08a51f95d685"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/cfcfe727-0b3c-4113-be78-2d1c31efc102.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00575000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%B9%BF%E8%A5%BF%E5%AD%A6%E7%94%9F%E6%84%8F%E5%A4%96%E9%97%A8%EF%BC%88%E6%80%A5%EF%BC%89%E8%AF%8A%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加广西学生意外门（急）诊医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 241411,
+      "sha256": "dc2b24e042ea8bc3a45fc7fe0ebb5bf05277836ebe7c74561e01e2c7ade723a0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

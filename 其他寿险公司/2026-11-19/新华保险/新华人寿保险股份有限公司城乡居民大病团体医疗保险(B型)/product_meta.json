@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00789000",
+  "actualPlanCode": "00789000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司城乡居民大病团体医疗保险(B型)",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_21?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00789000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/jk1077_1541502460111.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00789000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%A4%A7%E7%97%85%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9(B%E5%9E%8B)",
+      "officialDocumentTitle": "新华人寿保险股份有限公司城乡居民大病团体医疗保险(B型)",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 105743,
+      "sha256": "8c147c036bd216f03e7f8c7edb45035035e9fbf483d5cf5cc73a88986fd41208"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/dc23f94f-060b-4fa5-852e-ec393766e0dc.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00789000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%9F%8E%E4%B9%A1%E5%B1%85%E6%B0%91%E5%A4%A7%E7%97%85%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9(B%E5%9E%8B)",
+      "officialDocumentTitle": "新华人寿保险股份有限公司城乡居民大病团体医疗保险(B型)",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 131587,
+      "sha256": "7d44cd63f45c6ca1dcc628eb08fb8b037d821bdce76845b520ddd8e1b1512c29"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
