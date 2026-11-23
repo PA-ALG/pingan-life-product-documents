@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00832000",
+  "actualPlanCode": "00832000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司康健华佑A款全球团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_18?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00832000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220428/9e4faed9-13ce-456b-a4ab-15dfdf7c3c14.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00832000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%BA%B7%E5%81%A5%E5%8D%8E%E4%BD%91A%E6%AC%BE%E5%85%A8%E7%90%83%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司康健华佑A款全球团体医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 449843,
+      "sha256": "b0aea82e69cdb816daad35cf837df680feb1e35be2b451b9ecbf470518e2bd1d"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/0d68b46e-c374-47ee-814d-49c23610cfa7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00832000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%BA%B7%E5%81%A5%E5%8D%8E%E4%BD%91A%E6%AC%BE%E5%85%A8%E7%90%83%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司康健华佑A款全球团体医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 418355,
+      "sha256": "c9371ad33b02aca04ff934e587640ac20d1c8d1f9b3a74afd1f8d62842e0c9ae"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

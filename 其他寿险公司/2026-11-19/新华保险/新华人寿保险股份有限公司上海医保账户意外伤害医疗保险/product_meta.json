@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00843000",
+  "actualPlanCode": "00843000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司上海医保账户意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_19?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00843000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20210528/0c717279-f610-49d1-87c8-4b25575b0f3b.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00843000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8A%E6%B5%B7%E5%8C%BB%E4%BF%9D%E8%B4%A6%E6%88%B7%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司上海医保账户意外伤害医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 237722,
+      "sha256": "237ad6cde5f4c9f2e475f03578e491e90472019c64bbf5703d47ece12f8ca66b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/9c4ed6ad-cd4b-43d1-a260-2b1488a9a2a8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_19?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 85127,
+      "sha256": "2c77f0cee7a5141cd9d92778a6bdb1187f28b7b1ff0c10bbc726beb7e4e17e8f"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240229/e791d460-ef17-4902-ae88-46f66d1ccc8c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00843000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8A%E6%B5%B7%E5%8C%BB%E4%BF%9D%E8%B4%A6%E6%88%B7%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司上海医保账户意外伤害医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 176126,
+      "sha256": "2ef335ae90be2c01444793e81edbeba0a4a6090d5b9535def2d66f4f4ada598b"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

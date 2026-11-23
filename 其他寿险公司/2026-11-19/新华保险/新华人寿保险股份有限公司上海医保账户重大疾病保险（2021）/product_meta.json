@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00868000",
+  "actualPlanCode": "00868000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司上海医保账户重大疾病保险（2021）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_17?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00868000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20210528/3fb66334-5da0-475e-b367-c62fe5470efd.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00868000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8A%E6%B5%B7%E5%8C%BB%E4%BF%9D%E8%B4%A6%E6%88%B7%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%882021%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司上海医保账户重大疾病保险（2021）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 314441,
+      "sha256": "d68d753b63df47d64b0deb2a28e4f9e0d53b8f3abaaa74b1d2835c0ddc9b5f60"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/7a01fbae-27d4-424f-93ee-a68bad87ee0a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_17?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 76533,
+      "sha256": "5bb61039cdd6371f28801561e7a713926d41a436a1ffa0df54b12193ff44a602"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240229/beecb23e-7351-498e-9734-7bbe6f12bd37.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00868000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8A%E6%B5%B7%E5%8C%BB%E4%BF%9D%E8%B4%A6%E6%88%B7%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%882021%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司上海医保账户重大疾病保险（2021）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 161200,
+      "sha256": "084705bd9d4581c9cac98b555302072b9155297bc46dfe5efdc812bcd9c07170"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

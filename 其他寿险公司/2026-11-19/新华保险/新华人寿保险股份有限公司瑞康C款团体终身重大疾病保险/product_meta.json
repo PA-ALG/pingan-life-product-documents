@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00A28000",
+  "actualPlanCode": "00A28000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司瑞康C款团体终身重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A28000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260106/8ee2fa0c-d715-4c7e-be69-721d951abb97.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A28000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%91%9E%E5%BA%B7C%E6%AC%BE%E5%9B%A2%E4%BD%93%E7%BB%88%E8%BA%AB%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司瑞康C款团体终身重大疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 780848,
+      "sha256": "2958761938b66eee9a5ed50cae910395aaec58e5ba2b3bc5211e338cc4c7098a"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260106/b3792c6d-cca9-47f0-8992-b279cfa671c8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A28000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%91%9E%E5%BA%B7C%E6%AC%BE%E5%9B%A2%E4%BD%93%E7%BB%88%E8%BA%AB%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司瑞康C款团体终身重大疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 148249,
+      "sha256": "0512f0ac5a345ad825f3e3d38421306c77e53c0c6cd08fe91da657ed0917eba0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

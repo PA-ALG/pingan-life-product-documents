@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S09000",
+  "actualPlanCode": "00S09000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司盛世安盈卓越版养老年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S09000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250919/be5e7c64-33a7-4e8c-aebb-a0d87f1cf041.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S09000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E5%AE%89%E7%9B%88%E5%8D%93%E8%B6%8A%E7%89%88%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世安盈卓越版养老年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 275359,
+      "sha256": "67ee2a52dfb1e2e93b6d8c1c6179b4d07dfe6e869e3abfdd0f6153a33b460691"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250919/169d2191-f0f1-4cae-900b-c5904575e3de.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 366454,
+      "sha256": "56c565b2deeedcf1862e77a7bc6aa78f12de9e20cac013a1d056d5d84c1f9014"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250919/bf081505-435a-4656-b1ef-38dfc5f47c28.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 39979242,
+      "sha256": "bcf2d1b0ccd07b57cbd3a28b7e09987d0a5a3d4e18ad4fdba76769e3d7081191"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250919/d73aaa09-209d-4b39-8ce2-28fc4e3fb443.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S09000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E5%AE%89%E7%9B%88%E5%8D%93%E8%B6%8A%E7%89%88%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世安盈卓越版养老年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 186887,
+      "sha256": "b4cf8772cc05f8a6ba1297836fdd0115b11074e5614bf2dd272c1f8923a0fd88"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

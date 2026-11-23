@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S21000",
+  "actualPlanCode": "00S21000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司领多多年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S21000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/387f7c90-8176-416a-8e7f-b91b7fefd6a7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S21000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%A2%86%E5%A4%9A%E5%A4%9A%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司领多多年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 166028,
+      "sha256": "cd1e75dd303ba954fccb35dc7886c39b9e42ae3670342fa282c72977c2981ce4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260306/cb9bc463-8aef-41fc-8ebd-11b11a064bfb.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 52222,
+      "sha256": "1ce7a44eaa1c6f501d3825931603c7136d674d2eef1945d4d9cc379792138db7"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260306/6f329ae6-3cfd-437e-8cd4-9df2d6cd91e1.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 1203490,
+      "sha256": "4106138da338b00776f1cfabf9c1ffa82b6ba74cf20f57f49735f7c8dd6703f7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/a89fbdcb-e9ca-491b-9063-cf4efa2c6d50.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S21000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%A2%86%E5%A4%9A%E5%A4%9A%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司领多多年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 175285,
+      "sha256": "24de98fdaafd89f720dfc62a2653efd3682e783c55b9791fce69d310e3de12e6"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

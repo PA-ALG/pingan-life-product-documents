@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00M07000",
+  "actualPlanCode": "00M07000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司旅行安心团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00M07000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250918/15342ffc-7382-401b-ba21-71f779bf0256.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00M07000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%97%85%E8%A1%8C%E5%AE%89%E5%BF%83%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司旅行安心团体意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 320867,
+      "sha256": "e61c4402ee9b14cc9d88f9b0524cef732ad3a487c6188ef0295b863a679bd82a"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250918/4e738024-1ff8-4298-b0c9-73cafa6f96c4.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00M07000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%97%85%E8%A1%8C%E5%AE%89%E5%BF%83%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司旅行安心团体意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 113648,
+      "sha256": "527a22109484b5cd3b30e36151c116ee3bcebb130a72f98f27b1c1eba62ae63c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

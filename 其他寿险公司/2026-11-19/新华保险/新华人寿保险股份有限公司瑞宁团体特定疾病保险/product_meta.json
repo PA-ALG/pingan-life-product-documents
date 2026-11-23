@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00A26000",
+  "actualPlanCode": "00A26000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司瑞宁团体特定疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A26000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/cfef2030-b9fb-42bc-9b2d-5e0e8e311378.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A26000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%91%9E%E5%AE%81%E5%9B%A2%E4%BD%93%E7%89%B9%E5%AE%9A%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司瑞宁团体特定疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 607097,
+      "sha256": "22c812fa7d6e1864c95f0b46417d5d009a27746734cfed9daa2cd0b206d3c8f2"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/3186be07-3f66-4494-942e-e2b2cf2b50b4.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A26000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%91%9E%E5%AE%81%E5%9B%A2%E4%BD%93%E7%89%B9%E5%AE%9A%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司瑞宁团体特定疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 171843,
+      "sha256": "4e8097c20cd9d89d990d66ba8473596441ccb379a1f7a450c7323b04bef6281e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

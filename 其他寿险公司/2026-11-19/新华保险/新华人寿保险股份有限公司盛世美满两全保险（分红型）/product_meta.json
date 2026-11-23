@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S08000",
+  "actualPlanCode": "00S08000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司盛世美满两全保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S08000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250918/575eeda8-fdaf-4198-8c52-b49cfffa8f63.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S08000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E7%BE%8E%E6%BB%A1%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世美满两全保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 344523,
+      "sha256": "cdc2388f146799530ba4de976b3987cdfe3d5aff4301347a8e3d76aae86fddfc"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250918/41927b04-a8fd-4e07-8aff-1f0e68c58f82.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 5509087,
+      "sha256": "1c64e155fc7f0ebe5c1034299592fad8b48882bab9497c63bd8881785d8e1ce6"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250918/92fda115-650c-4ca4-a093-500fae340b65.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 37639317,
+      "sha256": "fb3ea7fb8c7b524347118ee35e8ca2c2e390698e2b92e0a518ce6fe5a9f5cc99"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250918/6d29c8e4-4ee3-44e8-8406-09f78e4c24b9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S08000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E7%BE%8E%E6%BB%A1%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世美满两全保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 350226,
+      "sha256": "10472f9da28cb3a98070acd4b4b1f1f1b9eb61792d42ef71e80f24d373fff7e7"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

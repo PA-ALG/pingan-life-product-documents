@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00558000",
+  "actualPlanCode": "00558000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司上海医保账户住院自费医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_27?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00558000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220110/edb98d0c-fd2e-45b7-bdb8-5824e4bdff5a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00558000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8A%E6%B5%B7%E5%8C%BB%E4%BF%9D%E8%B4%A6%E6%88%B7%E4%BD%8F%E9%99%A2%E8%87%AA%E8%B4%B9%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司上海医保账户住院自费医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 220703,
+      "sha256": "34988a92d4a9aff2508d95d20ad1a1e8c60d5cf936ac139d13defd47a4e1a559"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/09dccffb-e6e4-41d2-8134-5f96e7f27fe5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_27?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 42847,
+      "sha256": "6d6679f733f66692f66eef84ac8e3efaa9f43c9f43c76b360ce8eabad6fdb1ed"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240229/4042688d-cd40-4aab-abac-b820ac627221.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00558000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%8A%E6%B5%B7%E5%8C%BB%E4%BF%9D%E8%B4%A6%E6%88%B7%E4%BD%8F%E9%99%A2%E8%87%AA%E8%B4%B9%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司上海医保账户住院自费医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 204317,
+      "sha256": "a66b94aa907e85166bdd12deaaa8203c4b921982905ffbdc9dfec792572f04fa"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
