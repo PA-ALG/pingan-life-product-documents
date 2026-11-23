@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S18000",
+  "actualPlanCode": "00S18000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司E增福终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S18000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/3249f719-a573-469c-b4eb-25f02a612a89.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S18000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8E%E5%A2%9E%E7%A6%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司E增福终身寿险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 346168,
+      "sha256": "d01d3374131d56ed7918b469b0182431428195bec810e83c1bb06962eb2e97fa"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260126/df6d1c9f-42f2-4f60-8523-320352cca580.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 4926562,
+      "sha256": "80383fdef644b8ad782a4e4597e9cd6dbc42e51dbdee514368b0a5f225736358"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260126/b650853a-7b30-4bde-bbe3-dbdc5a01e65a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_7?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 4675187,
+      "sha256": "0130320c85395556fe89cabf1f1a459d6ddff503dd32bf83bae71d290eb44985"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/3cb2c501-889d-467e-b1f3-d15da1d77fc8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S18000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8E%E5%A2%9E%E7%A6%8F%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司E增福终身寿险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 335889,
+      "sha256": "788e3ae5bc29699c669fefd8cc06864864cc9e9f3d3bd71625f3ef58211eb20e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

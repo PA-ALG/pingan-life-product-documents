@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00769000",
+  "actualPlanCode": "00769000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "附加公共高额综合团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_20?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00769000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/jk1082_1541502862620.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00769000&status=1&productName=%E9%99%84%E5%8A%A0%E5%85%AC%E5%85%B1%E9%AB%98%E9%A2%9D%E7%BB%BC%E5%90%88%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "附加公共高额综合团体医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 96683,
+      "sha256": "bd1f04706dee1601ba21a293c8187b853622bb871c1586f710bfbdca2a616640"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/876d857a-ad46-4c50-a7e2-e4a4222ffdfa.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00769000&status=1&productName=%E9%99%84%E5%8A%A0%E5%85%AC%E5%85%B1%E9%AB%98%E9%A2%9D%E7%BB%BC%E5%90%88%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "附加公共高额综合团体医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 119691,
+      "sha256": "ab265e8864e0e0f39da8f023cf95a5a2d968408c82622a5c1d95624ff1d9a860"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

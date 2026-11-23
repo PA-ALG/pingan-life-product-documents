@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00A18000",
+  "actualPlanCode": "00A18000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司安心保臻选版定期重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A18000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/d9cc2d57-ab56-4899-bbdd-b56a62edd415.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A18000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%89%E5%BF%83%E4%BF%9D%E8%87%BB%E9%80%89%E7%89%88%E5%AE%9A%E6%9C%9F%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司安心保臻选版定期重大疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1070556,
+      "sha256": "961bb8f9f6b36a4835f73723d8041fc9c796b047c5a448d8b75d954cebdaa47a"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/1d5fd4ff-4caf-42dc-badd-6efe10de6883.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 33380171,
+      "sha256": "a54f2f550a1d9b5a9cecd08a937104ee06d4e47ee1b0372d8e81be3723193bb1"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/aaa5ae0d-1fb3-4b61-93f0-0d0a0a8bb8c9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 5620575,
+      "sha256": "3e56440b5044bb1bb87e99b5705b6123a8e8d720179d692dfe863949c3866f65"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/f40aef04-49cf-44f1-908a-e7f9b2c61e14.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A18000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%89%E5%BF%83%E4%BF%9D%E8%87%BB%E9%80%89%E7%89%88%E5%AE%9A%E6%9C%9F%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司安心保臻选版定期重大疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 299944,
+      "sha256": "d2039b35ddbad39062fc52b22cd1d27bdd3d5b364c3c088592606038b28cca03"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

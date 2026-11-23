@@ -1,0 +1,1365 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>新华保险-公开信息披露-产品基本信息</title>
+    <meta name="keywords" content="产品基本信息"/>
+    <meta name="description" content="产品基本信息"/>
+    <link rel="stylesheet" href="https://static-cdn.newchinalife.com/ncl/nci/assets/css/lib/iconfont-A6Ey0v6QO.css">
+    <link rel="stylesheet" href="https://static-cdn.newchinalife.com/ncl/nci/assets/css/main-A6Ey0v6QO.css">
+    <link rel="stylesheet" href="https://static-cdn.newchinalife.com/ncl/nci/assets/css/lib/nav-A6Ey0v6QO.css">
+    <style>
+        /* 下拉菜单样式 */
+   /* 下拉菜單樣式 */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-toggle {
+    color: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font-size: inherit;
+    text-decoration: none;
+    font-family: inherit;
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+    line-height: normal;
+    text-align: left;
+    color: #999;
+}
+
+.dropdown-toggle:hover {
+    color: inherit;
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+/* 讓按鈕內的文字和下箭頭在同一水平線 */
+.dropdown-arrow {
+    font-size: 12px;
+    margin-left: 4px;
+    transition: transform 0.2s;
+    color: inherit; /* 箭頭顏色和文字一致 */
+}
+
+.dropdown.active .dropdown-arrow {
+    transform: rotate(180deg);
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background: white;
+    min-width: 160px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    z-index: 1000;
+    left: 0;
+    top: 100%;
+    margin-top: 4px;
+}
+
+.dropdown-menu.show {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    padding: 8px 16px;
+    color: #333;
+    text-decoration: none;
+    white-space: nowrap;
+    border-bottom: 1px solid #eee;
+}
+
+.dropdown-item:last-child {
+    border-bottom: none;
+}
+
+.dropdown-item:hover {
+    background: #f8f9fa;
+    color: #007bff;
+}
+
+.no-materials {
+    color: inherit;
+}
+
+ /* 表格样式调整 */
+    .basicInfo-productList.nci-table {
+        width: 100%;
+        table-layout: fixed; /* 关键：固定表格布局 */
+    }
+
+    .basicInfo-productList.nci-table table {
+        width: 100%;
+        table-layout: fixed;
+        border-collapse: collapse;
+    }
+
+    /* 固定列宽，让产品名称列有更多空间 */
+    .basicInfo-productList.nci-table th:nth-child(1),
+    .basicInfo-productList.nci-table td:nth-child(1) {
+        width: 60px; /* 序号 */
+        text-align: center;
+    }
+
+    .basicInfo-productList.nci-table th:nth-child(2),
+    .basicInfo-productList.nci-table td:nth-child(2) {
+        width: 250px; /* 产品名称 - 给更多宽度 */
+        min-width: 200px;
+        max-width: 300px;
+    }
+
+    .basicInfo-productList.nci-table th:nth-child(3),
+    .basicInfo-productList.nci-table td:nth-child(3) {
+        width: 100px; /* 险种分类 */
+    }
+
+    .basicInfo-productList.nci-table th:nth-child(4),
+    .basicInfo-productList.nci-table td:nth-child(4) {
+        width: 80px; /* 状态 */
+        text-align: center;
+    }
+
+    .basicInfo-productList.nci-table th:nth-child(5),
+    .basicInfo-productList.nci-table td:nth-child(5) {
+        width: 150px; /* 产品披露材料 */
+        text-align: center;
+    }
+
+    .basicInfo-productList.nci-table th:nth-child(6),
+    .basicInfo-productList.nci-table td:nth-child(6) {
+        width: 120px; /* 产品分类分级 */
+        text-align: center;
+    }
+
+    /* 确保表头单元格也应用相同的宽度 */
+    .basicInfo-productList.nci-table th {
+        background-color: #e7f3ff;
+        padding: 12px 8px;
+        border-bottom: 2px solid #dee2e6;
+        font-weight: bold;
+        color: #333;
+    }
+
+    .basicInfo-productList.nci-table td {
+        padding: 12px 8px;
+        border-bottom: 1px solid #eee;
+        vertical-align: middle;
+    }
+
+    /* 产品名称过长时自动换行 */
+    .basicInfo-productList.nci-table td:nth-child(2) {
+        word-wrap: break-word;
+        word-break: break-word;
+        overflow-wrap: break-word;
+        white-space: normal; /* 允许换行 */
+        line-height: 1.4;
+    }
+    </style>
+</head>
+<body>
+<div class="loadingBox" style="display: none">
+    <div class="el-loading-mask"></div>
+    <div class="el-loading-spinner"></div>
+</div>
+<div class="navbar fixed" id="navbar">
+<style>
+    .nav-ellipsis {
+      display: inline-block;
+      width: 150px; /* 根据字体大小和设计调整宽度 */
+      white-space: nowrap; /* 防止文本换行 */
+      overflow: hidden; /* 隐藏溢出的文本 */
+      text-overflow: ellipsis; /* 显示省略号 */
+    }
+</style>
+<div class="header" >
+
+    <div id="topNotice" class="topNotice" style="display: none;">
+    </div>
+    <div class="header-topLinks">
+        <div class="header-topLinks-bar clearfix">
+            <div class="rightArea">
+                <div class="loginArea">
+                    <div class="header-kefu is-placeholder" aria-hidden="true">
+                        <a href="javascript:"><i class="icon-kefu"></i></a>
+                    </div>
+                    <div class="header-topLinks-text">
+                        <a href="https://www.ncimall.cn/ebs/enterprise/querylogin.gsp?params.isHr=1" target="_blank">心圆福客户服务</a>
+                        <span class="divider">|</span>
+                        <a href="https://www.newchinalife.com/spage/cn/zsxhPc/index.html" target="_blank">掌上新华App</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="menu clearfix">
+        <div class="leftArea">
+            <a href="/" class="logo">
+                <img src="https://static-cdn.newchinalife.com/ncl/nci/assets/img/header-logo-mini-A6Ey0v6QO.png"
+                     alt="" class="mini">
+                <img src="https://static-cdn.newchinalife.com/ncl/nci/assets/img/header-logo-A6Ey0v6QO.png"
+                     alt="" class="large">
+            </a>
+        </div>
+        <div class="rightArea">
+            <script type="text/javascript" src="/login_include_web?fallbackUrl=%2Fnode%2F372_9%3Fp1%3D1&d=1795020145434"></script>
+            <div class="searchBox">
+                <form action="/search" id="actionForm" method="get" class="searchBox">
+                    <input type="submit" class="sprite-header-searchBtn btn submitBtn" value="" id="submitBtn">
+                    <input type="text" name="q" id="q" value="" autocomplete="off" placeholder="搜索一下，快速查找">
+                    <a href="javascript:" class="closedBtn btn">
+                        <i class="sprite-header-closedBtn"></i><i class="sprite-header-closedBtn02"></i>
+                    </a>
+                    <a class="searchBtn-wrapper" href="javascript:">
+                        <i class="sprite-header-searchBtn btn searchBtn"></i>
+                    </a>
+                </form>
+            </div>
+
+            <ul id="navMenuL1" class="navMenu headerMenu" style="display: block;">
+
+            </ul>
+        </div>
+
+    </div>
+
+    <div id="navMenuL2" class="dropMenu-wrapper">
+
+    </div>
+    <!-- 埋点统计代码已移除 -->
+</div>
+<div class="policy-modal-overlay" id="policyModal">
+  <div class="policy-modal-dialog">
+    <a href="javascript:;" class="policy-modal-close" id="policyModalClose">
+      <span>&times;</span>
+    </a>
+    <div class="policy-modal-body">
+      <p class="policy-modal-text policy-text">保单信息/账户信息/分红信息/交费信息查询、生存/满期金查询、电子保单下载、账号注册及登录等功能
+        <strong>已迁移至掌上新华APP和新华保险微信服务号，请扫描下方二维码，安装官方APP或关注微信公众号进行业务办理：</strong>
+      </p>
+      <p class="policy-modal-text invoice-text" style="display:none;">
+        发票下载功能<strong>已迁移至新华保险微信服务号，请微信扫描下方二维码关注微信公众号进行业务办理：</strong>
+      </p>
+      <div class="policy-modal-qrcode">
+                <div class="qrcode-item app">
+          <img src="https://static-cdn.newchinalife.com/ncl/jpg/20240205/d7a34fba-e024-453b-820d-f3499603056f.jpg" alt="掌上新华App">
+          <div class="des">
+            <p class="qrcode-title">掌上新华APP</p>
+            <p class="qrcode-desc">打开"掌上新华App"，首页-全部服务，查找相关服务。</p>
+          </div>
+        </div>
+        <div class="qrcode-item wechat">
+          <img src="https://static-cdn.newchinalife.com/ncl/jpg/20231215/454cc34d-005e-4dca-9ce1-26edbfe5594f.jpg" alt="官方微信">
+          <div class="des">
+            <p class="qrcode-title">新华保险微信服务号</p>
+            <p class="qrcode-desc">关注"新华保险"微信服务号，点击菜单【我的服务】-【服务中心】-【全部服务】，查找相关服务。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cookie-consent" id="cookieConsent" style="display: none">
+    <div class="cookie-consent-inner">
+        <i class="cookie-consent-icon"><img src="https://static-cdn.newchinalife.com/ncl/nci/assets/img/icons/cookie-tip-A6Ey0v6QO.png" alt="" /></i>
+        <div class="cookie-consent-text">
+            本网站使用cookies以改善您的用户体验。您可以在我们的
+            <a href="/spage/cn/homePagePrivacyPolicy/index.html" target="_blank">隐私政策</a>
+            和<a href="/spage/cn/homePageRegistrationAgreement/index.html" target="_blank">服务条款</a>
+            中了解关于我们收集cookie的类型、我们使用cookie的目的，以及如何管理您的cookie设置的更多信息。
+        </div>
+        <div class="cookie-consent-btns">
+            <button class="cookie-consent-btn cookie-consent-accept" id="cookieAccept">接受</button>
+            <button class="cookie-consent-btn cookie-consent-reject" id="cookieReject">拒绝</button>
+        </div>
+    </div>
+</div>
+<!-- 意外险保单查询弹窗：提示用户服务已迁移至掌上新华APP和官方微信 -->
+<div class="policy-modal-overlay" id="accidentPolicyModal">
+    <div class="policy-modal-dialog accident-policy-dialog">
+        <a href="javascript:;" class="policy-modal-close" id="accidentPolicyModalClose">
+            <span>&times;</span>
+        </a>
+        <div class="policy-modal-body accident-policy-body">
+            <p class="accident-policy-greeting">尊敬的客户：</p>
+            <p class="accident-policy-text">为给您提供更便捷、安全的保单查询体验，我司近期对线上服务渠道进行了优化升级。即日起，官网“意外险保单查询”页面将停止使用，相关查询功能已全面迁移至以下渠道。您可通过任意一种方式，随时随地掌握保单详情：</p>
+            <div class="accident-policy-channels">
+                <p>1.掌上新华APP：下载并注册“掌上新华”APP，完善个人信息后进入“我的-查保单”即可查看所有保单信息。</p>
+                <p>2.官方微信：关注“新华保险”官方微信公众号，完善个人信息后进入“我的服务-我的保单”中查询；如为上海银发无忧业务，请进入“我的服务-我的保单-团单查询”中查询。</p>
+                <p>3.新华保险心圆福微信：如为团体保险业务，您可关注“新华保险心圆福”微信服务号，完善个人信息后进入“我的-个人中心-我的保障”中查询。</p>
+                <p>4.新华保险官网：如为团体保险业务，您可通过首页顶部或“服务中心-热门服务”进入“心圆福客户服务”网站（网址：https://www.ncimall.cn），完善个人信息后进入“我的保障”中查询。</p>
+                <p>如有任何疑问，欢迎随时拨打95567，我们将竭诚为您服务。感谢您的信任与支持！</p>
+            </div>
+            <div class="accident-policy-btn-wrap">
+                <a href="javascript:;" class="accident-policy-close-btn" id="accidentPolicyConfirmBtn">我知道了</a>
+            </div>
+        </div>
+    </div>
+</div><script src="https://static-cdn.newchinalife.com/ncl/nci/assets/data/dataHeadFooter-pro.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/cmsCustom/headerfooter.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/xss.min.js"></script>
+<script>
+    handlerHeader(dataHeadFooter);
+    var xssOptions = {
+        whiteList:          {},        // 白名单为空，表示过滤所有标签
+        stripIgnoreTag:     true,      // 过滤所有非白名单标签的HTML
+        stripIgnoreTagBody: ['script'] // script标签较特殊，需要过滤标签中间的内容
+    }
+    var topHeader = true;
+    var btn = document.getElementById("submitBtn");
+    btn.onclick= function (event) {
+	    var q = document.getElementById("q");
+	    val = filterXSS(q.value, xssOptions)
+	    if (!val) {
+	        return false
+	    }
+	    q.value = val
+	};
+</script>
+
+
+</div>
+
+<div class="informationD" data-role="tab-content" data-id="course-a" runat="server" id="divContent" onscroll= "KeepScrollBar()">
+    <script src="/dd_number/gkxxplDetail"></script>
+    <div class="contant container clearfix">
+<!--此页面用于 公开信息披露 下的五个节点的 孩子节点 或 孙子节点 使用-->
+<!--此页面包括 1、面包屑 2、左侧边栏-->
+<!--第5级和第4级之所以有区别 是因为层级相差一级 代码复用效果不好 不如分开写-->
+
+<!--面包屑-->
+<!--如果当前节点是第5级节点-->
+    <!--第4级节点使用-->
+    <div class="crumbs-nav">
+        <!--首页-->
+        <span><a href="/">首页</a></span>
+        <span> &gt; </span>
+        <!--公开信息披露-->
+        <span><a href="/spage/cn/publicInfoDisclosure/index.html">公开信息披露</a></span>
+        <span> &gt; </span>
+        <!--基本信息 公司治理 年度信息 临时信息 专项信息-->
+        <!--如果当前节点是 年度信息、临时信息披露报告 信息发布 其父节点只有他一个子节点 显示父节点-->
+            <span><a href="/spage/cn/companyProfile/index.html">基本信息</a></span>
+            <span> &gt; </span>
+            <span>产品基本信息</span>
+    </div>
+
+<!--左侧边栏-->
+    <!--第4级节点使用-->
+    <div class="left">
+        <div class="nav">
+            <div class="nav-top">
+                <!-- <div id="mini" style="border-bottom:1px solid rgba(255,255,255,.1)"><img src="images/mini-A6Ey0v6QO.png"></div> -->
+            </div>
+            <ul>
+                <!--遍历 公开信息披露 下的所有节点-->
+                <li class="nav-item nav-show">
+                    <a href="javascript:;"><span>基本信息</span><i class="my-icon nav-more"></i></a>
+                    <!--遍历 基本信息 公司治理 年度信息 临时信息 专项信息 下的所有节点-->
+                    <ul>
+                        <li><a href="/spage/cn/companyProfile/index.html" class=""><span class="">公司概况</span></a></li>
+                        <li><a href="/node/372" class="plLeft-lists"><span class="plLeft-list">产品基本信息</span></a></li>
+                        <li><a href="/node/2350" class=""><span class="">产品公告</span></a></li>
+                    </ul>
+                </li>
+                <li class="nav-item ">
+                    <a href="javascript:;"><span>公司治理</span><i class="my-icon nav-more"></i></a>
+                    <!--遍历 基本信息 公司治理 年度信息 临时信息 专项信息 下的所有节点-->
+                    <ul>
+                        <li><a href="/node/2144" class=""><span class="">公司治理概况</span></a></li>
+                        <li><a href="/node/391" class=""><span class="">董事职责及简历</span></a></li>
+                        <li><a href="/node/393" class=""><span class="">高管及关键岗位人员简历</span></a></li>
+                        <li><a href="/node/511" class=""><span class="">部门设置</span></a></li>
+                        <li class="nav-subItem">
+                            <a href="javascript:;"><span>股东会</span><i class="my-icon nav-more" ></i></a>
+                            <ul  style="display: none;"  >
+                                 <li><a href="/node/2146" target="" class=""><span class="">职责</span></a></li>
+                                 <li><a href="https://static-cdn.newchinalife.com/ncl/pdf/20261029/e16495c7-f95a-4903-ba39-227a07b7a515.pdf" target="_blank" class=""><span class="">近三年通知及材料</span></a></li>
+                            </ul>
+                         </li>
+                <!--适用个人所得税优惠政策的商业健康保险-->
+                        <li><a href="/node/2147" class=""><span class="">公司章程</span></a></li>
+                    </ul>
+                </li>
+                <li class="nav-item ">
+                    <a href="javascript:;"><span>年度信息</span><i class="my-icon nav-more"></i></a>
+                    <!--遍历 基本信息 公司治理 年度信息 临时信息 专项信息 下的所有节点-->
+                    <ul>
+                        <li><a href="/node/398" class=""><span class="">年度信息</span></a></li>
+                    </ul>
+                </li>
+                <li class="nav-item ">
+                    <a href="javascript:;"><span>重大事项</span><i class="my-icon nav-more"></i></a>
+                    <!--遍历 基本信息 公司治理 年度信息 临时信息 专项信息 下的所有节点-->
+                    <ul>
+                            <!--偿付能力 临时信息披露报告-->
+                                        <li><a href="/node/400?p0=30" class=""><span class="">临时信息披露报告</span></a></li>
+                            <!--新型保险-->
+                        <!--长期医疗保险-->
+                    </ul>
+                </li>
+                <li class="nav-item ">
+                    <a href="javascript:;"><span>专项信息</span><i class="my-icon nav-more"></i></a>
+                    <!--遍历 基本信息 公司治理 年度信息 临时信息 专项信息 下的所有节点-->
+                    <ul>
+                        <li><a href="/spage/cn/connectTransaction/index.html" class=""><span class="">关联交易</span></a></li>
+                        <li><a href="/spage/cn/shareholderEquity/index.html" class=""><span class="">股东股权</span></a></li>
+                            <!--偿付能力 临时信息披露报告-->
+                                        <li><a href="/node/378?p0=30" class=""><span class="">偿付能力</span></a></li>
+                            <!--新型保险-->
+                        <!--长期医疗保险-->
+                        <li><a href="/spage/cn/insuranceFundInvestment/index.html" class=""><span class="">保险资金运用</span></a></li>
+                        <li><a href="/node/2101" class=""><span class="">信息安全保障</span></a></li>
+                        <li class="nav-subItem">
+                            <a href="javascript:;"><span>互联网保险</span><i class="my-icon nav-more" ></i></a>
+                            <ul style="display: none;">
+                                <li><a href="/node/2110" class=""><span class="">基本信息</span></a></li>
+                                <li><a href="/node/2111" class=""><span class="">自营网络平台信息</span></a></li>
+                                <li><a href="/node/2223" class=""><span class="">合作保险机构信息</span></a></li>
+                                <li><a href="/node/3022" class=""><span class="">合作第三方互联网平台信息</span></a></li>
+                                <li><a href="/node/2222" class=""><span class="">产品信息</span></a></li>
+                                <li><a href="/node/2114" class=""><span class="">服务信息</span></a></li>
+                                <li><a href="/node/2220" class=""><span class="">公告</span></a></li>
+                            </ul>
+                        </li>
+                        <!-- 股东大会-->
+                            <!--偿付能力 临时信息披露报告-->
+                                        <li><a href="/node/553?p0=30" class=""><span class="">新型保险</span></a></li>
+                        <!--长期医疗保险-->
+                        <li class="nav-subItem">
+                            <a href="javascript:;"><span>长期医疗保险</span><i class="my-icon nav-more" ></i></a>
+                            <ul style="display: none;">
+                                    <!--节点下有数据-->
+                                        <li><a href="/node/2054" class=""><span class="">费率调整办法及情况公示</span></a></li>
+                                    <li><a href="/spage/cn/rateAdInfo/index.html" class=""><span class="">费率调整信息</span></a></li>
+                            </ul>
+                        </li>
+                        <!--短期健康保险-->
+                        <li class="nav-subItem">
+                            <a href="javascript:;"><span>短期健康保险</span><i class="my-icon nav-more" ></i></a>
+                            <ul style="display: none;">
+                                            <li><a href="/node/2081?p0=30" class=""><span class="">综合赔付率指标</span></a></li>
+                                            <li><a href="/node/2082?p0=32" class=""><span class="">产品停售信息</span></a></li>
+                            </ul>
+                            </li>
+                        <!-- 互联网保险 -->
+                        <li><a href="/spage/healthManage/index.html" class=""><span class="">健康管理服务</span></a></li>
+                        <li><a href="https://www.newchinalife.com/spage/cn/homePagePrivacyPolicy/index.html" class=""><span class="">隐私政策</span></a></li>
+                        <li><a href="/spage/cn/accidentInsurance/index.html" class=""><span class="">意外险业务经营情况</span></a></li>
+                        <li><a href="/spage/cn/commercialIncome/index.html" class=""><span class="" style="float: left;">适用个人所得税优惠政策的商业健康保险</span></a></li>
+                        <!--证件公示公告-->
+                        <li><a href="/node/2720" class=""> <span class="" style="float: left;">证照公示公告</span></a></li>
+                <!--其他-->
+                        <li><a href="/node/2746" class=""> <span class="" style="float: left;">其他</span></a></li>
+                    </ul>
+                </li>
+                <li class="nav-item ">
+                    <a href="javascript:;"><span>红利实现率</span><i class="my-icon nav-more"></i></a>
+                    <!--遍历 基本信息 公司治理 年度信息 临时信息 专项信息 下的所有节点-->
+                    <ul>
+                        <li><a href="https://www.newchinalife.com/node/2360" class=""><span class="">红利实现率查询</span></a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+<style>
+    .contant .left .nav .nav-subItem ul li a span {
+        padding-left: 30px;
+        display: inline-block;
+        line-height: 1.5em;
+        font-size: 16px;
+    }
+</style>        <div class='fr basicInfo'>
+            <div class="pro_filter">
+                <h3>产品筛选</h3><a id="accessibilityToolBtn" class="accessibilityToolBtn">无障碍浏览</a></h3>
+                <div class="filterDiv">
+                    <p>
+                        <span>产品名称：</span>
+                        <input type="text" name="productName" placeholder="请输入产品名称" class="searchtext"  autocomplete="off"/>
+                        <button type="submit" class="searchbutton" onclick="handleSearch('按名称检索')"><i class="sprite-search02"></i>检索</button>
+                    </p>
+                    <p style="visibility: hidden" class="tips"><i class="sprite-icon-warning"></i><span>产品名称不能为空</span></p>
+                </div>
+                <div class="filterDiv clearfix">
+                    <span class="fl">险种分类：</span>
+                    <ul class='fl'>
+                        <li class="active" >
+                            <a style="cursor: pointer;" class="fall" href="javascript:;" onclick="allclickTest(this);return false;" v="/node/372_9?p1=1">全部</a>
+                        </li>
+                        <li class=" listli">
+                            <a style="cursor: pointer;" onclick="handleSearch('点击产品状态')">年金险</a>
+                        </li>
+                        <li class=" listli">
+                            <a style="cursor: pointer;" onclick="handleSearch('点击产品状态')">健康险</a>
+                        </li>
+                        <li class=" listli">
+                            <a style="cursor: pointer;" onclick="handleSearch('点击产品状态')">人寿险</a>
+                        </li>
+                        <li class=" listli">
+                            <a style="cursor: pointer;" onclick="handleSearch('点击产品状态')">意外险</a>
+                        </li>
+                        <li class=" listli">
+                            <a style="cursor: pointer;" onclick="handleSearch('点击产品状态')">健康保障委托管理业务</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="filterDiv clearfix">
+                    <span class="fl">产品状态：</span>
+                    <ul class='fl'>
+                        <li class="" >
+                            <a style="cursor: pointer;" class="fall" href="javascript:;" onclick="allclickTest(this);return false;" v="/node/372_9">全部</a>
+                        </li>
+                        <li class="active listli">
+                            <a style="cursor: pointer" onclick="handleSearch('点击产品分类')">在售</a>
+                        </li>
+                        <li class=" listli">
+                            <a style="cursor: pointer" onclick="handleSearch('点击产品分类')">停售</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="basicInfo-productList nci-table">
+                <table>
+                    <thead>
+                    <tr>
+                        <th>序号</th>
+                        <th>产品名称</th>
+                        <th>险种分类</th>
+                        <th>状态</th>
+                        <th>产品披露材料</th>
+                        <th>产品分类分级</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>新华人寿保险股份有限公司恒享人生年金保险</td>
+                        <td>年金险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00G23000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%81%92%E4%BA%AB%E4%BA%BA%E7%94%9F%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251125/2172b2ef-07d7-4ab1-80df-96254b2b1f0c.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251125/390ea633-e4d4-48a9-9c65-5771424dceb1.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看现金价值表')">
+                                        现金价值表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00G23000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%81%92%E4%BA%AB%E4%BA%BA%E7%94%9F%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P2
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>新华人寿保险股份有限公司鑫满盈两全保险</td>
+                        <td>人寿险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00G22000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%91%AB%E6%BB%A1%E7%9B%88%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251125/ee327c2a-0ab4-4b46-af24-3da39e3db639.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251125/6cd156df-5052-40dd-bf07-1dc10586c790.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看现金价值表')">
+                                        现金价值表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00G22000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%91%AB%E6%BB%A1%E7%9B%88%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P2
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>新华人寿保险股份有限公司惠享人生养老年金保险</td>
+                        <td>年金险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00G21000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%83%A0%E4%BA%AB%E4%BA%BA%E7%94%9F%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251125/561fe633-2582-4411-87db-ef8d65f4be8c.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251125/a5a64a7c-93c9-40e9-9de4-55e9452018fd.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看现金价值表')">
+                                        现金价值表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00G21000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%83%A0%E4%BA%AB%E4%BA%BA%E7%94%9F%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P2
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>新华人寿保险股份有限公司康护无忧护理保险</td>
+                        <td>健康险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00A20000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%BA%B7%E6%8A%A4%E6%97%A0%E5%BF%A7%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251125/7714925e-6916-4042-a4f9-c84562174e2a.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00A20000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%BA%B7%E6%8A%A4%E6%97%A0%E5%BF%A7%E6%8A%A4%E7%90%86%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P1
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>新华人寿保险股份有限公司聚福享两全保险</td>
+                        <td>人寿险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00G17000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%81%9A%E7%A6%8F%E4%BA%AB%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251030/cdcbebf0-5cca-43f5-b5c2-5d60eba4455b.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251030/3e6d083f-091c-4f9a-9202-234bb14f14e1.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看现金价值表')">
+                                        现金价值表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00G17000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%81%9A%E7%A6%8F%E4%BA%AB%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P2
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>新华人寿保险股份有限公司惠康优选医疗保险</td>
+                        <td>健康险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00991000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%83%A0%E5%BA%B7%E4%BC%98%E9%80%89%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251030/26a48f2e-f8b1-4b86-a5f7-7e3379058d32.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00991000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%83%A0%E5%BA%B7%E4%BC%98%E9%80%89%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P1
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>新华人寿保险股份有限公司宏禧来两全保险（分红型）</td>
+                        <td>人寿险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00S12000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E7%A6%A7%E6%9D%A5%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251030/414b9d2a-f8f5-42f3-a4f1-c24584b1c8ef.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251030/3bb27e79-73c0-49b4-a33e-725d07142142.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看现金价值表')">
+                                        现金价值表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00S12000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E7%A6%A7%E6%9D%A5%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P3
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>新华人寿保险股份有限公司欣安晟两全保险</td>
+                        <td>人寿险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00G18000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%AC%A3%E5%AE%89%E6%99%9F%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251030/661cc4ed-021d-4cd8-b987-ba79e2a5e5ae.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251030/f5a3543b-41ae-4aae-88c1-abefd9ff76a9.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看现金价值表')">
+                                        现金价值表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00G18000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%AC%A3%E5%AE%89%E6%99%9F%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明书
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P2
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>新华人寿保险股份有限公司附加女性生育A款团体医疗保险</td>
+                        <td>健康险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00A24000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="/node/2430?riskCode=00A24000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P1
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>新华人寿保险股份有限公司附加学生儿童A款综合医疗保险</td>
+                        <td>健康险</td>
+                        <td>在售</td>
+                        <td>
+                            <!-- 修复：每个产品创建一个新的独立列表 -->
+
+                            <!-- 条款 -->
+
+                            <!-- 费率表 -->
+
+                            <!-- 现金价值表 -->
+
+                            <!-- 产品说明书/产品说明 -->
+
+                            <!-- 根据是否有材料显示不同内容 -->
+                            <div class="dropdown">
+                                <button class="dropdown-toggle" onclick="toggleDropdown(this, event)">
+                                    请选择披露材料 <span class="dropdown-arrow">▼</span>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a href="/node/670?riskCode=00A11000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5A%E6%AC%BE%E7%BB%BC%E5%90%88%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看条款')">
+                                        条款
+                                    </a>
+                                    <a href="https://static-cdn.newchinalife.com/ncl/pdf/20251011/a21134dd-4174-414f-aef8-5e905d5b51f2.pdf"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看费率表')">
+                                        费率表
+                                    </a>
+                                    <a href="/node/2430?riskCode=00A11000&amp;status=1&amp;productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%AD%A6%E7%94%9F%E5%84%BF%E7%AB%A5A%E6%AC%BE%E7%BB%BC%E5%90%88%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9"
+                                       target="_blank"
+                                       class="dropdown-item"
+                                       onclick="handleSearch('点击查看产品说明')">
+                                        产品说明
+                                    </a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <!-- 判断产品分类分级的显示逻辑 -->
+                            <!-- 检查是否为 P4 或 P5 类产品 -->
+                            <!-- 对于非 P4、P5 类产品：
+                                 1. 状态为"在售"（productStatusValue 为 "1"）时显示分级结果
+                                 2. 状态为"停售"（productStatusValue 为 "2"）时不显示
+                                 3. 其他状态都显示 -->
+                            <!-- 状态为"在售"或其他状态，显示分级结果 -->
+                            P1
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+<div class="paget">
+    <div class="page-left">
+                <a class="" href="/node/372?p1=1">首页</a>
+        <ul>
+            <li>
+                <a class="pageA" href="/node/372_8?p1=1"><span>&lt;</span></a>
+            </li>
+            <li class="">
+                <a class="pageA" href="/node/372_7?p1=1"><span>7</span></a>
+            </li>
+            <li class="">
+                <a class="pageA" href="/node/372_8?p1=1"><span>8</span></a>
+            </li>
+            <li class="selectPage">
+                <a class="pageA" href="/node/372_9?p1=1"><span>9</span></a>
+            </li>
+            <li class="">
+                <a class="pageA" href="/node/372_10?p1=1"><span>10</span></a>
+            </li>
+            <li class="">
+                <a class="pageA" href="/node/372_11?p1=1"><span>11</span></a>
+            </li>
+            <li>
+                <a class="pageA" href="/node/372_10?p1=1"><span>&gt;</span></a>
+            </li>
+        </ul>
+        <a class="pageA" href="/node/372_27?p1=1">末页</a>
+    </div>
+
+    <div class="page-right">
+        <span class="sum">共27页，264条</span>
+    </div>
+</div>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $(".pageDesabled").attr('disabled', 'true');
+        $(".pageDesabled").removeAttr('href');
+        $(".pageA .pageDesabled").attr('disabled', 'true');
+        $(".pageA .pageDesabled").removeAttr('href');
+    });
+</script>        </div>
+    </div>
+</div>
+<div class=" kefu">
+    <a href="https://cs.newchinalife.com/online-customer/multimedia/create-robot-chat"><i class="icon-kefu"></i></a>
+</div>
+<div class="footer">
+    <div class="link">
+        <div class="container clearfix">
+            <div id="footerWechat" class="wechat fr">
+
+
+
+            </div>
+            <div id="dLink" class="d_link fl">
+
+            </div>
+        </div>
+    </div>
+    <div class="copy">
+        <div class="copy_inner">
+            <table>
+                <tbody>
+                <tr>
+                    <td>
+                        <p><span id="copyCompany"></span>&nbsp;&nbsp;版权所有&nbsp;&nbsp;<a
+                                href="https://beian.miit.gov.cn/" target="_blank"><span id="copyIcp"></span>&nbsp;
+                        </a>&nbsp; &nbsp;<span id="copyIcp2"></span>
+                        </p>
+                    </td>
+                    <td rowspan="2">
+                        <div id="recordA"></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><span id="copyAdvice"></span></p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+<!--            <div class="copyText">-->
+<!--                <p>-->
+<!--                    <span id="copyCompany"></span>&nbsp;&nbsp;版权所有&nbsp;&nbsp;<span id="copyIcp"></span>  <span id="copyIcp2"></span>-->
+<!--                </p>-->
+<!--                <p>-->
+<!--                    <span id="copyAdvice"></span>-->
+<!--                </p>-->
+<!--                <div id="recordA"></div>-->
+<!--            </div>-->
+
+        </div>
+    </div>
+</div>
+<script>
+    handlerFooter(dataHeadFooter)
+</script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/jquery.min-A6Ey0v6QO.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/echarts-A6Ey0v6QO.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/china-A6Ey0v6QO.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/data/company.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/idangerous.swiper.min.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/idangerous.swiper.3dflow.js"></script>
+
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/floatingball-A6Ey0v6QO.js"></script>
+
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/common-A6Ey0v6QO.js"></script>
+
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/tabs-A6Ey0v6QO.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/scrollfix-A6Ey0v6QO.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/cmsCustom/policyTip.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/cookieConsent-A6Ey0v6QO.js"></script>
+<script type="text/javascript">
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+
+    function allclickTest(jump) {
+        // 跟踪事件
+        //对险种分类\产品状态中的全部做处理,搜索框有值就使用,没值就移除
+        var hrefStr = $(jump).attr('v');
+        // 判断输入框中的产品名称
+        var searchText = $('input[name="productName"]').val();
+        if (!searchText) {
+            // 没有产品名称,需要去特殊处理,删除productName参数
+            hrefStr = delParam(hrefStr,"productName");
+        }
+        var href =window.location.protocol + "//" + window.location.host + hrefStr;
+        if (href.indexOf("?/") > 0) {
+            href = href.replace("?/","/");
+        }
+        window.location.href = href
+
+    }
+    function handleSearch(name) {
+        // 跟踪事件
+    }
+
+    // 切换下拉菜单显示/隐藏
+    function toggleDropdown(button, event) {
+        event.stopPropagation();
+        var dropdown = button.closest('.dropdown');
+        var menu = dropdown.querySelector('.dropdown-menu');
+
+        // 关闭其他所有下拉菜单
+        var allDropdowns = document.querySelectorAll('.dropdown');
+        allDropdowns.forEach(function(item) {
+            if (item !== dropdown) {
+                item.classList.remove('active');
+                item.querySelector('.dropdown-menu').classList.remove('show');
+            }
+        });
+
+        // 切换当前下拉菜单
+        dropdown.classList.toggle('active');
+        menu.classList.toggle('show');
+
+        // 跟踪点击事件
+    }
+
+    // 点击页面其他地方时关闭所有下拉菜单
+    document.addEventListener('click', function(event) {
+        if (!event.target.closest('.dropdown')) {
+            var allDropdowns = document.querySelectorAll('.dropdown');
+            allDropdowns.forEach(function(dropdown) {
+                dropdown.classList.remove('active');
+                dropdown.querySelector('.dropdown-menu').classList.remove('show');
+            });
+        }
+    });
+
+    // 点击下拉菜单中的链接时也关闭下拉菜单
+    document.addEventListener('click', function(event) {
+        if (event.target.closest('.dropdown-item')) {
+            var dropdown = event.target.closest('.dropdown');
+            dropdown.classList.remove('active');
+            dropdown.querySelector('.dropdown-menu').classList.remove('show');
+        }
+    });
+</script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/nav-A6Ey0v6QO.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/idangerous.swiper-2.1.min.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/layer-A6Ey0v6QO.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/cmsCustom/basicInfo.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/cmsCustom/loding.js"></script>
+<script src="https://static-cdn.newchinalife.com/ncl/nci/assets/js/lib/accessibility-A6Ey0v6QO.js"></script>
+<script>
+// 修复：产品名称检索输入为空时把 undefined 带入地址栏与检索框（PRM-20261023-0004）
+$(function () {
+    function getQueryParam(name) {
+        var matched = window.location.search.substr(1).match(new RegExp('(^|&)' + name + '=([^&]*)(&|$)'));
+        return matched ? decodeURIComponent(matched[2]) : null;
+    }
+
+    var $productInput = $('input[name="productName"]');
+
+    // 清理历史地址中遗留的 productName=undefined
+    if (getQueryParam('productName') === 'undefined') {
+        var hash = window.location.hash || '';
+        var base = window.location.href.split('#')[0];
+        var queryIndex = base.indexOf('?');
+        var path = queryIndex > -1 ? base.substring(0, queryIndex) : base;
+        var kept = [];
+        if (queryIndex > -1) {
+            var parts = base.substring(queryIndex + 1).split('&');
+            for (var i = 0; i < parts.length; i++) {
+                if (parts[i] && parts[i].indexOf('productName=') !== 0) {
+                    kept.push(parts[i]);
+                }
+            }
+        }
+        var cleanUrl = path + (kept.length ? '?' + kept.join('&') : '') + hash;
+        if (window.history && window.history.replaceState) {
+            window.history.replaceState(null, '', cleanUrl);
+        }
+        $productInput.val('');
+    }
+
+    // 重新绑定检索按钮：空值只提示，不再拼接 undefined
+    $('.searchbutton').off('click').on('click', function () {
+        var productName = $.trim($productInput.val() || '');
+        if (!productName) {
+            $('.tips').css('visibility', 'visible');
+            return false;
+        }
+        $('.tips').css('visibility', 'hidden');
+
+        var currentHash = window.location.hash || '';
+        var current = window.location.href.split('#')[0];
+        var index = current.indexOf('?');
+        var currentPath = index > -1 ? current.substring(0, index) : current;
+        var params = [];
+        if (index > -1) {
+            var items = current.substring(index + 1).split('&');
+            for (var j = 0; j < items.length; j++) {
+                if (items[j] && items[j].indexOf('productName=') !== 0) {
+                    params.push(items[j]);
+                }
+            }
+        }
+        params.push('productName=' + encodeURIComponent(productName));
+        window.location.href = currentPath + '?' + params.join('&') + currentHash;
+        return false;
+    });
+});
+</script>
+</body>
+
+</html>
