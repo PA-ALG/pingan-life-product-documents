@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G23000",
+  "actualPlanCode": "00G23000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司恒享人生年金保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G23000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/5b96c081-0d21-417e-8df1-0d0a84d8adc8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G23000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%81%92%E4%BA%AB%E4%BA%BA%E7%94%9F%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司恒享人生年金保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 172861,
+      "sha256": "921921d7ce28849b66eb9a5e03b691c48819a61e86eb9230b6a5e30d86a6b5fc"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251125/2172b2ef-07d7-4ab1-80df-96254b2b1f0c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 56228,
+      "sha256": "00ba4ed8e25f693dd5eea8b227d023a6b63e1f0ad5293650daac819a86d1869f"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251125/390ea633-e4d4-48a9-9c65-5771424dceb1.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2487678,
+      "sha256": "85b52c1488f3e80d351ebd2ed21fb6c5e0be5df39e28d0e2e54c5dc816b65da3"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251125/ee86671d-16cb-4dfc-81d0-bf55f35103cf.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G23000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%81%92%E4%BA%AB%E4%BA%BA%E7%94%9F%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司恒享人生年金保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 131462,
+      "sha256": "ab23704fa2d80150492bbefb53759296fbf5f3e8cf776487873a682d2e38c280"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00589000",
+  "actualPlanCode": "00589000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司广西地区学生意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00589000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220711/982a4513-e03b-4189-b2e9-b6877b264486.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00589000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B9%BF%E8%A5%BF%E5%9C%B0%E5%8C%BA%E5%AD%A6%E7%94%9F%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司广西地区学生意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 185752,
+      "sha256": "20693e5138a76e57ae530652c165f0479dfc0b3c50388be136b025b3370f0e1f"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230615/936e466c-9680-4961-865c-fe80f8a29955.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_16?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 44633,
+      "sha256": "9616765e4951dce4a936e6c763c46aca043b2434f1b4271dae44033609859925"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/8af88799-0e5f-4353-a489-63813693ffae.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00589000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B9%BF%E8%A5%BF%E5%9C%B0%E5%8C%BA%E5%AD%A6%E7%94%9F%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司广西地区学生意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 159869,
+      "sha256": "50cff58ca1410e2b706d2caf6449a4ee1852543c9f770a45bef3a2a2635cca66"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

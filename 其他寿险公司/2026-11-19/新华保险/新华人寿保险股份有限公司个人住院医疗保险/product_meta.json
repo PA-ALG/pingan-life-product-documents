@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00238000",
+  "actualPlanCode": "00238000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司个人住院医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_20?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00238000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20210430/9475bf35-8df4-4943-8957-393ca26c85b9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00238000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%AA%E4%BA%BA%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司个人住院医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 396871,
+      "sha256": "335f9f221b04f4606ae0369e67d8fea730edbcc9a8a376c573bc43eb3afd856e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/b18b0c48-9cd3-4a4c-a232-37c3d74b4e4c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_20?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 260884,
+      "sha256": "a50ed537e397b48d8041bef51acf04d721e5e113d0f4495c2ab4a9de172c2eab"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240204/f4db85f9-ed3c-4512-8dfd-23586589186c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00238000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%B8%AA%E4%BA%BA%E4%BD%8F%E9%99%A2%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司个人住院医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 104492,
+      "sha256": "93041648e1df43405baa8f8ae463e08b65d15b2f89b7dbae4f47caf7bda1b6e7"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
