@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:eefe6dd2cb02a5cc",
+  "actualPlanCode": "eefe6dd2cb02a5cc",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "学平保意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:eefe6dd2cb02a5cc",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/03/29/80404.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 588066,
+      "sha256": "242db70c02cba9e2a63206f2d6c06eb2d0e8951be8cd06f9a57d9bf7bb089e7e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/03/29/80405.pdf?oldName=学平保意外伤害保险费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 222341,
+      "sha256": "7e88ee40ab0f92500683e8c8b30b5de79094a12a528d853fbe0e1569ef9cb7f9"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/03/29/80403.pdf?oldName=学平保意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 277185,
+      "sha256": "17d88abaab377de3962538847d096d919200e5a6ec4f630577962bc1cea9d04b"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

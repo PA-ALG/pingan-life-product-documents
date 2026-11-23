@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:d52ff7292af72614",
+  "actualPlanCode": "d52ff7292af72614",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "学生意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:d52ff7292af72614",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/12/96267.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 465484,
+      "sha256": "25137638a46f4c4b9778a375d9c44031987357533d97bdcfcb9e2204ee3d388a"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/12/96268.pdf?oldName=学生意外伤害保险费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 186724,
+      "sha256": "9c0f9f14e95d4d02a2c43c51641dbe1553cb56b0889a345f7de8632afe498c9c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/12/96269.pdf?oldName=学生意外伤害保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 250805,
+      "sha256": "0f815e5fa06bfc3a92e7f87debf2737be9c063e0111120ab4491c1f5bf7d81a6"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

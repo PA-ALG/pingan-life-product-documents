@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:8ebf3f3c2aee3ba6",
+  "actualPlanCode": "8ebf3f3c2aee3ba6",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保学生儿童意外伤害保险B款（2025版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:8ebf3f3c2aee3ba6",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/04/07/86038.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 778628,
+      "sha256": "0f6a437aa3c660290ebbf72ae2f8fc99d592214335a4eec8744386070ee3dbe5"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/04/07/86039.pdf?oldName=太保学生儿童意外伤害保险B款（2025版）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 268723,
+      "sha256": "46f56d26b5a385675b22e468dd48db517bb8579f55f0ac214afd4d61fb7ac9c6"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/04/07/86040.pdf?oldName=太保学生儿童意外伤害保险B款（2025版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 416692,
+      "sha256": "d46914661af195fb88e64587dd8c2064d4c91dbb7b400b5f795e7bbec9c6c3ff"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

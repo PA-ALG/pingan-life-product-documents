@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:0daa0bd39e79f9c8",
+  "actualPlanCode": "0daa0bd39e79f9c8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "子女安心住院团体医疗保险（2013版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_18.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:0daa0bd39e79f9c8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2016/05/10/28887.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_18.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 334389,
+      "sha256": "3d07ebf94dd6a0c27a40a85c8cd0dd56f0968854a790d451e3ef904f4bfa2592"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79966.pdf?oldName=子女安心住院团体医疗保险（2013版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_18.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 184475,
+      "sha256": "a2ebdd2b465287a07b8eb4d444d9a2789920eccfdacd9a30b2b5f973f39f8163"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

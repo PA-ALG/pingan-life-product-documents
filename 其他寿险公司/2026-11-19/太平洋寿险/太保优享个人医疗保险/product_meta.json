@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:70c1b8c327c9a12b",
+  "actualPlanCode": "70c1b8c327c9a12b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保优享个人医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:70c1b8c327c9a12b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/08/09/74164.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1297355,
+      "sha256": "98c5e373b103cd89979306413ddb6099f7ea02dfed6cffccd628989cda00ddc5"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/08/09/74165.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 69730,
+      "sha256": "3e61f83fa555e498e3c14fa41f290bd5a6b17accd566817289c386f9a0f5612b"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/08/09/74166.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 161978,
+      "sha256": "5a660d646ea842d86d726d05ae9737170e53470a3f29be36b7430c0519a100cc"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/02/17/85509.pdf?oldName=太保优享个人医疗保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_15.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 237809,
+      "sha256": "e5fa06d3a686ea521887ef87aa837d3d784b35f6f4a265335faf2d0c26ab220c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

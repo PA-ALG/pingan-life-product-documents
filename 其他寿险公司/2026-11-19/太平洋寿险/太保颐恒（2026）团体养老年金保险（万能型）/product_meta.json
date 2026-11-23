@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:a5625d57736a3f8b",
+  "actualPlanCode": "a5625d57736a3f8b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保颐恒（2026）团体养老年金保险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:a5625d57736a3f8b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/08/25/105495.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 651748,
+      "sha256": "bf4bc7cb4f45fbf9ec2474a3177f8f67f1320defd1625ab618ab2cf2f41ec52d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/08/25/105496.pdf?oldName=太保颐恒（2026）团体养老年金保险（万能型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 446578,
+      "sha256": "d6e4439e0978ac6e1517e58982e59d4e5583d3e5ac5bcbb55b0005f6fad41101"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

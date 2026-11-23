@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:bf4c789c5a32d9a8",
+  "actualPlanCode": "bf4c789c5a32d9a8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "优生优育团体疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:bf4c789c5a32d9a8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2021/04/23/55950.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 364393,
+      "sha256": "aa942d65b8c8079a81fbc504fe47c7cd943e2e455b117171278b7a0f197baecd"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79962.pdf?oldName=优生优育团体疾病保险产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 255358,
+      "sha256": "70b1be5402db4f33808d8810467b861938a0dae65d3b42d87387e15191a8b914"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:47f2c060af323d27",
+  "actualPlanCode": "47f2c060af323d27",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保臻享无忧个人高端医疗保险（H2025）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:47f2c060af323d27",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/06/13/87060.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1623009,
+      "sha256": "6cc4f3320cd3ca7813a64b6e2fb110d4b53a983587775706f388f57a867224ad"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/06/13/87062.pdf?oldName=太保臻享无忧个人高端医疗保险（H2025）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 107513,
+      "sha256": "4643335e7d6cbdb7b0821b6d7299dc8d55120386290e4b3b0edefd58e33e2961"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/06/13/87065.pdf?oldName=太保臻享无忧个人高端医疗保险（H2025）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_8.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 399870,
+      "sha256": "f8fc3c90a413261afe418905c14c58645c9307b0dc77ca5233ea9b530432a5d7"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

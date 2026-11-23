@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:024af8af4f71cf06",
+  "actualPlanCode": "024af8af4f71cf06",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "心安·怡住院费用医疗保险（H2017A）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_9.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:024af8af4f71cf06",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/85049.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_9.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 783915,
+      "sha256": "3602c492de69fcd8ab46a89a850377bb6cd1b3e023b4dc12353158f1247ecc05"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/85048.pdf?oldName=心安·怡住院费用医疗保险（H2017A）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_9.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 53838,
+      "sha256": "e2997a5ba5fff22e934aabd95218e249c28ec55240785d618f5385c9777d79d9"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/12/27/85050.pdf?oldName=心安•怡住院费用医疗保险（H2017A）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_9.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 270915,
+      "sha256": "a16bd72ab6ac987a750e5bfac95cc962ac69c46f7f85cc280a0c0b68d9b90c06"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
