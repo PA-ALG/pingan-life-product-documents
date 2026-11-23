@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:1e16b976a77d9625",
+  "actualPlanCode": "1e16b976a77d9625",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保全能保意外伤害保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:1e16b976a77d9625",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/04/26/80593.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 419739,
+      "sha256": "cfb99cf5c06ad1a411763116688db00935f229714859f7a9bd8c9e7cc4b399f5"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/04/26/80594.pdf?oldName=太保全能保意外伤害保险（互联网）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 110218,
+      "sha256": "e3e45e24f8efb05ac654116594956b820ee18e4d6669582d0acae4e01e4a3ba8"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/04/26/80592.pdf?oldName=太保全能保意外伤害保险（互联网）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 318811,
+      "sha256": "f98bf6c314d48ed497cb022f364da2619c9d01c62ef0ec4b5b16fd4fb85adf07"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

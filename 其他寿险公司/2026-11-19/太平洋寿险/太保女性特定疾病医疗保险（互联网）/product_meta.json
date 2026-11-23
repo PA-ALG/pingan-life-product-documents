@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:e9adc7fd4039cefa",
+  "actualPlanCode": "e9adc7fd4039cefa",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保女性特定疾病医疗保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:e9adc7fd4039cefa",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/04/26/80601.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 355939,
+      "sha256": "3857df329e82a931e7b3c161fc88e6fc537ad67b30185473b7b54212e4c5f5c4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/04/26/80602.pdf?oldName=太保女性特定疾病医疗保险（互联网）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 75588,
+      "sha256": "3ed6d66bebfe792a64871a64a424f09b8c0d6019eb5be61867e69f01135f6424"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/04/26/80600.pdf?oldName=太保女性特定疾病医疗保险（互联网）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_13.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 256943,
+      "sha256": "fe102d5755ab8c365877b566b47f413bd79070bfdb17dd14e959024beb4d816b"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
