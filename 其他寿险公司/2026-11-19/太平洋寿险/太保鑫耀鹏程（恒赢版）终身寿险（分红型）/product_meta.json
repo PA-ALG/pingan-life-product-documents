@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:43b68730ddfc987b",
+  "actualPlanCode": "43b68730ddfc987b",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保鑫耀鹏程（恒赢版）终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:43b68730ddfc987b",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/11/05/107703.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 553310,
+      "sha256": "9301096499cda7bb24f5af474c599bc8fb6ea841ef26299f242e4fc2cb054353"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/11/05/107704.pdf?oldName=太保鑫耀鹏程（恒赢版）终身寿险（分红型）基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 4973358,
+      "sha256": "bcc8f1838fee99a8f35ce446ead2a7f5f103cac8d2845877fdd6a22d71b11574"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/11/05/107705.pdf?oldName=太保鑫耀鹏程（恒赢版）终身寿险（分红型）现金价值表（全表）.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 9279036,
+      "sha256": "b403c865903cb108158e30f8ddaacbfbefe85e68d88db8c02fd8b5fefaad02b2"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/11/05/107706.pdf?oldName=太保鑫耀鹏程（恒赢版）终身寿险（分红型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/sx/index.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 587845,
+      "sha256": "d8cee3e7bc5709073c072ee22099f008ccc6a52899e362e66f8103a178297ab2"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
