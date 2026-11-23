@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G29000",
+  "actualPlanCode": "00G29000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加少儿定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G29000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/90e9d982-7ca5-40aa-b136-f154b47cdecd.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G29000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%B0%91%E5%84%BF%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加少儿定期寿险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 293018,
+      "sha256": "7fcdff326501b89aefd11c98dfd1e3a39e0b53c5289b6f376a77cc6845170e7c"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/e76827b6-a8e0-433d-885b-dec8a563be4c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 391861,
+      "sha256": "efa63b60a60912cbc63d13fe33c3380016c75753f6c4a89b836603d6e383f6f1"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/b7d53073-e18b-41d9-94ad-0139517ae535.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 6509240,
+      "sha256": "bb9e04d2dbdb5cf3d12ac0ad43011e7d3aa1b33d7e0e711674a33d0f46ac48e7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/461f23a6-45b2-4225-be3c-36f58e1b4f39.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G29000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%B0%91%E5%84%BF%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加少儿定期寿险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 226206,
+      "sha256": "3f3541826387f82ee2704d1a3c0e02a01e4a537a59381804fd14b02052756efa"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00863000",
+  "actualPlanCode": "00863000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加特定心脑血管疾病保险（A款）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_17?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00863000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20210203/e9a34942-30fb-41bc-83ce-ba48dcae2df0.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00863000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%89%B9%E5%AE%9A%E5%BF%83%E8%84%91%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%88A%E6%AC%BE%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加特定心脑血管疾病保险（A款）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 485154,
+      "sha256": "a2dcd02e4c2ec6ed50480e429fa630c787c95769b7ab694e43bbd3261fbf5153"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/2204f382-3f00-4a3f-87ac-53fdcdc613fe.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_17?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 91846,
+      "sha256": "169470c99f7ce6d5faed1eb359e2180480dfaa4b8b62f5f0bdb4e6db39bf37a2"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230626/564834c2-7cd7-4041-935f-f16f408398d6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00863000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E7%89%B9%E5%AE%9A%E5%BF%83%E8%84%91%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%88A%E6%AC%BE%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加特定心脑血管疾病保险（A款）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 228170,
+      "sha256": "3478ceb87670d3a6b62c7291aa716eb300fa388016ee8de57f34f0f81fff6fb1"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

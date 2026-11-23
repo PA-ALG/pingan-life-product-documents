@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00A05000",
+  "actualPlanCode": "00A05000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加投保人豁免保费重大疾病保险（B款）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A05000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/a9713f2b-168a-4282-ac94-82f9a16d11fa.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A05000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E6%8A%95%E4%BF%9D%E4%BA%BA%E8%B1%81%E5%85%8D%E4%BF%9D%E8%B4%B9%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%88B%E6%AC%BE%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加投保人豁免保费重大疾病保险（B款）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 907954,
+      "sha256": "9145ff6febb6a41cfab3305e3add328c3eb037917141230e12951073bd2fcb33"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/506c88f5-3591-4118-a955-9f49a765adad.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 333629,
+      "sha256": "47a4cb40e607f859d859e1d7b9b107472addc91bced7fe4d3fd95e3238ab70d7"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/e00147b4-225a-4d7b-9a4f-e23871b354e6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 24514977,
+      "sha256": "d4be48853f818e5e1afcd624c5f1d89d66a46a2eb94e852886d804af93c97122"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/a0387814-33cf-4456-8df6-daa586d04ecd.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A05000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E6%8A%95%E4%BF%9D%E4%BA%BA%E8%B1%81%E5%85%8D%E4%BF%9D%E8%B4%B9%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9%EF%BC%88B%E6%AC%BE%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加投保人豁免保费重大疾病保险（B款）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 255989,
+      "sha256": "569cc143178b3cebf4f44822d92faa745e0fb2b50e5b1a8fa3720e7b5170ba15"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

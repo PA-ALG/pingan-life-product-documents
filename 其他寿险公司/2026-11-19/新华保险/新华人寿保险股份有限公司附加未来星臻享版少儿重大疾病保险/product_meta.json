@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00A19000",
+  "actualPlanCode": "00A19000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加未来星臻享版少儿重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A19000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/9037c064-af80-4bfb-a927-49553a87d299.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A19000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E6%9C%AA%E6%9D%A5%E6%98%9F%E8%87%BB%E4%BA%AB%E7%89%88%E5%B0%91%E5%84%BF%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加未来星臻享版少儿重大疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1093698,
+      "sha256": "16b6c61c12619a667854eb4aef48463bec8cb5f6ffcc95cbbac5de335f67c225"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/49581197-37e6-48be-8c75-0826ec3d7738.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 109251,
+      "sha256": "0989c88463ebbc045439957e4e4df694c6ea43140faf9b686e41a5ca82d76b6c"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/63b715a9-7a23-4509-bcb1-6eb0f6519b26.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_10?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 13192309,
+      "sha256": "82a3a50744a17230925f5b9daf6e4c79673ae5cf8f4903e3ae8f9b18a2b3b5e7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250924/b020ea8f-ebe5-4ef1-b0f0-6ac43307a0eb.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A19000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E6%9C%AA%E6%9D%A5%E6%98%9F%E8%87%BB%E4%BA%AB%E7%89%88%E5%B0%91%E5%84%BF%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加未来星臻享版少儿重大疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 289290,
+      "sha256": "da11c6918ce5a3e32a638ebbd46cf98e58eb3c6d51020d20cd8c2b1c5caee306"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

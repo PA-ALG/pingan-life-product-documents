@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00433000",
+  "actualPlanCode": "00433000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加华悦A款团体定期寿险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_19?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00433000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20231023/9308e2dc-9fac-42fe-aec7-58d2d9071349.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00433000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%8D%8E%E6%82%A6A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加华悦A款团体定期寿险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 246868,
+      "sha256": "7a4d731bd319fbea728f281918367dec30deba81b768ea110555886b520ddf8c"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/5bac864d-7e7f-4e85-9dda-c9344813b703.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00433000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%8D%8E%E6%82%A6A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%AE%9A%E6%9C%9F%E5%AF%BF%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加华悦A款团体定期寿险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 133954,
+      "sha256": "5d273eb85046b6c159fb09108d4a8d36299a7fce700611d27a4cef5bfb019eab"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

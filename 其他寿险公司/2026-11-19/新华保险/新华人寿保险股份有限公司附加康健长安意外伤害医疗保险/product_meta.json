@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00519000",
+  "actualPlanCode": "00519000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加康健长安意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_23?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00519000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20200330/c7527b1f-f041-47ff-b645-40f0b46848d7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00519000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%BA%B7%E5%81%A5%E9%95%BF%E5%AE%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加康健长安意外伤害医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 249662,
+      "sha256": "926050a31528a9db37ea0986c471869996f7295e57c4ce4cdcf2fb6304fca6b0"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230616/ef169eb5-3425-403f-9976-7a81931bdbe0.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_23?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 32160,
+      "sha256": "2d246fee9a5592cd4eef77f4cdd27771415016dc65f76a281c228f681332bac7"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20230626/43eb8f0b-1fbb-4099-ad55-9a6d575e9ed1.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00519000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%BA%B7%E5%81%A5%E9%95%BF%E5%AE%89%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加康健长安意外伤害医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 370675,
+      "sha256": "fea6319e935c12757c467f249247b2fc1e699f6ae433321a4785ed45b04a3d76"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

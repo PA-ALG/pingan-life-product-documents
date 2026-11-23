@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00968000",
+  "actualPlanCode": "00968000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加华隆C款住院津贴团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_24?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00968000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20231023/0d204a5d-3a39-4d04-980c-62c8f96ea86d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00968000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%8D%8E%E9%9A%86C%E6%AC%BE%E4%BD%8F%E9%99%A2%E6%B4%A5%E8%B4%B4%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加华隆C款住院津贴团体医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 237966,
+      "sha256": "f626a5d1b99f72d04b5cafebecd0987989c18aa342958f682672c5648076fd31"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/2cffcca7-8bba-4014-8f3a-530ad273a362.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00968000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%8D%8E%E9%9A%86C%E6%AC%BE%E4%BD%8F%E9%99%A2%E6%B4%A5%E8%B4%B4%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加华隆C款住院津贴团体医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 135932,
+      "sha256": "61885a745404e449ab4bc33bd2b86d5945f92623375519007156defdf5f7ed8e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

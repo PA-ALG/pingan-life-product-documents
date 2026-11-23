@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00A24000",
+  "actualPlanCode": "00A24000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加女性生育A款团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A24000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251021/d8488f42-22f3-4302-a763-b857e3b30b9d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A24000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加女性生育A款团体医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 194723,
+      "sha256": "d4af0324f66e8217dbe4b08255f9693bc21b2e1b853f1c080374ad86aa540260"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251021/dd589641-830d-432f-bd1b-12d23f1d5934.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A24000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E5%A5%B3%E6%80%A7%E7%94%9F%E8%82%B2A%E6%AC%BE%E5%9B%A2%E4%BD%93%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加女性生育A款团体医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 214840,
+      "sha256": "007940eaf1c39588c44a466bd9bef7cc5dcafdad83a7c72051f9cf87624c0321"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

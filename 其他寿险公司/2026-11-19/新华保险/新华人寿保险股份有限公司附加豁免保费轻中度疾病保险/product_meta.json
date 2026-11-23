@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00A14000",
+  "actualPlanCode": "00A14000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司附加豁免保费轻中度疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A14000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/0609840e-74e8-41e2-8b1d-e44b03460980.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A14000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E8%B1%81%E5%85%8D%E4%BF%9D%E8%B4%B9%E8%BD%BB%E4%B8%AD%E5%BA%A6%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加豁免保费轻中度疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 593294,
+      "sha256": "ef58cd7cfd72a658015b8331c0a4315ad80c5542cf832ea10bdf7e53ab27420b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/fc2b93d2-17c2-4213-b68a-1034d44bc3b5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 352667,
+      "sha256": "1b0ac6ea80358580b2d9bbdb7f242ce8dc090f8468cfd9036100fe366e1d5f91"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/66d33932-e33d-412e-9f52-742b0be83217.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 23128693,
+      "sha256": "2628d1de242662336fdf519b92ac9c55cf1440b52b73f96576ff8f79eda3926d"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/696b2ec9-4b7a-47a2-b425-5d2baa50a36b.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A14000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%99%84%E5%8A%A0%E8%B1%81%E5%85%8D%E4%BF%9D%E8%B4%B9%E8%BD%BB%E4%B8%AD%E5%BA%A6%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司附加豁免保费轻中度疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 228033,
+      "sha256": "3ab97ab431948eb896810bc4cd2048101224fa20ba6dbf28342fdc504589d6d0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
