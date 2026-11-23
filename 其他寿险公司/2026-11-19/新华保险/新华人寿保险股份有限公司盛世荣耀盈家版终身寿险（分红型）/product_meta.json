@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S35000",
+  "actualPlanCode": "00S35000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司盛世荣耀盈家版终身寿险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S35000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/f11c0514-c2f8-4b28-9c0f-615082363dcc.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S35000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E8%8D%A3%E8%80%80%E7%9B%88%E5%AE%B6%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世荣耀盈家版终身寿险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 373058,
+      "sha256": "40800ef2bbc21ce39bf6b14a890ca6f434afb3d5c13826325fc44bfef22b0573"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/8a23f275-4e03-4ee3-9b90-eb3277e4b51c.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 9752738,
+      "sha256": "0aab9ebfebf516b1c108fc6470d1653630ef217af883af48ef87d551288968aa"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/03a7aa10-db75-448f-b2f7-d26f04982045.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_5?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 9311956,
+      "sha256": "763764dffa42e9045b190486bd35b1dfb2addfdd7e9415916e4e76df86e83194"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/3ea77dd7-1c62-4db5-bcaf-1894b878bd59.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S35000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9B%9B%E4%B8%96%E8%8D%A3%E8%80%80%E7%9B%88%E5%AE%B6%E7%89%88%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司盛世荣耀盈家版终身寿险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 375383,
+      "sha256": "7e7e2fb3f45f0cbbb218eeaa8e883c2d0b20c9a35c6457490b9b5fb2f7dbb230"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
