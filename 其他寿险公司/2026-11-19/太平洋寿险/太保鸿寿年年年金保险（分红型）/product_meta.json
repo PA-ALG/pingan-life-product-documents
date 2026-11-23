@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:8cf3d7efcf1716d9",
+  "actualPlanCode": "8cf3d7efcf1716d9",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保鸿寿年年年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:8cf3d7efcf1716d9",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/26/91339.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 342703,
+      "sha256": "f1d91952a82b961aaadeaa83bac7a97f98dbbb746689067c389efbffcb139a4b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/26/91340.pdf?oldName=太保鸿寿年年年金保险（分红型）基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 145856,
+      "sha256": "8d2fb2626accaa812dc9890b8a654cdc5a2e688ed8fbeadd2e5cd55001d29ae8"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/26/91341.pdf?oldName=太保鸿寿年年年金保险（分红型）现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 23419803,
+      "sha256": "c170ac03c6872cf1a526d1c7934540e211dacbe54f0e731d9c5c39ad94e0db51"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/26/91342.pdf?oldName=太保鸿寿年年年金保险（分红型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 240708,
+      "sha256": "bbe51b8a8238474d12cc6d39a1001df42105aa42ae72edaef2bca0a92fca8eb4"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

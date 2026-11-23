@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:2a6fbbe81b34f5ba",
+  "actualPlanCode": "2a6fbbe81b34f5ba",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保个人综合意外伤害保险（2026版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:2a6fbbe81b34f5ba",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/02/05/92971.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 749172,
+      "sha256": "68fbe1903ff38e0a7c2321c75de1032b0cb8dda82db0e61f813689587e513417"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/02/05/92972.pdf?oldName=太保个人综合意外伤害保险（2026版）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 191909,
+      "sha256": "c4701adcafd1394887e8c7a60f8b5642047fb327f932ac776a5cf552cc170a9c"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/02/05/92973.pdf?oldName=太保个人综合意外伤害保险（2026版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 421545,
+      "sha256": "dfb796f46da8cedbe6db1d90f51de488096aee599b0cfe441fd3a6fbaf344229"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
