@@ -1,0 +1,53 @@
+{
+  "planCode": "泰康人寿:2650",
+  "actualPlanCode": "2650",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康泰盈人生（藏享版）年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2650",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/11/11/fcd6bb28-d194-404b-9bcf-731ede7b7995.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1253322,
+      "sha256": "b0cc7712a143f2c2162c10147e6e98ea2d1ea3d7bd434c70225be25683bde593"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/11/11/30372b48-1143-44fe-a3e5-03f8bfd5e7c9.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 349909,
+      "sha256": "5c496698666efd78cd8a53874ec0c1c39635561d332b150601f22f2d19433b43"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/11/11/15c083c5-1a85-4e1b-ba31-40e2a922cf39.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 712462,
+      "sha256": "bfc2d636d952991d1f7a5974dac667017f1642d100fb34d00da7980c33bdfe8b"
+    },
+    {
+      "label": "产品现金价值全表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/11/11/2b6aeb5d-f4f4-42f3-9b0f-f5596a1124d9.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 5078188,
+      "sha256": "a4e14a5fbfee4301c3ba1560cb417cbea28c8406f67404fa44fec66394d24048"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
