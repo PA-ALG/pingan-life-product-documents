@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00A13000",
+  "actualPlanCode": "00A13000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司健康无忧卓越版重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A13000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/c26b4f4c-c2fa-46c2-a1e0-c80ec6133995.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A13000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%81%A5%E5%BA%B7%E6%97%A0%E5%BF%A7%E5%8D%93%E8%B6%8A%E7%89%88%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司健康无忧卓越版重大疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1107772,
+      "sha256": "ac49e6e5b5e56baec14f4333df746a7bab807169437e685edccca5cb8846970e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/042d268e-cfa4-4539-96ef-7cf644c4e6fc.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 2546386,
+      "sha256": "9e901eae32d26c6eb35c8304a0b14333164e1fd405ee654d1f510ea76a297300"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/2b1304de-ac85-42a1-8007-05698833e7f8.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_11?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 44597492,
+      "sha256": "6af374590d653491033c93c8f6818aaddc92647d142b736ecea5b5eeb242fbe1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20250909/07f399c0-8501-4489-8312-05e3d9b1fcc3.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A13000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%81%A5%E5%BA%B7%E6%97%A0%E5%BF%A7%E5%8D%93%E8%B6%8A%E7%89%88%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司健康无忧卓越版重大疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 675975,
+      "sha256": "57c1e1243d5baf7be9d6904c5a77f4a2c633edd4fcc632528f7507b4bc4d046e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00X04000",
+  "actualPlanCode": "00X04000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司金利宝终身寿险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "寿险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00X04000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/7037cf88-c66b-4183-bf2b-dbf9bbc65dd6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00X04000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%87%91%E5%88%A9%E5%AE%9D%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司金利宝终身寿险（万能型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 612372,
+      "sha256": "2db511c335530e5d40f8741625a20bb362d3bc4c591fe77a4bf3736260fe43a2"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/e22c4915-eb88-4bc0-9c25-dc7fb7439b3f.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 107523,
+      "sha256": "f52eb46f68737d88b10f3f2ca6b56d6252dad76a1b9796380e42fea9801637db"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20261029/6b3d2bb5-9436-433a-9f1a-aebb107bfeef.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00X04000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%87%91%E5%88%A9%E5%AE%9D%E7%BB%88%E8%BA%AB%E5%AF%BF%E9%99%A9%EF%BC%88%E4%B8%87%E8%83%BD%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司金利宝终身寿险（万能型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 522782,
+      "sha256": "693acccc1b24c1a7b7ab6611af369ab96e9d506885f3eb2db922dcb3bcb3c1b8"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

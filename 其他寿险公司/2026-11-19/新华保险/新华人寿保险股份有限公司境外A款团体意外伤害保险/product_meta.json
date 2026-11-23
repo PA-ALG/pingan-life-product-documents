@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00379000",
+  "actualPlanCode": "00379000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司境外A款团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_25?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00379000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220711/f4debb66-25db-4a16-958c-95c9661fa31a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00379000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%A2%83%E5%A4%96A%E6%AC%BE%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司境外A款团体意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 258019,
+      "sha256": "9730ca333fe42202f4985646a3430dc72d3ac57069991d588d84db170c5e3aa0"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/1e48278c-720a-4ced-b295-6aaf41ec5c85.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00379000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%A2%83%E5%A4%96A%E6%AC%BE%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司境外A款团体意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 177273,
+      "sha256": "90b40df7e322af2a92b97e4aed3c4ee8d55251ca0e627f781aad57307a7ca2b8"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

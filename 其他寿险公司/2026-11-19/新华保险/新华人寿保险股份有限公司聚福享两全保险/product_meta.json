@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G17000",
+  "actualPlanCode": "00G17000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司聚福享两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G17000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/e064d515-7e61-4cad-b47f-a4de40efb548.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G17000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%81%9A%E7%A6%8F%E4%BA%AB%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司聚福享两全保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 173531,
+      "sha256": "6a9357c6ce1e2a18861d7dfd6c8657b3b238cc4d1ea76cd762e9b2c307ccd636"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/cdcbebf0-5cca-43f5-b5c2-5d60eba4455b.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 54991,
+      "sha256": "c694c8063e404571a7ac94a0298fc8ab4d482904b9590a9c7f4647d5ea5753b2"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/3e6d083f-091c-4f9a-9202-234bb14f14e1.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 292796,
+      "sha256": "197bf9934dbe653f37f0d56a348c88091684e9ea9b9bd6b27737a86cf2cbc365"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/d5ac4bc1-fae7-4c9d-8807-1ad7f74b4329.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G17000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%81%9A%E7%A6%8F%E4%BA%AB%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司聚福享两全保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 124292,
+      "sha256": "a295b3a97c5b307a23d5efecac808a482d90e70134703d42f1fb4977ea0dff55"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

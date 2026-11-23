@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00G25000",
+  "actualPlanCode": "00G25000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司金穗宝两全保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00G25000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/93ad3bb1-c164-4112-8f65-3ab8a4f81ebb.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00G25000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%87%91%E7%A9%97%E5%AE%9D%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司金穗宝两全保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 203640,
+      "sha256": "cbf52af59236f92f80e495e9864a7e298d1201da58e937626c90c2c7d9895c4b"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/b27d7601-9c3c-4c15-8590-c833f8640951.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 38387,
+      "sha256": "a85952fd721a219637b9ba43a96435162841fe1c90597872ab2abd070779d06b"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/b881c6fa-94f5-401b-b2b4-304fa91cdde0.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_8?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 292972,
+      "sha256": "112b0e871040cc16fef3085135a58b7cd90ae4f37bcfa4707e46fe841c437f33"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251215/e11702c8-95d0-4e3a-bff7-b793a6bf6c4d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00G25000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%87%91%E7%A9%97%E5%AE%9D%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司金穗宝两全保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 115672,
+      "sha256": "cd0664af7e5c7c69df8f8a6efd265ab00b9b5aa1d5a409d95bac5d77ff3a3ce4"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
