@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00592000",
+  "actualPlanCode": "00592000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司华平优选团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_15?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00592000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20220927/560dcbb7-e631-4fd9-a5fe-d1191e4038d6.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00592000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8D%8E%E5%B9%B3%E4%BC%98%E9%80%89%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司华平优选团体意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 251499,
+      "sha256": "cd67641c76ed3bd6905417829174df7cacfea72369e51a9e416b1140020da298"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/cdf277ff-4dea-4ad5-8374-d7001548c568.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00592000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8D%8E%E5%B9%B3%E4%BC%98%E9%80%89%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司华平优选团体意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 156748,
+      "sha256": "7861abcab55599a8947605a2d59d844fa07ad94915751ba8431246b6f27ddbfd"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

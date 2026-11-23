@@ -1,0 +1,46 @@
+{
+  "planCode": "新华保险:00991000",
+  "actualPlanCode": "00991000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司惠康优选医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00991000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/7ded9f7a-139f-4552-ad2e-1d0a6735505f.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00991000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%83%A0%E5%BA%B7%E4%BC%98%E9%80%89%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司惠康优选医疗保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 2685105,
+      "sha256": "4da8b4fe6dd002228983b2abc4d3617327a348edef1b8326685ecfd992ff714c"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/26a48f2e-f8b1-4b86-a5f7-7e3379058d32.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 102104,
+      "sha256": "baa0590886539192f15fc556bd03c23c143336aa459e1e14dbf67372c3b93db6"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/7f5c07aa-0cd5-4075-b0ad-2da3a91a651f.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00991000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E6%83%A0%E5%BA%B7%E4%BC%98%E9%80%89%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司惠康优选医疗保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 666855,
+      "sha256": "4a5de928dfbbd64871cc8505f40054e12950a1b2913708abb89e1fae8ee4df23"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

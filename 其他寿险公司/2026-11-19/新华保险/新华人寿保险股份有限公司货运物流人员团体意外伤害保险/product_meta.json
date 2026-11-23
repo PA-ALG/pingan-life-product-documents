@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00591000",
+  "actualPlanCode": "00591000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司货运物流人员团体意外伤害保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_15?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00591000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20221101/27ebc325-e870-4d05-b897-66dd313e9ec5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00591000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%B4%A7%E8%BF%90%E7%89%A9%E6%B5%81%E4%BA%BA%E5%91%98%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司货运物流人员团体意外伤害保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 247449,
+      "sha256": "c2a615cc09b5003cb3c811f4890c66a2097a6ffcdf3b9f3855dd1041afbda7b0"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20240220/3d190e9c-d920-496f-8508-154e24daf610.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00591000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%B4%A7%E8%BF%90%E7%89%A9%E6%B5%81%E4%BA%BA%E5%91%98%E5%9B%A2%E4%BD%93%E6%84%8F%E5%A4%96%E4%BC%A4%E5%AE%B3%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司货运物流人员团体意外伤害保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 179616,
+      "sha256": "9c096e8f237cd6d1b506e6c34ffbbb384d4d6c718c4ca62257e3debc1cfa3916"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

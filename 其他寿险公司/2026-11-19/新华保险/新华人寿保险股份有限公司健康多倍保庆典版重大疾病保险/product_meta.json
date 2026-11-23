@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00A39000",
+  "actualPlanCode": "00A39000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司健康多倍保庆典版重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00A39000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/0616590c-052c-4464-a632-b463ddb55f50.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00A39000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%81%A5%E5%BA%B7%E5%A4%9A%E5%80%8D%E4%BF%9D%E5%BA%86%E5%85%B8%E7%89%88%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司健康多倍保庆典版重大疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1881494,
+      "sha256": "b9bbad90cde794b492965040692a1a52667a98cd23e3ac281e96146df6fb6a2a"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/106510f7-4ace-4aad-9eb5-70c288f1a0f5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 7704416,
+      "sha256": "f75f046e736b3823a05c1fa28d3b0737f6503d9922220e810a7b9f40d4423a43"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/d8d7f410-c53a-40d5-a1b5-cff884c387b5.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2285837,
+      "sha256": "28d4d6cbf970bda7cbeac56332746a6be368b717505f65bdaebd324a9dbb789f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260407/8d6fb325-9af5-403f-8486-c55e36e29c72.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00A39000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%81%A5%E5%BA%B7%E5%A4%9A%E5%80%8D%E4%BF%9D%E5%BA%86%E5%85%B8%E7%89%88%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司健康多倍保庆典版重大疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 649524,
+      "sha256": "de33ce13e879f1d66d300928520372a61318ce9ab7b7e0e5c8cc9033d1a65596"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

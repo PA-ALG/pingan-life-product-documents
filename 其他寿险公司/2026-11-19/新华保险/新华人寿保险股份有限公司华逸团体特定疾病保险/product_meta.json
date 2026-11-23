@@ -1,0 +1,37 @@
+{
+  "planCode": "新华保险:00938000",
+  "actualPlanCode": "00938000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司华逸团体特定疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_13?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00938000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20241009/ed261db8-9e5f-4325-bf0b-e701f8f29c1b.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00938000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8D%8E%E9%80%B8%E5%9B%A2%E4%BD%93%E7%89%B9%E5%AE%9A%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司华逸团体特定疾病保险",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1035853,
+      "sha256": "87600c714e59e09d331b3c4a92f9f8af60c579e8be0329d6152d47fee2c6f97d"
+    },
+    {
+      "label": "产品说明",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20241009/7ddc8fde-8b0d-40c2-96fc-ccf312bd4180.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00938000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8D%8E%E9%80%B8%E5%9B%A2%E4%BD%93%E7%89%B9%E5%AE%9A%E7%96%BE%E7%97%85%E4%BF%9D%E9%99%A9",
+      "officialDocumentTitle": "新华人寿保险股份有限公司华逸团体特定疾病保险",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 195946,
+      "sha256": "b9218a743c75370586805f96f4c6cda538aa5a3a18528112b111aee873407f82"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

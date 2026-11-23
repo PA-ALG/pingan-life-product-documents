@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S24000",
+  "actualPlanCode": "00S24000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司华彩鎏金年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S24000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260708/e53eca0a-b947-4693-9c28-951be91cdf7d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S24000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8D%8E%E5%BD%A9%E9%8E%8F%E9%87%91%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司华彩鎏金年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 177503,
+      "sha256": "8b08df84b40056e7fb0d0f55d842edd88a2a0894a2afb6fc4859b1b5f4db46f2"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260416/7ebddc54-98ca-4e10-977a-75b0172aee8a.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 53639,
+      "sha256": "445d7cc04683c3cf7d33d8844417dd9d65cd114689e9e58db398d69367b68be1"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260416/e646fadf-ecd6-43c6-819a-062028334bd3.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_6?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2937457,
+      "sha256": "2f03891ca9af72bd562b7ad7be44f8e939e5b930ece9f87acc10f5f3daba6b0b"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260416/91bb2454-8398-4134-b485-d444db50631d.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S24000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%8D%8E%E5%BD%A9%E9%8E%8F%E9%87%91%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司华彩鎏金年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 162434,
+      "sha256": "b4f242c8fa8f59d41c74218f5bea99460e0ac9bd812672fdc1abe23fde2a25c6"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
