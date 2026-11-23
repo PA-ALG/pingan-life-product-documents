@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:35a1a321fef66f71",
+  "actualPlanCode": "35a1a321fef66f71",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保鑫福增益养老年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:35a1a321fef66f71",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/30/96523.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 519682,
+      "sha256": "32cf5e17428ca54c53f6ba5f54fb86535d5518057dad5e1c3ec2780973adb719"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/12/03/91750.pdf?oldName=太保鑫福增益养老年金保险（分红型）基本保险金额表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 56446507,
+      "sha256": "384d4a47e0c77dd8c6242557081ebfa4080d6ceaebc163f7d32f9b48ecbeef1d"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/12/03/91751.pdf?oldName=太保鑫福增益养老年金保险（分红型）现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 43664256,
+      "sha256": "22ff33375b1730cfd7d5dbfd4ef67c6cf327e5913d5a2a9ba3204c9f54005f47"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/12/03/91771.pdf?oldName=太保鑫福增益养老年金保险（分红型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 390581,
+      "sha256": "0580a138bd02f0cc17cc8fe537cccc5dcfacf9cd8f66948fce1a8997230234c6"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
