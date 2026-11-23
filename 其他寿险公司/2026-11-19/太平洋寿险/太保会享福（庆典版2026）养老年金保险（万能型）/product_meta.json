@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:a50f04f182970f50",
+  "actualPlanCode": "a50f04f182970f50",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保会享福（庆典版2026）养老年金保险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:a50f04f182970f50",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/18/89312.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 381762,
+      "sha256": "5d52a031155496ca99c3837324378894193daaec46e03c787a807b0956cd2bff"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/18/89313.pdf?oldName=太保会享福（庆典版2026）养老年金保险（万能型）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/nj/index_5.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 196188,
+      "sha256": "5e35b1c3b7d8c7a6a456c206a92c45c87faede240daf5a69aa91def78210095d"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

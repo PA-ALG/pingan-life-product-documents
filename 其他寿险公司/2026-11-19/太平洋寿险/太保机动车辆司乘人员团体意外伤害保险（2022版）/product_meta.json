@@ -1,0 +1,35 @@
+{
+  "planCode": "太平洋寿险:49089917134cb427",
+  "actualPlanCode": "49089917134cb427",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保机动车辆司乘人员团体意外伤害保险（2022版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_3.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:49089917134cb427",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/10/12/77282.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_3.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 353306,
+      "sha256": "c5f1e1c97762f5ca7e84e92cbcbe5235b09204540d8dc61f3e6e650314d298f3"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79847.pdf?oldName=太保机动车辆司乘人员团体意外伤害保险（2022版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/ywx/index_3.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 259414,
+      "sha256": "b0c6b06601009daa236f51151cce7c300c49abdc2268372fcc4244226ff9daf0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

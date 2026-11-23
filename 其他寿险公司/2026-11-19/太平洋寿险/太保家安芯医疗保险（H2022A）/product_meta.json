@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:538d1ec373554aa8",
+  "actualPlanCode": "538d1ec373554aa8",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保家安芯医疗保险（H2022A）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:538d1ec373554aa8",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80886.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 633441,
+      "sha256": "8de537fb73b40f1e28d8082bb675a251516f9a672d9ac7d10adcfb0b79cbc2d1"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80887.pdf?oldName=太保家安芯医疗保险（H2022A）保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 173227,
+      "sha256": "fbb67b6637b303b9c35d4d3f08002fdca54399e9ffef4ba72cc1ca89bed3bdf1"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80888.pdf?oldName=太保家安芯医疗保险（H2022A）现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 132006,
+      "sha256": "197422bb6ef8797f3e5c298427e8d8be9f21e1d4d9eaf5deb0da8e00ecfa99a4"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/24/80885.pdf?oldName=太保家安芯医疗保险（H2022A）产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 237507,
+      "sha256": "2dcbe83e1fe9e290fabdbc7aec20e83996366dd0e06eadb280c2b063ddb485b7"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
