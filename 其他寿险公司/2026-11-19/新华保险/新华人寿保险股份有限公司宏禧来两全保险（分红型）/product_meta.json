@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S12000",
+  "actualPlanCode": "00S12000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司宏禧来两全保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "两全险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S12000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/52b7ab90-5df6-417c-869c-99bd592dbdb9.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S12000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E7%A6%A7%E6%9D%A5%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏禧来两全保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 209101,
+      "sha256": "37bac2c088346962e19802264f17e89e03e198adf438796565664d44c6aa959c"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/414b9d2a-f8f5-42f3-a4f1-c24584b1c8ef.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 39573,
+      "sha256": "5b51fbf5ddb89285eaa800285641eeac512b1951e0cbf21ad182c807113fbb2c"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/3bb27e79-73c0-49b4-a33e-725d07142142.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_9?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 4561984,
+      "sha256": "bc0cb45434ae019878fdb89a109e9b85f5a662d8d9b7accc382dba733f36887f"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20251030/8815ad1d-f521-493a-99f6-271e63a178ac.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S12000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E7%A6%A7%E6%9D%A5%E4%B8%A4%E5%85%A8%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏禧来两全保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 140413,
+      "sha256": "e120a0bb21b29e5a65cc71f05683eb01aab7bb8aaa0952206bd0c76dfd6709c0"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

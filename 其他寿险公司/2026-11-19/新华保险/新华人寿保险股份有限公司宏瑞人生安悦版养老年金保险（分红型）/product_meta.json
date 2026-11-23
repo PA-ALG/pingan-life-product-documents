@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S39000",
+  "actualPlanCode": "00S39000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司宏瑞人生安悦版养老年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_3?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S39000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260715/6b456995-95aa-4141-9f09-05395102b4fd.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S39000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E7%91%9E%E4%BA%BA%E7%94%9F%E5%AE%89%E6%82%A6%E7%89%88%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏瑞人生安悦版养老年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 304389,
+      "sha256": "02726020b76bd44b89b0f81c867e837f99d9a574aadd9a8714013a4f4cc9aaa4"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260715/b3a30a1a-7c6b-429d-be78-676a810412c0.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_3?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 41735,
+      "sha256": "ef0883fe0162c30109ed9d6b2c904e967f686fa821d86123a6b00aaec88f0ae6"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260715/eb682494-7cc5-4563-9108-76bb17302095.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_3?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2335187,
+      "sha256": "939965b513b8c26b3ac106b78900717604aa5c57a636ebef759442ef6743e8f3"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260715/d266ac5b-83e4-4b42-aed7-6a6461c33330.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S39000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E7%91%9E%E4%BA%BA%E7%94%9F%E5%AE%89%E6%82%A6%E7%89%88%E5%85%BB%E8%80%81%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏瑞人生安悦版养老年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 471387,
+      "sha256": "229c9452eae3e361638e892dd26dab455bd90a21cdb955ff616611057e862de9"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
