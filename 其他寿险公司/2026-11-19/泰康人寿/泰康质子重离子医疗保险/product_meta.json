@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:756",
+  "actualPlanCode": "756",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康质子重离子医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:756",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/c445d00b-6b4a-483d-804a-2fdfceb5e8d8.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 742560,
+      "sha256": "cc0700def5091bb7106c6c58751ab6b6fb6ed4c1a81859eb9cdf434aba14d3cf"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/992abf7f-135a-47d6-b3fd-a35a79c3ee09.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 373376,
+      "sha256": "b8f7063013eaefe4c3de9a6cd52d3fc0b431e712cc5c99426c63900bfd9d6fee"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/45ceb964-eabd-4360-add9-e4b97ef4a624.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 371060,
+      "sha256": "f4d10a066d3508d199f79caa65e2a15bd2cf697e552c9408315cb3ed23208839"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
