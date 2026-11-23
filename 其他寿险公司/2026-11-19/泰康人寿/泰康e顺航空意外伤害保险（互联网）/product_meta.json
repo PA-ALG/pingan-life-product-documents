@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:1172",
+  "actualPlanCode": "1172",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康e顺航空意外伤害保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "意外险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1172",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/fc80eda2-9e2e-40ff-9382-08b3bd7d0a51.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 556579,
+      "sha256": "7799483c636728eb2ee8473e46d6bdc9abb10cafc88219d49d1c9894edcc6041"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/750388b6-faf1-402e-ac54-01edf57c0ae1.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 221242,
+      "sha256": "0a60ae6a4451e1234882bfd1347f063c8bac4452f60c118f39dd11a3451d65e9"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/5f44882c-4afc-4644-8a4d-c289dab65c07.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 101949,
+      "sha256": "0ce1f4a07cd2f50f74df06530b311cede8d2708e02e0341df54a5bdfd55fddb2"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

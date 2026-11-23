@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:489",
+  "actualPlanCode": "489",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康城镇职工大病团体医疗保险（A型）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:489",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/1c95b978-6784-4343-bdb8-5c372d1a47d5.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 298293,
+      "sha256": "2d3143e4650099c9ea3c346fe941525c562a60df9fbe6037a4bd02d45de03db0"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/ed6b956b-3a8e-4bd2-8bc0-43c605106727.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 363654,
+      "sha256": "fb867885d5a5a9fa7bb9cfcf96a57f845fa61c9b5253eb8030eff404ae24d95c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

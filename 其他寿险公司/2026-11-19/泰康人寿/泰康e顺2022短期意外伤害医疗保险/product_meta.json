@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:1120",
+  "actualPlanCode": "1120",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康e顺2022短期意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1120",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/a759d68d-91a9-45fb-b899-815fc4144e86.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 716073,
+      "sha256": "90cac86d9b0b3fbb162399ac359f23de1e598fce92c387c87c3c9d151b8a47ef"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/91762f4d-a98a-4eae-ae1f-9022921cd888.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 374658,
+      "sha256": "f025ce6ffe4f8e791a141790a3bc75e23b2f20124522d40e8cbe28629318093b"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/0bf20b18-363c-4732-ac15-8ca68bf5bf59.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 177760,
+      "sha256": "fb91fe69eae525366e98faa818e13a0ebe1a44223cc0fd68b5cfe0e3749ca20b"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

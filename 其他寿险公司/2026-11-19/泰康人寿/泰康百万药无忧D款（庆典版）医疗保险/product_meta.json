@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2539",
+  "actualPlanCode": "2539",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康百万药无忧D款（庆典版）医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2539",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/12/12/7830fda1-4356-487d-8f8b-027fb2837f2b.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 633865,
+      "sha256": "eea3058b067d75479ea740e238aeb82310696b90d05f7a065df9f3eff49d92be"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/12/12/aadaa859-f854-492d-b7ff-93a93d6ab4d5.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 411981,
+      "sha256": "c63128658a15573845991018c4b09c264c753107df7421de7cb82f15b597db55"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/12/12/05efa3b3-1107-483e-be72-c948db888386.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 137991,
+      "sha256": "4e260514da704fcbfc060309d4e12ed2b2a4fef40d6a12f3f9fe333803e0a26c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

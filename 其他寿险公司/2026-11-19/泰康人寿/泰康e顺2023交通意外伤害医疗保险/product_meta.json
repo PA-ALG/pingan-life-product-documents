@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:1204",
+  "actualPlanCode": "1204",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康e顺2023交通意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:1204",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/c83495e1-859f-470e-8cf7-6d63f2d26f40.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 759660,
+      "sha256": "dbe7bd9324a8e0a7073644a3f3375e403a75b0ecb5a7ffda562d0fafcd2085f4"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/bd6a3d23-d4a1-417f-81f5-a8d7f698e0ff.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 403528,
+      "sha256": "18ba2b0b4b747f7730f41dc24e8c9a8b61887e1ad0a76548d594657999ea59b5"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/daf2a614-79e2-4ab5-ba74-2b2fdbcbe769.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 169841,
+      "sha256": "3c12d3aaa07a4d3cb055d0f8bb4345591c12f13e97feae590ce73cc6a7b4664f"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

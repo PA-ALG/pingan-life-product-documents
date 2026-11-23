@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:2519",
+  "actualPlanCode": "2519",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康北京市定制型医保补充团体医疗保险（互联网）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2519",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/11/10/1a4de68c-eff9-4304-b4c0-a01355f6b1ea.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 666035,
+      "sha256": "1a207bba922107a95842c4f051673049a3640d01131271fea352c4f8de7ae634"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/11/10/0e7d9849-03b7-4ec2-ae46-ba43538b4d6b.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 479974,
+      "sha256": "ad60f9723625e5fe20166a4512cc9a9368a0ac41784c3a5cdb7966465af49588"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
