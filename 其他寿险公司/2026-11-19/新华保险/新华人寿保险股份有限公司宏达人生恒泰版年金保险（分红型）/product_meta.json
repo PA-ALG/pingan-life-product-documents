@@ -1,0 +1,55 @@
+{
+  "planCode": "新华保险:00S48000",
+  "actualPlanCode": "00S48000",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "新华人寿保险股份有限公司宏达人生恒泰版年金保险（分红型）",
+  "planSalesStatus": "在售",
+  "companyName": "新华保险",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "新华保险:00S48000",
+  "sourceMaterials": [
+    {
+      "label": "条款",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260907/01a8fc94-83f1-4a26-8089-9c1d75a2aa19.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/670?riskCode=00S48000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E8%BE%BE%E4%BA%BA%E7%94%9F%E6%81%92%E6%B3%B0%E7%89%88%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏达人生恒泰版年金保险（分红型）",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 178383,
+      "sha256": "3381db9998244f898636ee94e924ffd36ec7bb7ffd67757e4fb227cccea98d89"
+    },
+    {
+      "label": "费率表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260907/806c5524-57f4-4e8f-8abb-d8132b075b71.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 54505,
+      "sha256": "d3596d4a06272e7e08e1f58a1c25b4d9b23fdf2faf7799be14246430ddb2df44"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260907/8bdf95ed-e32f-4c05-b3e6-3cd0450c8101.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/372_2?p1=1",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 3132061,
+      "sha256": "9d17d4a467e89550686ac47114a9c1d663634cfc2aa673c057b22933d33e1eea"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://static-cdn.newchinalife.com/ncl/pdf/20260907/42dac25c-19cb-4fb1-8101-3d36118919c7.pdf",
+      "sourcePageUrl": "https://www.newchinalife.com/node/2430?riskCode=00S48000&status=1&productName=%E6%96%B0%E5%8D%8E%E4%BA%BA%E5%AF%BF%E4%BF%9D%E9%99%A9%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%8F%E8%BE%BE%E4%BA%BA%E7%94%9F%E6%81%92%E6%B3%B0%E7%89%88%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%A9%EF%BC%88%E5%88%86%E7%BA%A2%E5%9E%8B%EF%BC%89",
+      "officialDocumentTitle": "新华人寿保险股份有限公司宏达人生恒泰版年金保险（分红型）",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 165430,
+      "sha256": "db5bbc7fa940e9f5abc51183dfad67c2bfdf02fa7777dcb525e7264c2643c8bd"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
