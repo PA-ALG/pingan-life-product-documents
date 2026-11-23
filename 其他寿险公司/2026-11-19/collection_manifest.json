@@ -1,0 +1,89 @@
+{
+  "collectedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
+  "excludedCompany": "平安人寿",
+  "companies": {
+    "中国人寿": {
+      "sourceUrl": "https://www.e-chinalife.com/xxpl/gsgk/cpjbxx/",
+      "expectedCount": 518,
+      "productRecords": 518,
+      "pdfCount": 1460,
+      "completeProducts": 518,
+      "status": "归档完成",
+      "sourceSalesStatus": "在售",
+      "officialUpdatedAt": "",
+      "bytes": 851624234
+    },
+    "新华保险": {
+      "sourceUrl": "https://www.newchinalife.com/node/372?p1=1",
+      "expectedCount": 264,
+      "productRecords": 264,
+      "pdfCount": 781,
+      "completeProducts": 264,
+      "status": "归档完成",
+      "sourceSalesStatus": "在售",
+      "officialUpdatedAt": "",
+      "bytes": 1536001441
+    },
+    "泰康人寿": {
+      "sourceUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "expectedCount": 263,
+      "productRecords": 263,
+      "pdfCount": 798,
+      "completeProducts": 263,
+      "status": "归档完成",
+      "sourceSalesStatus": "在售",
+      "officialUpdatedAt": "",
+      "bytes": 882526334
+    },
+    "人保寿险": {
+      "sourceUrl": "https://www.picclife.com/picclifewebsite/webfile/productInformations/index.html",
+      "expectedCount": 302,
+      "productRecords": 302,
+      "pdfCount": 932,
+      "completeProducts": 302,
+      "status": "归档完成",
+      "sourceSalesStatus": "在售",
+      "officialUpdatedAt": "",
+      "bytes": 2003488659
+    },
+    "太平洋寿险": {
+      "sourceUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/?inSub=3&subMenu=1",
+      "expectedCount": 348,
+      "productRecords": 348,
+      "pdfCount": 1080,
+      "completeProducts": 348,
+      "status": "归档完成",
+      "sourceSalesStatus": "在办",
+      "officialUpdatedAt": "",
+      "bytes": 2538446681
+    },
+    "太平人寿": {
+      "sourceUrl": "https://life.cntaiping.com/info-zstscp/",
+      "expectedCount": 271,
+      "productRecords": 271,
+      "pdfCount": 784,
+      "completeProducts": 271,
+      "status": "归档完成",
+      "sourceSalesStatus": "在售",
+      "officialUpdatedAt": "2026-11-13",
+      "bytes": 511439101
+    },
+    "友邦人寿": {
+      "sourceUrl": "https://www.aia.com.cn/zh-cn/gongkaixinxipilou/jibenxinxi/chanpinjibenxinxi/zaishouchanpin.chanpinjibenxinxi",
+      "expectedCount": 215,
+      "productRecords": 215,
+      "pdfCount": 666,
+      "completeProducts": 215,
+      "status": "归档完成",
+      "sourceSalesStatus": "在售",
+      "officialUpdatedAt": "2026-11-06",
+      "bytes": 1072289911
+    }
+  },
+  "productRecords": 2181,
+  "pdfCount": 6501,
+  "totalBytes": 9395816361,
+  "failedMaterialCount": 0,
+  "scope": "六家公司官网在售目录及太平洋寿险在办目录"
+}
