@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:802fb70393ecee4e",
+  "actualPlanCode": "802fb70393ecee4e",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保附加护身福S终身护理保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "护理险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_2.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:802fb70393ecee4e",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/30/96514.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_2.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 557564,
+      "sha256": "949772a43fb5fa94ea52b971a8fa30e0be6e084e406f37b4a2f1dde1f7b1a230"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/30/96515.pdf?oldName=太保附加护身福S终身护理保险保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_2.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 676653,
+      "sha256": "6a75153b2520d0b9deb1a68a8eba1c0f3b65f7c5b6d867f9d79fb7838fa64f47"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/06/30/96516.pdf?oldName=太保附加护身福S终身护理保险现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_2.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 4426849,
+      "sha256": "69da4ea7e271388115cbe025b3e05bbdad8c76b63223b641bd479444d0fe4390"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2026/04/22/95351.pdf?oldName=太保附加护身福S终身护理保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_2.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 314971,
+      "sha256": "e63b0cf97ca5454c2a1300e82508067ad701cd0caa9188fcfd78225d7421df6e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

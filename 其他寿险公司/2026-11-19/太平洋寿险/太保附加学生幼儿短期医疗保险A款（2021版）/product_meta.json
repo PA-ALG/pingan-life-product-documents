@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:26fdb66ca2d60daa",
+  "actualPlanCode": "26fdb66ca2d60daa",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保附加学生幼儿短期医疗保险A款（2021版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:26fdb66ca2d60daa",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/31/80924.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 800493,
+      "sha256": "a576d33d836fbb5cfbcd2b378cf4afc18eb79b7e42f4386ac135067e4552be3e"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/05/31/80925.pdf?oldName=太保附加学生幼儿短期医疗保险A款（2021版）费率表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 299767,
+      "sha256": "49605c1cc12852ebbed4067f76dc9b51586ea60a2d42aebcc3303fafa85441ea"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/06/13/81119.pdf?oldName=太保附加学生幼儿短期医疗保险A款（2021版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_12.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 266918,
+      "sha256": "7e54c23a1525ddfbd014532ffa8944fcdaba4de3bdd188a4d4f62fcd64c4bd4e"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

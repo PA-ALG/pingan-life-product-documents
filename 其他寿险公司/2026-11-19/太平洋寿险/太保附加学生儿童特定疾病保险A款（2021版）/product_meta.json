@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:259c8f8a2addd319",
+  "actualPlanCode": "259c8f8a2addd319",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保附加学生儿童特定疾病保险A款（2021版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:259c8f8a2addd319",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2021/05/06/56160.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 531995,
+      "sha256": "46f6bd4b1109eb43b15d6723e229b7c8f5218f23d4a752102e5870aec1280917"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/06/21/72208.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 71788,
+      "sha256": "b296e0921d31318089473185374a9f3ddb6e351bf570319f6e6ecc657288e8ee"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79930.pdf?oldName=太保附加学生儿童特定疾病保险A款（2021版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_17.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 223262,
+      "sha256": "d5d1deef95e97111f36665e370358e2659abc6a041152ae5ff905bdbbcf8f97c"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

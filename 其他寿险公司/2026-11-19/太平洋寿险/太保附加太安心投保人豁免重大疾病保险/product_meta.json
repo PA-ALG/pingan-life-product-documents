@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:bbe0551db13a0e54",
+  "actualPlanCode": "bbe0551db13a0e54",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保附加太安心投保人豁免重大疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_6.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:bbe0551db13a0e54",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/89043.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_6.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 958875,
+      "sha256": "bb93637bd3ed09dd864f77272ea4601e2e9f33e0b35db44eaec9be1dd3d7c4c7"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/89044.pdf?oldName=太保附加太安心投保人豁免重大疾病保险保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_6.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 86220,
+      "sha256": "ed1978dfc2bd4e5c3c07c96202704e2e35a656d0778bca538b48c48bfe5e5176"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/89045.pdf?oldName=太保附加太安心投保人豁免重大疾病保险现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_6.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 2016785,
+      "sha256": "bfddaf9af08a2d39332286470b9e9d3e69751f16b685a9b227692035b6ad2884"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/09/08/89046.pdf?oldName=太保附加太安心投保人豁免重大疾病保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_6.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 429379,
+      "sha256": "a8a740a166e99db10758c8828405399416abac506a13ed6e9b6f6ac0d21eb87f"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

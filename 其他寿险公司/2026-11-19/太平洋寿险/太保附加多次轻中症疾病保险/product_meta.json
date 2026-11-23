@@ -1,0 +1,53 @@
+{
+  "planCode": "太平洋寿险:1a25ec19d3bd26f5",
+  "actualPlanCode": "1a25ec19d3bd26f5",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保附加多次轻中症疾病保险",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "疾病险",
+  "productLevel": "P2",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:1a25ec19d3bd26f5",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/05/91071.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 488624,
+      "sha256": "4b16d3ff5a126d32d57689726289941ca939b9b23832cef4f7629aeed6d039fd"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/05/91072.pdf?oldName=太保附加多次轻中症疾病保险保费表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 1243644,
+      "sha256": "d0282fd01fca767a4d84a511fad1dd01d0b89aea0e3cc3ddeb9c84eccd020dff"
+    },
+    {
+      "label": "现金价值表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/05/91073.pdf?oldName=太保附加多次轻中症疾病保险现金价值全表.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+      "file": "现金价值表.pdf",
+      "status": "downloaded",
+      "bytes": 5590637,
+      "sha256": "711ec9bd526eda718833c65066ac51c6cefb13bbd7f8ffd0ad65acba35052748"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2025/11/05/91074.pdf?oldName=太保附加多次轻中症疾病保险产品说明书.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_4.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 183450,
+      "sha256": "a42c6c2dd421378876fb0144703e76041546087b2811d1baffe99a28342699f7"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

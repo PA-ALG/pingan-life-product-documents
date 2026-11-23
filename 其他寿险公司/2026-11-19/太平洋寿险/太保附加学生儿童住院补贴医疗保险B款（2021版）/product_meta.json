@@ -1,0 +1,44 @@
+{
+  "planCode": "太平洋寿险:11f0abac299d5592",
+  "actualPlanCode": "11f0abac299d5592",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "太保附加学生儿童住院补贴医疗保险B款（2021版）",
+  "planSalesStatus": "在售",
+  "companyName": "太平洋寿险",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_16.shtml",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "太平洋寿险:11f0abac299d5592",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2021/05/06/56163.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_16.shtml",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 506566,
+      "sha256": "3dd74a9545bf19439ed0f1ba296844507c655f3de6a6254ebebf4731e3335b17"
+    },
+    {
+      "label": "费率表",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2023/06/21/72211.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_16.shtml",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 153088,
+      "sha256": "e6a4c607b054f75bb515d44658ac12a4e1001dcbfc0e163aba99c33c39ab33e4"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.cpic.com.cn/upload/resources/file/2024/02/27/79935.pdf?oldName=太保附加学生儿童住院补贴医疗保险B款（2021版）产品说明.pdf",
+      "sourcePageUrl": "https://www.cpic.com.cn/xrsbx/gkxxpl/jbxx/gsgk/jydbxcpmljtk/zbcp/jkx/index_16.shtml",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 238180,
+      "sha256": "0eac194b5da815c2a8469971747a1d0a775c72ae4e568ec52cce398bcbcac963"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
