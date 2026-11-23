@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:345",
+  "actualPlanCode": "345",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康附加e顺旅行意外伤害医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:345",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/1e5dfcfc-d13a-433b-8569-bfde529eb31f.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 530927,
+      "sha256": "a133773be3184760a2f58cd43debca96d90448f9f722ed3a0baef80f92a963be"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/8f0ba808-fb11-4196-b0b0-b0c3a89a31cf.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 357501,
+      "sha256": "1903ffb6406f19eb40abc668ba49163b61785a43f8baa2f1164c0b97add2a193"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/a1c88063-00f6-4e98-a001-9dddbf5881a6.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 105184,
+      "sha256": "fa6cbbcd06d7acc25840ecde03bdca2c700d743abb75dc2bdff087f3ba270fdd"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

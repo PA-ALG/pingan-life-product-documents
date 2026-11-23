@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:942",
+  "actualPlanCode": "942",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康附加拜博齿科A款医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:942",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/adf7f29d-ed16-44b7-b033-c0042c405436.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 420596,
+      "sha256": "1401e9ee5972b5e533ac5d51958ceaa828bf0703f564f430aafc0ac09454e9c1"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/b70141d0-61d8-45ac-ad00-0113f526cede.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 353891,
+      "sha256": "82930d0025d39e8c5d05b64226ca43559fcfa17ae21dc7fc4a7c86e5d70e3669"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/ec366589-530f-4d12-9305-941e3b52174a.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 119157,
+      "sha256": "2782cab0d94e086297a2ef7f6171b0e09ca0152518e175cd239cc0097d4b565f"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

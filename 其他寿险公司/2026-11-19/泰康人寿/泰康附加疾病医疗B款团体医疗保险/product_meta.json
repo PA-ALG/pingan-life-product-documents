@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:688",
+  "actualPlanCode": "688",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康附加疾病医疗B款团体医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:688",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/acc39dd6-281f-426c-acae-a46ac58f08dc.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 587428,
+      "sha256": "03ab42496a8fc8dd63ec9af18bc3073bc661dffd1720095898848d9e9a4e1ec0"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/02/23/f6f408cf-1f1c-442f-9726-b85d849e9d87.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 393686,
+      "sha256": "2166f01047be7e21faad7f9058410c65d3054b08915a26ad95537ea12449eeca"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
