@@ -1,0 +1,35 @@
+{
+  "planCode": "泰康人寿:2467",
+  "actualPlanCode": "2467",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康颐瑞2号养老年金保险（万能型）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "年金险",
+  "productLevel": "P3",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2467",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/06/30/73d94ff6-20f4-48af-a6e3-c60e366ed5b9.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 572080,
+      "sha256": "169b758f99d8544088250a07bf2a73dc6ba8c206d9ecc24d0ef839b1112834f6"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2026/06/30/405a8c8c-fefe-47b7-b53c-4da03a6b87fe.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 391149,
+      "sha256": "f9ed61049966eb60df7d7cb8af29b107b39aeffc18d11e995dec861156cf39d9"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

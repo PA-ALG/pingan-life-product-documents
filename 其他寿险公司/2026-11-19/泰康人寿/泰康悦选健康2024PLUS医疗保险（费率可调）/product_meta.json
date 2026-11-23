@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2330",
+  "actualPlanCode": "2330",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康悦选健康2024PLUS医疗保险（费率可调）",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2330",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/11/20/7d55bd77-b5b1-4bca-92fb-195ec69fdef2.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 1062794,
+      "sha256": "7fd0d9cfeb5dfc48dc9b36a9904ef5c62894173429ed1e0c5cc8346dff93e58e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/11/20/4b7d5d6d-46b6-4303-aedb-3b7a5d3fee8c.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 567432,
+      "sha256": "78c497b48c5a2572812f4bbc6f29a7c59c36248ce5e5a8d643fedb7adf92d7cf"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2024/11/20/9c0496dc-9000-49f0-bafb-0ace3e227611.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 273574,
+      "sha256": "9edb05eb824e6b3d94244b7b518cf993d8e55d3e9467d6039b7bb769ec9471d7"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}

@@ -1,0 +1,44 @@
+{
+  "planCode": "泰康人寿:2404",
+  "actualPlanCode": "2404",
+  "versionNo": "official-snapshot-2026-11-18",
+  "clauseName": "泰康医护职业暴露津贴医疗保险",
+  "planSalesStatus": "在售",
+  "companyName": "泰康人寿",
+  "insuranceCategory": "医疗险",
+  "productLevel": "P1",
+  "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+  "collectedAt": "2026-11-18",
+  "localSnapshotId": "泰康人寿:2404",
+  "sourceMaterials": [
+    {
+      "label": "产品条款",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/08/04/182f0ef4-37b8-466a-8d56-05664b5fe139.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品条款.pdf",
+      "status": "downloaded",
+      "bytes": 674351,
+      "sha256": "ea4ade9b0e13154a116deaae89d1e38fafabdd2fc8ae1c401e8320d67f83b04e"
+    },
+    {
+      "label": "产品说明书",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/08/04/bfbb0a3c-a1a9-4dd4-b446-2cce1c26209e.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "产品说明书.pdf",
+      "status": "downloaded",
+      "bytes": 439403,
+      "sha256": "edf72ba03b97b6e0b4ba14a02f19eda1247dc49855d6e466d9323f6a7fdb0863"
+    },
+    {
+      "label": "产品费率表",
+      "url": "https://www.taikanglife.com/uploader/pubProductFile/2025/08/04/cdd83ea2-a366-4426-89bd-97ff447c8bd2.pdf",
+      "sourcePageUrl": "https://www.taikanglife.com/publicinfonew/basicnew/pubproduct/commonprodinfonew/list_542_1.html",
+      "file": "费率表.pdf",
+      "status": "downloaded",
+      "bytes": 199357,
+      "sha256": "1757028ab3e406da06ae8a98f37f786525c2d6ffeaaf3b969364b3aefa60ea90"
+    }
+  ],
+  "rawOfficialRecord": null,
+  "note": "versionNo是本地采集快照标识，不是公司官方版本号。"
+}
